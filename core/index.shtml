@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<title>bulltown.2022 | core</title>
+	<!--#include virtual="/includes/head.html"-->
+</head>
+
+<body>
+	<div id="container">
+				<div id="branding">
+			<!--#include virtual="/includes/header.html"-->
+		</div>
+		<div id="page">
+			
+			<div id="core">
+			<!--#exec cgi="/bullbin/core.cgi"-->
+		</div>
+		<!--#include virtual="/includes/footer.html"-->
+		</div>
+	</div>
+</body>
+</html>

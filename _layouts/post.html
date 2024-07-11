@@ -1,0 +1,111 @@
+---
+layout: default
+---
+<article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
+
+<div style="display:flex;font-size:.75em;font-weight:400;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+		<div style="width:50%;">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+		{% endif %}
+		</div>
+		<div style="width:50%;text-align:right;">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+		{% endif %}
+		</div>
+	</div> 
+	 {% if page.title != "" %}
+	<header class="post-header">
+		<h2 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h2>
+	</header>
+	 {%- endif -%} 
+	<div class="post-content e-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+
+	<div class="post-meta" style="position:relative;top:-4px;">
+		<a class="url u-url u-uid uid bookmark" href="{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+			{{ page.date | date: date_format }}
+		</time></a>
+		{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar photo u-photo" width="24" height="24" style="display:none;" itemprop="image">
+			<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
+		</span>
+		{%- endif -%}
+	</div>
+
+
+
+
+
+
+	<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
+		<div style="width:50%;">
+			{% if page.previous.url %}
+			<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+			{% endif %}
+		</div>
+		<div style="width:50%;text-align:right;">
+			{% if page.next.url %}
+			<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+			{% endif %}
+		</div>
+	</div>  
+	<script>
+		$().ready(function(){
+			$.getJSON( "https://webmention.io/api/mentions?token=FsB55yykdPb86uiyLmMSiQ",
+			function( mydata ) {
+				console.log(mydata);
+				var output = '';
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+						output = '<div style="margin-top:18px;font-size:.9em;font-weight:600;">Reactions: </div>';
+					}
+				});
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48"></a> ';
+					}
+				});
+				output += ' ';
+				$('#result2').html(output);
+			});	
+		});
+	</script>
+	<div id="result2"></div>
+	<!--/div-->
+
+	<script>
+		$().ready(function(){
+			$.getJSON( "https://webmention.io/api/mentions?token=s8KAOZGAOYC1etQ9UNWmBQ",
+			function( mydata ) {
+				console.log(mydata);
+				var output = '';
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+						output = '<div style="margin-top:18px;font-size:.9em;font-weight:600;">Reactions: </div>';
+					}
+				});
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48"></a> ';
+					}
+				});
+				output += ' ';
+				$('#result').html(output);
+			});	
+		});
+	</script>
+	<div id="result"></div>
+
+
+
+	<a class="u-url hidden" href="{{ page.url | relative_url }}"></a>
+</article>
+<div style="margin-top:72px;">
+{%- include j_footer.html -%}	
+</div>
+
+
+		

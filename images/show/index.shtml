@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<title>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | images</title>
+	<!--#include virtual="/includes/headstuff.shtml"-->
+</head>
+
+<body>
+	<div id="container">
+				<div id="branding">
+			<!--#include virtual="/includes/header.shtml"-->
+		</div>
+		<div id="page">
+			<div class="goback">
+			<a href="/images/">&larr; back to images</a>
+			</div>
+		
+			<div id="show-image">
+			<!--#exec cgi="/bullbin/images.cgi"-->
+		</div>
+		<!--#include virtual="/includes/footer.shtml"-->
+		</div>
+	</div>
+<!--#include virtual="/includes/foot.shtml"-->
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<title>bulltown.2022 | music by joe jenett</title>
+<!--#include virtual="/includes/headstuff.shtml"-->
+<link rel="stylesheet" href="/css/vip-styles.css">
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+</head>
+<body>
+	<div id="container">
+		<div id="branding">
+			<!--#include virtual="/includes/header.shtml"-->
+		</div>
+		<div id="page" style="margin-top:24px;">
+			<div>
+			<p>
+				If you’d like to listen to the playlist continuously as you browse the site, you can simply keep this page in a separate tab<span class="mobile"> or, if your popup blocker is disabled*, you might like the alternative <a href="#" onclick="window.open('/music/player/', 'player', 'width=640, height=193, popup, noopener, resizable=0');">popup player</a></span>. 
+			</p>
+			<p>
+				<span class="mobile">*<small><a href="https://www.fontbonne.edu/wp-content/uploads/2020/12/Disable-Pop-Up-Blocker.pdf">How to Disable or Enable Your Pop-up Blocker (.pdf)</a></small></span>
+			</p>
+			</div>	
+			<div id="mobaid">
+				<p>
+					I’m still working on the mobile interface. The following alternate controls might come in handy:
+				</p>
+				<p>
+				<a href="#" onclick="play();">play</a> | <a href="#" onclick="pause();">pause</a>
+				</p>
+			</div>	
+			<div class="now-playing">currently not playing any track</div>
+			<div class="controls">
+				<i icon-name="play"></i>
+				<i icon-name="pause" class="hidden"></i>
+				<i icon-name="skip-back"></i>
+				<i icon-name="skip-forward"></i>
+				<i icon-name="shuffle"></i>
+				<i icon-name="volume-1"></i>
+				<i icon-name="volume-x" class="hidden"></i>
+				<input type="range" min="0" max="100" class="volume-slider">
+				<span class="timer">0:00 / 0:00</span>
+			</div>
+			<div class="track-list"></div>
+			<audio id="audio"></audio>
+			<div class="credits">
+				powered by <a href="https://github.com/luiderek/vip-player/">vip-player</a>, based on <a href="http://aersia.net">VIP by Cats777</a>
+			</div>		
+		</div>
+		<!--#include virtual="/includes/footer.shtml"-->	
+	</div>
+	<!--#include virtual="/includes/foot.shtml"-->
+	<script>
+		lucide.createIcons();
+	</script>
+	<script src="/js/vip-tracks.js"></script>
+	<script src="/js/vip-main.js"></script>
+</body>
+</html>

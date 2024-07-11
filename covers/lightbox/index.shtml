@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<title>bulltown.2022 | covers: lightbox view</title>
+<link href="/css/featherlight.min.css" type="text/css" rel="stylesheet" />
+<link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
+<script src="/js/jquery-1.8.3.min.js"></script>
+<script src="/js/jquery.detect_swipe.js"></script>
+<!--#include virtual="/includes/headstuff.shtml"-->
+</head>
+
+<body>
+	<div id="container">
+				<div id="branding">
+			<!--#include virtual="/includes/header.shtml"-->
+		</div>
+		<div id="page">
+			<h3>covers: lightbox view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/covers/">switch to gallery view</a>) </span></h3>
+			<div class="gallery-container">
+			<a class="gallery2" href="/covers/033199.png"><img src="/covers/thumbs/thumb_033199.jpg"></a>
+			<a class="gallery2" href="/covers/032499.png"><img src="/covers/thumbs/thumb_032499.jpg"></a>
+			<a class="gallery2" href="/covers/040199.png"><img src="/covers/thumbs/thumb_040199.jpg"></a>
+			<a class="gallery2" href="/covers/051599.png"><img src="/covers/thumbs/thumb_051599.jpg"></a>
+			<a class="gallery2" href="/covers/070399.png"><img src="/covers/thumbs/thumb_070399.jpg"></a>
+		</div>
+		<!--#include virtual="/includes/footer.shtml"-->
+		</div>
+	</div>
+	<script src="/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<script>
+		$(document).ready(function(){
+			$('.gallery2').featherlightGallery({
+				gallery2: {
+					fadeIn: 300,
+					fadeOut: 300
+				},
+				openSpeed:    300,
+				closeSpeed:   300
+			});
+		});
+	</script>
+<!--#include virtual="/includes/foot.shtml"-->
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<title>bulltown.2022 | music by joe jenett</title>
+	<link rel="stylesheet" href="/css/vip-styles.css">
+	<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+	<style>
+	body {
+		margin:0 auto;padding:0;width:350px;background-color: #29221c; overflow:hidden;
+	}
+	.mocontrol {
+		text-align:center;position:relative;top:-12px;
+	}
+	.now-playing {
+		top:-30px;
+	}
+		@media only screen and (max-width:1800px) {
+			body {
+			margin:0 auto;padding:0;width:350px;background-color: #29221c;
+		}
+		.now-playing, .controls, .track-list, .credits {
+			width:350px;
+		}
+	}
+	</style>
+</head>
+<body>
+	
+	<div class="mocontrol">
+	<p>
+		<a href="#" title="play" onclick="play();"><img src="/images/play.svg" alt="" style="width:20px;"></a>
+		<a href="#" title="pause" onclick="pause();"><img src="/images/pause.svg" alt="" style="width:20px;"></a>
+		<a href="#" title="previous track" onclick="playPreviousTrack();"><img src="/images/prev.svg" alt="" style="width:20px;"></a>
+		<a href="#" title="next track" onclick="playNextTrack();"><img src="/images/next.svg" alt="" style="width:20px;"></a>
+		<a href="#" title="shuffle" onclick="shuffle();"><img src="/images/shuffle.svg" alt="" style="width:20px;"></a>
+	</p>
+	</div>	
+	<div class="now-playing">currently not playing any track</div>
+	<div class="controls" style="top:-48px;">
+		<span id="min">
+		<i icon-name="play"></i>
+		<i icon-name="pause" class="hidden"></i>
+		<i icon-name="skip-back"></i>
+		<i icon-name="skip-forward"></i>
+		<i icon-name="shuffle"></i>
+		</span>
+		<i icon-name="volume-1"></i>
+		<i icon-name="volume-x" class="hidden"></i>
+		<input type="range" min="0" max="100" class="volume-slider">
+		<span class="timer">0:00 / 0:00</span>
+	</div>
+	<div class="track-list" style="top:-60px;font-size:1.2em;"></div>
+	<audio id="audio"></audio>
+	<div class="credits" style="top:-60px;">
+		powered by <a href="https://github.com/luiderek/vip-player/">vip-player</a>, based on <a href="http://aersia.net">VIP by Cats777</a>
+	</div>
+	<script>
+		lucide.createIcons();
+	</script>
+	<script src="/js/vip-tracks.js"></script>
+	<script src="/js/vip-main.js"></script>
+</body>
+</html>
