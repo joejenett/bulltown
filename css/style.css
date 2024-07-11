@@ -154,8 +154,8 @@ html body div#container div#page div.cactus-container div.cactus-editor div.cact
 	font-weight:500;
 	font-size:.8em;
 }
-html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button.cactus-login-button {
-	display:none;
+/*html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button.cactus-login-button {
+	display:none;*/
 }
 html body div#container div#page div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
 	font-size:.95em;
