@@ -3,7 +3,6 @@
 <script src="/js/jquery-1.8.3.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
 <script src="/js/screensaver.js" timeout="90000" message="bulltown.2022"></script>
-<link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="icon" href="/images/favicon-32.png" sizes="32x32">
 <link rel="icon" href="/images/favicon-192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/images/favicon-180.png">
@@ -19,6 +18,7 @@
 
 <link rel="profile" href="https://microformats.org/profile/specs">
 <link rel="profile" href="https://microformats.org/profile/hatom">
+<link rel="profile" href="http://gmpg.org/xfn/11">
 
 <link href="/feed.atom" rel="alternate" title="bulltown" type="application/atom+xml">
 
@@ -44,7 +44,8 @@
 <link rel="me" href="mailto:joe.jenett@jenett.org">
 
 {% if page.summary %}<meta name="description" content="{{ page.summary }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
-<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<!-- <link rel="canonical" href="{{ site.url }}{{ page.url }}"> -->
+<link rel="canonical" href="{{ site.baseurl }}{{ page.permalink }}">
 <meta property='og:site_name' content='bulltown.2022'>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:locale" content="en_US">
