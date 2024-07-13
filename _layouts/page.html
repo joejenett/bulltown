@@ -1,17 +1,15 @@
 ---
-layout: default
+layout: default-sp
 ---
 <article class="post">
-
+{%- if post.title != "" -%}
   <header class="post-header">
     <h1 class="post-title" style="margin-top:48px;">{{ page.title | escape }}</h1>
   </header>
-
+{%- endif -%}
   <div class="post-content">
     {{ content }}
   </div>
 
 </article>
-<div style="margin-top:72px;">
-{%- include j_footer.html -%}	
-</div>
+{%- include footer.html -%}	

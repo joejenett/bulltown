@@ -322,11 +322,12 @@ div#show-cover img {
 }
 div#thefall, div#reasons {
 	text-align:center;
-	margin-top:36px;}
-	div#thefall img {
-		max-width:420px;
-		max-height:315px;
-	}
+	margin:30px 0;
+}
+div#thefall img {
+	max-width:420px;
+	max-height:315px;
+}
 div#reasons img {
 	max-width:560px;
 }
