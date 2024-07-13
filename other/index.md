@@ -1,4 +1,7 @@
-	<div id="container">
+---
+layout: page
+---
+<div id="container">
 		<div id="page">
 			<!--#include virtual="/includes/header.html"-->
 			<p style="text-align:center;margin-top:100px;line-height:1.4em;">
