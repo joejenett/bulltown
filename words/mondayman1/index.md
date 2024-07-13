@@ -1,0 +1,8 @@
+<div class="goback">
+<a href="/words/">&larr; back to words</a>
+</div>
+<h2>
+monday man: day 1</h2>
+<p>What a feat it is starting a new week.&nbsp; That freedom to tip a few and stay up late and smoke too much and play with my webthing turns into a bitter pill on Monday morning.&nbsp; But here I am again, ready for anything - yeah, right.&nbsp; I can shave and brush and shower and rush like nobody's business, just makin' the train and trainin' my brain for an eight o' clock jump start.&nbsp; I did it, I made it, I am it - I am Monday Man.&nbsp; Pass the java please with an extra shot.&nbsp; I can do anything - yeah, right.</p>
+<p>[<a href="/words/mondayman2/">next</a>]</p>
+	

@@ -1,0 +1,21 @@
+<div class="goback">
+<a href="/words/">&larr; back to words</a>
+</div>
+<h2>
+	to guard its fortresses</h2>
+<p>I never understood war<br>
+what do we want that's so dear<br>
+that we will risk our people<br>
+to hold it near?<br>
+we build monuments to the power<br>
+we think we hold<br>
+and faraway neighbors beware<br>
+because you've been told<br>
+hide your babies<br>
+hide your hearts<br>
+hide your reason<br>
+and let the war start!<br>
+to give its families...<br>
+for nothing</p>
+<p>[<a href="/words/tgif">the tgif series &#0150; listing</a>]</p>
+	
