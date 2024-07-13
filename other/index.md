@@ -9,7 +9,7 @@ title:
 				<span style="font-size:.8em;">archives (b22)</span><br>
 			<br><a href="intersect/" target="_top">intersect</a><br>
 			<span style="font-size:.8em;">an experiment done in 2001 and redesigned in 2020</span><br>
-			<br><a href="/core/?seek=only_human" target="_top">it’s only human</a><br>
+			<br><a href="/bullbin/core.cgi?seek=only_human" target="_top">it’s only human</a><br>
 			<a title="contains animation" href="/core/?seek=turmoil" target="_top">turmoil</a> *<br>
 			<a href="/core/?seek=reasons" target="_top">reasons</a><br>
 			<a title="contains animation" href="/core/?seek=lucky_joe" target="_top">lucky joe</a> *<br>
