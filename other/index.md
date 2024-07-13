@@ -1,12 +1,3 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-	<meta charset="utf-8">
-	<title>bulltown.2022 | other</title>
-	<!--#include virtual="/includes/head.html"-->
-</head>
-
-<body>
 	<div id="container">
 		<div id="page">
 			<!--#include virtual="/includes/header.html"-->
@@ -25,8 +16,6 @@
 		<div style="margin-top:72px;font-size:.8em;text-align:center;">
 			* contains animation
 		</div>
-			<!--#include virtual="/includes/footer.html"-->
-		</div>
 	</div>
-</body>
-</html>
+	</div>
+	
