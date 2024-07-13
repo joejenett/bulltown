@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: bulltown.2022 | other
 ---
 <div id="container-sp">
 		<div id="page">
