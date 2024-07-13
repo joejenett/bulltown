@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-<title>bulltown.2022 | webrings</title>
-	
+
 <script>
 	function showButtons() {
 		var wall = document.getElementById("button-wall");
