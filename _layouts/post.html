@@ -19,7 +19,7 @@ layout: default
 	<header class="post-header">
 		<h2 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h2>
 	</header>
-	<div class="post-content e-content" itemprop="articleBody">
+	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
 		{{ content }}
 	</div>
 	<footer class="post-footer">
@@ -38,7 +38,7 @@ layout: default
 
 {% if page.title == "" %}
 <article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="post-content e-content" itemprop="articleBody">
+	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
 		{{ content }}
 	</div>
 	<footer class="post-footer">
