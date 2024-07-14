@@ -1,5 +1,0 @@
-033199|<div id="cover" style="background:#330033;"><img src="/covers/033199.png" alt="" /></div>
-032499|<div id="cover" style="background:#000000;"><img src="/covers/032499.png" alt="" /></div>
-040199|<div id="cover" style="background:#000000;"><img src="/covers/040199.png" alt="" /></div>
-051599|<div id="cover" style="background:#000000;width:650px:height:270px;"><img src="/covers/051599.gif" alt="" /></div>
-070399|<div id="cover" style="background:#270209;"><img src="/covers/070399.png" alt="" /></div>

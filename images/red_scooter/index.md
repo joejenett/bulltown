@@ -3,5 +3,5 @@
 <a href="/images/">&larr; back to images</a>
 </div>
 <div style="text-align:center;">
-<img style="max-width:100%;" src="/images/red_scooter.jpg" alt="">
+<a title="back to images" href="/images/"><img style="max-width:100%;" src="/images/red_scooter.jpg" alt=""></a>
 </div>
