@@ -41,13 +41,13 @@ layout: default
 	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
 		{{ content }}
 	</div>
-	<footer class="post-footer">
+	<footer class="post-footer" class="hcard-display h-card vcard p-author">
 		<p class="post-meta" style="position:relative;top:-4px;">
 			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 				{{ page.date | date: date_format }}
 			</time></a>
-			{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar photo u-photo" width="24" height="24" style="display:none;" itemprop="image">
+			{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo p-author" width="24" height="24" style="display:none;" itemprop="image">
 				<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
 			</span>
 			{%- endif -%}
