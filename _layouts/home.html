@@ -36,37 +36,37 @@ layout: default
 					</div>
 				<span style="border-bottom:1px dashed #3e5018;padding-bottom:3px;">Latest from the <a href="/archive/"><em style="font-weight:700">journal</em></a>:</span>
 			</p>
-			<div class="home h-feed">
-	<div style="margin-top:-12px;">
-		 {{ content }}
-		<div class="post-list" style="margin-bottom:48px;">
-			{% assign count = 0 %}
-			{%- for post in site.posts -%}
-			{% assign count = count | plus:1 %}
-			{% if count == 1 %}
-			{%- include postnav.html -%}
-			{% endif %}
-			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+			
+			<div class="home h-feed" style="margin-top:-12px;">
+				{{ content }}
+				<div class="post-list" style="margin-bottom:48px;">
+					{% assign count = 0 %}
+					{%- for post in site.posts -%}
+					{% assign count = count | plus:1 %}
+					{% if count == 1 %}
+					{%- include postnav.html -%}
+					{% endif %}
+					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-			<div style="margin-bottom:24px;padding-bottom:6px;margin-right:12px;">
-			{%- if post.title != "" -%}
-				<h2 class="post-title p-name" style="margin-top:18px;">{{ post.title | escape }}</h2>
-			{%- endif -%}
-				{%- if site.show_excerpts -%}
-				{{ post.excerpt }}
-				{%- endif -%}
-				<div style="position:relative;top:-4px;">
-					<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
-					&bull; <span class="post-meta p-author h-card">joe jenett
-					</span>
+					<div style="margin-bottom:24px;padding-bottom:6px;margin-right:12px;">
+						{%- if post.title != "" -%}
+						<h2 class="post-title p-name" style="margin-top:18px;">{{ post.title | escape }}</h2>
+						{%- endif -%}
+						{%- if site.show_excerpts -%}
+						{{ post.excerpt }}
+						{%- endif -%}
+						<div style="position:relative;top:-4px;">
+							<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+							&bull; <span class="post-meta p-author h-card">joe jenett
+							</span>
+						</div>
+					</div>
+					{% if count == 1 %}{% break %}
+					{% endif %}
+					{%- endfor -%}
 				</div>
 			</div>
-			{% if count == 1 %}{% break %}
-			{% endif %}
-			{%- endfor -%}
-		</div>
-	</div>
-</div>
+			
 			<div style="text-align:center;margin:0 auto 18px auto;">
 				<button id="play-gif">Play GIFs</button>
 				<button id="stop-gif">Stop GIFs</button>
