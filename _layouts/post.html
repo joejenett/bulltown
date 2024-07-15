@@ -24,7 +24,7 @@ layout: default
 	</div>
 	<footer class="post-footer" class="hcard-display h-card vcard p-author">
 		<p class="post-meta" style="position:relative;top:-4px;">
-			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 				{{ page.date | date: date_format }}
 			</time></a>
@@ -138,7 +138,7 @@ layout: default
 
 
 
-	<a class="u-url hidden" href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}"></a>
+	<a class="u-url hidden" href="{{ site.url }}{{ page.permalink }}"></a>
 </article>
 <div style="margin-top:72px;">
 {%- include j_footer.html -%}	
