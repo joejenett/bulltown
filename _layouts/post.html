@@ -24,19 +24,19 @@ layout: default
 	</div>
 	<footer class="post-footer">
 		<p class="post-meta" style="position:relative;top:-4px;">
-			<span class="hcard-display h-card vcard p-author">
-				<a class="url u-url u-uid uid bookmark hcard-header" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			<span class="h-card">
+				<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 					{{ page.date | date: date_format }}
 				</time></a>
-				{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.joejenett.com/" rel="author"><img alt="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo p-author" loading="lazy" width="24" height="24" style="vertical-align:middle;"></a>
-					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
+				{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.joejenett.com/" rel="author"><img alt="bulltown.2022" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="u-photo photo" loading="lazy" width="24" height="24" style="vertical-align:middle;"></a>
+					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 				</span>
 				{%- endif -%}
 			</p>
 		</span>
 	</footer>
-{%- endif -%}
+ {%- endif -%}
 
 {% if page.title == "" %}
 <article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
@@ -45,19 +45,19 @@ layout: default
 	</div>
 	<footer class="post-footer">
 		<p class="post-meta" style="position:relative;top:-4px;">
-			<span class="hcard-display h-card vcard p-author">
-				<a class="url u-url u-uid uid bookmark hcard-header" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			<span class="h-card">
+				<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 					{{ page.date | date: date_format }}
 				</time></a>
-				{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.joejenett.com/" rel="author"><img alt="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo p-author" loading="lazy" width="24" height="24" style="vertical-align:middle;"></a>
-					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
+				{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.joejenett.com/" rel="author"><img alt="bulltown.2022" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="u-photo photo" loading="lazy" width="24" height="24" style="vertical-align:middle;"></a>
+					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 				</span>
 				{%- endif -%}
 			</p>
 		</span>
 	</footer>
-{%- endif -%}
+ {%- endif -%}
 
 <div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
 	<div style="width:50%;">
