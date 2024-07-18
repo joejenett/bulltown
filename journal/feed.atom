@@ -3,10 +3,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text" xml:lang="en">bulltown.2022</title>
-  <link type="application/atom+xml" href="https://bulltown.2022.joejenett.com/feed.atom" rel="self"/>
-  <link type="text/html" href="https://bulltown.2022.joejenett.com/" rel="alternate"/>
+  <link type="application/atom+xml" href="https://bulltown.joejenett.com/journal/feed.atom" rel="self"/>
+  <link type="text/html" href="https://bulltown.joejenett.com/" rel="alternate"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>https://bulltown.2022.jenett.org/full_content_feed</id>
+  <id>https://bulltown.jenett.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
@@ -15,9 +15,9 @@
   {% for post in site.posts limit:1 %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="https://bulltown.2022.jenett.org/{{ post.url }}"/>
+    <link href="https://bulltown.jenett.org/{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>https://bulltown.2022.jenett.org/{{ post.url }}</id>
+    <id>https://bulltown.jenett.org/{{ post.url }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
