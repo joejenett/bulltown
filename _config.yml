@@ -33,7 +33,6 @@ plugins:
  - kramdown
 feed:
   post_limit: 1
-  
 
 markdown: kramdown
             
