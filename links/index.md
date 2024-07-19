@@ -114,7 +114,21 @@ layout: page
 			<div class="button">
 				<a title="The Possum Den" href="https://kingposs.com/"><img src="/images/possum.gif" alt="The Possum Den" width="88" height="31"></a>
 			</div>
-
+			<div class="button">
+			<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
+			</div>
+			<div class="button"> 
+			<a title="The Land of Space and Rainbows" href="https://landofspaceandrainbows.neocities.org/"><img src="/images/landof.png" alt="The Land of Space and Rainbows" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="☆ doqmeat's website ☆" href="https://doqmeat.com/"><img src="/images/doqmeat.png" alt="☆ doqmeat's website ☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
+			</div>
 			<div class="button">
 				<a title="Grounded Wren" href="https://groundedwren.com/"><img src="/images/gw-button.png" alt="Grounded Wren" width="88" height="31"></a>
 			</div>
