@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | words"</script>
 <div style="text-align:center;margin-top:100px;line-height:1.4em;">
 	<p><a href="cringed/" target="_top">adventures in poopooland: he cringed</a></p>
 	<a href="/words/scattered/" target="_top">scattered soul</a><br>

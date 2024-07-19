@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | other"</script>
 <p style="text-align:center;margin-top:100px;line-height:1.4em;">
 	<a href="ephemeral/" target="_top">bulltown ephemeral communicator</a><br>
 	<span style="font-size:.8em;">archives (b22)</span><br>

@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | music"</script>
 <p>
 	If you’d like to listen to the playlist continuously as you browse the site, simply keep this page in a separate tab or window.<span class="mobile"> If your popup blocker is disabled*, you might like the alternative <a href="#" onclick="window.open('/music/player/', 'player', 'width=350, height=250, popup, noopener');">popup player</a>.</span> 
 </p>
