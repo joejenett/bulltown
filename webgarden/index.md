@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | webgarden"</script>
 <style>
 iframe {
 	position:relative;
@@ -46,6 +47,8 @@ iframe {
 <div style="padding-left:28px;">
 <iframe src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
+<iframe src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:none;"></iframe>
+<iframe src="https://neonaut.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy"></iframe>
 <iframe src="https://shroom.ink/webgarden.html" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #004754;"></iframe>
 <iframe src="https://linwood.neocities.org/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #ee9de9;"></iframe>
 <a href="https://keysklubhouse.neocities.org/webgarden.html"><iframe src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange"></iframe></a>
