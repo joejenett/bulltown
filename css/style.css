@@ -16,6 +16,14 @@ max-width:88px;
 margin:3px;
 float:left;
 }
+.gotalk {
+	border-radius:4px;
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+	background-color:#fff;
+	padding:1px;
+	max-height:24.5px;
+	vertical-align:middle;
+}
 #bfixer {
 	width:90%;
 	display:block;
