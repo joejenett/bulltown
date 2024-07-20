@@ -430,7 +430,7 @@ div#reasons img {
 	body {
 		font-size:18px;
 	}
-	#gotalk {
+	.gotalk {
 		max-height:23px;
 	}
 	/*#container {
