@@ -1,40 +1,52 @@
 ---
 layout: default
 ---
-			<div id="homecover" style=""><a title="other covers" href="https://bulltown.2022.joejenett.com/covers/"><img class="freezeframe" src="/images/051599.gif" alt="other covers" width="278" height="100"></a>
+<style>
+#my-channel {
+	display:none;
+}
+</style>
+<div id="homecover" style=""><a title="other covers" href="https://bulltown.2022.joejenett.com/covers/"><img class="freezeframe" src="/images/051599.gif" alt="other covers" width="278" height="100"></a>
 			</div>
 			<!--
 				<div style="margin:0;border-top:1px dashed #7f676c;border-bottom:1px dashed #7f676c;text-align:center;color:#440303;font-size:1.4em;font-weight:600;padding-bottom:2px;">Happy New Year!
 				</div>
 			-->
-			<div style="position:relative;float:right;margin:4px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;">
-				<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>
-				<div style="font-size:.8em;">
-					<p>
-						
-						<a href="/#commento"><em>comments</em></a>
-					</p>
 
+				<div style="position:relative;float:right;margin:4px 14px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;">
+				<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>
+				<div id="toggler" style="padding:0;margin-top:16px;height:30px;border:none;text-align:center;">
+					<button title="toggle the walkie-talkie" onclick="gotalk()" style="border-radius:4px;box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;background-color:#fff;"><img src="/images/walkietalkie.png" alt="" width="104px;"></button> <br><span style="font-size:.75em;position:relative;top:8px;">click button 2x to start<br><a href="https://iwebthings.joejenett.com/a-cool-walkie-talkie-for-the-web/">info</a> | <a href="https://overtalk.io/privacy">privacy</a></span>
 				</div>
+				<div id="my-channel" style="position:fixed;top:14px;right:230px;text-align:center;padding:12px 24px 6px 24px;z-index:1000;">
+					<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
+				</div>
+
+				<!--
+					<div style="font-size:.8em;">
+						<p>
+							<a href="/#commento"><em>comments</em></a>
+						</p>
+					</div>
+				-->
 			</div>
 			<p style="line-height:1.2em;font-size:1em;">
 				Welcome to <span style="font-weight:600;">bulltown.<small>2022</small></span>, a remix of words and images, circa 1997-2004 plus other works <span style="font-size:.9em;font-style:italic;">(old and new)</span> of the same spirit.
 			</p>
-			<noscript>
-				<p>
-					Please enable JavaScript for full functionality.
-				</p>	
-			</noscript>
+			<p style="font-size:.85em;">
+				Some features work best with JavaScript enabled.
+			</p>
+			
 			
 				<div class="announce">
 					<iframe src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
 				</div>
-			
+			<!--
 			<p style="font-weight:500;font-size:1em;margin-top:-14px;">
 				<div style="position:relative;float:right;font-size:.85em;text-align:right;margin:-18px 16px 0 0;">
 						Some features work best with JavaScript enabled.
 					</div>
-					
+					-->
 					<span style="border-bottom:1px dashed #3e5018;padding-bottom:3px;">Latest from the <a href="/archive/"><em style="font-weight:700">journal</em></a>: &nbsp; </span><a title="full content atom feed" href="https://bulltown.joejenett.com/feed.atom"><img src="/images/rss.png" alt="full content atom feed" style="max-width:14px;margin:4px;vertical-align:middle;"></a><a title="bulltown at github" href="https://github.com/joejenett/bulltown"><img src="/images/github.png" alt="bulltown at github" style="max-width:18px;margin:4px;vertical-align:middle;"></a>
 			</p>
 			
@@ -211,7 +223,16 @@ layout: default
 		
 
 	
-
+	<script>
+		function gotalk() {
+  var x = document.getElementById("my-channel");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+} 
+	</script>
 <script src="/js/freezeframe.min.js"></script>
 		{%- include footer.html -%}	
 				</div>
