@@ -686,7 +686,7 @@ layout: page
 				<a title="The Neocreatives Webring" href="https://neocreatives.neocities.org/"><img src="/images/neocreatives.gif" alt="The Neocreatives Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="macchiato" href="https://macchiato.neocities.org/"><img src="/images/macchiato.png" alt="macchiato" width="88" height="31"></a>
+				<a title="macchiato" href="https://macchiato.coffee/"><img src="/images/macchiato.png" alt="macchiato" width="88" height="31"></a>
 			</div>
 
 			<div class="button">
