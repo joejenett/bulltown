@@ -971,7 +971,7 @@ layout: page
 				<a title="EGGRAMEN" href="https://eggramen.neocities.org/main"><img src="/images/eggramen.png" alt="EGGRAMEN" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Mt. Moonview" href="https://moonview.neocities.org/"><img src="/images/noagarden.gif" alt="Mt. Moonview" width="88" height="31"></a>
+				<a title="Mt. Moonview" href="https://nowa.garden/"><img src="/images/noagarden.gif" alt="Mt. Moonview" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Karithina" href="https://4o4.au/"><img src="/images/knh-88x31.gif" alt="Karithina" width="88" height="31"></a>
