@@ -877,10 +877,7 @@ layout: page
 			<div class="button">
 				<a title="Perfect Duel" href="https://geocities.ws/perfectduelweb/"><img src="/images/pd.jpg" alt="Perfect Duel" width="88" height="31"></a>
 			</div>
-			<div class="button">
-				<a title="pleurodelinae" href="https://pleurodelinae.neocities.org/"><img src="/images/pleurodelinae.png" alt="pleurodelinae" width="88" height="31"></a>
-			</div>
-
+			
 			<div class="button">
 				<a title="versary.town" href="https://versary.town/"><img src="/images/versarytown.png" alt="versary.town" width="88" height="31"></a>
 			</div>
