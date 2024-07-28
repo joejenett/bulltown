@@ -144,7 +144,24 @@ layout: page
 			<div class="button">
 				<a title="Welcome to the Astertrails" href="https://vidapon.net/"><img src="/images/astertrail.gif" alt="Welcome to the Astertrails" width="88" height="31"></a>
 			</div>
-						
+			<div class="button">
+			<a title="puxped's station" href="https://pux.nehukon.de/"><img src="/images/puxped.png" alt="puxped's station" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="nekoweb" href="https://nekoweb.org/"><img src="/images/nekoweb.gif" alt="nekoweb" width="88" height="31"></a>
+			</div>=
+			<div class="button">
+			<a title="garbage magic" href="https://melps.neocities.org/"><img src="/images/melps.jpg" alt="garbage magic" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="seafare ♡" href="https://seafare.neocities.org/"><img src="/images/seafare.png" alt="seafare ♡" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="dotdotdot" href="https://cloudy.blue/"><img src="/images/cloudyblue.png" alt="dotdotdot" width="88" height="31"></a>
+			</div>
 			<div class="button">
 				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
 			</div>
