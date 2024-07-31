@@ -365,11 +365,7 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Bruh, Ltd" href="https://www.bruh.ltd/"><img src="/images/bruh-ltd.png" alt="Bruh, Ltd" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="skelegorg" href="https://skeleg.org/"><img src="/images/skelegorg.gif" alt="skelegorg" width="88" height="31"></a>
-			</div>
-						
+			</div>			
 			<div class="button">
 				<a title="lovesick !!!" href="https://lovesick.cafe/"><img src="/images/lovesick.png" alt="lovesick !!!" width="88" height="31"></a>
 			</div>
