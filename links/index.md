@@ -657,7 +657,6 @@ layout: page
 			<div class="button">
 				<a title="Robb Knight" href="https://rknight.me/"><img src="/images/robbknight.gif" alt="Robb Knight" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="Screaming Egg!" href="https://screamingegg.neocities.org/"><img src="/images/screamingegg.png" alt="Screaming Egg!" width="88" height="31"></a>
 			</div>
@@ -673,7 +672,6 @@ layout: page
 			<div class="button">
 				<a title="Melvian’s Little Corner" href="https://melvian.xyz/"><img src="/images/melvian.png" alt="Melvian’s Little Corner" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="artwork" href="https://artwork.neocities.org/"><img src="/images/artwork.gif" alt="artwork" width="88" height="31"></a>
 			</div>
@@ -689,7 +687,6 @@ layout: page
 			<div class="button">
 				<a title="divergent rays" href="https://divergentrays.com/"><img src="/images/divergent.gif" alt="divergent rays" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="lost letters" href="https://lostletters.neocities.org/"><img src="/images/lostletters.gif" alt="lost letters" width="88" height="31"></a>
 			</div>
@@ -705,7 +702,6 @@ layout: page
 			<div class="button">
 				<a title="macchiato" href="https://macchiato.coffee/"><img src="/images/macchiato.png" alt="macchiato" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="The Queer Coded Webring" href="https://isaacfish.neocities.org/webring/"><img src="/images/queercoded.png" alt="The Queer Coded Webring" width="88" height="31"></a>
 			</div>
@@ -721,7 +717,6 @@ layout: page
 			<div class="button">
 				<a title="redcrown" href="https://redcrown.net/"><img src="/images/redcrown.png" alt="redcrown" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="Astra's Observatory" href="https://astralobservatory.neocities.org/"><img src="/images/astra.gif" alt="Astra's Observatory" width="88" height="31"></a>
 			</div>
@@ -737,7 +732,6 @@ layout: page
 			<div class="button">
 				<a title="denpa" href="https://denpa.neocities.org/"><img src="/images/denpa.gif" alt="denpa" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
 				<a title="wyvy" href="https://wyvy.net/"><img src="/images/wyvy.png" alt="wyvy" width="88" height="31"></a>
 			</div>
@@ -753,12 +747,26 @@ layout: page
 			<div class="button">
 				<a title="lazybones" href="https://lazybones.neocities.org/"><img src="/images/lazybones.png" alt="lazybones" width="88" height="31"></a>
 			</div>
-
 			<div class="button">
-				<a title="Auzzie Jay In The Digital World" href="https://auzziejay.com/"><img src="/images/auzzie1.gif" alt="Auzzie Jay In The Digital World" width="88" height="31"></a>
+			<a title="Scary-Crayon!" href="https://www.scary-crayon.com/"><img src="/images/scary.gif" alt="Scary-Crayon!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="SoftAnnaLee’s Random Memory Access" href="https://softannalee.neocities.org/"><img src="/images/softannalee.gif" alt="SoftAnnaLee’s Random Memory Access" width="88" height="31"></a>
+			<a title="Sam's Webbed Site" href="https://squidcrusher.nekoweb.org/"><img src="/images/squidcrusher.gif" alt="Sam's Webbed Site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="MoveImBadger" href="https://moveimbadger.com/"><img src="/images/moveimbadger.jpg" alt="MoveImBadger" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="Tangerine Tree" href="https://plumbum.neocities.org/"><img src="/images/tangerinetree.png" alt="Tangerine Tree" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="solar(pop)punk" href="https://solarpoppunk.neocities.org/"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="ur the cutest forreal" href="https://brattiest.neocities.org/"><img src="/images/brattiest.gif" alt="ur the cutest forreal" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Auzzie Jay In The Digital World" href="https://auzziejay.com/"><img src="/images/auzzie1.gif" alt="Auzzie Jay In The Digital World" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="InvisibleUp" href="https://invisibleup.com/"><img src="/images/invup.gif" alt="InvisibleUp" width="88"></a>
