@@ -68,7 +68,7 @@ layout: page
 </script>
 -->
 <div id="miscri2" style="font-size:.85em;margin-top:1.5em;">
-(soon to be removed)
+(soon to be removed)<br>
 <a href='https://miscri.netlify.app/webring?action=home'>~misc-ring~</a>
 </div>
 
