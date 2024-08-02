@@ -67,10 +67,14 @@ layout: page
 	}
 </script>
 -->
-<div id="miscri2" style="font-size:.85em;margin-top:1.5em;">
-(soon to be removed)<br>
-<a href='https://miscri.netlify.app/webring?action=home'>~misc-ring~</a>
-</div>
+			   <div id="miscri2" style="font-size:.85em;margin-top:1.5em;">
+			<!--	    <a href='https://miscri.netlify.app/webring?action=prev'> ← </a>
+				    <a href='https://miscri.netlify.app/webring?action=home'>~misc-ring~</a>
+				    <a href='https://miscri.netlify.app/webring?action=rand'> ?</a>
+				    <a href='https://miscri.netlify.app/webring?action=next'> → </a> -->
+					(ring appears broken 08/02/24)
+				</div>
+
 
 <div style="text-align:center;margin-top:1.5em;/*position:relative;left:-8px;*/">
 <details>
