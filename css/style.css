@@ -24,13 +24,13 @@ float:left;
 	max-height:24.5px;
 	vertical-align:middle;
 }
-#play-gif, #stop-gif {
+/*#play-gif, #stop-gif {
 	font-size:.85em;
 	background:#fff9e6;
 	border:1px solid #666;
-	box-shadow: 0px 0px 3px 0px #6c5d55ff;
+	box-shadow: 0px 0px 3px 0px #6c5d55ff;*/
 	border-radius:3px;
-}
+}*/
 #bfixer {
 	width:90%;
 	display:block;
