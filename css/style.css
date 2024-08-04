@@ -144,6 +144,9 @@ p {
 	justify-content: center;
 	height:260px;
 }
+#cover img {
+	width:278px;
+}
 #cover a:hover {
 	background:none;
 }
@@ -528,7 +531,7 @@ div#reasons img {
 		height:200px;
 	}
 	#cover img {
-		max-width:60%;
+		/*max-width:60%;*/
 	}
 	div#thefall img, div#reasons img {
 		max-width:100%;
