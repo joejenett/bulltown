@@ -72,7 +72,7 @@ layout: page
 				    <a href='https://miscri.netlify.app/webring?action=home'>~misc-ring~</a>
 				    <a href='https://miscri.netlify.app/webring?action=rand'> ?</a>
 				    <a href='https://miscri.netlify.app/webring?action=next'> → </a> -->
-					(<a href="https://miscri.netlify.app">‘misc~2~’</a> ring not working 08/02/24)
+					(URL change pending for <a href="https://miscri.netlify.app">‘misc~2~’</a> webring)
 				</div>
 
 
