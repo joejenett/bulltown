@@ -372,8 +372,8 @@ div#reasons img {
 	border:2px solid maroon;	
 }
 #turmoil img {
+	width:480px;
 	height:360px; 
-	width:240px;
 }
 #human-container {
 	background:#fecc99;
