@@ -12,6 +12,7 @@ layout: page
 		<span style="font-size:.8em;">an experiment done in 2001 and redesigned in 2020</span>
 	</p>
 	<p>
+		<span style="font-size:.8em;">↻</span> <a title="recent remake - animation" href="pride/" target="_top">pride</a> <span style="font-size:.8em;">✴︎</span> <br>
 		<span style="font-size:.8em;">↻</span> <a title="recent remake - animation" href="070499/" target="_top">070499</a> <span style="font-size:.8em;">✴︎</span> <br>
 		<span style="font-size:.8em;">↻ </span><a title="recent remake - animation" href="turmoil/" target="_top">turmoil</a> <span style="font-size:.8em;">✴︎</span> <br>
 		<a href="only-human/" target="_top">it’s only human</a><br>
