@@ -63,13 +63,13 @@ float:left;
 	width:100%;
 }
 h1 {
-	font-size:1.6rem;
-}
-h2 {
 	font-size:1.4rem;
 }
-h3 {
+h2 {
 	font-size:1.2rem;
+}
+h3 {
+	font-size:1.15rem;
 	
 }
 .spfloat {
