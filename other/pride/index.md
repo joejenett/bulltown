@@ -11,6 +11,7 @@ layout: page
 }
 .row { 
 	display:block;
+	text-align:center;
 	background:#000000;
 	width:250px;
 	margin:auto;
@@ -21,6 +22,11 @@ layout: page
 }
 img {
 	margin:0;
+}
+@media only screen and (max-width:479px) {
+	.table {
+	padding:0;	
+	}
 }
 </style>
 
