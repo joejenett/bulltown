@@ -5,4 +5,9 @@
 .obsidian/core-plugins-migration.json
 .obsidian/core-plugins.json
 .obsidian/workspace.json
+<<<<<<< Updated upstream
 core/turmoil-old.gif
+=======
+Gemfile.lock
+>>>>>>> Stashed changes
+Gemfile.lock
