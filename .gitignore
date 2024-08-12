@@ -1,4 +1,3 @@
-
 .DS_Store
 .obsidian/app.json
 .obsidian/appearance.json
@@ -7,3 +6,9 @@
 .obsidian/workspace.json
 core/turmoil-old.gif
 core/turmoil-0.gif
+=======
+=======
+Gemfile.lock
+>>>>>>> Stashed changes
+Gemfile.lock
+>>>>>>> 70112d38f8370196fe57f35d88a75c89a7c36eb6
