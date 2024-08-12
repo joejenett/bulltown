@@ -21,7 +21,7 @@
 <script src="/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
 <script>
 	$(document).ready(function(){
-		$('.gallery').featherlightGallery({
+		$('.gallery3').featherlightGallery({
 			gallery: {
 				fadeIn: 300,
 				fadeOut: 300
