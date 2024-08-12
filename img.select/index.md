@@ -20,7 +20,8 @@ layout: page
 
 {% include image-gallery.html folder="/images.select/" %}
 
-
+<script src="/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
 <script>
 	$(document).ready(function(){
 		$('.gallery').featherlightGallery({
