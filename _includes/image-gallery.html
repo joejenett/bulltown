@@ -20,7 +20,7 @@
 		{% assign filename = filenameparts | last | replace: file.extname,"" %}
 		
 		<li>
-		<a class="gallery2" href="{{ file.path | relative_url }}" title="{{ filename }}">
+		<a class="gallery3" href="{{ file.path | relative_url }}" title="{{ filename }}">
 			<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=200&h=200&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>
 		</li>
 		{% endif %}
