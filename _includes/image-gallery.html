@@ -6,7 +6,7 @@
     .image-gallery li a img {width: 100%; display: block;}
 </style>
 
-<h3>photo-old lightbox</h3>
+<h3>img.select lightbox</h3>
 <p style="margin-top:-12px;font-size:.85em;">Works best with JavaScript enabled.</p>
 
 <ul class="image-gallery">
@@ -20,7 +20,7 @@
 		{% assign filename = filenameparts | last | replace: file.extname,"" %}
 		
 		<li>
-		<a href="{{ file.path | relative_url }}" title="{{ filename }}">
+		<a class="gallery2" href="{{ file.path | relative_url }}" title="{{ filename }}">
 			<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=200&h=200&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a>
 		</li>
 		{% endif %}
