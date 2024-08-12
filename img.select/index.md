@@ -18,4 +18,4 @@ layout: page
 	</noscript>
 
 
-{% include image-gallery.html folder="/images.select/album" %}
+{% include image-gallery.html folder="/images.select/" %}
