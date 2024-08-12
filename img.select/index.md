@@ -1,6 +1,3 @@
----
-layout: page
----
 <link href="/css/featherlight.min.css" type="text/css" rel="stylesheet" />
 <link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
 <script src="/js/jquery-3.6.0.min.js"></script>
