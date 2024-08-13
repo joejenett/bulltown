@@ -66,6 +66,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:80px;clear:both;">appreciated
 			</div>
 			<div class="button">
+			<a title="Jekyll Codex" href="https://jekyllcodex.org/"><img src="/images/codex.png" alt="Jekyll Codex" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Directory | BUKMARK.CLUB" href="https://bukmark.club/directory/"><img src="/images/bukmark-mbr.png" alt="Directory | BUKMARK.CLUB" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -94,6 +97,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="freezeframe.js" href="https://github.com/ctrl-freaks/freezeframe.js/"><img src="/images/freezeframe.png" alt="freezeframe.js" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="wsrv.nl" href="https://images.weserv.nl/"><img src="/images/wsrv.png" alt="wsrv.nl" width="88" height="31"></a>
 			</div>
 					
 			<div id="buttsep">
