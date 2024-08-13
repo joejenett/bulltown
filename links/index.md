@@ -163,7 +163,7 @@ layout: page
 				<a title="zvava.org" href="https://zvava.org/"><img src="/images/zvava.png" alt="zvava.org" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="New Digital Era" href="https://newdigitalera.org/"><img src="/images/newdigitalera.gif" alt="New Digital Era" width="88" height="31"></a>
+				<a title="New Digital Era" href="https://newdigitalera.org/"><img src="/images/newdigitalera.png" alt="New Digital Era" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="My Blace" href="https://myblace.one/"><img src="/images/myblaceanim.gif" alt="My Blace" width="88" height="31"></a>
