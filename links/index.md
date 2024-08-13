@@ -133,6 +133,9 @@ layout: page
 			<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/blog/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
+			</div>
+			<div class="button">
 			<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -155,6 +158,24 @@ layout: page
 			</div>
 			<div class="button">
 			<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="zvava.org" href="https://zvava.org/"><img src="/images/zvava.png" alt="zvava.org" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="New Digital Era" href="https://newdigitalera.org/"><img src="/images/newdigitalera.gif" alt="New Digital Era" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="My Blace" href="https://myblace.one/"><img src="/images/myblaceanim.gif" alt="My Blace" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Offline Magazine" href="https://offlinemagazine.neocities.org/"><img src="/images/offlinemagazine.png" alt="Offline Magazine" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Aurora Viel" href="https://auroraveil.org/"><img src="/images/auroraveil.png" alt="Aurora Viel" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Vizune.com" href="https://vizune.com/"><img src="/images/vizune.png" alt="Vizune.com" width="88" height="31"></a>
 			</div>
 			<div class="button">
 			<a title="nekoweb" href="https://nekoweb.org/"><img src="/images/nekoweb.gif" alt="nekoweb" width="88" height="31"></a>
@@ -275,11 +296,7 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="ζοιδ" href="https://www.zoidart.xyz/"><img src="/images/zoidart.gif" alt="ζοιδ" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/blog/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
-			</div>
-						
+			</div>						
 			<div class="button">
 				<a title="Sugar for BRAINS" href="https://sugarforbrains.neocities.org/"><img src="/images/sugar.gif" alt="Sugar for BRAINS" width="88" height="31"></a>
 			</div>
