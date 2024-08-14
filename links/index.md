@@ -887,9 +887,6 @@ layout: page
 				<a title="cementgarden" href="https://cementgarden.neocities.org/"><img src="/images/cementgarden.gif" alt="cementgarden" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="It's Not Stupid, It's Advanced! - An Invader Zim fansite!" href="https://itsnotstupid.com/"><img src="/images/itsnotstupid.gif" alt="It's Not Stupid, It's Advanced! - An Invader Zim fansite!" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="\\ reon" href="https://reon.neocities.org/"><img src="/images/reon.png" alt="\\ reon" width="88" height="31"></a>
 			</div>
 
