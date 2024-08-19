@@ -365,9 +365,6 @@ layout: page
 				<a title="laika’s lonely planet" href="https://voyager.neocities.org/"><img src="/images/laika.jpg" alt="laika’s lonely planet" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="SIX_EYES" href="https://sixey.es/"><img src="/images/sixeyes.gif" alt="SIX_EYES" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="world of randal and his friends" href="https://ranfren.neocities.org/"><img src="/images/ranfren.gif" alt="world of randal and his friends" width="88" height="31"></a>
 			</div>
 			<div class="button">
