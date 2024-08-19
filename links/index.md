@@ -204,7 +204,12 @@ layout: page
 			<div class="button">
 				<a title="on the verge of something" href="https://myrrh.city/"><img src="/images/myrrh.png" alt="on the verge of something" width="88" height="31"></a>
 			</div>
-
+			<div class="button">
+			<a title="JEFBECKER" href="https://jefbecker.com/"><img src="/images/jefbecker.png" alt="JEFBECKER" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="haystack blog and oddities" href="https://thatoddhaystack.neocities.org/"><img src="/images/thatoddhaystack.png" alt="haystack blog and oddities" width="88" height="31"></a>
+			</div>
 			<div class="button">
 				<a title="Dabric" href="https://dabric.xyz/"><img src="/images/dabric.png" alt="Dabric" width="88" height="31"></a>
 			</div>
