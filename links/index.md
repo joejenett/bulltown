@@ -854,6 +854,18 @@ layout: page
 				<a title="metal valley" href="https://metalvalley.neocities.org/"><img src="/images/valleybutton.png" alt="metal valley" width="88"></a>
 			</div>
 			<div class="button">
+				<a title="hauntedgraffiti" href="https://hauntedgraffiti.net/"><img src="/images/hauntedgraffiti.png" alt="hauntedgraffiti" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Em Reed" href="https://emreed.net/"><img src="/images/emreed.png" alt="Em Reed" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Trans Rats!" href="https://transrats.neocities.org/"><img src="/images/transrats.gif" alt="Trans Rats!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pcandmore.net" href="https://pcandmore.net/"><img src="/images/pcandmore.gif" alt="pcandmore.net" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Frisout's Corner" href="https://frisout.neocities.org/"><img src="/images/frisout.gif" alt="Frisout's Corner" width="88" height="31"></a>
 			</div>
 			<div class="button">
