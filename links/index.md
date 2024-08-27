@@ -851,9 +851,6 @@ layout: page
 				<a title="pastelhello" href="https://pastelhello.com/"><img src="/images/pastelhell.gif" alt="pastelhello" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe2.gif" alt="[tfpXE]" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="metal valley" href="https://metalvalley.neocities.org/"><img src="/images/valleybutton.png" alt="metal valley" width="88"></a>
 			</div>
 			<div class="button">
