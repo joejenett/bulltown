@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<div style="padding-right:18px;margin-top:36px;">
+	<label for="search-input" style="display:none;">search</label>
+	<input type="text" id="search-input" placeholder="search the journal">
+	<br>
+	<div id="results-container"></div>
+</div>
 
 <div style="display:flex;font-size:.75em;font-weight:400;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 	<div style="width:50%;">
@@ -147,5 +153,17 @@ layout: default
 <div style="margin-top:72px;">
 {%- include j_footer.html -%}	
 </div>
-
+	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+	<script>
+		SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+			noResultsText: 'No results found',
+			limit: 50,
+			fuzzy: false,
+			exclude: ['Welcome']
+		})
+	</script>
 		

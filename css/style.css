@@ -16,6 +16,23 @@ max-width:88px;
 margin:3px;
 float:left;
 }
+#search-input {
+	max-width:100%;
+	padding:4px 9px;
+	border: 1px solid #a3b8cc;
+	border-radius:8px;
+	background-color:#fff9e6;
+	margin-bottom:1px;
+	margin-left:2px;
+	font-size:1em;
+}
+#results-container {
+	padding:12px 0;
+	margin-bottom:12px 0;
+}
+#results-container li {
+	list-style:none;
+}
 .gotalk {
 	border-radius:4px;
 	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;

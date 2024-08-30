@@ -31,7 +31,14 @@ layout: default
 <img class="freezeframe" src="/images/070499_2.gif" height=18><img class="freezeframe" src="/images/070499_3.gif" height=18><img class="freezeframe" src="/images/070499_4.gif" height=18><img class="freezeframe" src="/images/070499_1.gif" height=18>
 			</div>
 		-->
+				<div style="padding-right:18px;">
+					<label for="search-input" style="display:none;">search</label>
+					<input type="text" id="search-input" placeholder="search the journal">
+					<br>
+					<div id="results-container"></div>
+				</div>
 					<p style="margin-top:-6px;margin-bottom:-6px;">
+						
 					<span style="border-bottom:1px dashed #3e5018;padding-bottom:3px;">Latest from the <a href="/archive/"><em style="font-weight:700">journal</em></a>: &nbsp; </span><a title="full content atom feed" href="https://bulltown.joejenett.com/feed.atom"><img src="/images/rss.png" alt="full content atom feed" style="max-width:14px;margin:4px;vertical-align:middle;"></a><a title="bulltown at github" href="https://github.com/joejenett/bulltown"><img src="/images/github.png" alt="bulltown at github" style="max-width:18px;margin:4px;vertical-align:middle;"></a>
 			</p>
 			
@@ -212,3 +219,16 @@ layout: default
 -->
 		{%- include footer.html -%}	
 				</div>
+					<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+	<script>
+		SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+			noResultsText: 'No results found',
+			limit: 50,
+			fuzzy: false,
+			exclude: ['Welcome']
+		})
+	</script>
