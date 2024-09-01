@@ -101,9 +101,9 @@ layout: page
 					
 			<div id="buttsep">
 			</div>
-			<!--w-->					
+<!--w-->					
 			<div class="button">
-				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="i.webthings linkylove" width="88" height="31"></a>
+				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Hey! It's R.K. Smith!" href="https://heyitsrksmith.com/"><img src="/images/rksmith.gif" alt="Hey! It's R.K. Smith!" width="88" height="31"></a>
@@ -116,6 +116,12 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="The Possum Den" href="https://kingposs.com/"><img src="/images/possum.gif" alt="The Possum Den" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Rubber Garage" href="https://rubbergarage.neocities.org/"><img src="/images/rubbergarbage.gif" alt="Rubber Garage" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
 			</div>
 			<div class="button">
 			<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
@@ -348,8 +354,16 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="cadence now!" href="https://cadence.moe"><img src="/images/cadence_now.png" alt="The text &quot;cadence now!&quot; on a purple background. There is a moon-shaped logo on the left side and a tiny star in the bottom right." width="88" height="31"></a>
+			</div>	
+			<div class="button">
+			<a title="triPixel" href="https://tripixel.neocities.org/"><img src="/images/tripixel.png" alt="triPixel" width="88" height="31"></a>
 			</div>
-					
+			<div class="button">
+			<a title="/home/bbence" href="https://bbence.me/"><img src="/images/bbence.gif" alt="/home/bbence" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="slimysomething" href="https://slimysomething.neocities.org/"><img src="/images/slimysomething.gif" alt="slimysomething" width="88" height="31"></a>
+			</div>
 			<div class="button">
 				<a title="BLOODTYPEOH" href="https://bloodtypeoh.net/"><img src="/images/bloodtypeoh.gif" alt="BLOODTYPEOH" width="88" height="31"></a>
 			</div>
@@ -360,12 +374,8 @@ layout: page
 				<a title="vexcharm" href="https://vexcharm.net/"><img src="/images/vexcharm.gif" alt="vexcharm" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="【 S I N E W A V E 】" href="https://sinewave.cyou/"><img src="/images/sinewave.gif" alt="【 S I N E W A V E 】" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="aster's asterisms!" href="https://asters-asterisms.neocities.org/"><img src="/images/asters-asterisms.gif" alt="aster's asterisms!" width="88" height="31"></a>
-			</div>
-						
+			</div>						
 			<div class="button">
 				<a title="laika’s lonely planet" href="https://voyager.neocities.org/"><img src="/images/laika.jpg" alt="laika’s lonely planet" width="88" height="31"></a>
 			</div>
