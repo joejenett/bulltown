@@ -318,13 +318,37 @@ layout: page
 				<a title="Sugar for BRAINS" href="https://sugarforbrains.neocities.org/"><img src="/images/sugar.gif" alt="Sugar for BRAINS" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="KASPERSPACE" href="https://kasperspace.nekoweb.org/"><img src="/images/kasperspace.png" alt="KASPERSPACE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="frog.net!!" href="https://frognet.neocities.org/"><img src="/images/frognet.gif" alt="frog.net!!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="腐 Fujofans Fanlisting" href="ttps://fujofans.scumsuck.com/"><img src="/images/fujofans.png" alt="腐 Fujofans Fanlisting" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="birdwrongs" href="https://birdwrongs.sh/"><img src="/images/birdwrongs.png" alt="birdwrongs" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="hellomei" href="https://www.hellomei.dev/"><img src="/images/hellomei.gif" alt="" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="makoenergy‧₊˚✧" href="https://makoenergy.neocities.org/"><img src="/images/mako.gif" alt="makoenergy‧₊˚✧" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="steady as the stars" href="https://vulpecula.neocities.org/"><img src="/images/vulp.gif" alt="steady as the stars" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Radio Lights" href="https://radiolights.neocities.org/"><img src="/images/radiolights.gif" alt="Radio Lights" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="DazzlingGleam" href="https://dazzlinggleam.space/"><img src="/images/dazzlinggleam.png" alt="DazzlingGleam" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="mausoleum.me" href="https://mausoleum.me/"><img src="/images/mausoleum.gif" alt="mausoleum.me" width="88" height="31"></a>
+				<a title="netizen club" href="https://netizen.club/"><img src="/images/netizen-club.png" alt="netizen club" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="netizen club" href="https://netizen.club/"><img src="/images/netizen-club.png" alt="netizen club" width="88" height="31"></a>
+				<a title="Spycicl" href="https://spycicl.neocities.org/"><img src="/images/spycicl.gif" alt="Spycicl" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="WHiMSiCAL!" href="http://whimsical.heartette.net/"><img src="/images/whimsical.gif" alt="WHiMSiCAL!" width="88" height="31"></a>
