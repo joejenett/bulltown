@@ -174,6 +174,9 @@ layout: page
 				<a title="Grounded Wren" href="https://groundedwren.com/"><img src="/images/gw-button.png" alt="Grounded Wren" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="The web site of slashdiv" href="https://slashdiv.neocities.org/"><img src="/images/slashdiv.gif" alt="The web site of slashdiv" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Desert Jaguar" href="https://desertjaguar.casa/"><img src="/images/desertjaguar.png" alt="Desert Jaguar" width="88" height="31"></a>
 			</div>
 			<div class="button">
