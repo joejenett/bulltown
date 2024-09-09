@@ -11,7 +11,7 @@ comments: true
 ---
 ... it’s called *DA BLUES*
 
-<a href="https://bulltown.joejenett.com/"><img src="/images/dablues.png" width="64" alt=""></a>
+<a href="https://pantson.xandra.cc/"><img src="/images/dablues.png" width="64" alt=""></a>
 
 Thanks to <a href="https://xandra.cc/">Alexandra</a> for the cool idea: <a title="Pantson Color Club" href="https://pantson.xandra.cc/">Pantson Color Club</a>
 
