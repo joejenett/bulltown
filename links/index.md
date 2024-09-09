@@ -60,7 +60,18 @@ layout: page
 			<div class="button">
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
-			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:80px;clear:both;">appreciated
+			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:80px;clear:both;/*position:relative;left:-22px;*/">the pantson color club
+			</div>
+			<div class="button">
+			<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/pantson-ginny.png" alt="GinnyGravity's Pixel Galaxy" width="64" height="100"></a>
+			</div>
+			<div class="button">
+			<a title="proud member of the pantone color club" href="https://bulltown.joejenett.com/"><img src="/images/dablues.png" alt="bulltown" width="64" height="100"></a>
+			</div>
+			<div class="button">
+			<a title="join the club!" href="https://pantson.xandra.cc/"><img src="/images/pantson-join.gif" alt="join the club!" width="64" height="100"></a>
+			</div>
+			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:80px;clear:both;">also appreciated
 			</div>
 			<div class="button">
 			<a title="Jekyll Codex" href="https://jekyllcodex.org/"><img src="/images/codex.png" alt="Jekyll Codex" width="88" height="31"></a>
@@ -146,6 +157,15 @@ layout: page
 			</div>
 			<div class="button">
 			<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/ginnygravity.gif" alt="GinnyGravity's Pixel Galaxy" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="Goat's Desert" href="https://chaosgoat.neocities.org/"><img src="/images/chaosgoat.png" alt="Goat's Desert" width="88" height="31"></a>
+			</div>
+			<div class="button">
+			<a title="april" href="https://april.lexiqqq.com/"><img src="/images/april.gif" alt="april" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Grounded Wren" href="https://groundedwren.com/"><img src="/images/gw-button.png" alt="Grounded Wren" width="88" height="31"></a>
