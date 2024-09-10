@@ -43,6 +43,9 @@ layout: page
 				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Met Moxie ⚡ No Musk, no Zuck, just Moxie" href="https://metmoxie.com/"><img src="/images/metmoxie.png" alt="Met Moxie ⚡ No Musk, no Zuck, just Moxie" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -180,9 +183,6 @@ layout: page
 			</div>
 			<div class="button">
 			<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Met Moxie ⚡ No Musk, no Zuck, just Moxie" href="https://metmoxie.com/"><img src="/images/metmoxie.png" alt="Met Moxie ⚡ No Musk, no Zuck, just Moxie" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="zvava.org" href="https://zvava.org/"><img src="/images/zvava.png" alt="zvava.org" width="88" height="31"></a>
