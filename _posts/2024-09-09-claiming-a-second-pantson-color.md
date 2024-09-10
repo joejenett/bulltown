@@ -15,6 +15,7 @@ comments: true
 
 <span style="text-decoration:line-through;">I’ve got a section for the *pantson color club* going on the main page which will soon be updated...</span>
  The *pantson color club* now has <a href="/pantson/">its own page</a>.
+ 
 Yay!
 
 
