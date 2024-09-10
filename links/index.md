@@ -204,7 +204,7 @@ layout: page
 			</div>
 			<div class="button">
 			<a title="nekoweb" href="https://nekoweb.org/"><img src="/images/nekoweb.gif" alt="nekoweb" width="88" height="31"></a>
-			</div>=
+			</div>
 			<div class="button">
 			<a title="garbage magic" href="https://melps.neocities.org/"><img src="/images/melps.jpg" alt="garbage magic" width="88" height="31"></a>
 			</div>
