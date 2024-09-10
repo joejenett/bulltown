@@ -33,7 +33,7 @@ layout: page
 	<div id="buttonwall" style="text-align:center;">
 
 		<span class="freezeframe" style="width:100%;">
-			<div style="font-size:1.1em;font-weight:500;font-style:normal;text-align:center;padding:2px 0 6px 0;margin-top:0;clear:both;/*position:relative;left:-22px;*/">the pantson color club
+			<div style="font-size:1.3rem;font-weight:600;color:#440303;font-style:normal;text-align:center;padding:2px 0 6px 0;margin-top:0;clear:both;/*position:relative;left:-22px;*/">the pantson color club
 			</div>
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:12px;clear:both;/*position:relative;left:-22px;*/">colors claimed by bulltown
 			</div>
