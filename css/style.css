@@ -479,8 +479,8 @@ div#reasons img {
 		margin-top:154px;
 }
 	#buttonwall {
-		margin:18px 0 72px 12px;
-		padding:24px;
+		margin:18px 0 72px 0;
+		padding-left:48px;
 	}
 	.footer {
 		margin:12px 0 12px 0;
