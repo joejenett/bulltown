@@ -245,7 +245,7 @@ layout: page
 				<a title="You're entering a hidden room" href="https://velvet-boutique.neocities.org/"><img src="/images/velvet.png" alt="You're entering a hidden room" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="★ Nickolox's Web Corner ★" href="https://nickolox.neocities.org/"><img src="/images/nickolox.gif" alt="★ Nickolox's Web Corner ★" width="88" height="31"></a>
+				<a title="★ Nickolox's Web Corner ★" href="https://nickolox.com/"><img src="/images/nickolox.gif" alt="★ Nickolox's Web Corner ★" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="The web site of callmemanatee" href="https://callmemanatee.neocities.org/"><img src="/images/manatee.png" alt="The web site of callmemanatee" width="88" height="31"></a>
