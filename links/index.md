@@ -1051,9 +1051,6 @@ layout: page
 				<a title="PiPe" href="https://pip-pepping.neocities.org/"><img src="/images/pipe.gif" alt="PiPe" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="nuange" href="https://nuange.neocities.org/"><img src="/images/nuange.gif" alt="nuange" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="NinAcTi0N" href="https://ninacti0n.neocities.org/"><img src="/images/ninacti0n.gif" alt="NinAcTi0N" width="88" height="31"></a>
 			</div>
 			<div class="button">
