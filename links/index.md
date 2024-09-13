@@ -1149,9 +1149,6 @@ layout: page
 				<a title="Kreepy Key’s Halloween Horrortorium" href="https://kreepykeys.boo/"><img src="/images/kreepy.gif" alt="Kreepy Key’s Halloween Horrortorium" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="✧✦✧ welcome to mei's room! ✧✦✧" href="https://meixins.neocities.org/"><img src="/images/meixins.gif" alt="✧✦✧ welcome to mei's room! ✧✦✧" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="nonkiru.art" href="https://nonkiru.art/"><img src="/images/nonkiru.gif" alt="nonkiru.art" width="88" height="31"></a>
 			</div>
 			<div class="button">
