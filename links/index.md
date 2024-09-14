@@ -445,9 +445,6 @@ layout: page
 				<a title="Bruh, Ltd" href="https://www.bruh.ltd/"><img src="/images/bruh-ltd.png" alt="Bruh, Ltd" width="88" height="31"></a>
 			</div>			
 			<div class="button">
-				<a title="lovesick !!!" href="https://lovesick.cafe/"><img src="/images/lovesick.png" alt="lovesick !!!" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="The absolute realm" href="https://theabsoluterealm.com/"><img src="/images/absolute-realm.gif" alt="The absolute realm" width="88" height="31"></a>
 			</div>
 			<div class="button">
