@@ -43,7 +43,7 @@ layout: page
 			<div class="button">
 				<a title="proud member of the pantone color club" href="https://bulltown.joejenett.com/"><img src="/images/chocolato.png" alt="bulltown" width="64" height="100"></a>
 			</div>
-			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">colors claimed by other members
+			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">colors collected from other members
 			</div>
 			<div class="button">
 				<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/pantson-ginny.png" alt="GinnyGravity's Pixel Galaxy" width="64" height="100"></a>
