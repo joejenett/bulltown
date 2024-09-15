@@ -17,14 +17,26 @@ layout: page
 	} 
 </script>
 
-<div style="position:relative;float:right;margin:24px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;">
-	<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>
+<div style="/*position:relative;float:right;margin:24px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;*/">
+	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
+	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
+		<div class="div1">
+			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><textarea style="width:90%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022 width="88" height="31"></a></textarea></p>
+		</div>
+		<div  class="div2">
+		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><span style="font-size:3em;">⬆︎</span><br>please link<br>to either URL</p></a>
+		</div>
+		<div  class="div3">
+			<a href="/images/bnbutton.png" download="bnbutton"><img src="/images/bnbutton.png" alt="bnbutton" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/bnbutton.png" alt="bulltown.neo width="88" height="31"></a></textarea></p></a>
+		</div>
+	</div>
+	<!--<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>	-->		
 	<noscript>
 		<p>
 			Please enable JavaScript for full functionality.
 		</p>	
 	</noscript>
-				
+	
 				
 	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
 		<button title="play animations" id="play-gif">Play GIFs</button>
@@ -67,7 +79,7 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:120px;clear:both;">also appreciated
 			</div>
 			<div class="button">
-			<a title="Jekyll Codex" href="https://jekyllcodex.org/"><img src="/images/codex.png" alt="Jekyll Codex" width="88" height="31"></a>
+				<a title="Jekyll Codex" href="https://jekyllcodex.org/"><img src="/images/codex.png" alt="Jekyll Codex" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Directory | BUKMARK.CLUB" href="https://bukmark.club/directory/"><img src="/images/bukmark-mbr.png" alt="Directory | BUKMARK.CLUB" width="88" height="31"></a>
@@ -105,7 +117,7 @@ layout: page
 					
 			<div id="buttsep">
 			</div>
-<!--w-->					
+			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
@@ -131,34 +143,34 @@ layout: page
 				<a title="Rubber Garage" href="https://rubbergarage.neocities.org/"><img src="/images/rubbergarbage.gif" alt="Rubber Garage" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
+				<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
+				<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
 			</div>
 			<div class="button"> 
-			<a title="The Land of Space and Rainbows" href="https://landofspaceandrainbows.neocities.org/"><img src="/images/landof.png" alt="The Land of Space and Rainbows" width="88" height="31"></a>
+				<a title="The Land of Space and Rainbows" href="https://landofspaceandrainbows.neocities.org/"><img src="/images/landof.png" alt="The Land of Space and Rainbows" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="☆ doqmeat's website ☆" href="https://doqmeat.com/"><img src="/images/doqmeat.png" alt="☆ doqmeat's website ☆" width="88" height="31"></a>
+				<a title="☆ doqmeat's website ☆" href="https://doqmeat.com/"><img src="/images/doqmeat.png" alt="☆ doqmeat's website ☆" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
+				<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/blog/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
+				<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/ginnygravity.gif" alt="GinnyGravity's Pixel Galaxy" width="88" height="31"></a>
+				<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/ginnygravity.gif" alt="GinnyGravity's Pixel Galaxy" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Goat's Desert" href="https://chaosgoat.neocities.org/"><img src="/images/chaosgoat.png" alt="Goat's Desert" width="88" height="31"></a>
+				<a title="Goat's Desert" href="https://chaosgoat.neocities.org/"><img src="/images/chaosgoat.png" alt="Goat's Desert" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="april" href="https://april.lexiqqq.com/"><img src="/images/april.gif" alt="april" width="88" height="31"></a>
+				<a title="april" href="https://april.lexiqqq.com/"><img src="/images/april.gif" alt="april" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Grounded Wren" href="https://groundedwren.com/"><img src="/images/gw-button.png" alt="Grounded Wren" width="88" height="31"></a>
@@ -179,10 +191,10 @@ layout: page
 				<a title="Welcome to the Astertrails" href="https://vidapon.net/"><img src="/images/astertrail.gif" alt="Welcome to the Astertrails" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="puxped's station" href="https://pux.nehukon.de/"><img src="/images/puxped.png" alt="puxped's station" width="88" height="31"></a>
+				<a title="puxped's station" href="https://pux.nehukon.de/"><img src="/images/puxped.png" alt="puxped's station" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
+				<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="zvava.org" href="https://zvava.org/"><img src="/images/zvava.png" alt="zvava.org" width="88" height="31"></a>
@@ -203,16 +215,16 @@ layout: page
 				<a title="Vizune.com" href="https://vizune.com/"><img src="/images/vizune.png" alt="Vizune.com" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="nekoweb" href="https://nekoweb.org/"><img src="/images/nekoweb.gif" alt="nekoweb" width="88" height="31"></a>
+				<a title="nekoweb" href="https://nekoweb.org/"><img src="/images/nekoweb.gif" alt="nekoweb" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="garbage magic" href="https://melps.neocities.org/"><img src="/images/melps.jpg" alt="garbage magic" width="88" height="31"></a>
+				<a title="garbage magic" href="https://melps.neocities.org/"><img src="/images/melps.jpg" alt="garbage magic" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="seafare ♡" href="https://seafare.neocities.org/"><img src="/images/seafare.png" alt="seafare ♡" width="88" height="31"></a>
+				<a title="seafare ♡" href="https://seafare.neocities.org/"><img src="/images/seafare.png" alt="seafare ♡" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="dotdotdot" href="https://cloudy.blue/"><img src="/images/cloudyblue.png" alt="dotdotdot" width="88" height="31"></a>
+				<a title="dotdotdot" href="https://cloudy.blue/"><img src="/images/cloudyblue.png" alt="dotdotdot" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
@@ -230,10 +242,10 @@ layout: page
 				<a title="on the verge of something" href="https://myrrh.city/"><img src="/images/myrrh.png" alt="on the verge of something" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="JEFBECKER" href="https://jefbecker.com/"><img src="/images/jefbecker.png" alt="JEFBECKER" width="88" height="31"></a>
+				<a title="JEFBECKER" href="https://jefbecker.com/"><img src="/images/jefbecker.png" alt="JEFBECKER" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="haystack blog and oddities" href="https://thatoddhaystack.neocities.org/"><img src="/images/thatoddhaystack.png" alt="haystack blog and oddities" width="88" height="31"></a>
+				<a title="haystack blog and oddities" href="https://thatoddhaystack.neocities.org/"><img src="/images/thatoddhaystack.png" alt="haystack blog and oddities" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Dabric" href="https://dabric.xyz/"><img src="/images/dabric.png" alt="Dabric" width="88" height="31"></a>
@@ -399,13 +411,13 @@ layout: page
 				<a title="cadence now!" href="https://cadence.moe"><img src="/images/cadence_now.png" alt="The text &quot;cadence now!&quot; on a purple background. There is a moon-shaped logo on the left side and a tiny star in the bottom right." width="88" height="31"></a>
 			</div>	
 			<div class="button">
-			<a title="triPixel" href="https://tripixel.neocities.org/"><img src="/images/tripixel.png" alt="triPixel" width="88" height="31"></a>
+				<a title="triPixel" href="https://tripixel.neocities.org/"><img src="/images/tripixel.png" alt="triPixel" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="/home/bbence" href="https://bbence.me/"><img src="/images/bbence.gif" alt="/home/bbence" width="88" height="31"></a>
+				<a title="/home/bbence" href="https://bbence.me/"><img src="/images/bbence.gif" alt="/home/bbence" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="slimysomething" href="https://slimysomething.neocities.org/"><img src="/images/slimysomething.gif" alt="slimysomething" width="88" height="31"></a>
+				<a title="slimysomething" href="https://slimysomething.neocities.org/"><img src="/images/slimysomething.gif" alt="slimysomething" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="BLOODTYPEOH" href="https://bloodtypeoh.net/"><img src="/images/bloodtypeoh.gif" alt="BLOODTYPEOH" width="88" height="31"></a>
@@ -819,22 +831,22 @@ layout: page
 				<a title="lazybones" href="https://lazybones.neocities.org/"><img src="/images/lazybones.png" alt="lazybones" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Scary-Crayon!" href="https://www.scary-crayon.com/"><img src="/images/scary.gif" alt="Scary-Crayon!" width="88" height="31"></a>
+				<a title="Scary-Crayon!" href="https://www.scary-crayon.com/"><img src="/images/scary.gif" alt="Scary-Crayon!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Sam's Webbed Site" href="https://squidcrusher.nekoweb.org/"><img src="/images/squidcrusher.gif" alt="Sam's Webbed Site" width="88" height="31"></a>
+				<a title="Sam's Webbed Site" href="https://squidcrusher.nekoweb.org/"><img src="/images/squidcrusher.gif" alt="Sam's Webbed Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="MoveImBadger" href="https://moveimbadger.com/"><img src="/images/moveimbadger.jpg" alt="MoveImBadger" width="88" height="31"></a>
+				<a title="MoveImBadger" href="https://moveimbadger.com/"><img src="/images/moveimbadger.jpg" alt="MoveImBadger" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="Tangerine Tree" href="https://plumbum.neocities.org/"><img src="/images/tangerinetree.png" alt="Tangerine Tree" width="88" height="31"></a>
+				<a title="Tangerine Tree" href="https://plumbum.neocities.org/"><img src="/images/tangerinetree.png" alt="Tangerine Tree" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="solar(pop)punk" href="https://solarpoppunk.neocities.org/"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
+				<a title="solar(pop)punk" href="https://solarpoppunk.neocities.org/"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
 			</div>
 			<div class="button">
-			<a title="ur the cutest forreal" href="https://brattiest.neocities.org/"><img src="/images/brattiest.gif" alt="ur the cutest forreal" width="88" height="31"></a>
+				<a title="ur the cutest forreal" href="https://brattiest.neocities.org/"><img src="/images/brattiest.gif" alt="ur the cutest forreal" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Auzzie Jay In The Digital World" href="https://auzziejay.com/"><img src="/images/auzzie1.gif" alt="Auzzie Jay In The Digital World" width="88" height="31"></a>
