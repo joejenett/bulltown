@@ -167,22 +167,22 @@ p {
 #cover a:hover {
 	background:none;
 }
-html body div #container div #page div.cactus-container div.cactus-editor span textarea.cactus-editor-textarea {
+html body div#container div#page div.cactus-container div.cactus-editor span textarea.cactus-editor-textarea {
 	height:1.25rem;
 	padding:2px;
 	margin-top:-3px;
 }
-html body div #container div #page div.cactus-container div.cactus-editor span textarea.cactus-editor-textarea::placeholder {
+html body div#container div#page div.cactus-container div.cactus-editor span textarea.cactus-editor-textarea::placeholder {
 	/*line-height:1rem;
 	font-size: 1rem;
 	text-align:left;*/
 }
 
-html body div #container div #page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
+html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
 	padding:2px;
 	height:1.25rem;
 }
-/*html body div #container div #page div #commento div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-avatar div.cactus-comment-avatar-placeholder {
+/*html body div#container div#page div#commento div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-avatar div.cactus-comment-avatar-placeholder {
 	display:none;
 }
 */
@@ -197,15 +197,15 @@ div.cactus-comment-avatar img {
 	display:none;
 }
 
-html body div #container div #page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
+html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
 	padding-block:0;
 	font-weight:500;
 	font-size:.8em;
 }
-/*html body div #container div #page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button.cactus-login-button {
+/*html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button.cactus-login-button {
 	display:none;*/
 }
-html body div #container div #page div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
+html body div#container div#page div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
 	font-size:.95em;
 }
 div > #comment-section {
@@ -337,7 +337,7 @@ h1 {
 #menu a:hover {
 	background:#ffe5de;
 }
-div #menu ul {
+div#menu ul {
 	list-style:none;
 	margin:0;
 	padding:0;
@@ -356,30 +356,30 @@ a {
 a:hover {
 	background-color:#ffe5de;
 }
-div #layerNeko0 a:hover {
+div#layerNeko0 a:hover {
 	background-color:transparent;
 }
-div #show-image {
+div#show-image {
 	text-align:center;
 }
-div #show-image img {
+div#show-image img {
 	max-width:600px;	
 }
-div #show-cover {
+div#show-cover {
 	text-align:center;
 }
-div #show-cover img {
+div#show-cover img {
 	max-width:600px;	
 }
-div #thefall, div #reasons {
+div#thefall, div#reasons {
 	text-align:center;
 	margin:30px 0;
 }
-div #thefall img {
+div#thefall img {
 	max-width:420px;
 	max-height:315px;
 }
-div #reasons img {
+div#reasons img {
 	max-width:560px;
 }
 #turmoil-container {
@@ -496,7 +496,7 @@ div #reasons img {
 	max-width:288px;
 	margin:0 auto;
 	}
-	div #nl {
+	div#nl {
 		display:none;
 	}
 	#viewer-container {
@@ -541,10 +541,10 @@ div #reasons img {
 		max-width:300px;
 		margin: 2px 4px 2px 0;
 	}
-	div #show-image img {
+	div#show-image img {
 		max-width:390px;	
 	}
-	div #show-cover img {
+	div#show-cover img {
 		max-width:390px;	
 	}
 	#cover {
@@ -553,7 +553,7 @@ div #reasons img {
 	#cover img {
 		/*max-width:60%;*/
 	}
-	div #thefall img, div #reasons img {
+	div#thefall img, div#reasons img {
 		max-width:100%;
 		max-height:100%;
 	}
