@@ -30,6 +30,9 @@ layout: page
 			<a href="/images/bnbutton.png" download="bnbutton"><img src="/images/bnbutton.png" alt="bnbutton" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/bnbutton.png" alt="bulltown.neo width="88" height="31"></a></textarea></p></a>
 		</div>
 	</div>
+		<div style="text-align:left;font-weight:400;">
+					If you link to bulltown.2022 OR bulltown.neo from your personal, non-commercial site, please let me know so I can promptly add your linked button to the ‘mutuals’ on both bulltown sites. Thx.
+					</div>
 	<!--<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>	-->		
 	<noscript>
 		<p>
@@ -75,7 +78,6 @@ layout: page
 			<div class="button">
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
-			
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:120px;clear:both;">also appreciated
 			</div>
 			<div class="button">
@@ -120,6 +122,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Arkm's World" href="https://arkmsworld.neocities.org/"><img src="/images/arkmgif.gif" alt="Arkm's World" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="TOXOPLASICITY" href="https://toxoplasicity.neocities.org/"><img src="/images/toxoplasicity.png" alt="TOXOPLASICITY" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Hey! It's R.K. Smith!" href="https://heyitsrksmith.com/"><img src="/images/rksmith.gif" alt="Hey! It's R.K. Smith!" width="88" height="31"></a>
