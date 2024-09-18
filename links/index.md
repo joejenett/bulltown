@@ -24,7 +24,7 @@ layout: page
 			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><textarea style="width:90%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022 width="88" height="31"></a></textarea></p>
 		</div>
 		<div  class="div2">
-		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><span style="font-size:3em;">⬆︎</span><br>please link<br>to either URL</p></a>
+		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
 		<div  class="div3">
 			<a href="/images/bnbutton.png" download="bnbutton"><img src="/images/bnbutton.png" alt="bnbutton" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/bnbutton.png" alt="bulltown.neo width="88" height="31"></a></textarea></p></a>
