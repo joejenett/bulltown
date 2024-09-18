@@ -27,7 +27,7 @@ layout: page
 		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
 		<div  class="div3">
-			<a href="/images/bnbutton.png" download="bnbutton"><img src="/images/bnbutton.png" alt="bnbutton" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/bnbutton.png" alt="bulltown.neo width="88" height="31"></a></textarea></p></a>
+			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo width="88" height="31"></a></textarea></p></a>
 		</div>
 	</div>
 		<div style="text-align:left;font-weight:400;">
