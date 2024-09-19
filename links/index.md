@@ -124,6 +124,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" href="https://nyanseong.neocities.org/"><img src="/images/nyanseong.png" alt="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="GET GROOVIN'" href="https://sunpop.neocities.org/"><img src="/images/sunpop.png" alt="GET GROOVIN'" width="88" height="31"></a>
 			</div>
 			<div class="button">
