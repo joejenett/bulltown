@@ -168,6 +168,12 @@ layout: page
 			<div class="button">
 				<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
 			</div>
+			<div class="button">
+				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="~VELVET✧BLUE~" href="https://velvetblue.neocities.org/"><img src="/images/velvetblue.png" alt="~VELVET✧BLUE~" width="88" height="31"></a>
+			</div>
 			<div class="button"> 
 				<a title="The Land of Space and Rainbows" href="https://landofspaceandrainbows.neocities.org/"><img src="/images/landof.png" alt="The Land of Space and Rainbows" width="88" height="31"></a>
 			</div>
