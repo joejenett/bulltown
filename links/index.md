@@ -737,7 +737,7 @@ layout: page
 			</div>
 
 			<div class="button">
-				<a title="Viatrix." href="https://mincerafter42.github.io/"><img src="/images/vivi.png" alt="Viatrix." width="88" height="31"></a>
+				<a title="Viatrix." href="https://vivivi.leprd.space/fun/"><img src="/images/vivi.png" alt="Viatrix." width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Internet Bee" href="https://internetbee.neocities.org/"><img src="/images/internetbee.gif" alt="Internet Bee" width="88" height="31"></a>
