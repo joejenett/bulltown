@@ -124,6 +124,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Cade's Garden" href="https://cadeion.neocities.org/"><img src="/images/cadeion.gif" alt="Cade's Garden" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="mei.nekoweb.org" href="https://mei.nekoweb.org/"><img src="/images/meibutton.gif" alt="mei.nekoweb.org" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The web site of symphonic" href="https://symphony.surgery/"><img src="/images/symphony.png" alt="The web site of symphonic" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" href="https://nyanseong.neocities.org/"><img src="/images/nyanseong.png" alt="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" width="88" height="31"></a>
 			</div>
 			<div class="button">
