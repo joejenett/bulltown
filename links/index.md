@@ -124,6 +124,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Sanctuary 🌷" href="https://planetpearlia.com/"><img src="/images/planetpearlia.gif" alt="Sanctuary 🌷" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Solar Cyber Punk" href="https://solar-cyber-punk.neocities.org/"><img src="/images/SCPbutton.png" alt="Solar Cyber Punk" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mostly Pixels" href="https://mostlypixels.com/"><img src="/images/mostlypixels.png" alt="Mostly Pixels" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Cade's Garden" href="https://cadeion.neocities.org/"><img src="/images/cadeion.gif" alt="Cade's Garden" width="88" height="31"></a>
 			</div>
 			<div class="button">
