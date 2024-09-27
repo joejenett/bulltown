@@ -47,10 +47,10 @@ iframe {
 <div style="padding-left:28px;">
 <iframe src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
-<iframe src="https://spycicl.neocities.org/webgarden" height="250px" width="250px" style="border:3px solid #3c6c82;" scrolling="no"></iframe>
-<iframe src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:none;"></iframe>
+<iframe src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #cff07f;"></iframe>
 <iframe src="https://neonaut.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy"></iframe>
 <iframe src="https://shroom.ink/webgarden.html" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #004754;"></iframe>
+<iframe src="https://spycicl.neocities.org/webgarden" height="250px" width="250px" style="border:3px solid #8dff4e;max-width:250px;max-height:250px;overflow:hidden;" scrolling="no"></iframe>
 <iframe src="https://slashdiv.neocities.org/cliques/webgarden-plot" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #d96a59;"></iframe>
 <iframe src="https://linwood.neocities.org/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #ee9de9;"></iframe>
 <a href="https://keysklubhouse.neocities.org/webgarden.html"><iframe src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange"></iframe></a>
