@@ -46,6 +46,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">colors collected from other members
 			</div>
 			<div class="button">
+				<a title="Bohemian Sultriness" href="https://bohemiansultriness.nekoweb.org/"><img src="/images/fritzi1.png" alt="Bohemian Sultriness" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="GinnyGravity's Pixel Galaxy" href="https://ginnygravity.neocities.org/"><img src="/images/pantson-ginny.png" alt="GinnyGravity's Pixel Galaxy" width="64" height="100"></a>
 			</div>
 			<div class="button">
