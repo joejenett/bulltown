@@ -16,6 +16,12 @@ max-width:88px;
 margin:3px;
 float:left;
 }
+.button a:hover img {
+	/*position:relative;
+	top:-2px;
+	left:-2px;*/
+	transform:scale(1.1);
+}
 #search-input {
 	max-width:100%;
 	padding:4px 9px;
