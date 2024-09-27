@@ -47,6 +47,7 @@ iframe {
 <div style="padding-left:28px;">
 <iframe src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
+<iframe src="https://spycicl.neocities.org/webgarden" height="250px" width="250px" style="border:3px solid #3c6c82;" scrolling="no"></iframe>
 <iframe src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:none;"></iframe>
 <iframe src="https://neonaut.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy"></iframe>
 <iframe src="https://shroom.ink/webgarden.html" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #004754;"></iframe>
