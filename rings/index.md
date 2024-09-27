@@ -21,8 +21,10 @@ layout: page
 			
 				
 <div id="rings" style="margin-top:8px;text-align:center;vertical-align:bottom;padding-bottom:32px;">
-					
-	<div style="margin-top:24px;font-size:.85em;font-weight:500;width:100%;padding-top:12px;text-align:center;">
+	<div style="text-align:center;">
+	<a style="text-decoration:none;" href="https://theadlibclub.neocities.org/" target="_blank"><small>The Ad-Lib Club</small><br>&#10077;&#119070;&#9829;&#63;&#43612;&#38;&#8252;&#10078;&#8727;</a><br><a style="text-decoration:none;" href="https://webri.ng/webring/theadlibclub/previous?via=https://bulltown.joejenett.com" target="_blank">←</a>&nbsp;<a style="text-decoration:none;" href="https://webri.ng/webring/theadlibclub/random?via=https://bulltown.joejenett.com" target="_blank">???</a>&nbsp;<a style="text-decoration:none;" href="https://webri.ng/webring/theadlibclub/next?via=https://bulltown.joejenett.com" target="_blank">→</a>
+	</div>										
+	<div style="margin-top:1px;font-size:.85em;font-weight:500;width:100%;padding-top:12px;text-align:center;">
 		<a href="https://xn--sr8hvo.ws/previous">←</a> |   
 		<a href="https://xn--sr8hvo.ws">An IndieWeb Webring 🕸💍</a> | 
 		<a href="https://xn--sr8hvo.ws/next">→</a>
