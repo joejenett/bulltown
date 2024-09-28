@@ -46,6 +46,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected from other members
 			</div>
 			<div class="button">
+				<a title="The web site of symphonic" href="https://symphony.surgery/"><img src="/images/symphonic.png" alt="The web site of symphonic" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="Leilukin's Hub" href="https://leilukin.com/"><img src="/images/leilukin-grape-juice.png" alt="Leilukin's Hub" width="64" height="100"></a>
 			</div>
 			<div class="button">
