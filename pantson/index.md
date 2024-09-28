@@ -35,7 +35,7 @@ layout: page
 		<span class="freezeframe" style="width:100%;">
 			<div style="font-size:1.3rem;font-weight:600;color:#440303;font-style:normal;text-align:center;padding:2px 0 6px 0;margin-top:0;clear:both;/*position:relative;left:-22px;*/">the pantson color club
 			</div>
-			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:12px;clear:both;/*position:relative;left:-22px;*/">colors claimed by bulltown
+			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:12px;clear:both;/*position:relative;left:-22px;*/">bulltown’s color cards
 			</div>
 			<div class="button">
 				<a title="proud member of the pantone color club" href="https://bulltown.joejenett.com/"><img src="/images/dablues.png" alt="bulltown" width="64" height="100"></a>
@@ -43,7 +43,7 @@ layout: page
 			<div class="button">
 				<a title="proud member of the pantone color club" href="https://bulltown.joejenett.com/"><img src="/images/chocolato.png" alt="bulltown" width="64" height="100"></a>
 			</div>
-			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">colors collected from other members
+			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected from other members
 			</div>
 			<div class="button">
 				<a title="Bohemian Sultriness" href="https://bohemiansultriness.nekoweb.org/"><img src="/images/fritzi1.png" alt="Bohemian Sultriness" width="64" height="100"></a>
