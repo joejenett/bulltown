@@ -124,6 +124,24 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="muse ariadne writing club" href="https://museariadne.neocities.org/"><img src="/images/museariadne.png" alt="muse ariadne writing club" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Chocolate Revel" href="https://chocolaterevel.neocities.org/"><img src="/images/chocolaterevel.png" alt="Chocolate Revel" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="mooface" href="https://mooface.neocities.org/"><img src="/images/mooface.gif" alt="mooface" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Liverpudlian Bardot" href="https://theliverpudlianbardot.neocities.org/"><img src="/images/bardot.png" alt="The Liverpudlian Bardot" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Sanctuary 🌷" href="https://planetpearlia.com/"><img src="/images/planetpearlia.gif" alt="Sanctuary 🌷" width="88" height="31"></a>
 			</div>
 			<div class="button">
