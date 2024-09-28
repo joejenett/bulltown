@@ -46,6 +46,12 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected from other members
 			</div>
 			<div class="button">
+				<a title="vulpecula" href="https://vulpecula.neocities.org/"><img src="/images/totalelipse.png" alt="vulpecula" width="64" height="100"></a>
+			</div>
+			<div class="button">
+				<a title="vulpecula" href="https://vulpecula.neocities.org/"><img src="/images/mosstone.png" alt="vulpecula" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="The web site of symphonic" href="https://symphony.surgery/"><img src="/images/symphonic.png" alt="The web site of symphonic" width="64" height="100"></a>
 			</div>
 			<div class="button">
