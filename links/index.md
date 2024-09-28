@@ -241,6 +241,36 @@ layout: page
 				<a title="The web site of slashdiv" href="https://slashdiv.neocities.org/"><img src="/images/slashdiv.gif" alt="The web site of slashdiv" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Yamasztuka" href="https://yamasztuka.com/"><img src="/images/yamasztuka.gif" alt="Yamasztuka" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="ANDOU ZONE" href="https://andou.gay/"><img src="/images/andou.gif" alt="ANDOU ZONE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="squidknees" href="https://squidknees.net/"><img src="/images/squidknees.png" alt="squidknees" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="GusBus.Space" href="https://gusbus.space/"><img src="/images/gusbus.png" alt="GusBus.Space" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Archive of Tomorrow" href="https://clockwooork.github.io/"><img src="/images/aot.jpg" alt="Archive of Tomorrow" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="sleepy crossing" href="https://sleepycrossing.neocities.org/"><img src="/images/sleepycrossing.png" alt="sleepy crossing" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Snifflebear" href="https://www.snifflebear.moe/"><img src="/images/snifflebear.png" alt="Snifflebear" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Wasongo's Gallery" href="https://wasongo.art/"><img src="/images/wasongo.gif" alt="Wasongo's Gallery" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Desert Jaguar" href="https://desertjaguar.casa/"><img src="/images/desertjaguar.png" alt="Desert Jaguar" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1244,36 +1274,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="ribose" href="https://ribo.zone/"><img src="/images/ribose.png" alt="ribose" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Yamasztuka" href="https://yamasztuka.com/"><img src="/images/yamasztuka.gif" alt="Yamasztuka" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ANDOU ZONE" href="https://andou.gay/"><img src="/images/andou.gif" alt="ANDOU ZONE" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="squidknees" href="https://squidknees.net/"><img src="/images/squidknees.png" alt="squidknees" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="GusBus.Space" href="https://gusbus.space/"><img src="/images/gusbus.png" alt="GusBus.Space" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Archive of Tomorrow" href="https://clockwooork.github.io/"><img src="/images/aot.jpg" alt="Archive of Tomorrow" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="sleepy crossing" href="https://sleepycrossing.neocities.org/"><img src="/images/sleepycrossing.png" alt="sleepy crossing" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Snifflebear" href="https://www.snifflebear.moe/"><img src="/images/snifflebear.png" alt="Snifflebear" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Wasongo's Gallery" href="https://wasongo.art/"><img src="/images/wasongo.gif" alt="Wasongo's Gallery" width="88" height="31"></a>
 			</div>
 		</span>
 	</div>
