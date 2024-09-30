@@ -440,6 +440,7 @@ div#reasons img {
 		
 	}
 	#buttonwall {
+		
 	}
 	.gotalk {
 		max-height:22px;
@@ -487,6 +488,9 @@ div#reasons img {
 	}
 	.button {
 		margin:1px;
+		position:relative;
+		float:center;
+		left:24px;
 	}
 	#button-wall {
 		text-align:center;
