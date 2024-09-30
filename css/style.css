@@ -457,13 +457,13 @@ div#reasons img {
 	#buttonwall {
 		padding:13px 2px;
 	}
-	#hcard-wrapper {
-		min-width:300px;
-		margin:auto;
-		display:none;
-	}
+	
 	#hcard-container {
-		display:none;
+		max-width: 85%;
+		display: inline;
+		border: none;
+		margin:0;
+
 	}
 	#page {
 		
