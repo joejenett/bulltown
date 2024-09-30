@@ -510,12 +510,12 @@ div#reasons img {
 		text-align:center;
 		margin:36px 20px;
 	}
-	#hcard-container {
+	/*#hcard-container {
 		max-width:85%;
 		display:inline;
 		border:none;
 		margin:0;
-	}
+	}*/
 	.intersect a img {
 		max-width:360px;
 	}
@@ -558,7 +558,7 @@ div#reasons img {
 	#human-container {
 		padding:12px;
 	}
-	#hcard-container { 
+	/*#hcard-container { 
 		margin:0;
-	}
+	}*/
 }
