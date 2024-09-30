@@ -440,6 +440,7 @@ div#reasons img {
 		
 	}
 }
+
 @media only screen and (max-width:479px) {
 	body {
 		font-size:18px;
@@ -455,7 +456,8 @@ div#reasons img {
 		
 	}
 	#buttonwall {
-		padding:13px 15px;
+		margin:18px 10px 72px 10px;
+		padding:24px;
 	}
 	
 	#hcard-container {
@@ -518,9 +520,9 @@ div#reasons img {
 	}
 	#buttonwall .button {
 		margin:1px;
-		position:relative;
+		/*position:relative;
 		float:center;
-		left:6px;
+		left:6px;*/
 	}
 	#button-wall {
 		text-align:center;
@@ -567,5 +569,11 @@ div#reasons img {
 	}
 	#human-container {
 		padding:12px;
+	}
+}
+@media only screen and (max-width:400px) {
+	#buttonwall {
+		margin:18px 10px 72px 10px;
+		padding:8px 4px;
 	}
 }
