@@ -460,6 +460,7 @@ div#reasons img {
 	#hcard-wrapper {
 		min-width:300px;
 		margin:auto;
+		display:none;
 	}
 	#hcard-container {
 		margin: -10px 60px 0 60px;
