@@ -438,14 +438,9 @@ div#reasons img {
 	}
 	#container {
 	}
-	#page {
-		/*width:90%;
-		position:relative;
-		left:5%;
-		margin:auto;*/
-	}
+	
 	#colorclub {
-		
+		margin: 18px 20px 72px 20px;
 	}
 	#buttonwall {
 		margin:18px auto 72px auto;
