@@ -437,13 +437,17 @@ div#reasons img {
 		font-size:18px;
 	}
 	#container {
+		
 	}
 	
 	#colorclub {
 		margin: 18px 20px 72px 20px;
 	}
 	#buttonwall {
-		margin:18px auto 72px auto;
+
+	}
+	#page {
+		
 	}
 	.gotalk {
 		max-height:22px;
