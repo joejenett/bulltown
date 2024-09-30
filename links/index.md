@@ -223,6 +223,12 @@ layout: page
 				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/blog/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="j p g z o n e" href="https://willdotjpg.gay/"><img src="/images/willdotjpg.png" alt="j p g z o n e" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Lady Magpie's Nest" href="https://ladymagpie.neocities.org/"><img src="/images/MagpieNestButton1.gif" alt="Lady Magpie's Nest" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="angel without wings" href="https://mizuki.world/"><img src="/images/mizuki.gif" alt="angel without wings" width="88" height="31"></a>
 			</div>
 			<div class="button">
