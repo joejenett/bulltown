@@ -216,6 +216,10 @@ html body div#container div#page div.cactus-container div.cactus-comments-contai
 	background-color:#fff9e6;
 	padding: 0 25px;
 }
+#hcard-wrapper {
+	text-align:center;
+	width:100%;
+}
 #hcard-container {
 	text-align:center;
 	font-size:.9em;
@@ -453,6 +457,13 @@ div#reasons img {
 	#buttonwall {
 		padding:13px 2px;
 	}
+	#hcard-wrapper {
+		min-width:300px;
+		margin:auto;
+	}
+	#hcard-container {
+		margin: -10px 60px 0 60px;
+	}
 	#page {
 		
 	}
@@ -461,10 +472,6 @@ div#reasons img {
 	}
 	#buttsep {
 		margin-top:154px;
-	}
-	#buttonwall {
-		margin:18px 0 72px 0;
-		padding-left:36px;
 	}
 	.footer {
 		margin:12px 0 12px 0;
@@ -510,12 +517,6 @@ div#reasons img {
 		text-align:center;
 		margin:36px 20px;
 	}
-	/*#hcard-container {
-		max-width:85%;
-		display:inline;
-		border:none;
-		margin:0;
-	}*/
 	.intersect a img {
 		max-width:360px;
 	}
@@ -558,7 +559,4 @@ div#reasons img {
 	#human-container {
 		padding:12px;
 	}
-	/*#hcard-container { 
-		margin:0;
-	}*/
 }
