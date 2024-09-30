@@ -10,7 +10,9 @@ body {
 .button {
 	max-width:88px;
 	margin:3px;
+	position:relative;
 	float:left;
+	left:12px;
 }
 .button a:hover img, .iwt a:hover img {
 	transform:scale(1.1);
@@ -65,6 +67,7 @@ body {
 	}
 	.button {
 		margin:1px;
+		left:24px;
 	}
 }
 .p-spot {
@@ -441,11 +444,13 @@ div#reasons img {
 	}
 	
 	#colorclub {
-		margin: 18px 20px 72px 20px;
-		padding:17px;
+		
+	}
+	#colorclub .button img {
+		
 	}
 	#buttonwall {
-
+		padding:13px 2px;
 	}
 	#page {
 		
@@ -498,7 +503,7 @@ div#reasons img {
 		margin:1px;
 		position:relative;
 		float:center;
-		left:12px;
+		left:6px;
 	}
 	#button-wall {
 		text-align:center;
