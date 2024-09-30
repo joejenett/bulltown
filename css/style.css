@@ -485,10 +485,18 @@ div#reasons img {
 		float:none;
 	}
 	#thanks {
-		max-width:270px;
 		margin:0 auto;
 		position:relative;
-		left:-22px;
+		left:-12px;
+	}
+	#thanks .button {
+		position:relative;
+		left:12px;
+	}
+	#mutuals, #followers, #also {
+		width:275px;
+		position:relative;
+		left:48px;
 	}
 	div#nl {
 		display:none;
