@@ -486,7 +486,7 @@ div#reasons img {
 		margin-top:0;
 		/*padding:20px;*/
 	}
-	.button {
+	#buttonwall .button {
 		margin:1px;
 		position:relative;
 		float:center;
