@@ -436,6 +436,10 @@ div#reasons img {
 	body {
 		font-size:18px;
 	}
+	#container {
+		max-width:675px;
+	}
+	
 	#colorclub {
 		
 	}
