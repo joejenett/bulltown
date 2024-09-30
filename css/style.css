@@ -437,9 +437,12 @@ div#reasons img {
 		font-size:18px;
 	}
 	#container {
-		max-width:675px;
 	}
-	
+	#page {
+		width:98%;
+		position:relative;
+		left:1%;
+	}
 	#colorclub {
 		
 	}
