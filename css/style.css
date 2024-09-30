@@ -455,7 +455,7 @@ div#reasons img {
 		
 	}
 	#buttonwall {
-		padding:13px 2px;
+		padding:13px 15px;
 	}
 	
 	#hcard-container {
@@ -485,8 +485,10 @@ div#reasons img {
 		float:none;
 	}
 	#thanks {
-		max-width:298px;
+		max-width:360px;
 		margin:0 auto;
+		position:relative;
+		left:-24px;
 	}
 	div#nl {
 		display:none;
