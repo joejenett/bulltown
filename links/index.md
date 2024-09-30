@@ -21,13 +21,13 @@ layout: page
 	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
 	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
 		<div class="div1 iwt">
-			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><textarea style="width:90%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></p>
+			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><textarea style="width:85%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></p>
 		</div>
 		<div  class="div2 iwt">
 		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;" width="88" height="31"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
 		<div  class="div3 iwt">
-			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:90%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></p></a>
+			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:85%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></p></a>
 		</div>
 	</div>
 		<div style="text-align:left;font-weight:400;">
