@@ -439,9 +439,10 @@ div#reasons img {
 	#container {
 	}
 	#page {
-		width:96%;
+		width:90%;
 		position:relative;
-		left:2%;
+		left:5%;
+		margin:auto;
 	}
 	#colorclub {
 		
