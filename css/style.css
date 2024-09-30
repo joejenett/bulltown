@@ -485,10 +485,10 @@ div#reasons img {
 		float:none;
 	}
 	#thanks {
-		max-width:360px;
+		max-width:270px;
 		margin:0 auto;
 		position:relative;
-		left:-24px;
+		left:-22px;
 	}
 	div#nl {
 		display:none;
