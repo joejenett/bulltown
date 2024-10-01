@@ -51,6 +51,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected
 			</div>
 			<div class="button">
+				<a title="Velvet's Smoking Lounge" href="https://velvet-boutique.neocities.org/"><img src="/images/cherryred.png" alt="Velvet's Smoking Lounge" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="j p g z o n e" href="https://willdotjpg.gay/"><img src="/images/amazon.png" alt="j p g z o n e" width="64" height="100"></a>
 			</div>
 			<div class="button">
