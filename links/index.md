@@ -55,6 +55,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals
 			</div>
 			<div class="button">
+				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -164,9 +167,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="GET GROOVIN'" href="https://sunpop.neocities.org/"><img src="/images/sunpop.png" alt="GET GROOVIN'" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="bumblingbats" href="https://bumblingbats.neocities.org/"><img src="/images/bbats.png" alt="bumblingbats" width="88" height="31"></a>
