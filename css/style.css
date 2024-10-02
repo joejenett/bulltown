@@ -161,12 +161,12 @@ p {
 #cover a:hover {
 	background:none;
 }
-html body div#container div#page div.cactus-container div.cactus-editor span textarea.cactus-editor-textarea {
+/*html body div#container div#page div.cactus-container*/ div.cactus-editor span textarea.cactus-editor-textarea {
 	height:1.25rem;
 	padding:2px;
 	margin-top:-3px;
 }
-html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
+/*html body div#container div#page div.cactus-container*/ div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
 	padding:2px;
 	height:1.25rem;
 }
@@ -180,12 +180,12 @@ div.cactus-comment-avatar-placeholder::before {
 div.cactus-comment-avatar img {
 	display:none;
 }
-html body div#container div#page div.cactus-container div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
+/*html body div#container div#page div.cactus-container*/ div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
 	padding-block:0;
 	font-weight:500;
 	font-size:.8em;
 }
-html body div#container div#page div.cactus-container div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
+/*html body div#container div#page div.cactus-container*/ div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
 	font-size:.95em;
 }
 #container {
