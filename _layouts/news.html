@@ -1,0 +1,33 @@
+<link href="/css/embed.css" type="text/css" rel="stylesheet">	
+<base target="_top">
+
+<div class="home">
+	<h1 style="color:#440303;margin-top:-3px;">𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻 𝗻𝗲𝘄𝘀</h1>
+				{{ content }}
+				<div class="post-list">
+					{% assign count = 0 %}
+					{%- for post in site.posts -%}
+					{% assign count = count | plus:1 %}
+					<!--{% if count == 1 %}
+					{%- include postnav.html -%}
+					{% endif %}-->
+					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+					<div style="margin-bottom:24px;padding-bottom:6px;margin-right:12px;">
+						{%- if post.title != "" -%}
+						<h2 class="post-title p-name" style="margin-top:18px;">{{ post.title | escape }}</h2>
+						{%- endif -%}
+						{%- if site.show_excerpts -%}
+						<div style="position:relative;top:-12px;">{{ post.excerpt }}</div>
+						{%- endif -%}
+						<div style="position:relative;top:-8px;line-height:1em;margin-bottom:-2em;">
+							<span class="post-meta"><a target="_top" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+							&bull; <span class="post-meta p-author h-card">joe jenett
+							</span>
+						</div>
+					</div>
+					{% if count == 1 %}{% break %}
+					{% endif %}
+					{%- endfor -%}
+				</div>
+			</div>
