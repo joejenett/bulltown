@@ -2,6 +2,7 @@
 layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | links"</script>
+<!--
 <script>
 	function showButtons() {
 		var wall = document.getElementById("button-wall");
@@ -16,7 +17,7 @@ layout: page
 		x.style.display = "block";
 	} 
 </script>
-
+-->
 <div style="/*position:relative;float:right;margin:24px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;*/">
 	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
 	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
