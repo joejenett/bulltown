@@ -9,7 +9,7 @@ layout: page
 	
 </p>
 <p style="text-align:center;margin-top:48px;line-height:1.4em;">
-	<span style="text-align:center;font-size:.9em;font-weight:600;">archives (b22)</span><br>
+	<span style="text-align:center;font-size:.9em;font-weight:600;">archives</span><br>
 	<a href="09-09-23">09-09-23</a>
 	<br><a href="10-21-22/">10-21-22</a>
 </p>
