@@ -580,17 +580,8 @@ div#reasons img {
 		/*margin:18px 10px 72px 10px;
 		padding:8px 4px 8px 16px;*/
 	}
-		#mutuals, #followers, #also {
-		/*width:275px;
-		position:relative;
-		left:22px;*/
-	}
 		#thanks {
-		/*margin:0 auto;
-		position:relative;
-		left:-2px;*/
 		max-width: 326px;
-		
 	}
 		#thanks .button {
 		position:relative;
@@ -599,18 +590,10 @@ div#reasons img {
 }
 @media only screen and (max-width:400px) {
 	#buttonwall {
-		margin:18px 10px 72px 10px;
-		padding:8px 4px;
-	}
-		#mutuals, #followers, #also {
-		/*width:275px;
-		position:relative;
-		left:14px;*/
+		/*margin:18px 10px 72px 10px;
+		padding:8px 4px;*/
 	}
 		#thanks {
-		/*margin:0 auto;
-		position:relative;
-		left:-2px;*/
 		max-width: 326px;
 	}
 		#thanks .button {
