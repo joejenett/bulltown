@@ -166,12 +166,12 @@ p {
 #cover a:hover {
 	background:none;
 }
-/*html body div#container div#page div.cactus-container*/ div.cactus-editor span textarea.cactus-editor-textarea {
+div.cactus-editor span textarea.cactus-editor-textarea {
 	height:1.25rem;
 	padding:2px;
 	margin-top:-3px;
 }
-/*html body div#container div#page div.cactus-container*/ div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
+div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
 	padding:2px;
 	height:1.25rem;
 }
@@ -185,12 +185,12 @@ div.cactus-comment-avatar-placeholder::before {
 div.cactus-comment-avatar img {
 	display:none;
 }
-/*html body div#container div#page div.cactus-container*/ div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
+div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
 	padding-block:0;
 	font-weight:500;
 	font-size:.8em;
 }
-/*html body div#container div#page div.cactus-container*/ div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
+div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
 	font-size:.95em;
 }
 #container {
@@ -426,7 +426,7 @@ div#reasons img {
 }
 #thanks {
 	text-align:center;
-	max-width:590px;
+	max-width:578px;
 	margin:0 auto;
 }
 #buttsep {
@@ -492,14 +492,15 @@ div#reasons img {
 	#thanks {
 		margin:0 auto;
 		position:relative;
+		max-width: 326px;
 	}
 	#thanks .button {
 		position:relative;
 	}
 	#mutuals, #followers, #also {
-		width:275px;
+		/*width:275px;
 		position:relative;
-		left:24px;
+		left:24px;*/
 	}
 	div#nl {
 		display:none;
@@ -576,18 +577,20 @@ div#reasons img {
 }
 @media only screen and (max-width:436px) {
 	#buttonwall {
-		margin:18px 10px 72px 10px;
-		padding:8px 4px 8px 16px;
+		/*margin:18px 10px 72px 10px;
+		padding:8px 4px 8px 16px;*/
 	}
 		#mutuals, #followers, #also {
-		width:275px;
+		/*width:275px;
 		position:relative;
-		left:22px;
+		left:22px;*/
 	}
 		#thanks {
-		margin:0 auto;
+		/*margin:0 auto;
 		position:relative;
-		left:-2px;
+		left:-2px;*/
+		max-width: 326px;
+		
 	}
 		#thanks .button {
 		position:relative;
@@ -600,14 +603,15 @@ div#reasons img {
 		padding:8px 4px;
 	}
 		#mutuals, #followers, #also {
-		width:275px;
+		/*width:275px;
 		position:relative;
-		left:14px;
+		left:14px;*/
 	}
 		#thanks {
-		margin:0 auto;
+		/*margin:0 auto;
 		position:relative;
-		left:-14px;
+		left:-2px;*/
+		max-width: 326px;
 	}
 		#thanks .button {
 		position:relative;
