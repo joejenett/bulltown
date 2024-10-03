@@ -426,10 +426,8 @@ div#reasons img {
 }
 #thanks {
 	text-align:center;
-	max-width:490px;
-	/*margin:0 36px;*/
+	max-width:590px;
 	margin:0 auto;
-	/*padding:12px 48px 0 48px;*/
 }
 #buttsep {
 	clear:both;
