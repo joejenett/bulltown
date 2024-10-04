@@ -12,6 +12,23 @@ body {
   float:right;
   margin:25px 6px 0 0;
 }
+#gb-container {
+	clear: both;
+	text-align: center;
+	position:relative;
+	top:-48px;
+}
+#guestbook {
+	width:400px;
+	height:425px;
+	/*margin-top:48px;
+	margin-left:-106px;*/
+	border:none;
+	overflow:auto;
+	max-width:100%;
+	clear:both;
+	display:inline;
+}
 .button {
 	max-width:88px;
 	margin:3px;
