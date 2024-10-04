@@ -3,10 +3,11 @@ layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | other"</script>
 <div style="text-align:center;margin-top:12px;line-height:1.4em;">
-	<p>
+<!--	<p>
 		<a href="ephemeral/" target="_top">bulltown ephemeral communicator</a><br>
 		<span style="font-size:.8em;">archives (b22)</span>
 	</p>
+-->
 	<p>
 		<a href="intersect/" target="_top">intersect</a><br>
 		<span style="font-size:.8em;">an experiment done in 2001 and redesigned in 2020</span>
