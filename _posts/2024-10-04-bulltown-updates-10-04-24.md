@@ -13,7 +13,7 @@ I’m glad to say I finished planned improvements and other changes to both <spa
 
 You’ve probably already noticed that this journal appears on the homepages of both sites. Another key change is that both sites’ homepages share a common questbook (down there below).
 
-Yes! I’m having fun... 😎
+Yes! I’m still having lotsa fun... 😎
 
 
 
