@@ -2,22 +2,7 @@
 layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | links"</script>
-<!--
-<script>
-	function showButtons() {
-		var wall = document.getElementById("button-wall");
-		var x = document.getElementById("buttons");
-		wall.style.display = "block";
-		x.style.display = "none";
-	} 
-	function hideButtons() {
-		var wall = document.getElementById("button-wall");
-		var x = document.getElementById("buttons");
-		wall.style.display = "none";
-		x.style.display = "block";
-	} 
-</script>
--->
+
 <div style="/*position:relative;float:right;margin:24px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;*/">
 	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
 	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
@@ -53,7 +38,7 @@ layout: page
 					
 			<div style="font-size:1em;font-weight:600;font-style:italic;text-align:center;padding:2px 0 6px 0;">thanks!
 			</div>
-			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals
+			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
 				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
@@ -81,6 +66,12 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
 			</div>
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:120px;clear:both;">also appreciated
 			</div>
@@ -129,9 +120,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="muse ariadne writing club" href="https://museariadne.neocities.org/"><img src="/images/museariadne.png" alt="muse ariadne writing club" width="88" height="31"></a>
