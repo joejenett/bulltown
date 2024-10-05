@@ -68,10 +68,13 @@ layout: page
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
+				<a title="Indieseek.xyz Indie Web Directory | Retroweb Ring" href="https://indieseek.xyz/webring/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory | Retroweb Ring" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:120px;clear:both;">also appreciated
 			</div>
@@ -210,9 +213,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/blog/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="j p g z o n e" href="https://willdotjpg.gay/"><img src="/images/willdotjpg.png" alt="j p g z o n e" width="88" height="31"></a>
