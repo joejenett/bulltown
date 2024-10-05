@@ -119,6 +119,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Simone's Computer" href="https://simone.computer/"><img src="/images/simonecomp.gif" alt="Simone's Computer" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
 			</div>
 			<div class="button">
