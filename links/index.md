@@ -30,6 +30,7 @@ layout: page
 	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
 		<button title="play animations" id="play-gif">Play GIFs</button>
 		<button title="stop animations" id="stop-gif">Stop GIFs</button>
+		<p style="font-size:.8em;">Default = Animation OFF<br>(except on mouse hover)</p>
 	</div>
 
 	<div id="buttonwall">
