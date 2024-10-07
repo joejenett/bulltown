@@ -114,7 +114,10 @@ layout: page
 			<div class="button">
 				<a title="wsrv.nl" href="https://images.weserv.nl/"><img src="/images/wsrv.png" alt="wsrv.nl" width="88" height="31"></a>
 			</div>
-					
+			<div class="button">
+				<a title="Screensaver.js" href="https://github.com/giuseppeg/screensaver"><img src="/images/screensaver.png" alt="Screensaver.js" width="88" height="31"></a>
+			</div>
+		
 			<div id="buttsep">
 			</div>
 			<!--w-->					
