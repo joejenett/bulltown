@@ -122,6 +122,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="cepheus" href="https://cepheus.neocities.org/"><img src="/images/cepheus.gif" alt="cepheus" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Simone's Computer" href="https://simone.computer/"><img src="/images/simonecomp.gif" alt="Simone's Computer" width="88" height="31"></a>
 			</div>
 			<div class="button">
