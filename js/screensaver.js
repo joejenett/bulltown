@@ -25,8 +25,9 @@
   color: #fff9e6;
   /*background-color: #221911;*/
   background:url('/images/leather.png');
-  font-size: 28px;
-  font-weight:600;
+  background-color: #0f0604;
+  font-size: 36px;
+  font-weight:800;
 }
 #${id} div {
   width: ${width}px;
