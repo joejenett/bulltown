@@ -126,6 +126,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="DIGITALRIVER" href="https://digitalriver.neocities.org/"><img src="/images/digitalriver.png" alt="DIGITALRIVER" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cs127" href="https://cs127.github.io/en/"><img src="/images/cs127.gif" alt="cs127" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="𝕧𝕖𝕣𝕥𝕡𝕦𝕤𝕙" href="https://obby.dog/"><img src="/images/vertpushbutton.gif" alt="𝕧𝕖𝕣𝕥𝕡𝕦𝕤𝕙" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="cepheus" href="https://cepheus.neocities.org/"><img src="/images/cepheus.gif" alt="cepheus" width="88" height="31"></a>
 			</div>
 			<div class="button">
