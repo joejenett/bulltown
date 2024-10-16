@@ -77,53 +77,34 @@ layout: page
 			<div class="button">
 				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
-			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:120px;clear:both;">also appreciated
-			</div>
-			<div class="button">
-				<a title="Jekyll Codex" href="https://jekyllcodex.org/"><img src="/images/codex.png" alt="Jekyll Codex" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Directory | BUKMARK.CLUB" href="https://bukmark.club/directory/"><img src="/images/bukmark-mbr.png" alt="Directory | BUKMARK.CLUB" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="32-Bit Cafe" href="https://32bit.cafe/"><img src="/images/32bitcafe.png" alt="32-Bit Cafe" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="dimden's hotel" href="https://dimden.dev/"><img src="/images/dimden.gif" alt="dimden's hotel" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="maya.land" href="https://maya.land/"><img src="/images/maya.gif" alt="maya.land" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="jasmine's journal" href="https://jasm1nii.xyz/"><img src="/images/jasmines.png" alt="jasmine's journal" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Bechno Kid's Hideout!" href="https://bechnokid.neocities.org/"><img src="/images/bechno.jpg" alt="Bechno Kid's Hideout!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Cactus Comments - Federated Web Comments" href="https://cactus.chat/"><img src="/images/cactus.png" alt="Cactus Comments" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="prefers-reduced-motion: Sometimes less movement is more | web.dev" href="https://web.dev/prefers-reduced-motion/"><img src="/images/webdev.png" alt="web.dev" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="*NEKO* Welcome to the Web Neko Server!" href="https://webneko.net/"><img src="/images/neko.png" alt="*NEKO*" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="freezeframe.js" href="https://github.com/ctrl-freaks/freezeframe.js/"><img src="/images/freezeframe.png" alt="freezeframe.js" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="wsrv.nl" href="https://images.weserv.nl/"><img src="/images/wsrv.png" alt="wsrv.nl" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Screensaver.js" href="https://github.com/giuseppeg/screensaver"><img src="/images/screensaver.png" alt="Screensaver.js" width="88" height="31"></a>
-			</div>
+			
 		
 			<div id="buttsep">
 			</div>
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mintchipdotcom" href="https://mintchipdotcom.neocities.org/"><img src="/images/mintchip.png" alt="Mintchipdotcom" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Original France La'Lune" href="https://shenanigans.neocities.org/"><img src="/images/shen-purple.png" alt="The Original France La'Lune" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="CAITSITH'S C00L H0M3P4G3" href="https://caitsith.neocities.org/"><img src="/images/caitbutton.gif" alt="CAITSITH'S C00L H0M3P4G3" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Y2KSTARDUST" href="https://y2kstardust.neocities.org/"><img src="/images/y2kstardust.png" alt="Y2KSTARDUST" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="AquariumAesthetic" href="https://aquariumaesthetic.neocities.org/"><img src="/images/aquarium.gif" alt="AquariumAesthetic" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="EIGHTBRIITT" href="https://eightbriitt.neocities.org/"><img src="/images/eightbriittspring.gif" alt="EIGHTBRIITT" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="catp0rtal" href="https://catp0rtal.neocities.org/"><img src="/images/catp0rtal.gif" alt="catp0rtal" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="DIGITALRIVER" href="https://digitalriver.neocities.org/"><img src="/images/digitalriver.png" alt="DIGITALRIVER" width="88" height="31"></a>
