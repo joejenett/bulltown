@@ -94,7 +94,7 @@ layout: page
 			</div>
 		</span>
 	</div>
-	<div style="text-align:center;margin-top:-24px;margin-left:-10px;">
+	<div style="text-align:center;margin-top:-24px;margin-left:-8px;">
 		[<a href="/links/" onclick="javascript:window.location.href='/pantson/';">top</a>]
 	</div>
 </div>
