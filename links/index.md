@@ -42,6 +42,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -327,9 +330,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="dotdotdot" href="https://cloudy.blue/"><img src="/images/cloudyblue.png" alt="dotdotdot" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Pinkvampyr" href="https://pinkvampyr.leprd.space/"><img src="/images/pinkvampyr.gif" alt="Pinkvampyr" width="88" height="31"></a>
