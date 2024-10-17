@@ -86,6 +86,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Wilbur's Site" href="https://wilburwilliams.uk/"><img src="/images/wilburwilliams.gif" alt="Wilbur's Site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="petrapixel" href="https://petrapixel.neocities.org/"><img src="/images/petrapixel.webp" alt="petrapixel" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Happy Hacking!" href="https://whitevhs.xyz/"><img src="/images/whitevhs.gif" alt="Happy Hacking!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Mintchipdotcom" href="https://mintchipdotcom.neocities.org/"><img src="/images/mintchip.png" alt="Mintchipdotcom" width="88" height="31"></a>
 			</div>
 			<div class="button">
