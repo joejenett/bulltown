@@ -42,6 +42,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Chocolate Revel" href="https://chocolaterevel.neocities.org/"><img src="/images/chocolaterevel.png" alt="Chocolate Revel" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -144,9 +147,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="muse ariadne writing club" href="https://museariadne.neocities.org/"><img src="/images/museariadne.png" alt="muse ariadne writing club" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Chocolate Revel" href="https://chocolaterevel.neocities.org/"><img src="/images/chocolaterevel.png" alt="Chocolate Revel" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="mooface" href="https://mooface.neocities.org/"><img src="/images/mooface.gif" alt="mooface" width="88" height="31"></a>
