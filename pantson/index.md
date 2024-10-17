@@ -51,6 +51,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected
 			</div>
 			<div class="button">
+				<a title="Mintchipdotcom" href="https://mintchipdotcom.neocities.org/"><img src="/images/chansey-coral.png" alt="Mintchipdotcom" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/pantson_sakurapink.png" alt="Sakura Dreams" width="64" height="100"></a>
 			</div>
 			<div class="button">
