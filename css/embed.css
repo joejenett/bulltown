@@ -17,3 +17,6 @@ h2 {
  a:hover {
 	background:#ffe5de;
 }
+.post-list a {
+	margin-right:0;
+}
