@@ -10,13 +10,9 @@ h2 {
 }
  a {
 	text-decoration:none;
-	margin-right:8px;
 	color:#7f676c;
 	font-weight:600;
 }
  a:hover {
 	background:#ffe5de;
-}
-.post-list a {
-	margin-right:0;
 }
