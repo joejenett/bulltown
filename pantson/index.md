@@ -51,6 +51,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected
 			</div>
 			<div class="button">
+				<a title="lina's home" href="https://amalinalai.github.io/precipice/"><img src="/images/morning-mist.png" alt="lina's home" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="Mintchipdotcom" href="https://mintchipdotcom.neocities.org/"><img src="/images/chansey-coral.png" alt="Mintchipdotcom" width="64" height="100"></a>
 			</div>
 			<div class="button">
