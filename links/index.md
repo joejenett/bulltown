@@ -92,6 +92,19 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Grlrot" href="https://grlrot.neocities.org/"><img src="/images/grlrot.gif" alt="Grlrot" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="lina's home" href="https://amalinalai.github.io/precipice/"><img src="/images/lina-button.gif" alt="lina's home" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Melvin's World!" href="https://melvins-world.neocities.org/"><img src="/images/me
+					lvins.gif" alt="Melvin's World!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Coyote's Link Hub" href="https://osteophage.neocities.org/"><img src="/images/osteophage.png" alt="Coyote's Link Hub" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Wilbur's Site" href="https://wilburwilliams.uk/"><img src="/images/wilburwilliams.gif" alt="Wilbur's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
