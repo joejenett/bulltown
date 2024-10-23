@@ -92,6 +92,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="The Lilac Lynx" href="http://lilaclynx.net/"><img src="/images/lilaclynx.png" alt="The Lilac Lynx" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="flounder heights 102" href="https://fh102.neocities.org/"><img src="/images/sephlow.png" alt="flounder heights 102" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Grlrot" href="https://grlrot.neocities.org/"><img src="/images/grlrot.gif" alt="Grlrot" width="88" height="31"></a>
 			</div>
 			<div class="button">
