@@ -28,8 +28,8 @@ layout: page
 	
 				
 	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
-					<button id="play-gif" class="gbutton" style="border:none;background:none;"><a name="playg"><img src="/images/playg.png"></a></button>
-					<button id="stop-gif" class="gbutton" style="border:none;background:none;"><a name="stopg"><img src="/images/stopg.png"></a></button>
+		<button id="play-gif" class="gbutton" style="border:none;background:none;position:relative;left:4px;"><a name="playg"><img src="/images/playg.png"></a></button>
+		<button id="stop-gif" class="gbutton" style="border:none;background:none;position:relative;left:-4px;"><a name="stopg"><img src="/images/stopg.png"></a></button>
 		<p style="font-size:.8em;">Default = Animation OFF<br>(except on mouse hover)</p>
 	</div>
 
