@@ -40,20 +40,11 @@ body {
 	transform: scale(1.1);
 }
 
-/*
-#play-gif {
-	border:none;
-	background:none;
-	position:relative;
-	left:4px;
-	}
-#stop-gif {
-	border:none;
-	background:none;
-	position:relative;
-	left:-4px;
-	}
-*/
+.gbutton {
+	background-color:#fff9e6;
+	color:#440303;
+	font-weight:600;
+}
 #search-input {
 	max-width:100%;
 	padding:4px 9px;
@@ -480,6 +471,9 @@ div#reasons img {
 	body {
 		font-size:18px;
 	}
+	.gbutton {
+	background-color:none;
+}
 	#container {
 		
 	}
