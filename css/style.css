@@ -41,9 +41,9 @@ body {
 }
 
 .gbutton {
-	background-color:#fff9e6;
+	/*background-color:#fff9e6;
 	color:#440303;
-	font-weight:600;
+	font-weight:600;*/
 }
 #search-input {
 	max-width:100%;
@@ -471,9 +471,6 @@ div#reasons img {
 	body {
 		font-size:18px;
 	}
-	.gbutton {
-	background-color:none;
-}
 	#container {
 		
 	}
