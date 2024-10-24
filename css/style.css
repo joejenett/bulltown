@@ -39,6 +39,21 @@ body {
 .button a:hover img, .gbutton a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img {
 	transform: scale(1.1);
 }
+
+/*
+#play-gif {
+	border:none;
+	background:none;
+	position:relative;
+	left:4px;
+	}
+#stop-gif {
+	border:none;
+	background:none;
+	position:relative;
+	left:-4px;
+	}
+*/
 #search-input {
 	max-width:100%;
 	padding:4px 9px;
