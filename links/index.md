@@ -28,8 +28,8 @@ layout: page
 	
 				
 	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
-					<button id="play-gif" class="gbutton" style="background-color:#fff9e6;color:#440303;font-weight:600;">Play GIFs</button>
-					<button id="stop-gif" class="gbutton" style="background-color:#fff9e6;color:#440303;font-weight:600;">Stop GIFs</button>
+					<button id="play-gif" class="gbutton">Play GIFs</button>
+					<button id="stop-gif" class="gbutton">Stop GIFs</button>
 
 		<p style="font-size:.8em;">Default = Animation OFF<br>(except on mouse hover)</p>
 	</div>
