@@ -485,12 +485,10 @@ div#reasons img {
 		font-size:18px;
 	}
 	#container {
-		
-	}
-	
-	#colorclub {
-		
-	}
+#play-gif, #stop-gif {
+	position:relative;
+	left:-9px;
+}
 	#colorclub .button img {
 		
 	}
