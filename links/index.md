@@ -42,6 +42,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Chocolate Revel" href="https://chocolaterevel.neocities.org/"><img src="/images/chocolaterevel.png" alt="Chocolate Revel" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -90,6 +93,27 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mihail's Page" href="https://mihails-guide.neocities.org/"><img src="/images/theguide.gif" alt="Mihail's Page" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="a zorua's personal planet" href="https://corvidae.digital/"><img src="/images/corvidae.gif" alt="a zorua's personal planet" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Xiokka's Digital Home" href="https://xiokka.neocities.org/"><img src="/images/xiokka.png" alt="Xiokka's Digital Home" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="soap" href="https://soapfriendo.neocities.org/"><img src="/images/soapbutton.png" alt="soap" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mishamallow" href="https://mishamallow.neocities.org/"><img src="/images/mishamallow.gif" alt="Mishamallow" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cybr.gay" href="https://cybr.gay/"><img src="/images/cybr.png" alt="cybr.gay" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="chimerart" href="https://chimera.pet/art/"><img src="/images/chimerapet.gif" alt="chimerart" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="The Lilac Lynx" href="http://lilaclynx.net/"><img src="/images/lilaclynx.png" alt="The Lilac Lynx" width="88" height="31"></a>
@@ -226,9 +250,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Rubber Garage" href="https://rubbergarage.neocities.org/"><img src="/images/rubbergarbage.gif" alt="Rubber Garage" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
@@ -404,18 +425,11 @@ layout: page
 				<a title="devils’ den" href="https://devils.gay/"><img src="/images/devils-gay.gif" alt="devils’ den" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="the flames of disaster" href="https://crisis.city/"><img src="/images/crisiscity.png" alt="the flames of disaster" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Small World: An Artist Directory for the Small Web" href="https://smallworld.mizuki.world/"><img src="/images/smallworld.png" alt="Small World: An Artist Directory for the Small Web" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="manyface world" href="https://manyface.neocities.org/"><img src="/images/manyface.png" alt="manyface world" width="88" height="31"></a>
 			</div>
-			<div class="button">
-				<a title="uksz" href="https://uksz.org/"><img src="/images/uksz.gif" alt="uksz" width="88" height="31"></a>
-			</div>
-						
 			<div class="button">
 				<a title="Solinus' Website" href="https://solinus.neocities.org/"><img src="/images/salinus.png" alt="Solinus' Website" width="88" height="31"></a>
 			</div>
