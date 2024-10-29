@@ -26,8 +26,8 @@ layout: page
 	</noscript>		
 				
 	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
-		<button title="play animations" id="play-gif">Play GIFs</button>
-		<button title="stop animations" id="stop-gif">Stop GIFs</button>
+					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
+					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
 	</div>
 
 	<div id="colorclub">

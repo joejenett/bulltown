@@ -6,8 +6,8 @@ layout: page
 <a href="/covers/">&larr; back to covers</a>
 </div>
 <div style="text-align:center;margin:18px auto 18px auto;">
-<button id="play-gif">Play GIF</button>
-<button id="stop-gif">Stop GIF</button>
+					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
+					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
 </div>
 
 <div id="cover" style="background:#000000;width:650px:height:270px;">
