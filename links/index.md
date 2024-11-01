@@ -42,6 +42,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Jako's Trades" href="https://jackofall.neocities.org/"><img src="/images/jako.gif" alt="Jako's Trades" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -199,9 +202,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="cepheus" href="https://cepheus.neocities.org/"><img src="/images/cepheus.gif" alt="cepheus" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="" width="88" height="31"></a>
