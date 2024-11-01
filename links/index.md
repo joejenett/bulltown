@@ -1152,9 +1152,6 @@ layout: page
 			</div>
 
 			<div class="button">
-				<a title="Gray’s Tea" href="https://graystea.neocities.org/"><img src="/images/graystea.png" alt="Gray’s Tea" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Aegi" href="https://aegi.neocities.org/"><img src="/images/aegi_button.gif" alt="Aegi" width="88" height="31"></a>
 			</div>
 			<div class="button">
