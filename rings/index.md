@@ -45,15 +45,16 @@ layout: page
 			<a href="https://webri.ng/webring/retroweb/previous?index=2">&larr;</a> | <a href="https://webri.ng/webring/retroweb/random">Random</a> | <a href="https://webri.ng/webring/retroweb/next?index=2">&rarr;</a>
 		</p>
 	</div>
-	<div class="LoopRingWrapper" style="text-align:center">
-		<p style="font-size:.85em;margin-top:1.5em;">
-			<a href="https://loop.graycot.dev/webring.html?action=prev" title="previous">← </a> |
-			<a href="https://loop.graycot.dev/webring.html?action=list" title="list"> ... </a> |
-			<a href="https://loop.graycot.dev/webring.html?action=home" title="Loop Ring Home"> Loop Ring </a> |
-			<a href="https://loop.graycot.dev/webring.html?action=rand" title="random"> ? </a> |
-			<a href="https://loop.graycot.dev/webring.html?action=next" title="next"> →</a>
-		</p>
-	</div>
+	<div class="LoopRingWrapper" style="text-align:center;">
+					<p style="font-size:.85em;margin-top:1.5em;">
+						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=prev" title="previous">← </a> |
+						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=list" title="list"> ... </a> |
+						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=home" title="Loop Ring Home"> Loop Ring </a> |
+						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=rand" title="random"> ? </a> |
+						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=next" title="next"> →</a>
+						<br>(Errors, 11/01/24)
+					</p>
+				</div>
 	<!--
 		<div style="text-align:center;padding:12px;">
 			<iframe width="180" height="180" style="border:none" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
