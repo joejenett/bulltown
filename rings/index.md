@@ -52,7 +52,7 @@ layout: page
 						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=home" title="Loop Ring Home"> Loop Ring </a> |
 						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=rand" title="random"> ? </a> |
 						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=next" title="next"> →</a>
-						<br>(Errors, 11/01/24)
+						<br><small>(Errors, 11/01/24)</small>
 					</p>
 				</div>
 	<!--
