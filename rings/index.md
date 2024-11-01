@@ -45,7 +45,8 @@ layout: page
 			<a href="https://webri.ng/webring/retroweb/previous?index=2">&larr;</a> | <a href="https://webri.ng/webring/retroweb/random">Random</a> | <a href="https://webri.ng/webring/retroweb/next?index=2">&rarr;</a>
 		</p>
 	</div>
-	<div class="LoopRingWrapper" style="text-align:center;">
+		<!--
+				<div class="LoopRingWrapper" style="text-align:center;">
 					<p style="font-size:.85em;margin-top:1.5em;">
 						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=prev" title="previous">← </a> |
 						<a style="color:#ccc;" href="https://loop.graycot.dev/webring.html?action=list" title="list"> ... </a> |
@@ -55,7 +56,7 @@ layout: page
 						<br><small>(Errors, 11/01/24)</small>
 					</p>
 				</div>
-	<!--
+
 		<div style="text-align:center;padding:12px;">
 			<iframe width="180" height="180" style="border:none" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
 		</div>
@@ -77,7 +78,13 @@ layout: page
 				    <a href='https://miscri.netlify.app/webring?action=next'> → </a> 
 				</div>
 
-
+				<div class="LoopRingWrapper" style="text-align:center;">
+					<p style="font-size:.85em;margin-top:1.5em;">
+						<a style="color:#999;" href="https://github.com/Graycot/loop-ring" title="Loop Ring Home"> Loop Ring </a>
+						<br><small>(11/01/24: link errors)</small>
+					</p>
+				</div>
+	
 <div style="text-align:center;margin-top:1.5em;/*position:relative;left:-8px;*/">
 <details>
 	<summary>
