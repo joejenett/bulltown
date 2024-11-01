@@ -95,6 +95,30 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Marten Site!" href="https://joshtrademark.neocities.org/"><img src="/images/joshtrademark.png" alt="Marten Site!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Teg219's site on the web" href="https://theawesometeg219.neocities.org/"><img src="/images/teg219.png" alt="Teg219's site on the web" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Satorikeiko" href="https://satorikeiko.surge.sh/"><img src="/images/satorikeika.png" alt="Satorikeiko" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Michealtheratz :)" href="https://michealtheratz.neocities.org/"><img src="/images/michaeltheratz.png" alt="Michealtheratz :)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="kristen's space." href="https://marcinek.tech/"><img src="/images/marcinek.png" alt="kristen's space." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Din's Desktop" href="https://dinpixels.neocities.org/"><img src="/images/dinpixels.gif" alt="Din's Desktop" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Aarix's Place" href="https://aarix.neocities.org/"><img src="/images/aarix.gif" alt="Aarix's Place" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Iron Ragdoll" href="https://tofutush.github.io/The-Iron-Ragdoll/"><img src="/images/iron-ragdoll.gif" alt="The Iron Ragdoll" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Mihail's Page" href="https://mihails-guide.neocities.org/"><img src="/images/theguide.gif" alt="Mihail's Page" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -581,7 +605,7 @@ layout: page
 				<a title="world of randal and his friends" href="https://ranfren.neocities.org/"><img src="/images/ranfren.gif" alt="world of randal and his friends" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="SillyCat" href="https://sillykitty136.neocities.org/homepage"><img src="/images/sillykitty.gif" alt="SillyCat" width="88" height="31"></a>
+				<a title="SillyCat" href="https://sillykitty.me/"><img src="/images/sillykitty.gif" alt="SillyCat" width="88" height="31"></a>
 			</div>						
 			<div class="button">
 				<a title="TheL3tterM" href="https://thel3tterm.com/"><img src="/images/thel3tterm.png" alt="TheL3tterM" width="88" height="31"></a>
