@@ -917,9 +917,6 @@ layout: page
 				<a title="luna’s webbed site" href="https://janluna.eu.org/"><img src="/images/luna.gif" alt="luna’s webbed site" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="KawaiiZenbos’ Website" href="https://kawaiizenbo.me/"><img src="/images/kawaiizenbo.gif" alt="KawaiiZenbos’ Website" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="oomfie" href="https://oomfie.town/"><img src="/images/oomfie.gif" alt="oomfie" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1253,9 +1250,6 @@ layout: page
 					
 			<div class="button">
 				<a title="✦ Zoraster.org" href="https://www.zoraster.org/"><img src="/images/zoraster.gif" alt="✦ Zoraster.org" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="✩₊˚‧ 𝑙𝑒𝑥𝑖'𝑠 𝑤𝑒𝑏𝑠𝑖𝑡𝑒 ‧˚₊✩" href="https://www.lexiqqq.com/"><img src="/images/lexiqqq.gif" alt="✩₊˚‧ 𝑙𝑒𝑥𝑖'𝑠 𝑤𝑒𝑏𝑠𝑖𝑡𝑒 ‧˚₊✩" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="EGGRAMEN" href="https://eggramen.neocities.org/main"><img src="/images/eggramen.png" alt="EGGRAMEN" width="88" height="31"></a>
