@@ -378,9 +378,6 @@ layout: page
 				<a title="Welcome to the Astertrails" href="https://vidapon.net/"><img src="/images/astertrail.gif" alt="Welcome to the Astertrails" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="puxped's station" href="https://pux.nehukon.de/"><img src="/images/puxped.png" alt="puxped's station" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Fix-It Felixの神社" href="https://felixfever.nekoweb.org/"><img src="/images/felixfever.gif" alt="Fix-It Felixの神社" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -747,10 +744,6 @@ layout: page
 				<a title="fizzsea" href="https://fizzsea.neocities.org/"><img src="/images/fizzsea.gif" alt="fizzsea" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="B’s Cafe" href="https://binarydigit.cafe/"><img src="/images/binarydigit.png" alt="B’s Cafe" width="88" height="31"></a>
-			</div>
-												
-			<div class="button">
 				<a title="turd" href="https://turd.neocities.org/"><img src="/images/turd.png" alt="turd" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -851,12 +844,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="coffeebug's website" href="https://midifreak.online/"><img src="/images/coffeebug.gif" alt="coffeebug's website" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="A Solitary Website!" href="https://asolitaryweb.site/"><img src="/images/solitarybutton.gif" alt="A Solitary Website!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Mopi's cute website (uwu)" href="https://estrogen.monster/"><img src="/images/mopi.jpg" alt="Mopi's cute website (uwu)" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Bonnibel's Graphic Collection" href="https://graphic.neocities.org/"><img src="/images/graphic.png" alt="Bonnibel's Graphic Collection" width="88" height="31"></a>
