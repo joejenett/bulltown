@@ -98,6 +98,24 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="dreaming in deadmalls" href="https://deadmall.xyz/"><img src="/images/deadmall.gif" alt="dreaming in deadmalls" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Occasionally, content" href="https://murid.neocities.org/"><img src="/images/murid.png" alt="Occasionally, content" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="ten@earth ~" href="https://karuma.me/"><img src="/images/10kph-01.png" alt="ten@earth ~" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="welcome to hill house" href="https://hillhouse.neocities.org/"><img src="/images/hillhouse.gif" alt="welcome to hill house" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cyber♡peach" href="https://cyberpeach.net/"><img src="/images/cyberpeach.png" alt="cyber♡peach" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Marten Site!" href="https://joshtrademark.neocities.org/"><img src="/images/joshtrademark.png" alt="Marten Site!" width="88" height="31"></a>
 			</div>
 			<div class="button">
