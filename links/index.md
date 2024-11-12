@@ -98,6 +98,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
 			</div>
 			<div class="button">
