@@ -176,8 +176,7 @@ layout: page
 				<a title="lina's home" href="https://amalinalai.github.io/precipice/"><img src="/images/lina-button.gif" alt="lina's home" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Melvin's World!" href="https://melvins-world.neocities.org/"><img src="/images/me
-					lvins.gif" alt="Melvin's World!" width="88" height="31"></a>
+				<a title="Melvin's World!" href="https://melvins-world.neocities.org/"><img src="/images/melvins.gif" alt="Melvin's World!" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Coyote's Link Hub" href="https://osteophage.neocities.org/"><img src="/images/osteophage.png" alt="Coyote's Link Hub" width="88" height="31"></a>
@@ -526,7 +525,7 @@ layout: page
 				<a title="frog.net!!" href="https://frognet.neocities.org/"><img src="/images/frognet.gif" alt="frog.net!!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="腐 Fujofans Fanlisting" href="ttps://fujofans.scumsuck.com/"><img src="/images/fujofans.png" alt="腐 Fujofans Fanlisting" width="88" height="31"></a>
+				<a title="腐 Fujofans Fanlisting" href="https://fujofans.scumsuck.com/"><img src="/images/fujofans.png" alt="腐 Fujofans Fanlisting" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="birdwrongs" href="https://birdwrongs.sh/"><img src="/images/birdwrongs.png" alt="birdwrongs" width="88" height="31"></a>
@@ -1172,9 +1171,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Pink Sleazoid" href="https://pinksleazoid.neocities.org/"><img src="/images/pinksleazoid.gif" alt="Pink Sleazoid" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="idi.moe" href="https://www.idi.moe/"><img src="/images/idi-moe.png" alt="idi.moe" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="tarocchilla" href="https://tarocchilla.neocities.org/"><img src="/images/taro.gif" alt="tarocchilla" width="88" height="31"></a>
