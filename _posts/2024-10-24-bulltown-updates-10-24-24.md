@@ -7,7 +7,7 @@ category:
 permalink: /bulltown-updates-10-24-24/
 slug: bulltown-updates-10-24-24
 summary: 
-comments: true
+comments: false
 ---
 Some design changes are underway on both sites. Also in progress, I’m working on improving mobile rendering of some pages of the bulltown.neo site. If you encounter any funkiness on mobile, it’s probably something I’m working on. Sorry for any <em>eew</em>. Cheers!
 

@@ -7,7 +7,7 @@ category:
 permalink: /claiming-a-second-pantson-color/
 slug: claiming-a-second-pantson-color
 summary: Yay!
-comments: true
+comments: false
 ---
 ... it’s called *CHOCOLATO*
 

@@ -7,7 +7,7 @@ category:
 permalink: /claiming-my-first-pantson-color/
 slug: claiming-my-first-pantson-color
 summary: 
-comments: true
+comments: false
 ---
 ... it’s called *DA BLUES*
 

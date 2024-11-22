@@ -7,7 +7,7 @@ category:
 permalink: /bulltown-updates-09-16-24/
 slug: bulltown-updates-09-16-24
 summary: an s*load of fun
-comments: true
+comments: false
 ---
 <p>
 You may have noticed the journal is now searchable, implemented a fews weeks back. More recently in addition to working on <a href="https://bulltown.neocities.org/">bulltown.neo</a>, I added a ’link to us’ section on the <a href="links/">links</a> page, which includes new button choices. As always, the <a href="links/">links</a> page button wall and the <a href="/webgarden/">webgarden</a> are both steadily growing. 

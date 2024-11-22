@@ -7,7 +7,7 @@ category:
 permalink: /that-little-bull/
 slug: that-little bull-on the-homepage
 summary: 
-comments: true
+comments: false
 excerpt: "You may have noticed that little bull up there on the right side of the homepage. I’ve grown rather fond of it...<p>(<a href='/that-little-bull/'>read more</a>)</p>"
 ---
 
