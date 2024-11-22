@@ -11,7 +11,7 @@ comments: false
 excerpt: 
 ---
 
-<p style="padding-top:1em;">
+<p style="padding-top:.7em;">
 	<img src="/images/justsayno.png" alt="">
 </p>
 
