@@ -443,7 +443,7 @@ div#reasons img {
 	font-weight:400;
 	clear:both;
 	margin-bottom:12px;
-	border-top:4px double #ccc;
+	/*border-top:4px double #ccc;*/
 	padding:8px 0 8px 0;
 	position:relative;
 	top:12px;
@@ -455,7 +455,7 @@ div#reasons img {
 	font-weight:400;
 	clear:both;
 	margin-bottom:12px;
-	border-top:4px double #ccc;
+	/*border-top:4px double #ccc;*/
 	padding:8px 0 8px 0;
 	position:relative;
 	top:12px;
