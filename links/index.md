@@ -895,9 +895,6 @@ layout: page
 				<a title="Memento Mori" href="https://crossveil.neocities.org/"><img src="/images/crossveil.gif" alt="Memento Mori" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="remiiiiii.online" href="https://remiiiiii.online/"><img src="/images/remi88x31.png" alt="remiiiiii.online" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Red Velvet - definitely NOT a diary" href="https://redvelvet.cc/"><img src="/images/redvelvet.gif" alt="Red Velvet - definitely NOT a diary" width="88" height="31"></a>
 			</div>
 					
