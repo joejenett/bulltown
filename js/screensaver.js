@@ -22,11 +22,11 @@
 #${id} {
   left: 0; top: 0; right: 0; bottom: 0;
   z-index: 100000;
-  color: #fff9e6;
+  color: #3b332c;
   /*background-color: #221911;*/
   background:url('/images/leather.png');
   background-color: #0f0604;
-  font-size: 36px;
+  font-size: 72px;
   font-weight:800;
 }
 #${id} div {
