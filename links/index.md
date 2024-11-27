@@ -1013,7 +1013,7 @@ layout: page
 				<a title="Tangerine Tree" href="https://plumbum.neocities.org/"><img src="/images/tangerinetree.png" alt="Tangerine Tree" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="solar(pop)punk" href="https://solarpoppunk.neocities.org/"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
+				<a title="solar(pop)punk" href="https://techrahouse.neocities.org/s/home"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ur the cutest forreal" href="https://brattiest.neocities.org/"><img src="/images/brattiest.gif" alt="ur the cutest forreal" width="88" height="31"></a>
