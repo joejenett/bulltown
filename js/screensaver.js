@@ -28,6 +28,8 @@
   background-color: #0f0604;
   font-size: 72px;
   font-weight:800;
+  -webkit-text-stroke: 1px #76706b;
+  text-shadow: 0px 1px 1px #76706b;
 }
 #${id} div {
   width: ${width}px;
