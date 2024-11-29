@@ -103,6 +103,36 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ANTHROPOD!!!!" href="https://anthropod.neocities.org/"><img src="/images/anthropod.gif" alt="ANTHROPOD!!!!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="silver's garden of dreams..." href="https://silver.lgbt/"><img src="/images/silver.gif" alt="silver's garden of dreams..." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="june's web page...ᐟ 💫" href="https://webcatz.neocities.org/"><img src="/images/webcatz.png" alt="june's web page...ᐟ 💫" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="lopster@neocities" href="https://lopster.neocities.org/"><img src="/images/lopster.gif" alt="lopster@neocities" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="jeith!" href="https://jeith.com/"><img src="/images/jeith.gif" alt="jeith!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="sneek's realm" href="https://sneekrealm.neocities.org/"><img src="/images/sneeks.png" alt="sneek's realm" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Cadnomori" href="https://cadnomori.neocities.org/"><img src="/images/kuramabanner.png" alt="Cadnomori" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the garden of madeline" href="https://thegardenofmadeline.neocities.org/"><img src="/images/gardenofmadeline.gif" alt="the garden of madeline" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="TEHUAN" href="https://tehuan.neocities.org/"><img src="/images/tehuan.png" alt="TEHUAN" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="☆ Mimikitty49 ☆" href="https://mimikitty49.neocities.org/"><img src="/images/mimikitty49.gif" alt="☆ Mimikitty49 ☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
 			</div>
 			<div class="button">
