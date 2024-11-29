@@ -43,6 +43,9 @@ layout: page
 			</div>
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
+			<div class="button" style="font-size:.6rem;width:88px;height:31px;text-align:center;border:1px dashed #222;margin:2px;background:#fff;">
+				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><span style="position:relative;top:2px;">Techramancer (placeholder)</span></a>
+			</div>
 			<div class="button">
 				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
 			</div>
@@ -93,7 +96,7 @@ layout: page
 			</div>
 			
 		
-			<div id="buttsep">
+			<div id="buttsep" style="margin-top:168px;">
 			</div>
 			<!--w-->					
 			<div class="button">
