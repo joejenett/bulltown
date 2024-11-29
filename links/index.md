@@ -43,6 +43,9 @@ layout: page
 			</div>
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
+			<div class="button">
+				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
+			</div>
 			<div class="button" style="font-size:.6rem;width:88px;height:31px;text-align:center;border:1px dashed #222;margin:2px;background:#fff;">
 				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><span style="position:relative;top:2px;">Techramancer (placeholder)</span></a>
 			</div>
@@ -134,9 +137,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="dreaming in deadmalls" href="https://deadmall.xyz/"><img src="/images/deadmall.gif" alt="dreaming in deadmalls" width="88" height="31"></a>
