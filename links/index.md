@@ -106,6 +106,17 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Sponduliocity" href="https://spondulio.neocities.org/"><img src="/images/spondbutton.gif" alt="Sponduliocity" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="House of Nettles" href="https://nex-3.com/"><img src="/images/house-of-nettles.gif" alt="House of Nettles" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="No. 9 Dream" href="https://numberninedream.neocities.org/"><img src="/images/nnd1.gif" alt="No. 9 Dream" width="88" height="31"></a>
+			</div>			<div class="button">
 				<a title="ANTHROPOD!!!!" href="https://anthropod.neocities.org/"><img src="/images/anthropod.gif" alt="ANTHROPOD!!!!" width="88" height="31"></a>
 			</div>
 			<div class="button">
