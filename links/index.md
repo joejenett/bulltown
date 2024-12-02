@@ -106,6 +106,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Många Saker - Many Things" href="https://manythings.neocities.org/"><img src="/images/manythings.png" alt="Många Saker - Many Things" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
 			</div>
 			<div class="button">
