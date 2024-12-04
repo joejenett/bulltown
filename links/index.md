@@ -598,9 +598,6 @@ layout: page
 				<a title="netizen club" href="https://netizen.club/"><img src="/images/netizen-club.png" alt="netizen club" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Spycicl" href="https://spycicl.neocities.org/"><img src="/images/spycicl.gif" alt="Spycicl" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
 			</div>
 			<div class="button">
