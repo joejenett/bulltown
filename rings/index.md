@@ -77,19 +77,19 @@ layout: page
 				    <!--<a href='https://miscri.netlify.app/webring?action=rand'> ?</a>-->
 				    <a href='https://miscri.netlify.app/webring?action=next'> → </a> 
 				</div>
-
+<!--
 				<div class="LoopRingWrapper" style="text-align:center;">
 					<p style="font-size:.85em;margin-top:1.5em;">
 						<a style="color:#999;" href="https://github.com/Graycot/loop-ring" title="Loop Ring Home"> Loop Ring </a>
 						<br><small>(11/01/24: link errors)</small>
 					</p>
 				</div>
-	
+	-->
 <div style="text-align:center;margin-top:1.5em;/*position:relative;left:-8px;*/">
 <details>
 	<summary>
 		<span style="font-size:.85em;margin-top:1.5em;color:#7f676c;">
-			<span style="font-weight:500;">NavLink Ads<br><small style="">(some animation)</small>
+			<span style="font-weight:500;">NavLink Ads<br><small style="">(may contain animation - click to toggle)</small>
 			</span>
 		</span>
 	</summary>
