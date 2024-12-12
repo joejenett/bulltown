@@ -46,8 +46,8 @@ layout: page
 			<div class="button">
 				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
 			</div>
-			<div class="button" style="font-size:.6rem;width:88px;height:31px;text-align:center;border:1px dashed #222;margin:2px;background:#fff;">
-				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><span style="position:relative;top:2px;">Techramancer (placeholder)</span></a>
+			<div class="button">
+				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><img src="/images/techra-ph.png" alt="House of the Techramancer" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
@@ -104,6 +104,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="❁ Silly Goober ❁" href="https://silly-goober.neocities.org/"><img src="/images/sillygoober.gif" alt="❁ Silly Goober ❁" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Många Saker - Many Things" href="https://manythings.neocities.org/"><img src="/images/manythings.png" alt="Många Saker - Many Things" width="88" height="31"></a>
