@@ -106,7 +106,7 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="❁ Silly Goober ❁" href="https://silly-goober.neocities.org/"><img src="/images/sillygoober.gif" alt="❁ Silly Goober ❁" width="88" height="31"></a>
+				<a title="❁ Silly Goober ❁" href="https://silly-goober.neocities.org/"><img src="/images/webbutton.gif" alt="❁ Silly Goober ❁" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="Många Saker - Many Things" href="https://manythings.neocities.org/"><img src="/images/manythings.png" alt="Många Saker - Many Things" width="88" height="31"></a>
