@@ -47,7 +47,7 @@ layout: page
 				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><img src="/images/techra-ph.png" alt="House of the Techramancer" width="88" height="31"></a>
+				<a title="House of the Techramancer" href="https://techrahouse.neocities.org/"><img src="/images/techrahouse.png" alt="House of the Techramancer" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Sakura Dreams" href="https://sakuradreams.neocities.org/"><img src="/images/sakuradreams.gif" alt="Sakura Dreams" width="88" height="31"></a>
