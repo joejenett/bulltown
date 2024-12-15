@@ -106,6 +106,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ᓚᘏᗢ" href="https://cherished-cat.neocities.org/"><img src="/images/cherishedcat.png" alt="ᓚᘏᗢ" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Soop World :3" href="https://soop.neocities.org/"><img src="/images/soapworld3.png" alt="Soop World :3" width="88" height="31"></a>
 			</div>
 			<div class="button">
