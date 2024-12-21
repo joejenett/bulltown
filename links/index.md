@@ -106,6 +106,33 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Hope In Moe ♪" href="https://applesayce.neocities.org/"><img src="/images/hopeinmoe.png" alt="Hope In Moe ♪" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the sevenfold calls!" href="https://enter-the-sevenfold.neocities.org/"><img src="/images/sevenfold.png" alt="the sevenfold calls!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Epic Space." href="https://epic1.neocities.org/"><img src="/images/epic1.gif" alt="Epic Space." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="☆☆☆ orion's belt ☆☆☆" href="https://orion-overdrive.neocities.org/"><img src="/images/orionoverdrive.png" alt="☆☆☆ orion's belt ☆☆☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="PROPHETESQUE" href="https://prophetesque.gay/"><img src="/images/prophetesque.png" alt="PROPHETESQUE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="QRUNCHY SPACE" href="https://qrunchy.space/"><img src="/images/qrunchybutton.gif" alt="QRUNCHY SPACE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Renata's Laboratory" href="https://re-nata.neocities.org/"><img src="/images/re-nata.gif" alt="Renata's Laboratory" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="·˚Skykristal✧･ﾟ" href="https://skykristal.art/"><img src="/images/skykrystal.gif" alt="·˚Skykristal✧･ﾟ" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Checkered Hell" href="https://superkirbylover.me/"><img src="/images/superkirbylover.gif" alt="Checkered Hell" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="pundone" href="https://pundone.neocities.org/"><img src="/images/pundone.png" alt="pundone" width="88" height="31"></a>
 			</div>
 			<div class="button">
