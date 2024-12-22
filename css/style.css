@@ -7,7 +7,7 @@ body {
 	background:url('/images/leather.png');
 	background-color: #0f0604;
 }
-@media only screen and (max-width:431px) {
+/*@media only screen and (max-width:431px) {
 	#announcer {
 	max-width:280px;
 	transform:scale(.9);
@@ -18,7 +18,7 @@ body {
 	max-width:260px;
 	transform:scale(.8);
 }
-}
+}*/
 #slug {
   position:relative;
   float:right;
