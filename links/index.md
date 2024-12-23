@@ -106,6 +106,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="moshball's web <3" href="https://moshball.neocities.org/"><img src="/images/moshball.png" alt="moshball's web <3" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Hope In Moe ♪" href="https://applesayce.neocities.org/"><img src="/images/hopeinmoe.png" alt="Hope In Moe ♪" width="88" height="31"></a>
 			</div>
 			<div class="button">
