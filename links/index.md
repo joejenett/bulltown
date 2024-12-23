@@ -294,7 +294,7 @@ layout: page
 				<a title="Y2KSTARDUST" href="https://y2kstardust.neocities.org/"><img src="/images/y2kstardust.png" alt="Y2KSTARDUST" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="AquariumAesthetic" href="https://aquariumaesthetic.neocities.org/"><img src="/images/aquarium.gif" alt="AquariumAesthetic" width="88" height="31"></a>
+				<a title="AquariumAesthetic" href="https://aquariumaesthetic.com/"><img src="/images/aquarium.gif" alt="AquariumAesthetic" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="EIGHTBRIITT" href="https://eightbriitt.neocities.org/"><img src="/images/eightbriittspring.gif" alt="EIGHTBRIITT" width="88" height="31"></a>
