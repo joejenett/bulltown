@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="moshball's web <3" href="https://moshball.neocities.org/"><img src="/images/moshball.png" alt="moshball's web <3" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="☆⌒(>。<)" href="https://sabrin.party/"><img src="/images/sabrinparty.gif" alt="☆⌒(>。<)" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -104,9 +107,6 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="moshball's web <3" href="https://moshball.neocities.org/"><img src="/images/moshball.png" alt="moshball's web <3" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Hope In Moe ♪" href="https://applesayce.neocities.org/"><img src="/images/hopeinmoe.png" alt="Hope In Moe ♪" width="88" height="31"></a>
