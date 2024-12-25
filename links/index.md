@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="A Blue in a Sea of Reds" href="https://a-blue-in-a-sea-of-reds.neocities.org/"><img src="/images/blue.png" alt="A Blue in a Sea of Reds" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="moshball's web <3" href="https://moshball.neocities.org/"><img src="/images/moshball.png" alt="moshball's web <3" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -367,9 +370,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Hey! It's R.K. Smith!" href="https://heyitsrksmith.com/"><img src="/images/rksmith.gif" alt="Hey! It's R.K. Smith!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="A Blue in a Sea of Reds" href="https://a-blue-in-a-sea-of-reds.neocities.org/"><img src="/images/blue.png" alt="A Blue in a Sea of Reds" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="PORTFIEND" href="https://portfiend.quest/"><img src="/images/portfiend.png" alt="PORTFIEND" width="88" height="31"></a>
