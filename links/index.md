@@ -1210,7 +1210,7 @@ layout: page
 				<a title="cabbage sorter" href="https://cabbagesorter.neocities.org/"><img src="/images/cabbagesorter.gif" alt="cabbage sorter" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Windigo's infernum" href="https://windigo.neocities.org/"><img src="/images/windigo.gif" alt="Windigo's infernum" width="88" height="31"></a>
+				<a title="Windigo's infernum" href="https://windigone.neocities.org/"><img src="/images/windigo.gif" alt="Windigo's infernum" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="cementgarden" href="https://cementgarden.neocities.org/"><img src="/images/cementgarden.gif" alt="cementgarden" width="88" height="31"></a>
