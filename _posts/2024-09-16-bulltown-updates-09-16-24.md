@@ -15,4 +15,4 @@ You may have noticed the journal is now searchable, implemented a fews weeks bac
 <p>
 In other words, I’ve been having an s*load of fun with <em>bulltown</em> lately!
 </p>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

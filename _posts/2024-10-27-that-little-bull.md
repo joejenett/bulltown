@@ -18,4 +18,4 @@ You may have noticed that little bull up there on the right side of the homepage
 It’s based on an <a href="https://commons.wikimedia.org/wiki/File:Bull_Standing_in_Water,_from_Different_Animals_MET_DP828086.jpg">etching print</a> by <a title="Adriaen van de Velde - Wikipedia" href="https://en.wikipedia.org/wiki/Adriaen_van_de_Velde">Adriaen van de Velde</a>, a 17th century Dutch painter and printmaker. If I have it right, the print was donated to <a href="https://en.wikipedia.org/wiki/en:Metropolitan_Museum_of_Art">the Met</a> in 2011 and subsequently donated to <a title="Wikimedia Commons" href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a> (dedicated to the <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">public domain</a>).
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

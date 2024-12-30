@@ -17,4 +17,4 @@ Thanks to <a href="https://xandra.cc/">Alexandra</a> for the cool idea: <a title
 
 Anybody wanna trade?
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
