@@ -3,18 +3,18 @@ layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | music"</script>
 <p>
-	If you’d like to listen to the playlist continuously as you browse the site, simply keep this page in a separate tab or window.<span class="mobile"> If your popup blocker is disabled*, you might like the alternative <a href="#" onclick="window.open('/music/player/', 'player', 'width=350, height=250, popup, noopener');">popup player</a>.</span> 
+	If you’d like to listen to the playlist continuously as you browse the site, simply keep this page in a separate tab or window.<span class="mobile"> If your popup blocker is disabled*, you might like the alternative <a href="#top" onclick="window.open('/music/player/', 'player', 'width=350, height=250, popup, noopener');">popup player</a>.</span> 
 </p>
 <div>
 	<span class="mobile">*<small><a href="https://www.fontbonne.edu/wp-content/uploads/2020/12/Disable-Pop-Up-Blocker.pdf">How to Disable or Enable Your Pop-up Blocker (.pdf)</a></small></span>
 </div>
 <div class="mocontrol" style="text-align:center;position:relative;top:12px;">
 	<p>
-		<a href="#" title="play" onclick="play();"><img src="/images/play.svg" alt="" style="width:20px;"></a>
-		<a href="#" title="pause" onclick="pause();"><img src="/images/pause.svg" alt="" style="width:20px;"></a>
-		<a href="#" title="previous track" onclick="playPreviousTrack();"><img src="/images/prev.svg" alt="" style="width:20px;"></a>
-		<a href="#" title="next track" onclick="playNextTrack();"><img src="/images/next.svg" alt="" style="width:20px;"></a>
-		<a href="#" title="shuffle" onclick="shuffle();"><img src="/images/shuffle.svg" alt="" style="width:20px;"></a>
+		<a href="#" title="play" onclick="play();"><img src="/images/play.svg" alt="play" style="width:20px;"></a>
+		<a href="#" title="pause" onclick="pause();"><img src="/images/pause.svg" alt="pause" style="width:20px;"></a>
+		<a href="#" title="previous track" onclick="playPreviousTrack();"><img src="/images/prev.svg" alt="previous" style="width:20px;"></a>
+		<a href="#" title="next track" onclick="playNextTrack();"><img src="/images/next.svg" alt="next" style="width:20px;"></a>
+		<a href="#" title="shuffle" onclick="shuffle();"><img src="/images/shuffle.svg" alt="shuffle" style="width:20px;"></a>
 	</p>
 </div>	
 <div class="now-playing">currently not playing any track</div>
@@ -28,7 +28,7 @@ layout: page
 	</span>
 	<i icon-name="volume-1"></i>
 	<i icon-name="volume-x" class="hidden"></i>
-	<input type="range" min="0" max="100" class="volume-slider">
+	<label for="range"><input id="range" type="range" min="0" max="100" class="volume-slider"></label>
 	<span class="timer">0:00 / 0:00</span>
 </div>
 <div class="track-list"></div>
