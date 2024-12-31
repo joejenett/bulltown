@@ -115,6 +115,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="The web site of humantooth" href="https://humantooth.neocities.org/"><img src="/images/tooth4.png" alt="The web site of humantooth" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="meow!" href="https://meowcammi.neocities.org/"><img src="/images/meowcammi.gif" alt="meow!" width="88" height="31"></a>
 			</div>
 			<div class="button">
