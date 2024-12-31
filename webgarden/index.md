@@ -56,7 +56,7 @@ iframe {
 <iframe title="oodlecat" src="https://oodlecat.neocities.org/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #000000;"></iframe>
 <iframe title="orion-overdrive" src="https://orion-overdrive.neocities.org/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #000000;"></iframe>
 <iframe title="linwood" src="https://linwood.neocities.org/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #ee9de9;"></iframe>
-<iframe title="keysklubhouse" src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange"></iframe>
+<iframe title="keysklubhouse" src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange;"></iframe>
 <iframe title="delovely" src="https://delovely.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid #ddd;"></iframe>
 <iframe title="maya.land" src="https://maya.land/webgarden.html" scrolling="no" loading="lazy" target="_blank" height="250" width="250" style="border:3px solid purple"></iframe>
 <iframe title="lu.tiny-universes.net" src="https://lu.tiny-universes.net/webgarden/webgarden.html" scrolling="no" height="250" width="250" style="border:3px solid purple"></iframe>
@@ -83,8 +83,8 @@ iframe {
 <iframe title="fencraft.leprd.space" src="https://fencraft.leprd.space/Links/webgarden.html" style="height:250px;width:250px;border:3px solid green;" scrolling="no" loading="lazy"></iframe>
 <iframe title="sweetcharm.net" src="https://sweetcharm.net/.CuteDesktop/Website/planter.html" style="height:250px;width:250px;border:3px solid pink;" scrolling="no" loading="lazy"></iframe>
 <iframe title="astralobservatory" src="https://astralobservatory.neocities.org/webgarden.html" style="height:250px;width:250px;border:3px solid #409897;" height="250" width="250" scrolling="no" loading="lazy"></iframe>
-<iframe title="" src="https://prophetesque.gay/webgarden" scrolling="no" height="250" width="250" style="border:3px solid #21f8f6;padding-right:2px;padding-bottom:2px;background-color:#21f8f6;"></iframe>
-<iframe title="" src="https://superkirbylover.neocities.org/webgarden" scrolling="no" height="238" width="238" style="border:3px solid #5c4532;background-color:#5c4532;padding-right:14px;padding-bottom:14px;"></iframe>
+<iframe title="prophetesque" src="https://prophetesque.gay/webgarden" scrolling="no" height="250" width="250" style="border:3px solid #21f8f6;padding-right:2px;padding-bottom:2px;background-color:#21f8f6;"></iframe>
+<iframe title="superkirbylover" src="https://superkirbylover.neocities.org/webgarden" scrolling="no" height="238" width="238" style="border:3px solid #5c4532;background-color:#5c4532;padding-right:14px;padding-bottom:14px;"></iframe>
 <iframe title="epic1" src="https://epic1.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid #ccc;padding:2px;"></iframe>
 <iframe title="sadgrl" src="https://goblin-heart.net/sadgrl/webgarden" style="border:3px solid green;padding-right:8px;padding-bottom:8px;" height="242" width="242" scrolling="no" loading="lazy"></iframe>
 </div>
