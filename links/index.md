@@ -7,13 +7,13 @@ layout: page
 	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
 	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
 		<div class="div1 iwt">
-			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><textarea style="width:85%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></p>
+			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><label for="ta1"><textarea id="ta1" style="width:85%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></label></p>
 		</div>
 		<div  class="div2 iwt">
 		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;" width="88" height="31"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
 		<div  class="div3 iwt">
-			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><textarea style="width:85%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></p></a>
+			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><label for="ta2"><textarea id="ta2" style="width:85%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></label></p></a>
 		</div>
 	</div>
 		<div style="text-align:left;font-weight:400;">
@@ -327,7 +327,7 @@ layout: page
 				<a title="cepheus" href="https://cepheus.neocities.org/"><img src="/images/cepheus.gif" alt="cepheus" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="" width="88" height="31"></a>
+				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="Rini" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Simone's Computer" href="https://simone.computer/"><img src="/images/simonecomp.gif" alt="Simone's Computer" width="88" height="31"></a>
@@ -631,7 +631,7 @@ layout: page
 				<a title="birdwrongs" href="https://birdwrongs.sh/"><img src="/images/birdwrongs.png" alt="birdwrongs" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="hellomei" href="https://www.hellomei.dev/"><img src="/images/hellomei.gif" alt="" width="88" height="31"></a>
+				<a title="hellomei" href="https://www.hellomei.dev/"><img src="/images/hellomei.gif" alt="hellomei" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="makoenergy‧₊˚✧" href="https://makoenergy.neocities.org/"><img src="/images/mako.gif" alt="makoenergy‧₊˚✧" width="88" height="31"></a>
@@ -1414,7 +1414,7 @@ layout: page
 				<a title="emeowly" href="https://emeowly.gay/"><img src="/images/emeowly.gif" alt="emeowly" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ttaxyy.gif" href="https://ttaxyy.neocities.org/"><img src="/images/ttaxyy.gif" alt="ttaxyy.gif" width="88" height="31"></a>
+				<a title="ttaxyy" href="https://ttaxyy.neocities.org/"><img src="/images/ttaxyy.gif" alt="ttaxyy" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Aster's Archive" href="https://astersarchive.neocities.org/"><img src="/images/asters_archive_button.gif" alt="Aster's Archive" width="88" height="31"></a>
