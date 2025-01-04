@@ -15,4 +15,4 @@ I’ve been testing both versions of bulltown in Waterfox*, Firefox, Safari, and
 
 *<small> I use Waterfox (based on an older Firefox version) when I’m prowling for new links because of it has certain bookmark management features that Firefox eventually abandoned (boo!).</small>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

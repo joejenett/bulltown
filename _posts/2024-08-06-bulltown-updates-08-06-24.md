@@ -16,4 +16,4 @@ I’ve recently extended that same functionality to all pages with animations th
 thx
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
