@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="bearly there" href="https://bearlythere.neocities.org/"><img src="/images/bearly.png" alt="bearly there" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="divergent rays" href="https://divergentrays.com/"><img src="/images/divergent.gif" alt="divergent rays" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1424,9 +1427,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Aster's Archive" href="https://astersarchive.neocities.org/"><img src="/images/asters_archive_button.gif" alt="Aster's Archive" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="bearly there" href="https://bearlythere.neocities.org/"><img src="/images/bearly.png" alt="bearly there" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Bass Drop's Club" href="https://bassdrop.club/"><img src="/images/bassdrops.gif" alt="Bass Drop's Club" width="88" height="31"></a>
