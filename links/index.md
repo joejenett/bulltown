@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="ᓚᘏᗢ" href="https://cherished-cat.neocities.org/"><img src="/images/cherishedcat.png" alt="ᓚᘏᗢ" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="bearly there" href="https://bearlythere.neocities.org/"><img src="/images/bearly.png" alt="bearly there" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -118,6 +121,21 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ocean's site" href="https://oceansandy02.neocities.org/"><img src="/images/ocean.png" alt="ocean's site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="JNKYRD" href="https://jnkyrd.neocities.org/"><img src="/images/jnkyrd.gif" alt="JNKYRD" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="A Realm Beyond" href="https://blazingcobaltx.neocities.org/"><img src="/images/arealmbeyond.gif" alt="A Realm Beyond" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Last Rose of Summer" href="https://lastroseofsummer.neocities.org/"><img src="/images/lastrose.gif" alt="Last Rose of Summer" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Cherry*Blog" href="https://cherrypyon.neocities.org/"><img src="/images/cherrypyon.png" alt="Cherry*Blog" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -155,9 +173,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="pundone" href="https://pundone.neocities.org/"><img src="/images/pundone.png" alt="pundone" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ᓚᘏᗢ" href="https://cherished-cat.neocities.org/"><img src="/images/cherishedcat.png" alt="ᓚᘏᗢ" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Soop World :3" href="https://soop.neocities.org/"><img src="/images/soapworld3.png" alt="Soop World :3" width="88" height="31"></a>
