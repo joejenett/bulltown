@@ -121,6 +121,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Strawberry Bunny" href="https://strawberry-bunny.neocities.org/"><img src="/images/strawberry.gif" alt="Strawberry Bunny" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ocean's site" href="https://oceansandy02.neocities.org/"><img src="/images/ocean.png" alt="ocean's site" width="88" height="31"></a>
 			</div>
 			<div class="button">
