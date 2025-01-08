@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Strawberry Bunny" href="https://strawberry-bunny.neocities.org/"><img src="/images/strawberry.gif" alt="Strawberry Bunny" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ᓚᘏᗢ" href="https://cherished-cat.neocities.org/"><img src="/images/cherishedcat.png" alt="ᓚᘏᗢ" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -119,9 +122,6 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Strawberry Bunny" href="https://strawberry-bunny.neocities.org/"><img src="/images/strawberry.gif" alt="Strawberry Bunny" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ocean's site" href="https://oceansandy02.neocities.org/"><img src="/images/ocean.png" alt="ocean's site" width="88" height="31"></a>
