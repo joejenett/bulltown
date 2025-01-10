@@ -117,7 +117,7 @@ layout: page
 			</div>
 			
 		
-			<div id="buttsep" style="margin-top:168px;">
+			<div id="buttsep" style="position:relative;top:12px;">
 			</div>
 			<!--w-->					
 			<div class="button">
