@@ -123,6 +123,18 @@ layout: page
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
+			<div class="button">
+				<a title="Welcome to the Wrong Side of the Rainbow" href="https://corruptedunicorn.neocities.org/"><img src="/images/corruptedbutt.gif" alt="Welcome to the Wrong Side of the Rainbow" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pineisland (a personal website)" href="https://pineisland.neocities.org/"><img src="/images/pineisland.gif" alt="pineisland (a personal website)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="fly me to the moon!" href="https://moondvsted.neocities.org/"><img src="/images/moond.png" alt="fly me to the moon!" width="88" height="31"></a>
+			</div>
+			</<div class="button">
+				<a title="99GIF shop" href="https://99gifshop.neocities.org/"><img src="/images/99gif.png" alt="99GIF shop" width="88" height="31"></a>
+			</div>
 			<div class="button" style="background:#fff9e6;">
 				<a title="Toxic Revolution" href="https://toxic-revolution.neocities.org/"><img src="/images/toxicr.gif" alt="Toxic Revolution" width="88" height="31"></a>
 			</div>
