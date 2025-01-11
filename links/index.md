@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -373,9 +376,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Simone's Computer" href="https://simone.computer/"><img src="/images/simonecomp.gif" alt="Simone's Computer" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="muse ariadne writing club" href="https://museariadne.neocities.org/"><img src="/images/museariadne.png" alt="muse ariadne writing club" width="88" height="31"></a>
