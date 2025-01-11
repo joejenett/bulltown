@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Strawberry Bunny" href="https://strawberry-bunny.neocities.org/"><img src="/images/strawberry.gif" alt="Strawberry Bunny" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -689,9 +692,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="netizen club" href="https://netizen.club/"><img src="/images/netizen-club.png" alt="netizen club" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="WHiMSiCAL!" href="http://whimsical.heartette.net/"><img src="/images/whimsical.gif" alt="WHiMSiCAL!" width="88" height="31"></a>
