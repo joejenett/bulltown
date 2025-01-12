@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -149,9 +152,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="JNKYRD" href="https://jnkyrd.neocities.org/"><img src="/images/jnkyrd.gif" alt="JNKYRD" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="A Realm Beyond" href="https://blazingcobaltx.neocities.org/"><img src="/images/arealmbeyond.gif" alt="A Realm Beyond" width="88" height="31"></a>
