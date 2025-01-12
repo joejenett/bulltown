@@ -133,6 +133,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ari's website!!!" href="https://aribarddd.neocities.org/"><img src="/images/aribarddd.png" alt="ari's website!!!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Welcome to the Wrong Side of the Rainbow" href="https://corruptedunicorn.neocities.org/"><img src="/images/corruptedbutt.gif" alt="Welcome to the Wrong Side of the Rainbow" width="88" height="31"></a>
 			</div>
 			<div class="button">
