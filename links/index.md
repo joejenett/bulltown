@@ -44,6 +44,9 @@ layout: page
 			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -484,9 +487,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="The web site of slashdiv" href="https://slashdiv.neocities.org/"><img src="/images/slashdiv.gif" alt="The web site of slashdiv" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
