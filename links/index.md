@@ -136,6 +136,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Corv @ Just Becaws" href="https://justbecaws.neocities.org/"><img src="/images/justbecaws-2024.gif" alt="Corv @ Just Becaws" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ari's website!!!" href="https://aribarddd.neocities.org/"><img src="/images/aribarddd.png" alt="ari's website!!!" width="88" height="31"></a>
 			</div>
 			<div class="button">
