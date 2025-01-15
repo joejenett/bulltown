@@ -148,9 +148,6 @@ layout: page
 				<a title="pineisland (a personal website)" href="https://pineisland.neocities.org/"><img src="/images/pineisland.gif" alt="pineisland (a personal website)" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="fly me to the moon!" href="https://moondvsted.neocities.org/"><img src="/images/moond.png" alt="fly me to the moon!" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="99GIF shop" href="https://99gifshop.neocities.org/"><img src="/images/99gif.png" alt="99GIF shop" width="88" height="31"></a>
 			</div>
 			<div class="button" style="background:#fff9e6;">
@@ -234,7 +231,7 @@ layout: page
 				<a title="silver's garden of dreams..." href="https://silver.lgbt/"><img src="/images/silver.gif" alt="silver's garden of dreams..." width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="june's web page...ᐟ 💫" href="https://webcatz.neocities.org/"><img src="/images/webcatz.png" alt="june's web page...ᐟ 💫" width="88" height="31"></a>
+				<a title="june's web page...ᐟ 💫" href="https://juneish.neocities.org/"><img src="/images/webcatz.png" alt="june's web page...ᐟ 💫" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="lopster@neocities" href="https://lopster.neocities.org/"><img src="/images/lopster.gif" alt="lopster@neocities" width="88" height="31"></a>
@@ -541,9 +538,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="My Blace" href="https://myblace.one/"><img src="/images/myblaceanim.gif" alt="My Blace" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Offline Magazine" href="https://offlinemagazine.neocities.org/"><img src="/images/offlinemagazine.png" alt="Offline Magazine" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Aurora Viel" href="https://auroraveil.org/"><img src="/images/auroraveil.png" alt="Aurora Viel" width="88" height="31"></a>

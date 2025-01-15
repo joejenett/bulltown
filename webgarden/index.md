@@ -53,7 +53,6 @@ iframe {
 <iframe title="applesayce" src="https://applesayce.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
 <iframe title="shroom" src="https://shroom.ink/webgarden.html" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #004754;"></iframe>
 <iframe title="slashdiv" src="https://slashdiv.neocities.org/cliques/webgarden-plot" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #d96a59;"></iframe>
-<iframe title="oodlecat" src="https://oodlecat.neocities.org/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #000000;"></iframe>
 <iframe title="orion-overdrive" src="https://orion-overdrive.neocities.org/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #000000;"></iframe>
 <iframe title="linwood" src="https://linwood.neocities.org/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #ee9de9;"></iframe>
 <iframe title="keysklubhouse" src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange;"></iframe>
