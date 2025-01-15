@@ -150,7 +150,7 @@ layout: page
 			<div class="button">
 				<a title="fly me to the moon!" href="https://moondvsted.neocities.org/"><img src="/images/moond.png" alt="fly me to the moon!" width="88" height="31"></a>
 			</div>
-			</<div class="button">
+			<div class="button">
 				<a title="99GIF shop" href="https://99gifshop.neocities.org/"><img src="/images/99gif.png" alt="99GIF shop" width="88" height="31"></a>
 			</div>
 			<div class="button" style="background:#fff9e6;">
