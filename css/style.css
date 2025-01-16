@@ -18,13 +18,24 @@ body {
 	max-width:260px;
 	transform:scale(.8);
 }
-}*/
+}
 @media only screen and (min-width:1000px) {
 	#wide {
 		visibility:visible;
 	}
 	#normal {
 		visibility:visible;
+	}
+}*/
+@media only screen and (max-width:390px) {
+	.gallery-container {
+		position:relative;
+		left:18px;
+	}
+}
+@media only screen and (max-width:430px) {
+	.gallery-container {
+		margin-left:12px;
 	}
 }
 #slug {
@@ -328,6 +339,8 @@ blockquote {
 }
 .gallery-container {
 	margin-top:18px;
+	padding-left:6px;
+
 }
 .gallery img, .image img {
 	border: 1px solid #182300;
@@ -482,7 +495,7 @@ div#reasons img {
 }
 #thanks {
 	text-align:center;
-	max-width:578px;
+	max-width:878px;
 	margin:0 auto;
 }
 #buttsep {
