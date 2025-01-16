@@ -344,7 +344,7 @@ blockquote {
 }
 .gallery img, .image img {
 	border: 1px solid #182300;
-	margin: 3px 3px 4px 2px;
+	margin: 3px 2px 4px 2px;
 	position:relative;
 	float:left;
 }
