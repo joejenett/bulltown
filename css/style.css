@@ -1,11 +1,14 @@
 body {
-	max-width:700px;
+	max-width:740px;
 	margin:auto;
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	font-size: 16px;
 	overflow:hidden;
 	background:url('/images/leather.png');
 	background-color: #0f0604;
+}
+#buttonwall-home .button {
+	float:left;
 }
 .home-bhead {
 	font-size:.9em;
@@ -27,17 +30,21 @@ body {
 @media only screen and (max-width:390px) {
 	.home-bhead {
 		margin-left:24px;
+		padding-right:12px;
 	}
 	.home-thanks {
 		margin:0;
+		padding-right:12px;
 	}
 }
 @media only screen and (max-width:479px) {
 	.home-bhead {
 		margin-left:8px;
+		padding-right:40px;
 	}
 	.home-thanks {
 		margin-left:8px;
+		padding-right:40px;
 	}	
 }
 /*@media only screen and (max-width:431px) {
@@ -164,17 +171,16 @@ body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	border-radius:0;
 }
-
 @media only screen and (max-width:479px) {
 	#bfixer {
 		max-width:92%;
 	}
 	.button {
 		margin:1px;
-		left:24px;
+		/*left:24px;*/
 	}
 	#buttonwall-home {
-		padding:40px 0 40px 0;
+		padding:40px 10px 40px 50px;
 	}
 }
 .p-spot {
@@ -215,7 +221,7 @@ h3 {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px;
+	padding:40px 60px;
 }
 #buttonwall-home {
 	display:flex;
@@ -226,7 +232,12 @@ h3 {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 78px;
+	
+}
+@media only screen and (min-width:768px) {
+	#buttonwall-home {
+		padding:40px 98px;
+	}
 }
 #colorclub {
 	display:flex;
@@ -282,7 +293,7 @@ p {
 	display:flex;
 	flex-direction:column;
 	height:92vh;
-	max-width:700px;
+	max-width:740px;
 	margin-top:28px;
 	background:#fff9e6;
 	padding: 0 25px;
@@ -292,7 +303,7 @@ p {
 	display:flex;
 	flex-direction:column;
 	height:94vh;
-	max-width:700px;
+	max-width:740px;
 	margin-top:24px;
 	background:#fff9e6;
 	padding: 0 25px;
@@ -574,12 +585,12 @@ div#reasons img {
 	}
 	#thanks {
 		margin:0 auto;
-		position:relative;
-		/*max-width: 326px;*/
+		/*position:relative;
+		max-width: 326px;*/
 
 	}
 	#thanks .button {
-		position:relative;
+		/*position:relative;*/
 	}
 	#mutuals, #followers, #also {
 		/*width:275px;
@@ -678,12 +689,12 @@ div#reasons img {
 		padding:8px 78px;
 	}
 	#buttonwall-home {
-		padding:40px 40px 40px 60px;
+		padding:40px 10px 40px 30px;
 	}
 		/*#thanks {
 		max-width: 326px;
 	}
 		#thanks .button {
-		position:relative;*/
-	}
+		position:relative;
+	}*/
 }
