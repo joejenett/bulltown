@@ -2,7 +2,7 @@
 <link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
 <script src="/js/jquery-1.8.3.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
-<h3>covers: lightbox view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/covers/">switch to gallery view</a>) </span></h3>
+<h3>covers: lightbox view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/covers/">&rarr; gallery view</a>) </span></h3>
 <p style="margin-top:-12px;font-size:.85em;">Works best with JavaScript enabled.</p>
 <div class="gallery-container">
 	<a class="gallery2" href="/covers/033199.png"><img src="/covers/thumbs/thumb_033199.jpg"></a>

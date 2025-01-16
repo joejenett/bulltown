@@ -1,5 +1,5 @@
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | covers"</script>
-<h3>covers: gallery view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/covers/lightbox/">switch to lightbox view</a>) </span></h3>
+<h3>covers: gallery view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/covers/lightbox/">&rarr; lightbox view</a>) </span></h3>
 <div class="gallery-container">
 	<a class="image2" href="033199/"><img src="/covers/thumbs/thumb_033199.jpg"></a>
 	<a class="image2" href="032499/"><img src="/covers/thumbs/thumb_032499.jpg"></a>
