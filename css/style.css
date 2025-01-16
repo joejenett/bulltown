@@ -27,8 +27,21 @@ body {
 	padding:2px 0 6px 0;
 	margin:0 auto 0 -6px;
 }
-
-
+.link-bhead {
+	font-size:.9em;
+	font-weight:500;
+	font-style:italic;
+	text-align:center;
+	padding:2px 0 6px 0;
+	margin-top:3px;
+}
+.link-thanks {
+	font-size:1em;
+	font-weight:600;
+	font-style:italic;
+	text-align:center;
+	padding:2px 0 6px 0;
+}
 #slug {
   position:relative;
   float:right;
@@ -637,20 +650,6 @@ div#reasons img {
 	}
 }
 
-@media only screen and (max-width:436px) {
-	#buttonwall {
-		/*margin:18px 10px 72px 10px;
-		padding:8px 4px 8px 16px;*/
-	}
-		#thanks {
-		/*max-width: 326px;*/
-	}
-		#thanks .button {
-		/*position:relative;*/
-	}
-
-}
-
 @media only screen and (max-width:414px) {
 	#buttonwall {
 		padding:24px 0 24px 48px;
@@ -660,6 +659,14 @@ div#reasons img {
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
+	}
+	.link-bhead {
+		margin-left:24px;
+		padding-right:54px;
+	}
+	.link-thanks {
+		margin:0;
+		padding-right:54px;
 	}
 }
 @media only screen and (max-width:390px) {
@@ -686,6 +693,14 @@ div#reasons img {
 	.home-thanks {
 		margin:0;
 		padding-right:12px;
+	}
+	.link-bhead {
+		margin-left:24px;
+		padding-right:36px;
+	}
+	.link-thanks {
+		margin:0;
+		padding-right:36px;
 	}
 }
 
