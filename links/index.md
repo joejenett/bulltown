@@ -39,9 +39,9 @@ layout: page
 
 		<span class="freezeframe">
 					
-			<div style="font-size:1em;font-weight:600;font-style:italic;text-align:center;padding:2px 0 6px 0;">thanks!
+			<div class="link-thanks">thanks!
 			</div>
-			<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;">mutuals &amp; affiliations 
+			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
 				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
