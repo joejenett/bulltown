@@ -26,7 +26,7 @@ body {
 	#normal {
 		visibility:visible;
 	}
-}*/
+}
 @media only screen and (max-width:430px) {
 	.gallery-container {
 		margin-left:12px;
@@ -36,7 +36,7 @@ body {
 	.gallery-container {
 		margin-left:36px;
 	}
-}
+}*/
 #slug {
   position:relative;
   float:right;
@@ -62,9 +62,9 @@ body {
 .button {
 	max-width:88px;
 	margin:3px;
-	position:relative;
+	/*position:relative;*/
 	float:left;
-	left:12px;
+	/*left:12px;*/
 }
 .button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img {
 	transform: scale(1.1);
@@ -178,8 +178,8 @@ h3 {
 	text-align: center;
 	border:1px solid #a28181;
 	border-radius:10px;
-	margin:18px 40px 72px 40px;
-	padding:38px;
+	margin:18px auto 72px auto;
+	padding:40px;
 }
 
 #colorclub {
@@ -232,33 +232,6 @@ p {
 #cover a:hover {
 	background:none;
 }
-div.cactus-editor span textarea.cactus-editor-textarea {
-	height:1.25rem;
-	padding:2px;
-	margin-top:-3px;
-}
-div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
-	padding:2px;
-	height:1.25rem;
-}
-div.cactus-comment-avatar-placeholder {
-	background-color:#fff9e6;
-}
-div.cactus-comment-avatar-placeholder::before {
-	content:"";
-}
-
-div.cactus-comment-avatar img {
-	display:none;
-}
-div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
-	padding-block:0;
-	font-weight:500;
-	font-size:.8em;
-}
-div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
-	font-size:.95em;
-}
 #container {
 	display:flex;
 	flex-direction:column;
@@ -272,7 +245,7 @@ div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.ca
 #container-sp {
 	display:flex;
 	flex-direction:column;
-	height:90vh;
+	height:94vh;
 	max-width:700px;
 	margin-top:24px;
 	background:#fff9e6;
@@ -337,25 +310,23 @@ blockquote {
 	margin:9px 0 24px 0;
 }
 .gallery-container {
-	margin-top:18px;
-	margin-left:14px;
+	/*margin-top:18px;
+	margin-left:14px;*/
+	text-align:center;
 	
 }
 .gallery img, .image img {
 	border: 1px solid #182300;
-	margin: 3px 2px 4px 2px;
+	/*margin: 3px 2px 4px 2px;
 	position:relative;
-	float:left;
-	width:118px;
+	float:left;*/
 }
 .gallery2 img, .image2 img {
 	border: 1px solid #182300;
-	margin: 3px 3px 4px 2px;
+	/*margin: 3px 3px 4px 2px;
 	position:relative;
-	float:left;
+	float:left;*/
 }
-.gallery3 img {
-	max-width: 120px;
 }
 .goback {
 	font-size:.9em;
@@ -525,8 +496,8 @@ div#reasons img {
 		
 	}
 	#buttonwall {
-		margin:18px 10px 72px 10px;
-		padding:24px;
+		margin:18px auto 72px auto;
+		padding:24px 54px;
 	}
 	
 	#hcard-container {
@@ -601,14 +572,14 @@ div#reasons img {
 	.intersect a img {
 		max-width:360px;
 	}
-	.gallery img, .image img {
+	/*.gallery img, .image img {
 		max-width:64px;
 		margin: 2px 4px 2px 0;
 	}
 	.gallery2 img, .image2 img {
 		max-width:300px;
 		margin: 2px 4px 2px 0;
-	}
+	}*/
 	div#show-image img {
 		max-width:390px;	
 	}
@@ -656,8 +627,8 @@ div#reasons img {
 }
 @media only screen and (max-width:400px) {
 	#buttonwall {
-		/*margin:18px 10px 72px 10px;
-		padding:8px 4px;*/
+		margin:18px auto 72px auto;
+		padding:8px 78px;
 	}
 		#thanks {
 		max-width: 326px;
