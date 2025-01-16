@@ -27,16 +27,14 @@ body {
 		visibility:visible;
 	}
 }*/
-@media only screen and (max-width:390px) {
-	.gallery-container {
-		position:relative;
-		left:18px;
-	}
-}
 @media only screen and (max-width:430px) {
 	.gallery-container {
-		position:relative;
-		left:4px;
+		margin-left:12px;
+	}
+}
+@media only screen and (max-width:390px) {
+	.gallery-container {
+		margin-left:36px;
 	}
 }
 #slug {
@@ -340,14 +338,15 @@ blockquote {
 }
 .gallery-container {
 	margin-top:18px;
-	padding-left:6px;
-
+	margin-left:14px;
+	
 }
 .gallery img, .image img {
 	border: 1px solid #182300;
 	margin: 3px 2px 4px 2px;
 	position:relative;
 	float:left;
+	width:118px;
 }
 .gallery2 img, .image2 img {
 	border: 1px solid #182300;
