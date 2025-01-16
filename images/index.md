@@ -1,6 +1,6 @@
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | images: gallery"</script>
 
-<h2>images: gallery view  <span style="font-size:.8em;margin-left:36px;font-weight:400;"> (<a href="/images/lightbox/">switch to lightbox view</a>) </span></h2>
+<h2>images: gallery view  <span style="font-size:.8em;margin-left:24px;font-weight:400;"> (<a href="/images/lightbox/">switch to lightbox view</a>) </span></h2>
 <div class="gallery-container">
 	<a class="image" href="/images/gweneve/"><img alt="gweneve" src="/images/thumbs/thumb_gweneve.jpg"><a>
 	<a class="image" href="/images/beepers/"><img alt="beepers" src="/images/thumbs/thumb_beepers.jpg"><a>
