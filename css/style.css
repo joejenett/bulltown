@@ -35,7 +35,8 @@ body {
 }
 @media only screen and (max-width:430px) {
 	.gallery-container {
-		margin-left:12px;
+		position:relative;
+		left:6px;
 	}
 }
 #slug {
