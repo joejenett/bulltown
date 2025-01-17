@@ -15,7 +15,7 @@ body {
 	font-weight:500;
 	font-style:italic;
 	text-align:center;
-	padding:5px 0 6px 0;
+	padding:5px 32px 6px 0;
 	margin-left:-6px;
 	clear:both;
 }
@@ -24,7 +24,7 @@ body {
 	font-weight:600;
 	font-style:italic;
 	text-align:center;
-	padding:2px 0 6px 0;
+	padding:2px 32px 6px 0;
 	margin:0 auto 0 -6px;
 }
 .link-bhead {
@@ -482,22 +482,7 @@ div#reasons img {
 	height:24px;
 	border-top:3px double #29221c;
 }
-@media only screen and (min-width:768px) {
-	#buttonwall-home {
-		padding:40px 98px;
-	}
-	#buttonwall {
-		padding:40px 60px;
-	}
-}
-@media only screen and (max-width:679px) {
-	#colorclub {
-		padding: 12px;
-	}
-	#buttonwall {
-		
-	}
-}
+
 @media only screen and (max-width:479px) {
 	.home-bhead {
 		margin-left:8px;
@@ -704,7 +689,22 @@ div#reasons img {
 	}
 }
 
-
+@media only screen and (min-width:768px) {
+	#buttonwall-home {
+		padding:40px 60px 40px 100px;
+	}
+	#buttonwall {
+		padding:40px 60px;
+	}
+}
+@media only screen and (max-width:679px) {
+	#colorclub {
+		padding: 12px;
+	}
+	#buttonwall {
+		
+	}
+}
 /*@media only screen and (max-width:431px) {
 	#announcer {
 	max-width:280px;
