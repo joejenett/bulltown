@@ -16,7 +16,16 @@ body {
 	font-style:italic;
 	text-align:center;
 	padding:5px 32px 6px 0;
-	margin-left:-6px;
+	margin:14px 0 14px -6px;
+	clear:both;
+}
+.home-bhead-p {
+	font-size:.9em;
+	font-weight:500;
+	font-style:italic;
+	text-align:center;
+	padding:18px 32px 6px 0;
+	margin:14px 0 14px -6px;
 	clear:both;
 }
 .home-thanks {
@@ -32,7 +41,7 @@ body {
 	font-weight:500;
 	font-style:italic;
 	text-align:center;
-	padding:2px 0 6px 0;
+	padding:12px 0 14px 0;
 	margin-top:3px;
 }
 .link-thanks {
@@ -609,7 +618,7 @@ div#reasons img {
 	}
 	.link-thanks {
 		margin:0;
-		padding-right:54px;
+		padding-right:40px;
 	}
 }
 @media only screen and (max-width:390px) {
@@ -634,6 +643,6 @@ div#reasons img {
 	}
 	.link-thanks {
 		margin:0;
-		padding-right:36px;
+		padding-right:22px;
 	}
 }
