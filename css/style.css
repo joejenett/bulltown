@@ -21,7 +21,7 @@ body {
 }
 .home-bhead-p {
 	font-size:.9em;
-	font-weight:500;
+	font-weight:500;galle
 	font-style:italic;
 	text-align:center;
 	padding:18px 32px 6px 0;
@@ -644,9 +644,12 @@ div#reasons img {
 	}
 	#buttsep {
 		margin-right:44px;
-		}
+	}
+	.gallery img, .image img {
+		max-width:110px;	
 	}
 }
+
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
@@ -670,5 +673,8 @@ div#reasons img {
 	.link-thanks {
 		margin:0;
 		padding-right:22px;
+	}
+	.gallery img, .image img {
+		max-width: 100px;
 	}
 }
