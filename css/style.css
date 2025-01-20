@@ -492,6 +492,23 @@ div#reasons img {
 		padding: 12px;
 	}
 }
+
+@media only screen and (max-width:600px) {
+	#buttonwall {
+		padding: 0 84px;
+	}
+	#buttonwall-home {
+		padding:14px 32px;
+	}
+}
+@media only screen and (max-width:540px) {
+	#buttonwall {
+		padding: 0 7px;
+	}
+	#buttonwall-home {
+		padding:14px 3px;
+	}
+}
 @media only screen and (max-width:479px) {
 	body {
 		font-size:18px;
@@ -603,6 +620,11 @@ div#reasons img {
 	}
 	#human-container {
 		padding:12px;
+	}
+}
+@media only screen and (max-width:428px) {
+	#buttonwall {
+		padding: 20px 50px;
 	}
 }
 @media only screen and (max-width:414px) {
