@@ -495,7 +495,7 @@ div#reasons img {
 
 @media only screen and (max-width:600px) {
 	#buttonwall {
-		padding: 0 84px;
+		padding: 0 36px;
 	}
 	#buttonwall-home {
 		padding:14px 32px;
