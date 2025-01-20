@@ -261,7 +261,7 @@ layout: page
 				<a title="dreaming in deadmalls" href="https://deadmall.xyz/"><img src="/images/deadmall.gif" alt="dreaming in deadmalls" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Occasionally, content" href="https://murid.neocities.org/"><img src="/images/murid.png" alt="Occasionally, content" width="88" height="31"></a>
+				<a title="Occasionally, content" href="https://murid.neocities.org/"><img src="/images/murid.png" alt="Occasionally, content" width="88" height="31" style="width:88px;height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="ten@earth ~" href="https://karuma.me/"><img src="/images/10kph-01.png" alt="ten@earth ~" width="88" height="31"></a>
