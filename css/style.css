@@ -484,7 +484,7 @@ div#reasons img {
 		padding:40px 60px 40px 100px;
 	}
 	#buttonwall {
-		padding:40px 60px;
+		padding:40px 62px;
 	}
 }
 @media only screen and (max-width:679px) {
@@ -495,7 +495,7 @@ div#reasons img {
 
 @media only screen and (max-width:600px) {
 	#buttonwall {
-		padding: 40px 36px;
+		padding: 40px 38px;
 	}
 	#buttonwall-home {
 		padding:14px 32px;
@@ -503,7 +503,7 @@ div#reasons img {
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
-		padding: 40px 7px;
+		padding: 40px 9px;
 	}
 	#buttonwall-home {
 		padding:14px 3px;
@@ -624,12 +624,12 @@ div#reasons img {
 }
 @media only screen and (max-width:428px) {
 	#buttonwall {
-		padding: 20px 50px;
+		padding: 20px 52px;
 	}
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 44px;
+		padding:24px 46px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
@@ -653,7 +653,7 @@ div#reasons img {
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 32px;
+		padding:24px 34px;
 	}
 	#buttonwall-home {
 		padding:40px 10px 40px 30px;
