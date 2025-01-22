@@ -548,7 +548,7 @@ div#reasons img {
 		max-height:22px;
 	}
 	#buttsep {
-		margin-top:154px;
+		/*margin-top:154px;*/
 	}
 	.footer {
 		margin:12px 0 12px 0;
@@ -629,7 +629,7 @@ div#reasons img {
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 0 24px 48px;
+		padding:24px 44px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
@@ -643,7 +643,7 @@ div#reasons img {
 		padding-right:40px;
 	}
 	#buttsep {
-		margin-right:44px;
+		/*margin-right:44px;*/
 	}
 	.gallery img, .image img {
 		max-width:110px;	
@@ -653,7 +653,7 @@ div#reasons img {
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 30px;
+		padding:24px 32px;
 	}
 	#buttonwall-home {
 		padding:40px 10px 40px 30px;
