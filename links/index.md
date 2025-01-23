@@ -119,6 +119,9 @@ layout: page
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Indieseek.xyz Indie Web Directory | Retroweb Ring" href="https://indieseek.xyz/webring/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory | Retroweb Ring" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -134,6 +137,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="may all your days be bright ♡" href="https://dreamvalley.neocities.org/"><img src="/images/dreamvalley.png" alt="may all your days be bright ♡" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Corv @ Just Becaws" href="https://justbecaws.neocities.org/"><img src="/images/justbecaws-2024.gif" alt="Corv @ Just Becaws" width="88" height="31"></a>
@@ -391,9 +397,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Sanctuary 🌷" href="https://planetpearlia.com/"><img src="/images/planetpearlia.gif" alt="Sanctuary 🌷" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Solar Cyber Punk" href="https://solar-cyber-punk.neocities.org/"><img src="/images/SCPbutton.png" alt="Solar Cyber Punk" width="88" height="31"></a>
