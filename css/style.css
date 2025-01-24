@@ -519,9 +519,9 @@ div#reasons img {
 		padding:14px 3px;
 	}
 	#rating {
-	width:60px;
-	margin:96px 30px 0 -144px;
-}
+		width:60px;
+		margin:96px 30px 0 -144px;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
@@ -636,27 +636,27 @@ div#reasons img {
 		padding:12px;
 	}
 	#rating {
-	width:48px;
-	margin:96px 24px 0 -144px;
-}
+		width:48px;
+		margin:96px 24px 0 -144px;
+	}
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
 		padding: 20px 52px;
 	}
-		#rating {
-	width:42px;
-	margin:96px 18px 0 -144px;
-}
+	#rating {
+		width:42px;
+		margin:96px 18px 0 -144px;
+	}
 }
 @media only screen and (max-width:428px) {
 	#buttonwall {
 		padding: 20px 52px;
 	}
-			#rating {
-	width:36px;
-	margin:96px 12px 0 -144px;
-}
+	#rating {
+		width:36px;
+		margin:96px 12px 0 -144px;
+	}
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
@@ -708,8 +708,8 @@ div#reasons img {
 	.gallery img, .image img {
 		max-width: 100px;
 	}
-			#rating {
-	width:36px;
-	margin:96px 8px 0 -144px;
-}
+	#rating {
+		width:36px;
+		margin:96px 8px 0 -144px;
+	}
 }
