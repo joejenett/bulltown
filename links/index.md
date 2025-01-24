@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Sponduliocity" href="https://spondulio.neocities.org/"><img src="/images/spondbutton.gif" alt="Sponduliocity" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="7nonsense" href="https://7nonsense.neocities.org/"><img src="/images/7nonsense.gif" alt="7nonsense" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -139,6 +142,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Mab's Land: Where only the cute survive." href="http://www.mabsland.com/"><img src="/images/mabsland.png" alt="Mab's Land: Where only the cute survive." width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="may all your days be bright ♡" href="https://dreamvalley.neocities.org/"><img src="/images/dreamvalley.png" alt="may all your days be bright ♡" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -218,9 +224,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Sponduliocity" href="https://spondulio.neocities.org/"><img src="/images/spondbutton.gif" alt="Sponduliocity" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="House of Nettles" href="https://nex-3.com/"><img src="/images/house-of-nettles.gif" alt="House of Nettles" width="88" height="31"></a>
