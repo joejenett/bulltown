@@ -142,7 +142,7 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="April's room" href="https://rhodonite.neocities.org/"><img src="/images/rhodonite.jpg" alt="April's room" width="88" height="31"></a>
+				<a title="April's room" href="https://rhodonite.neocities.org/"><img src="/images/rhodonite.jpg" alt="April's room" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="saint-images" href="https://saint-images.neocities.org/"><img src="/images/saintimages.gif" alt="saint-images" width="88" height="31"></a>
@@ -151,7 +151,7 @@ layout: page
 				<a title="halcyon days" href="https://alcedonia.neocities.org/"><img src="/images/alcedonia.gif" alt="halcyon days" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" href="https://vivarism.net/"><img src="/images/vivarism.gif" alt="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" width="88" height="31"></a>
+				<a title="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" href="https://vivarism.net/"><img src="/images/vivarism.gif" alt="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="oceanfront" href="https://oceanfront.neocities.org/"><img src="/images/oceanfront.png" alt="oceanfront" width="88" height="31"></a>
