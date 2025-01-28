@@ -6,6 +6,7 @@ body {
 	overflow:hidden;
 	background:url('/images/leather.png');
 	background-color: #0f0604;
+	color:#300202;
 }
 #rating {
 	position:relative;
@@ -361,7 +362,7 @@ h1 {
 #menu a {
 	text-decoration:none;
 	margin-right:8px;
-	color:#3e5018;
+	color:#020230;
 }
 #menu a:hover {
 	background:#ffe5de;
@@ -380,7 +381,7 @@ div#menu ul {
 a {
 	font-weight: 500;
 	text-decoration:none;
-	color:#296c80;
+	color:#020230;
 }
 a:hover {
 	background-color:#ffe5de;
