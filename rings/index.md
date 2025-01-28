@@ -77,6 +77,11 @@ layout: page
 				    <!--<a href='https://miscri.netlify.app/webring?action=rand'> ?</a>-->
 				    <a href='https://miscri.netlify.app/webring?action=next'> → </a> 
 				</div>
+				<div id='sidecar' style="font-size:.85em;">
+					<script type="text/javascript" src="https://sidecar.neocities.org/js/onionring-variables.js"></script>
+					<script type="text/javascript" src="https://sidecar.neocities.org/js/onionring-widget.js"></script>
+				</div>
+
 <!--
 				<div class="LoopRingWrapper" style="text-align:center;">
 					<p style="font-size:.85em;margin-top:1.5em;">
