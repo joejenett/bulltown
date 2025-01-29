@@ -142,6 +142,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Plushspace*:･ﾟ✧*:･ﾟ✧" href="https://plushspace.uwu.ai/"><img src="/images/plushspace.png" alt="Plushspace*:･ﾟ✧*:･ﾟ✧" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="jonat.hn" href="https://jonathn.peanits.lol/"><img src="/images/jonathn.gif" alt="jonat.hn" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="octopixel's website!" href="https://octopixel.eu/"><img src="/images/octopixel.png" alt="octopixel's website!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="April's room" href="https://rhodonite.neocities.org/"><img src="/images/rhodonite.jpg" alt="April's room" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
