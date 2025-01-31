@@ -9,8 +9,10 @@ slug: yo-webring-lovers
 summary: just launched
 comments: true
 ---
-I just launched something new for webring lovers,  <a href="https://sidecar.neocities.org/">bulltown.sidecar</a>. But it needs more member sites to come alive.
+I just launched the bulltown.sidecar webring for personal homepages and blogs -  <a href="https://sidecar.neocities.org/">bulltown.sidecar</a>.
 
-If you like webrings as much as I do, wontcha check it out and consider joining?
+Please check it out and consider joining.
+
+Thanks!
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
