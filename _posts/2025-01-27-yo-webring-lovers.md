@@ -1,6 +1,6 @@
 ---
 layout: post
-title: yo webring lovers!
+title: yo webring lovers...
 date: 2025-01-27 14:46:01 -0400
 author: joe jenett
 category: 
