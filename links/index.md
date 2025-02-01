@@ -169,7 +169,7 @@ layout: page
 				<a title="Tori's Corner" href="https://tori.poyoweb.org/"><img src="/images/tori.png" alt="Tori's Corner" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Plushspace*:･ﾟ✧*:･ﾟ✧" href="https://plushspace.uwu.ai/"><img src="/images/plushspace.png" alt="Plushspace*:･ﾟ✧*:･ﾟ✧" width="88" height="31"></a>
+				<a title="Plushspace*:･ﾟ✧*:･ﾟ✧" href="https://plushspace.uwu.ai/"><img src="/images/plushspace.gif" alt="Plushspace*:･ﾟ✧*:･ﾟ✧" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="jonat.hn" href="https://jonathn.peanits.lol/"><img src="/images/jonathn.gif" alt="jonat.hn" width="88" height="31"></a>
