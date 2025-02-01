@@ -142,6 +142,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Underwhite" href="https://underwhite.neocities.org/"><img src="/images/underwhite.gif" alt="Underwhite" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="꒰ The Pixeliana by folkmoss ꒱" href="https://pixeliana.neocities.org/"><img src="/images/pixelianabutton.gif" alt="꒰ The Pixeliana by folkmoss ꒱" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="welcome. to autism!" href="https://www.milkyway.moe/"><img src="/images/milkybtn.gif" alt="welcome. to autism!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Jay's Place" href="https://jaysplace.neocities.org/"><img src="/images/jaysplacebtn.png" alt="Jay's Place" width="88" height="31"></a>
 			</div>
 			<div class="button">
