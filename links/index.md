@@ -142,6 +142,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Love Never Dies" href="https://venusinfoxfurs.neocities.org/"><img src="/images/venusinfoxfurs.png" alt="Love Never Dies" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Along the Ray" href="https://alongtheray.com/"><img src="/images/alongtheray.png" alt="Along the Ray" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Underwhite" href="https://underwhite.neocities.org/"><img src="/images/underwhite.gif" alt="Underwhite" width="88" height="31"></a>
 			</div>
 			<div class="button">
