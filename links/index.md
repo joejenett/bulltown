@@ -142,6 +142,24 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Jay's Place" href="https://jaysplace.neocities.org/"><img src="/images/jaysplacebtn.png" alt="Jay's Place" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="baccyflap.com - a delicate blend of bakelite and fear" href="https://baccyflap.com/"><img src="/images/baccyflap.gif" alt="baccyflap.com - a delicate blend of bakelite and fear" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bonki's epic site" href="https://bonkiscoolsite.neocities.org/"><img src="/images/bonkibutton.gif" alt="bonki's epic site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="beau's silly html shpiel" href="https://beaus-silly-folder.nekoweb.org/"><img src="/images/beaus.gif" alt="beau's silly html shpiel" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="mfdook.neocities.org" href="https://mfdook.neocities.org/"><img src="/images/mfdook.gif" alt="mfdook.neocities.org" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Tori's Corner" href="https://tori.poyoweb.org/"><img src="/images/tori.png" alt="Tori's Corner" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Plushspace*:･ﾟ✧*:･ﾟ✧" href="https://plushspace.uwu.ai/"><img src="/images/plushspace.png" alt="Plushspace*:･ﾟ✧*:･ﾟ✧" width="88" height="31"></a>
 			</div>
 			<div class="button">
