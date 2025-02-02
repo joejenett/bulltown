@@ -142,6 +142,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Serpentine Den" href="https://serpentineminor.neocities.org/"><img src="/images/serpentineminor.png" alt="Serpentine Den" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Ray's Miscellany" href="https://brisray.com/"><img src="/images/rays.png" alt="Ray's Miscellany" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Whogaflunk.org" href="https://whogaflunk.org/"><img src="/images/whogaflunk.png" alt="Whogaflunk.org" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
