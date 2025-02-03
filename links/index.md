@@ -1411,9 +1411,8 @@ layout: page
 			<div class="button">
 				<a title="fluffy hyena" href="https://fluffyhyena.neocities.org/"><img src="/images/fluffyhyena.gif" alt="fluffychyena" width="88" height="31"></a>
 			</div>
-					
 			<div class="button">
-				<a title="lulu in cyberspace!" href="https://lu.tiny-universes.net/"><img src="/images/lulu.gif" alt="lulu in cyberspace!" width="88" height="31"></a>
+				<a title="lulu in cyberspace!" href="https://lu.tiny-universes.net/"><img src="/images/lulu.gif" alt="lulu in cyberspace!" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="ap’s hub" href="https://aphub.neocities.org/"><img src="/images/apsbutton.png" alt="ap’s hub" width="88" height="31"></a>
