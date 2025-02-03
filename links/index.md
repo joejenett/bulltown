@@ -337,7 +337,7 @@ layout: page
 				<a title="Checkered Hell" href="https://superkirbylover.me/"><img src="/images/superkirbylover.gif" alt="Checkered Hell" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="pundone" href="https://pundone.neocities.org/"><img src="/images/pundone.png" alt="pundone" width="88" height="31"></a>
+				<a title="pundone" href="https://pundone.neocities.org/"><img src="/images/pundone.png" alt="pundone" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="Soop World :3" href="https://soop.neocities.org/"><img src="/images/soapworld3.png" alt="Soop World :3" width="88" height="31"></a>
@@ -495,7 +495,7 @@ layout: page
 				<a title="EIGHTBRIITT" href="https://eightbriitt.neocities.org/"><img src="/images/eightbriittspring.gif" alt="EIGHTBRIITT" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="catp0rtal" href="https://catp0rtal.neocities.org/"><img src="/images/catp0rtal.gif" alt="catp0rtal" width="88" height="31"></a>
+				<a title="catp0rtal" href="https://catp0rtal.neocities.org/"><img src="/images/catp0rtal.gif" alt="catp0rtal" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="DIGITALRIVER" href="https://digitalriver.neocities.org/"><img src="/images/digitalriver.png" alt="DIGITALRIVER" width="88" height="31"></a>
