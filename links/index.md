@@ -826,7 +826,7 @@ layout: page
 				<a title="WHiMSiCAL!" href="http://whimsical.heartette.net/"><img src="/images/whimsical.gif" alt="WHiMSiCAL!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Tabby's Cat Tree" href="https://tabbygarf.club/"><img src="/images/tabbygarf.png" alt="Tabby's Cat Tree" width="88" height="31"></a>
+				<a title="Tabby's Cat Tree" href="https://tabbygarf.club/"><img src="/images/tabbygarf.png" alt="Tabby's Cat Tree" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="frog pond blues" href="https://frogpondblues.neocities.org/"><img src="/images/frogpondblues.png" alt="frog pond blues" width="88" height="31"></a>
