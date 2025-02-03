@@ -690,7 +690,7 @@ layout: page
 				<a title="Pinkvampyr" href="https://pinkvampyr.leprd.space/"><img src="/images/pinkvampyr.gif" alt="Pinkvampyr" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Daryl Sun's Journal" href="https://blog.darylsun.page/"><img src="/images/darylsun.webp" alt="Daryl Sun's Journal" width="88" height="31"></a>
+				<a title="Daryl Sun's Journal" href="https://blog.darylsun.page/"><img src="/images/darylsun.webp" alt="Daryl Sun's Journal" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="Seirdy’s Home" href="https://seirdy.one/"><img src="/images/seirdy.png" alt="Seirdy’s Home" width="88" height="31"></a>
@@ -1020,7 +1020,7 @@ layout: page
 				<a title="nick mykins" href="https://nmyk.io/"><img src="/images/nmyk.png" alt="nick mykins" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Kupo Cafe" href="https://kupo.cafe/"><img src="/images/kupo.png" alt="Kupo Cafe" width="88" height="31"></a>
+				<a title="Kupo Cafe" href="https://kupo.cafe/"><img src="/images/kupo.png" alt="Kupo Cafe" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="glazes lair =^w^=" href="https://glazeliights.neocities.org/"><img src="/images/glazelights.png" alt="glazes lair =^w^=" width="88" height="31"></a>
