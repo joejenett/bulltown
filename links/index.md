@@ -145,6 +145,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Oopsie Doodle" href="https://oopsiedoodle.neocities.org/"><img src="/images/oopsiedoodle.png" alt="Oopsie Doodle" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="sunny’s website" href="https://sunnyshines.neocities.org/"><img src="/images/sunnyshines.gif" alt="sunny’s website" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Nuko Emotes Archive" href="https://nukochannel.neocities.org/"><img src="/images/nukochannel.gif" alt="Nuko Emotes Archive" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Numbers Story" href="https://numbersstory.com/"><img src="/images/numberstory.png" alt="Numbers Story" width="88" height="31"></a>
 			</div>
 			<div class="button">
