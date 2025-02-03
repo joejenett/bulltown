@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="moonpr1sm’s planet" href="https://moonpr1sm.neocities.org/"><img src="/images/moonpr1sm.png" alt="moonpr1sm’s planet" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Sponduliocity" href="https://spondulio.neocities.org/"><img src="/images/spondbutton.gif" alt="Sponduliocity" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -836,9 +839,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="jamie’s epic web zone" href="https://shinyexe.neocities.org/"><img src="/images/shinyexe.gif" alt="jamie’s epic web zone" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="moonpr1sm’s planet" href="https://moonpr1sm.neocities.org/"><img src="/images/moonpr1sm.png" alt="moonpr1sm’s planet" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="spiritcellar" href="https://spiritcellar.neocities.org/"><img src="/images/spiritcellar.gif" alt="spiritcellar" width="88" height="31"></a>
