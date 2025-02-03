@@ -151,7 +151,7 @@ layout: page
 				<a title="BIG BRAT WORLD" href="https://bigbrat.world/"><img src="/images/bigbrat.png" alt="BIG BRAT WORLD" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Arli's place" href="https://arlisplace.neocities.org/"><img src="/images/arlis.png" alt="Arli's place" width="88" height="31"></a>
+				<a title="Arli's place" href="https://arlisplace.neocities.org/"><img src="/images/arlis.png" alt="Arli's place" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="wichitalk" href="https://wichitalk.neocities.org/"><img src="/images/wichitalk.png" alt="wichitalk" width="88" height="31"></a>
@@ -160,7 +160,7 @@ layout: page
 				<a title="Yatagarasu" href="https://yatagarasu.nekoweb.org/"><img src="/images/yatagarasu.gif" alt="Yatagarasu" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="cinajimrollie" href="https://tinyhrts.neocities.org/"><img src="/images/tinyhrts.png" alt="cinajimrollie" width="88" height="31"></a>
+				<a title="cinajimrollie" href="https://tinyhrts.neocities.org/"><img src="/images/tinyhrts.png" alt="cinajimrollie" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="✶ scenemime's home ✶" href="https://scenemime.neocities.org/"><img src="/images/scenemimebutton.gif" alt="✶ scenemime's home ✶" width="88" height="31"></a>
@@ -178,7 +178,7 @@ layout: page
 				<a title="HatedLove6" href="https://hatedlove6.neocities.org/"><img src="/images/hatedlove.jpg" alt="HatedLove6" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Koldinium's Tower" href="https://koldinium.com/"><img src="/images/kodin.gif" alt="Koldinium's Tower" width="88" height="31"></a>
+				<a title="Koldinium's Tower" href="https://koldinium.com/"><img src="/images/kodin.gif" alt="Koldinium's Tower" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="it's so rainy..." href="https://duckyducky.neocities.org/"><img src="/images/duckyducky.png" alt="it's so rainy..." width="88" height="31"></a>
@@ -187,7 +187,7 @@ layout: page
 				<a title="Codex Archonic" href="https://lerariemann.nekoweb.org/"><img src="/images/lerariemann.gif" alt="Codex Archonic" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="i want to be complete with you" href="https://gattonero.moe/"><img src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31"></a>
+				<a title="i want to be complete with you" href="https://gattonero.moe/"><img src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
 				<a title="Lockheart Love" href="https://lockheartlove.netlify.app/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
