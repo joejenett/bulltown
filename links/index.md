@@ -471,9 +471,6 @@ layout: page
 				<a title="flounder heights 102" href="https://fh102.neocities.org/"><img src="/images/sephlow.png" alt="flounder heights 102" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Grlrot" href="https://grlrot.neocities.org/"><img src="/images/grlrot.gif" alt="Grlrot" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="lina's home" href="https://amalinalai.github.io/precipice/"><img src="/images/lina-button.gif" alt="lina's home" width="88" height="31"></a>
 			</div>
 			<div class="button">
