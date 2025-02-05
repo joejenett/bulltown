@@ -139,6 +139,9 @@ layout: page
 			<div class="button">
 				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
+			<div class="button">
+				<a title="Subdomain Sluts" href="https://jaysplace.neocities.org/subdomains/"><img src="/images/subdomains.png" alt="Subdomain Sluts" width="88" height="31"></a>
+			</div>
 			
 		
 			<div id="buttsep" style="position:relative;top:12px;">
