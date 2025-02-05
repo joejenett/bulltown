@@ -128,6 +128,9 @@ layout: page
 				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Indieseek.xyz Indie Web Directory | Retroweb Ring" href="https://indieseek.xyz/webring/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory | Retroweb Ring" width="88" height="31"></a>
 			</div>
 			<div class="button">
