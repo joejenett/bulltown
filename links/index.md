@@ -151,6 +151,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="oerrorpage" href="https://oerrorpage.neocities.org/"><img src="/images/oerrorpage.png" alt="oerrorpage" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="mesoscale" href="https://mesoscale.neocities.org/"><img src="/images/meso_badge.gif" alt="mesoscale" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="My Only Fren |-/" href="https://xxmyonlyfrenxx.neocities.org/"><img src="/images/xxmyonlyfrenxx.webp" alt="My Only Fren |-/" width="88" height="31"></a>
 			</div>
 			<div class="button">
