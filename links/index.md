@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="moonpr1sm’s planet" href="https://moonpr1sm.neocities.org/"><img src="/images/moonpr1sm.png" alt="moonpr1sm’s planet" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -151,6 +154,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Nova Galaxium" href="https://pastel-skies.nekoweb.org/"><img src="/images/pastelskies.gif" alt="Nova Galaxium" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The web site of acetrainermeg" href="https://acetrainermeg.neocities.org/"><img src="/images/acetrainermeg.gif" alt="The web site of acetrainermeg" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="kepler-16b" href="https://kepler-16b.neocities.org/"><img src="/images/kepler.png" alt="kepler-16b" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="oerrorpage" href="https://oerrorpage.neocities.org/"><img src="/images/oerrorpage.png" alt="oerrorpage" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -230,9 +242,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Whogaflunk.org" href="https://whogaflunk.org/"><img src="/images/whogaflunk.png" alt="Whogaflunk.org" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Love Never Dies" href="https://venusinfoxfurs.neocities.org/"><img src="/images/venusinfoxfurs.png" alt="Love Never Dies" width="88" height="31"></a>
