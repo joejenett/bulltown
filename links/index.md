@@ -232,7 +232,7 @@ layout: page
 				<a title="i want to be complete with you" href="https://gattonero.moe/"><img src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
 			</div>
 			<div class="button">
-				<a title="Lockheart Love" href="https://lockheartlove.netlify.app/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
+				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Serpentine Den" href="https://serpentineminor.neocities.org/"><img src="/images/serpentineminor.png" alt="Serpentine Den" width="88" height="31"></a>
