@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -134,16 +137,19 @@ layout: page
 				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Indieseek.xyz Indie Web Directory | Retroweb Ring" href="https://indieseek.xyz/webring/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory | Retroweb Ring" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
+				<a title="Subdomain Sluts" href="https://jaysplace.neocities.org/subdomains/"><img src="/images/subdomains.png" alt="Subdomain Sluts" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Subdomain Sluts" href="https://jaysplace.neocities.org/subdomains/"><img src="/images/subdomains.png" alt="Subdomain Sluts" width="88" height="31"></a>
+				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
 			
 		
@@ -230,9 +236,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="i want to be complete with you" href="https://gattonero.moe/"><img src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
-			</div>
-			<div class="button">
-				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Serpentine Den" href="https://serpentineminor.neocities.org/"><img src="/images/serpentineminor.png" alt="Serpentine Den" width="88" height="31"></a>
