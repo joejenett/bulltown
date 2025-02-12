@@ -84,9 +84,6 @@ layout: page
 				<a title="vulpecula" href="https://vulpecula.neocities.org/"><img src="/images/mosstone.png" alt="vulpecula" width="64" height="100"></a>
 			</div>
 			<div class="button">
-				<a title="The web site of symphonic" href="https://symphony.surgery/"><img src="/images/symphonic.png" alt="The web site of symphonic" width="64" height="100"></a>
-			</div>
-			<div class="button">
 				<a title="Leilukin's Hub" href="https://leilukin.com/"><img src="/images/leilukin-grape-juice.png" alt="Leilukin's Hub" width="64" height="100"></a>
 			</div>
 			<div class="button">
