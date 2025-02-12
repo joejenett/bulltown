@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -176,9 +179,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="mesoscale" href="https://mesoscale.neocities.org/"><img src="/images/meso_badge.gif" alt="mesoscale" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
