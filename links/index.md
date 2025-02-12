@@ -160,6 +160,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="WonderMap" href="https://wondermap.neocities.org/"><img src="/images/wondermap.jpg" alt="WonderMap" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Nova Galaxium" href="https://pastel-skies.nekoweb.org/"><img src="/images/pastelskies.gif" alt="Nova Galaxium" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -173,6 +176,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="mesoscale" href="https://mesoscale.neocities.org/"><img src="/images/meso_badge.gif" alt="mesoscale" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
@@ -582,9 +588,6 @@ layout: page
 				<a title="mei.nekoweb.org" href="https://mei.nekoweb.org/"><img src="/images/meibutton.gif" alt="mei.nekoweb.org" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="The web site of symphonic" href="https://symphony.surgery/"><img src="/images/symphony.png" alt="The web site of symphonic" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" href="https://nyanseong.neocities.org/"><img src="/images/nyanseong.png" alt="𝒏𝒚𝒂𝒏𝒔𝒆𝒐𝒏𝒈" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -619,9 +622,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Taterinx" href="https://taterinx.neocities.org/"><img src="/images/taterinx.png" alt="Taterinx" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="~VELVET✧BLUE~" href="https://velvetblue.neocities.org/"><img src="/images/velvetblue.png" alt="~VELVET✧BLUE~" width="88" height="31"></a>
