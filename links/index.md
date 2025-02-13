@@ -163,6 +163,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="The Iron Ragdoll" href="https://tofutush.neocities.org/"><img src="/images/tofutush.gif" alt="The Iron Ragdoll" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="WonderMap" href="https://wondermap.neocities.org/"><img src="/images/wondermap.jpg" alt="WonderMap" width="88" height="31"></a>
 			</div>
 			<div class="button">
