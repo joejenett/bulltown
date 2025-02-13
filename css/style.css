@@ -8,6 +8,10 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.button-fix {
+  	min-width:88px;
+  	max-height:31px;
+} 
 #rating {
 	position:relative;
 	float:right;

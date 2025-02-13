@@ -208,7 +208,7 @@ layout: page
 				<a title="BIG BRAT WORLD" href="https://bigbrat.world/"><img src="/images/bigbrat.png" alt="BIG BRAT WORLD" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Arli's place" href="https://arlisplace.neocities.org/"><img src="/images/arlis.png" alt="Arli's place" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="Arli's place" href="https://arlisplace.neocities.org/"><img class="button-fix" src="/images/arlis.png" alt="Arli's place" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="wichitalk" href="https://wichitalk.neocities.org/"><img src="/images/wichitalk.png" alt="wichitalk" width="88" height="31"></a>
@@ -217,7 +217,7 @@ layout: page
 				<a title="Yatagarasu" href="https://yatagarasu.nekoweb.org/"><img src="/images/yatagarasu.gif" alt="Yatagarasu" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="cinajimrollie" href="https://tinyhrts.neocities.org/"><img src="/images/tinyhrts.png" alt="cinajimrollie" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="cinajimrollie" href="https://tinyhrts.neocities.org/"><img class="button-fix" src="/images/tinyhrts.png" alt="cinajimrollie" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="✶ scenemime's home ✶" href="https://scenemime.neocities.org/"><img src="/images/scenemimebutton.gif" alt="✶ scenemime's home ✶" width="88" height="31"></a>
@@ -235,7 +235,7 @@ layout: page
 				<a title="HatedLove6" href="https://hatedlove6.neocities.org/"><img src="/images/hatedlove.jpg" alt="HatedLove6" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Koldinium's Tower" href="https://koldinium.com/"><img src="/images/kodin.gif" alt="Koldinium's Tower" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="Koldinium's Tower" href="https://koldinium.com/"><img class="button-fix" src="/images/kodin.gif" alt="Koldinium's Tower" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="it's so rainy..." href="https://duckyducky.neocities.org/"><img src="/images/duckyducky.png" alt="it's so rainy..." width="88" height="31"></a>
@@ -244,7 +244,7 @@ layout: page
 				<a title="Codex Archonic" href="https://lerariemann.nekoweb.org/"><img src="/images/lerariemann.gif" alt="Codex Archonic" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="i want to be complete with you" href="https://gattonero.moe/"><img src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="i want to be complete with you" href="https://gattonero.moe/"><img class="button-fix" src="/images/onthequiet.gif" alt="i want to be complete with you" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Serpentine Den" href="https://serpentineminor.neocities.org/"><img src="/images/serpentineminor.png" alt="Serpentine Den" width="88" height="31"></a>
@@ -298,7 +298,7 @@ layout: page
 				<a title="octopixel's website!" href="https://octopixel.eu/"><img src="/images/octopixel.png" alt="octopixel's website!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="April's room" href="https://rhodonite.neocities.org/"><img src="/images/rhodonite.jpg" alt="April's room" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="April's room" href="https://rhodonite.neocities.org/"><img class="button-fix" src="/images/rhodonite.jpg" alt="April's room" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="saint-images" href="https://saint-images.neocities.org/"><img src="/images/saintimages.gif" alt="saint-images" width="88" height="31"></a>
@@ -307,7 +307,7 @@ layout: page
 				<a title="halcyon days" href="https://alcedonia.neocities.org/"><img src="/images/alcedonia.gif" alt="halcyon days" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" href="https://vivarism.net/"><img src="/images/vivarism.gif" alt="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" href="https://vivarism.net/"><img class="button-fix" src="/images/vivarism.gif" alt="🧃🧸🎈🌞 ★ Vivarism ★ 🌞🧸🎈🧃" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="oceanfront" href="https://oceanfront.neocities.org/"><img src="/images/oceanfront.png" alt="oceanfront" width="88" height="31"></a>
@@ -388,13 +388,13 @@ layout: page
 				<a title="Checkered Hell" href="https://superkirbylover.me/"><img src="/images/superkirbylover.gif" alt="Checkered Hell" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="pundone" href="https://pundone.neocities.org/"><img src="/images/pundone.png" alt="pundone" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="pundone" href="https://pundone.neocities.org/"><img class="button-fix" src="/images/pundone.png" alt="pundone" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Soop World :3" href="https://soop.neocities.org/"><img src="/images/soapworld3.png" alt="Soop World :3" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="❁ Silly Goober ❁" href="https://silly-goober.neocities.org/"><img src="/images/sillygoober.gif" alt="❁ Silly Goober ❁" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="❁ Silly Goober ❁" href="https://silly-goober.neocities.org/"><img class="button-fix" src="/images/sillygoober.gif" alt="❁ Silly Goober ❁" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Många Saker - Many Things" href="https://manythings.neocities.org/"><img src="/images/manythings.png" alt="Många Saker - Many Things" width="88" height="31"></a>
@@ -546,7 +546,7 @@ layout: page
 				<a title="EIGHTBRIITT" href="https://eightbriitt.neocities.org/"><img src="/images/eightbriittspring.gif" alt="EIGHTBRIITT" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="catp0rtal" href="https://catp0rtal.neocities.org/"><img src="/images/catp0rtal.gif" alt="catp0rtal" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="catp0rtal" href="https://catp0rtal.neocities.org/"><img class="button-fix" src="/images/catp0rtal.gif" alt="catp0rtal" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="DIGITALRIVER" href="https://digitalriver.neocities.org/"><img src="/images/digitalriver.png" alt="DIGITALRIVER" width="88" height="31"></a>
@@ -735,7 +735,7 @@ layout: page
 				<a title="Pinkvampyr" href="https://pinkvampyr.leprd.space/"><img src="/images/pinkvampyr.gif" alt="Pinkvampyr" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Daryl Sun's Journal" href="https://blog.darylsun.page/"><img src="/images/darylsun.webp" alt="Daryl Sun's Journal" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="Daryl Sun's Journal" href="https://blog.darylsun.page/"><img class="button-fix" src="/images/darylsun.webp" alt="Daryl Sun's Journal" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Seirdy’s Home" href="https://seirdy.one/"><img src="/images/seirdy.png" alt="Seirdy’s Home" width="88" height="31"></a>
@@ -871,7 +871,7 @@ layout: page
 				<a title="WHiMSiCAL!" href="http://whimsical.heartette.net/"><img src="/images/whimsical.gif" alt="WHiMSiCAL!" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Tabby's Cat Tree" href="https://tabbygarf.club/"><img src="/images/tabbygarf.png" alt="Tabby's Cat Tree" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="Tabby's Cat Tree" href="https://tabbygarf.club/"><img class="button-fix" src="/images/tabbygarf.png" alt="Tabby's Cat Tree" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="frog pond blues" href="https://frogpondblues.neocities.org/"><img src="/images/frogpondblues.png" alt="frog pond blues" width="88" height="31"></a>
@@ -1062,7 +1062,7 @@ layout: page
 				<a title="nick mykins" href="https://nmyk.io/"><img src="/images/nmyk.png" alt="nick mykins" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Kupo Cafe" href="https://kupo.cafe/"><img src="/images/kupo.png" alt="Kupo Cafe" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="Kupo Cafe" href="https://kupo.cafe/"><img class="button-fix" src="/images/kupo.png" alt="Kupo Cafe" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="glazes lair =^w^=" href="https://glazeliights.neocities.org/"><img src="/images/glazelights.png" alt="glazes lair =^w^=" width="88" height="31"></a>
@@ -1454,7 +1454,7 @@ layout: page
 				<a title="fluffy hyena" href="https://fluffyhyena.neocities.org/"><img src="/images/fluffyhyena.gif" alt="fluffychyena" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="lulu in cyberspace!" href="https://lu.tiny-universes.net/"><img src="/images/lulu.gif" alt="lulu in cyberspace!" width="88" height="31" style="min-width:88px;max-height:31px;"></a>
+				<a title="lulu in cyberspace!" href="https://lu.tiny-universes.net/"><img class="button-fix" src="/images/lulu.gif" alt="lulu in cyberspace!" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ap’s hub" href="https://aphub.neocities.org/"><img src="/images/apsbutton.png" alt="ap’s hub" width="88" height="31"></a>
