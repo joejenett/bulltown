@@ -163,6 +163,18 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="goblin-heart" href="https://goblin-heart.net/"><img src="/images/goblin.gif" alt="goblin-heart" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="blanket fort" href="https://blanketfort.neocities.org/"><img src="/images/blanketfort.gif" alt="blanket fort" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="nuthead.hideout" href="https://nuthead.neocities.org/"><img src="/images/nuthead.gif" alt="nuthead.hideout" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Studio Luxe" href="https://luxe-apartment.neocities.org/"><img src="/images/studioluxebutton.png" alt="Studio Luxe" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="The Iron Ragdoll" href="https://tofutush.neocities.org/"><img src="/images/tofutush.gif" alt="The Iron Ragdoll" width="88" height="31"></a>
 			</div>
 			<div class="button">
