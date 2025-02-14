@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -161,6 +164,15 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="dawn" href="https://dawnvoid.neocities.org/"><img src="/images/dawn.png" alt="dawn" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="ko's crag" href="https://kopawz.neocities.org/"><img src="/images/koscrag.gif" alt="ko's crag" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="slaid's beach" href="https://slaid.neocities.org/"><img src="/images/slaibeach8.png" alt="slaid's beach" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="goblin-heart" href="https://goblin-heart.net/"><img src="/images/goblin.gif" alt="goblin-heart" width="88" height="31"></a>
@@ -448,9 +460,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="☆ Mimikitty49 ☆" href="https://mimikitty49.neocities.org/"><img src="/images/mimikitty49.gif" alt="☆ Mimikitty49 ☆" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="dreaming in deadmalls" href="https://deadmall.xyz/"><img src="/images/deadmall.gif" alt="dreaming in deadmalls" width="88" height="31"></a>
