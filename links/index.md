@@ -68,9 +68,6 @@ layout: page
 				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -164,6 +161,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="dawn" href="https://dawnvoid.neocities.org/"><img src="/images/dawn.png" alt="dawn" width="88" height="31"></a>
