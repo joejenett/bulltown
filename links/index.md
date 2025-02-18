@@ -163,7 +163,7 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="The Renaissance Man, Revisited" href="https://kph.neocities.org/"><img src="/images/trm.png" alt="The Renaissance Man, Revisited" width="88" height="31"></a>
+				<a title="drmollytov" href="https://drmollytov.neocities.org/"><img src="/images/drmollytov.png" alt="drmollytov" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
@@ -176,6 +176,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="slaid's beach" href="https://slaid.neocities.org/"><img src="/images/slaibeach8.png" alt="slaid's beach" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Renaissance Man, Revisited" href="https://kph.neocities.org/"><img src="/images/trm.png" alt="The Renaissance Man, Revisited" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="goblin-heart" href="https://goblin-heart.net/"><img src="/images/goblin.gif" alt="goblin-heart" width="88" height="31"></a>
