@@ -44,6 +44,12 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="jamie’s epic web zone" href="https://shinyexe.neocities.org/"><img src="/images/shinyexe.gif" alt="jamie’s epic web zone" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -163,6 +169,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Mioasis: Mio's Garden" href="https://mioasis.neocities.org/"><img src="/images/mioasis.gif" alt="Mioasis: Mio's Garden" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="drmollytov" href="https://drmollytov.neocities.org/"><img src="/images/drmollytov.png" alt="drmollytov" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -212,9 +221,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="mesoscale" href="https://mesoscale.neocities.org/"><img src="/images/meso_badge.gif" alt="mesoscale" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="My Only Fren |-/" href="https://xxmyonlyfrenxx.neocities.org/"><img src="/images/xxmyonlyfrenxx.webp" alt="My Only Fren |-/" width="88" height="31"></a>
@@ -905,9 +911,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="A E L Y S I A   ❰ d o t ❱   N E T    ◦    Celestial Oracle Studio" href="https://aelysia.net/"><img src="/images/aelysia.png" alt="A E L Y S I A   ❰ d o t ❱   N E T    ◦    Celestial Oracle Studio" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="jamie’s epic web zone" href="https://shinyexe.neocities.org/"><img src="/images/shinyexe.gif" alt="jamie’s epic web zone" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="spiritcellar" href="https://spiritcellar.neocities.org/"><img src="/images/spiritcellar.gif" alt="spiritcellar" width="88" height="31"></a>
