@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="The web site of acetrainermeg" href="https://acetrainermeg.neocities.org/"><img src="/images/acetrainermeg.gif" alt="The web site of acetrainermeg" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Owen" href="https://owencompher.me/"><img src="/images/owencompher.png" alt="Owen" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -209,9 +212,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Nova Galaxium" href="https://pastel-skies.nekoweb.org/"><img src="/images/pastelskies.gif" alt="Nova Galaxium" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="The web site of acetrainermeg" href="https://acetrainermeg.neocities.org/"><img src="/images/acetrainermeg.gif" alt="The web site of acetrainermeg" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="kepler-16b" href="https://kepler-16b.neocities.org/"><img src="/images/kepler.png" alt="kepler-16b" width="88" height="31"></a>
