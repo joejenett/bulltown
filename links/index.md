@@ -172,6 +172,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="crotovane" href="https://crotovane.neocities.org/"><img src="/images/crotovane.png" alt="crotovane" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Scribble Cloud // The Art and Illustrations of Andrea Miller" href="https://scribblecloud.art/"><img src="/images/scribblecloud.png" alt="Scribble Cloud" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Mioasis: Mio's Garden" href="https://mioasis.neocities.org/"><img src="/images/mioasis.gif" alt="Mioasis: Mio's Garden" width="88" height="31"></a>
 			</div>
 			<div class="button">
