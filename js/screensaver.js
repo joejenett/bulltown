@@ -24,7 +24,7 @@
   z-index: 100000;
   color: #3b332c;
   /*background-color: #221911;*/
-  background:url('/images/leather.png');
+  background:url('/images/leather2.png');
   background-color: #0f0604;
   font-size: 72px;
   font-weight:800;
