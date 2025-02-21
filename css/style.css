@@ -270,7 +270,7 @@ p {
 	margin-top:28px;
 	background:#fff9e6;
 	padding: 0 25px;
-	border: 4px solid #50717e;
+	border: 9px solid #30444c;
 }
 #container-sp {
 	display:flex;
@@ -280,6 +280,7 @@ p {
 	margin-top:24px;
 	background:#fff9e6;
 	padding: 0 25px;
+	border: 9px solid #30444c;
 }
 #viewer-container {
 	display:flex;
