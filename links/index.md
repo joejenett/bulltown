@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Jay's Place" href="https://jaysplace.neocities.org/"><img src="/images/jaysplacebtn.png" alt="Jay's Place" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="The web site of acetrainermeg" href="https://acetrainermeg.neocities.org/"><img src="/images/acetrainermeg.gif" alt="The web site of acetrainermeg" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -311,9 +314,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="welcome. to autism!" href="https://www.milkyway.moe/"><img src="/images/milkybtn.gif" alt="welcome. to autism!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Jay's Place" href="https://jaysplace.neocities.org/"><img src="/images/jaysplacebtn.png" alt="Jay's Place" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="baccyflap.com - a delicate blend of bakelite and fear" href="https://baccyflap.com/"><img src="/images/baccyflap.gif" alt="baccyflap.com - a delicate blend of bakelite and fear" width="88" height="31"></a>
