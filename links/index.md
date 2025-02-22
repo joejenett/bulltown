@@ -229,6 +229,9 @@ layout: page
 				<a title="oerrorpage" href="https://oerrorpage.neocities.org/"><img src="/images/oerrorpage.png" alt="oerrorpage" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="VirtuaWORLD" href="https://www.virtuagirl.net/"><img src="/images/virtuagirlbutton.gif" alt="VirtuaWORLD" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="mesoscale" href="https://mesoscale.neocities.org/"><img src="/images/meso_badge.gif" alt="mesoscale" width="88" height="31"></a>
 			</div>
 			<div class="button">
