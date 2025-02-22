@@ -59,10 +59,10 @@ layout: page
 				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
+				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
+				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.png" alt="ANCIENTCRYPT" width="88" height="31"></a>
