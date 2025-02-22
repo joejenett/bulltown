@@ -697,6 +697,9 @@ div#reasons img {
 	#colorclub {
 		padding:26px 24px 38px 34px;
 	}
+		#page {
+		overflow:hidden scroll;
+	}
 }
 
 @media only screen and (max-width:390px) {
