@@ -211,7 +211,7 @@ h3 {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 30px;	
+	padding:40px 42px 40px 53px;	
 }
 
 #colorclub {
@@ -514,7 +514,7 @@ div#reasons img {
 		padding: 40px 38px;
 	}
 	#buttonwall-home {
-		padding:14px 32px;
+		padding:14px 30px;
 	}
 }
 @media only screen and (max-width:540px) {
