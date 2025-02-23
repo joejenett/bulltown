@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="ReduxFlakes" href="https://reduxflakes.neocities.org/"><img src="/images/reduxflakes.png" alt="ReduxFlakes" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Jay's Place" href="https://jaysplace.neocities.org/"><img src="/images/jaysplacebtn.png" alt="Jay's Place" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -173,6 +176,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Hey, do cobras kiss carefully?" href="https://goooby.neocities.org/"><img src="/images/goobbutton3.gif" alt="Hey, do cobras kiss carefully?" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="loveberry resources ♡" href="https://loveberry.nekoweb.org/"><img src="/images/loveberrynew.gif" alt="loveberry resources ♡" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="crotovane" href="https://crotovane.neocities.org/"><img src="/images/crotovane.png" alt="crotovane" width="88" height="31"></a>
@@ -1118,9 +1127,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="platinumtulip &#124; digital garden sanctuary" href="https://platinumtulip.garden/"><img src="/images/platinumtulip.gif" alt="platinumtulip &#124; digital garden sanctuary" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ReduxFlakes" href="https://reduxflakes.neocities.org/"><img src="/images/reduxflakes.png" alt="ReduxFlakes" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ddbentl headquarters" href="https://ddbentl.com/"><img src="/images/bentlbutton.gif" alt="ddbentl headquarters" width="88" height="31"></a>
