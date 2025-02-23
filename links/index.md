@@ -178,6 +178,21 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Fustilugz's Button Collection" href="https://fustilugz.neocities.org/"><img src="/images/fustilugz.gif" alt="Fustilugz's Button Collection" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Graymin's Glyphs" href="https://sylphofeons.neocities.org/"><img src="/images/graymins.gif" alt="Graymin's Glyphs" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="A new quest appeared!" href="https://piranhebula.neocities.org/"><img src="/images/piranhebula.gif" alt="A new quest appeared!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Rare Oarfish Sightings" href="https://rareoarfishsightings.neocities.org/"><img src="/images/rosbuttondec2024.png" alt="Rare Oarfish Sightings" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cervidaze ☘" href="https://cervidaze.me/"><img src="/images/cervidaze.png" alt="cervidaze ☘" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Hey, do cobras kiss carefully?" href="https://goooby.neocities.org/"><img src="/images/goobbutton3.gif" alt="Hey, do cobras kiss carefully?" width="88" height="31"></a>
 			</div>
 			<div class="button">
