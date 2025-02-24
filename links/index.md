@@ -543,9 +543,6 @@ layout: page
 				<a title="Aarix's Place" href="https://aarix.neocities.org/"><img src="/images/aarix.gif" alt="Aarix's Place" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="The Iron Ragdoll" href="https://tofutush.github.io/The-Iron-Ragdoll/"><img src="/images/iron-ragdoll.gif" alt="The Iron Ragdoll" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Mihail's Page" href="https://mihails-guide.neocities.org/"><img src="/images/theguide.gif" alt="Mihail's Page" width="88" height="31"></a>
 			</div>
 			<div class="button">
