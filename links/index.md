@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="cervidaze ☘" href="https://cervidaze.me/"><img src="/images/cervidaze.png" alt="cervidaze ☘" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ReduxFlakes" href="https://reduxflakes.neocities.org/"><img src="/images/reduxflakes.png" alt="ReduxFlakes" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -188,9 +191,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Rare Oarfish Sightings" href="https://rareoarfishsightings.neocities.org/"><img src="/images/rosbuttondec2024.png" alt="Rare Oarfish Sightings" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="cervidaze ☘" href="https://cervidaze.me/"><img src="/images/cervidaze.png" alt="cervidaze ☘" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Hey, do cobras kiss carefully?" href="https://goooby.neocities.org/"><img src="/images/goobbutton3.gif" alt="Hey, do cobras kiss carefully?" width="88" height="31"></a>
