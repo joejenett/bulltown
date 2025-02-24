@@ -44,6 +44,30 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Met Moxie ⚡ No Musk, no Zuck, just Moxie" href="https://metmoxie.com/"><img src="/images/metmoxie.png" alt="Met Moxie ⚡ No Musk, no Zuck, just Moxie" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="foreverliketh.is" href="https://foreverliketh.is/"><img src="/images/foreverlikethis.png" alt="foreverliketh.is" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Aywren's Nook" href="https://aywren.com/"><img src="/images/aywren.gif" alt="Aywren's Nook" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="astral town ✰" href="https://serimemo.neocities.org/"><img src="/images/astral.png" alt="astral town ✰" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="cervidaze ☘" href="https://cervidaze.me/"><img src="/images/cervidaze.png" alt="cervidaze ☘" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -126,30 +150,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Met Moxie ⚡ No Musk, no Zuck, just Moxie" href="https://metmoxie.com/"><img src="/images/metmoxie.png" alt="Met Moxie ⚡ No Musk, no Zuck, just Moxie" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="foreverliketh.is" href="https://foreverliketh.is/"><img src="/images/foreverlikethis.png" alt="foreverliketh.is" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Aywren's Nook" href="https://aywren.com/"><img src="/images/aywren.gif" alt="Aywren's Nook" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="astral town ✰" href="https://serimemo.neocities.org/"><img src="/images/astral.png" alt="astral town ✰" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
