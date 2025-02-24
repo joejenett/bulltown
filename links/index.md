@@ -158,6 +158,9 @@ layout: page
 				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -179,6 +182,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Olive Jar" href="https://theolivejar.neocities.org/"><img src="/images/olivejarbutton.gif" alt="The Olive Jar" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Fustilugz's Button Collection" href="https://fustilugz.neocities.org/"><img src="/images/fustilugz.gif" alt="Fustilugz's Button Collection" width="88" height="31"></a>
@@ -467,9 +473,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Många Saker - Many Things" href="https://manythings.neocities.org/"><img src="/images/manythings.png" alt="Många Saker - Many Things" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="House of Nettles" href="https://nex-3.com/"><img src="/images/house-of-nettles.gif" alt="House of Nettles" width="88" height="31"></a>
