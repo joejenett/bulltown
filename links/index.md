@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="The Olive Jar" href="https://theolivejar.neocities.org/"><img src="/images/olivejarbutton.gif" alt="The Olive Jar" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -184,6 +187,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="The Folkmoss Logs" href="https://folkmoss.bearblog.dev/"><img src="/images/folkmossbutton.png" alt="The Folkmoss Logs" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="garden" href="https://cygnet.neocities.org/"><img src="/images/cygnet.png" alt="garden" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -191,9 +197,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="‧₊˚✧sodarain✧˚₊‧" href="https://sodarain.neocities.org/"><img src="/images/sodarain.gif" alt="‧₊˚✧sodarain✧˚₊‧" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="The Olive Jar" href="https://theolivejar.neocities.org/"><img src="/images/olivejarbutton.gif" alt="The Olive Jar" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Fustilugz's Button Collection" href="https://fustilugz.neocities.org/"><img src="/images/fustilugz.gif" alt="Fustilugz's Button Collection" width="88" height="31"></a>
