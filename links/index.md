@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="‧₊˚✧sodarain✧˚₊‧" href="https://sodarain.neocities.org/"><img src="/images/sodarain.gif" alt="‧₊˚✧sodarain✧˚₊‧" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="The Olive Jar" href="https://theolivejar.neocities.org/"><img src="/images/olivejarbutton.gif" alt="The Olive Jar" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -194,9 +197,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="kismette" href="https://kismette.neocities.org/"><img src="/images/limlimbutton1.jpg" alt="kismette" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="‧₊˚✧sodarain✧˚₊‧" href="https://sodarain.neocities.org/"><img src="/images/sodarain.gif" alt="‧₊˚✧sodarain✧˚₊‧" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Fustilugz's Button Collection" href="https://fustilugz.neocities.org/"><img src="/images/fustilugz.gif" alt="Fustilugz's Button Collection" width="88" height="31"></a>
