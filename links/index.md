@@ -190,6 +190,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="BohieBear's Domain - grrrrr" href="https://bohiebear.neocities.org/"><img src="/images/bohiebear.png" alt="BohieBear's Domain - grrrrr" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="The Folkmoss Logs" href="https://folkmoss.bearblog.dev/"><img src="/images/folkmossbutton.png" alt="The Folkmoss Logs" width="88" height="31"></a>
 			</div>
 			<div class="button">
