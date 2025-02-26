@@ -190,6 +190,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Get Cubed" href="https://getcubed.neocities.org/"><img src="/images/getcubed.png" alt="Get Cubed" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="marea" href="https://marea.neocities.org/"><img src="/images/marea.gif" alt="marea" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Welcome, Angels! ʚ♡ɞ" href="https://angelhotspot.neocities.org/"><img src="/images/pearlbutton.gif" alt="Welcome, Angels! ʚ♡ɞ" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="BohieBear's Domain - grrrrr" href="https://bohiebear.neocities.org/"><img src="/images/bohiebear.png" alt="BohieBear's Domain - grrrrr" width="88" height="31"></a>
 			</div>
 			<div class="button">
