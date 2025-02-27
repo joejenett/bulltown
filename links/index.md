@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="bumblingbats" href="https://bumblingbats.neocities.org/"><img src="/images/bbats.png" alt="bumblingbats" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="‧₊˚✧sodarain✧˚₊‧" href="https://sodarain.neocities.org/"><img src="/images/sodarain.gif" alt="‧₊˚✧sodarain✧˚₊‧" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -682,9 +685,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="GET GROOVIN'" href="https://sunpop.neocities.org/"><img src="/images/sunpop.png" alt="GET GROOVIN'" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="bumblingbats" href="https://bumblingbats.neocities.org/"><img src="/images/bbats.png" alt="bumblingbats" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Arkm's World" href="https://arkmsworld.neocities.org/"><img src="/images/arkmgif.gif" alt="Arkm's World" width="88" height="31"></a>
