@@ -1,216 +1,33 @@
 ---
 layout: default
 ---
-			<div id="homecover" style=""><a title="other covers" href="https://bulltown.2022.joejenett.com/covers/"><img class="freezeframe" src="/images/051599.gif" alt="other covers" width="278" height="100"></a>
-			</div>
-			<!--
-				<div style="margin:0;border-top:1px dashed #7f676c;border-bottom:1px dashed #7f676c;text-align:center;color:#440303;font-size:1.4em;font-weight:600;padding-bottom:2px;">Happy New Year!
-				</div>
-			-->
-			<div style="position:relative;float:right;margin:4px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;">
-				<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>
-				<div style="font-size:.8em;">
-					<p>
-						
-						<a href="/#commento"><em>comments</em></a>
-					</p>
-
-				</div>
-			</div>
-			<p style="line-height:1.2em;font-size:1em;">
-				Welcome to <span style="font-weight:600;">bulltown.<small>2022</small></span>, a remix of words and images, circa 1997-2004 plus other works <span style="font-size:.9em;font-style:italic;">(old and new)</span> of the same spirit.
-			</p>
-			<noscript>
-				<p>
-					Please enable JavaScript for full functionality.
-				</p>	
-			</noscript>
-			
-				<div class="announce">
-					<iframe src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
-				</div>
-			
-			<p style="font-weight:500;font-size:1em;margin-top:-14px;">
-				<div style="position:relative;float:right;font-size:.85em;text-align:right;margin:-18px 16px 0 0;">
-						Some features work best with JavaScript enabled.
-					</div>
-				<!-- <span style="border-bottom:1px dashed #3e5018;padding-bottom:3px;">Latest from the <a href="/archive/"><em style="font-weight:700">journal</em></a>:</span> -->
-			</p>
-			<div class="home h-feed">
-	<div style="margin-top:-12px;">
-		 {{ content }}
-		<div class="post-list" style="margin-bottom:48px;">
-			{% assign count = 0 %}
-			{%- for post in site.posts -%}
-			{% assign count = count | plus:1 %}
-			{% if count == 1 %}
-			{%- include postnav.html -%}
-			{% endif %}
-			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-
-			<div style="margin-bottom:24px;padding-bottom:6px;margin-right:12px;">
-			{%- if post.title != "" -%}
-				<h2 class="post-title p-name" style="margin-top:18px;">{{ post.title | escape }}</h2>
-			{%- endif -%}
-				{%- if site.show_excerpts -%}
-				{{ post.excerpt }}
-				{%- endif -%}
-				<div style="position:relative;top:-4px;">
-					<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
-					&bull; <span class="post-meta p-author h-card">joe jenett
-					</span>
-				</div>
-			</div>
-			{% if count == 1 %}{% break %}
-			{% endif %}
-			{%- endfor -%}
-		</div>
+<div id="homecover" style=""><a title="other covers" href="https://bulltown.2022.joejenett.com/covers/"><img class="freezeframe" src="/images/033199.gif" alt="other covers" width="278" height="100"></a>
+</div>
+<!--
+	<div style="margin:0;border-top:1px dashed #7f676c;border-bottom:1px dashed #7f676c;text-align:center;color:#440303;font-size:1.4em;font-weight:600;padding-bottom:2px;">Happy New Year!
+	</div>
+-->
+<div style="position:relative;float:right;margin:4px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;">
+	<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>
+	<div style="font-size:.8em;">
 	</div>
 </div>
-			<div style="text-align:center;margin:0 auto 18px auto;">
-				<button id="play-gif">Play GIFs</button>
-				<button id="stop-gif">Stop GIFs</button>
-			</div>
-			<!--  div id="bfixer" -->
-				<div id="thanks" class="freezeframe">
-					<div style="font-size:1em;font-weight:600;font-style:italic;text-align:center;padding:2px 0 6px 0;margin:0 auto;max-width:490px;/*position:relative;left:-22px;*/">thanks!
-					</div>
-					<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:3px;/*position:relative;left:-22px;*/">mutuals
-					</div>
-					<div class="button"><a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a></div>
-					<div class="button"><a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a></div>
-					<div class="button"><a title="foreverliketh.is" href="https://foreverliketh.is/"><img src="/images/foreverlikethis.png" alt="foreverliketh.is" width="88" height="31"></a></div>
-					<div class="button"><a title="Met Moxie ⚡ No Musk, no Zuck, just Moxie" href="https://metmoxie.com/"><img src="/images/metmoxie.png" alt="Met Moxie ⚡ No Musk, no Zuck, just Moxie" width="88" height="31"></a></div>
-					<div class="button"><a title="Aywren's Nook" href="https://aywren.com/"><img src="/images/aywren.gif" alt="Aywren's Nook" width="88" height="31"></a></div>
-					<div class="button"><a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a></div>
-					<div class="button"><a title="astral town ✰" href="https://tilde.town/~memo/"><img src="/images/astral.png" alt="astral town ✰" width="88" height="31"></a></div>
-					<div class="button"><a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a></div>
-					<div style="font-size:.9em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:80px;clear:both;/*position:relative;left:-22px;*/">appreciated
-					</div>
-					<div class="button"><a title="Directory | BUKMARK.CLUB" href="https://bukmark.club/directory/"><img src="/images/bukmark-mbr.png" alt="Directory | BUKMARK.CLUB" width="88" height="31"></a></div>
-					<div class="button"><a title="32-Bit Cafe" href="https://32bit.cafe/"><img src="/images/32bitcafe.png" alt="32-Bit Cafe" width="88" height="31"></a></div>
-					<div class="button"><a title="dimden's hotel" href="https://dimden.dev/"><img src="/images/dimden.gif" alt="dimden's hotel" width="88" height="31"></a></div>
-					<div class="button"><a title="maya.land" href="https://maya.land/"><img src="/images/maya.gif" alt="maya.land" width="88" height="31"></a></div>
-					<div class="button"><a title="jasmine's journal" href="https://jasm1nii.xyz/"><img src="/images/jasmines.png" alt="jasmine's journal" width="88" height="31"></a></div>
-					<div class="button"><a title="Bechno Kid's Hideout!" href="https://bechnokid.neocities.org/"><img src="/images/bechno.jpg" alt="Bechno Kid's Hideout!" width="88" height="31"></a></div>
-					<div class="button"><a title="Cactus Comments - Federated Web Comments" href="https://cactus.chat/"><img src="/images/cactus.png" alt="Cactus Comments" width="88" height="31"></a></div>
-					<div class="button"><a title="prefers-reduced-motion: Sometimes less movement is more | web.dev" href="https://web.dev/prefers-reduced-motion/"><img src="/images/webdev.png" alt="web.dev" width="88" height="31"></a></div>
-					<div class="button"><a title="*NEKO* Welcome to the Web Neko Server!" href="https://webneko.net/"><img src="/images/neko.png" alt="*NEKO*" width="88" height="31"></a></div>
-					<div class="button"><a title="freezeframe.js" href="https://github.com/ctrl-freaks/freezeframe.js/"><img src="/images/freezeframe.png" alt="freezeframe.js" width="88" height="31"></a></div>
-				</div>
-			<!-- /div -->
-	        <a name="commento"></a>		
-			<div id="commento">
-				<div style="font-size:1em;font-weight:600;font-style:italic;text-align:center;margin:90px 0 18px 0;padding-top:30px;clear:both;">bulltown ephemeral communicator<br><span style="font-style:normal;font-size:.85em;"><a href="/other/ephemeral/">[archives]</a></span>
-				</div>
-				<div id="comment-section"></div>
-				<script>
-					initComments({
-						node: document.getElementById("comment-section"),
-						defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-						serverName: "cactus.chat",
-						siteName: "bulltown.joejenett.com",
-						commentSectionId: "home"
-					})
-				</script>
-				<noscript>Please enable JavaScript to view comments.
-				</noscript>
-				<div style="text-align:center;">
-					[<a href="/" onclick="javascript:window.location.href='/';">top</a>]
-				</div>
-		
-			</div>
-			<div style="text-align:center;margin:24px 0;">
-				<p>
-					<a href="https://iwebthings.joejenett.com/" title="i.webthings hub"><img alt="i.webthings hub" src="/images/iwti.png" style="margin:4px;max-width:20px;"></a>
-					<a href="https://toot.community/@jenett" title="Mastodon"><img src="/images/mast.png" alt="Mastodon" style="margin:4px 0;max-width:17px;"></a>
-					<span style="position:relative;top:-3px;">
-						<a title="joe jenett on matrix" href="https://matrix.to/#/@joejenett:matrix.org"><img src="/images/matrix.png" alt="joe jenett on matrix" style="max-width:20px;margin-left:3px;"></a>
-					</span>
-					<!-- <a title="jenett at bluesky" href="https://bsky.app/profile/jenett.bsky.social" rel="me"><img src="/images/bluesky.png" alt="jenett at bluesky" style="max-width:18px;margin:4px;"></a> -->
-					<span style="position:relative;top:2px;">
-						<a title="joe jenett at github" href="https://github.com/joejenett"><img src="/images/github.png" alt="joe jenett at github" style="max-width:20px;margin:4px;"></a>
-					</span>
-				</p>
-				<a href="https://iwebthings.joejenett.com/"><img src="/images/iwp.png" width="160" alt=""></a>
-			</div>
-			<div style="text-align:center;width:100%;display:block;">
-				<div id="hcard-container" class="hcard-display h-card vcard p-author">
-					<div class="hcard-header"><a class="u-url url fn u-uid" href="/" rel="author"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo" loading="lazy" width="50" height="50" style=""></a>
-						<p class="hcard-name p-name n" style="font-size:.9em;">joe jenett
-						</p>
-					</div>
-					<div class="hcard-body">
-						<ul class="hcard-properties"> 
-						</ul>
-						<p class="p-note note" style="font-size:.85em;margin-top:-9px;">a curator (of sorts)</p>
-					</div>
-				</div>
-			</div>
-			<div style="width:276px;margin:24px auto 30px auto;padding:1px;border-radius:6px;line-height:1px;">
-				<a title="i.webthings, an independent and noncommercial web initiative" href="https://iwebthings.joejenett.com/"><img src="/images/iwt-button.png" alt="" width="88" style="margin:2px;"></a><a title="it’s personal. and micro. — simply." href="https://simply.joejenett.com/"><img src="/images/simply-button.png" alt="" width="88" style="margin:2px;"></a><a title="an eclectic selection of sites to explore, curated by a fellow human" href="https://directory.joejenett.com/"><img src="/images/iwd.png" alt="" width="88" style="margin:2px;"></a><br><a title="a pile of tasty miscellany" href="https://wiki.joejenett.com/"><img src="/images/jenett-wiki.png" alt="" width="88" style="margin:2px;"></a><a title="a new take" href="https://bulltown.2022.joejenett.com/"><img src="/images/b22button.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s little digital garden" href="https://ideas.joejenett.com/"><img src="/images/ji.png" alt="" width="88" style="margin:2px;"></a><br><a title="a combined collection of posts from the dailywebthing linkport and dailywebthing daily pointers, spanning several decades" href="https://dwt-archives.joejenett.com/"><img src="/images/dwt-archives.png" alt="" width="88" style="margin:2px;"></a><a title="This is where my web lives." href="https://joejenett.com/"><img src="/images/aka.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s new brainstormer" href="https://brainstormer.joejenett.com/"><img src="/images/joe.brainstormer.png" alt="" width="88" style="margin:2px;"></a>
-			</div>
-			<div id="rings" style="margin-top:8px;text-align:center;vertical-align:bottom;padding-bottom:32px;">
-					
-				<div style="margin-top:24px;font-size:.85em;font-weight:500;width:100%;padding-top:12px;text-align:center;">
-					<a href="https://xn--sr8hvo.ws/previous">←</a> |   
-					<a href="https://xn--sr8hvo.ws">An IndieWeb Webring 🕸💍</a> | 
-					<a href="https://xn--sr8hvo.ws/next">→</a>
-				</div>
-				<p style="font-size:.85em;">
-					<a href="https://webring.dinhe.net/prev/https://bulltown.2022.jenett.org/">←</a>
-					<a href="https://webring.dinhe.net/">The Retronaut Webring</a>
-					<a href="https://webring.dinhe.net/next/https://bulltown.2022.jenett.org/">→</a>
-				</p>
-				<p style="font-size:.85em;margin-top:1.5em;">
-					<span style="font-weight:500;"><a href="https://geekring.net">Geekring</a></span><br>
-					<a href="https://geekring.net/site/178/previous">&larr;</a> | 
-					<a href="https://geekring.net/site/178/random">Random</a> | 
-					<a href="https://geekring.net/site/178/next">&rarr;</a>
-				</p>
-				<div style="text-align:center">
-					<p style="font-size:.85em;margin-top:1.5em;"><a href="https://indieseek.xyz/webring/" style="font-weight:500;">Retroweb Ring</a><br>
-						<a href="https://webri.ng/webring/retroweb/previous?index=2">&larr;</a> | <a href="https://webri.ng/webring/retroweb/random">Random</a> | <a href="https://webri.ng/webring/retroweb/next?index=2">&rarr;</a>
-					</p>
-				</div>
-				<div class="LoopRingWrapper" style="text-align:center">
-					<p style="font-size:.85em;margin-top:1.5em;">
-						<a href="https://loop.graycot.dev/webring.html?action=prev" title="previous">← </a> |
-						<a href="https://loop.graycot.dev/webring.html?action=list" title="list"> ... </a> |
-						<a href="https://loop.graycot.dev/webring.html?action=home" title="Loop Ring Home"> Loop Ring </a> |
-						<a href="https://loop.graycot.dev/webring.html?action=rand" title="random"> ? </a> |
-						<a href="https://loop.graycot.dev/webring.html?action=next" title="next"> →</a>
-					</p>
-				</div>
-				
-			    <div id="miscri2" style="font-size:.85em;margin-top:1.5em;">
-				    <a href='https://miscri.netlify.app/webring?action=prev'> ← </a>
-				    <a href='https://miscri.netlify.app/webring?action=home'>~misc-ring~</a>
-				    <a href='https://miscri.netlify.app/webring?action=rand'> ?</a>
-				    <a href='https://miscri.netlify.app/webring?action=next'> → </a>
-				</div>
+<p style="line-height:1.2em;font-size:1em;">
+	Welcome to <span style="font-weight:600;">bulltown.<small>2022</small></span>, a remix of words and images, circa 1997-2004 plus other works <span style="font-size:.9em;font-style:italic;">(old and new)</span> of the same spirit.
+</p>
+<noscript>
+	<p>
+		Please enable JavaScript for full functionality.
+	</p>	
+</noscript>
 			
-				
-				<div style="text-align:center;position:relative;left:-8px;margin-top:1.5em;">
-					<details>
-						<summary>
-							<span style="font-size:.85em;margin-top:1.5em;color:#7f676c;">
-								<span style="font-weight:500;">NavLink Ads<br><small style="margin-left:22px;">(some animation)</small>
-								</span>
-							</span>
-						</summary>
-						<iframe width="180" height="180" style="border:none;margin-top:12px;position:relative;left:8px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
-					</details>
-						
-				</div>	
-			</div>
-			<div style="text-align:center;margin-top:-24px;">
-				[<a href="/" onclick="javascript:window.location.href='/';">top</a>]
-			</div>
-		
+<div class="announce">
+	<iframe src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
+</div>
+			
+{{ content }}
 
-	
 
 <script src="/js/freezeframe.min.js"></script>
-		{%- include footer.html -%}	
-				</div>
+{%- include footer.html -%}	
+</div>
