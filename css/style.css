@@ -502,6 +502,9 @@ div#reasons img {
 	#buttonwall {
 		padding:40px 52px;
 	}
+	p.hideit {
+		display:none;
+	}
 }
 @media only screen and (max-width:679px) {
 	#colorclub {
@@ -531,10 +534,19 @@ div#reasons img {
 	#colorclub {
 		padding:26px 42px 38px 54px;
 	}
+	p.hideit, .announce {
+		display:none;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
 		font-size:18px;
+	}
+	img#respect {
+		display:none;
+	}
+	.announce {
+		display:block;
 	}
 	.home-bhead {
 		margin-left:8px;
