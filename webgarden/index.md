@@ -28,7 +28,7 @@ iframe {
 <h2>webgarden</h2>
 <p style="font-weight:400;">External links open in a new tab or window, based on your browser settings.</p>
 <h3>my pot:</h3>
-<div style="padding-left:28px;">
+<div id="mypot">
 	<iframe title="bulltown" src="https://bulltown.joejenett.com/webgarden.html" width="250" height="250" scrolling="no"></iframe>
 	<div style="min-width:232px;min-height:232px;max-width:232px;max-height:232px;border:1px solid #440303;border-radius:12px;position:relative;float:left;margin:24px;padding:9px;font-size:.95em;">
 		<p>Thanks to <a href="https://missmoss.neocities.org/">miss moss</a> for coming up with this wonderful concept!
