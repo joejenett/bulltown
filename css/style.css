@@ -541,10 +541,16 @@ div#reasons img {
 	p.hideit, .announce {
 		display:none;
 	}
+	#others-pots, #mypots {
+		padding-left:80px;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
 		font-size:18px;
+	}
+	#others-pots, #mypots {
+		padding-left:28px;
 	}
 	img#respect {
 		display:none;
