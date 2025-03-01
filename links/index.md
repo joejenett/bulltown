@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="manyface world" href="https://manyface.neocities.org/"><img src="/images/manyface.png" alt="manyface world" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="bumblingbats" href="https://bumblingbats.neocities.org/"><img src="/images/bbats.png" alt="bumblingbats" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -873,9 +876,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Small World: An Artist Directory for the Small Web" href="https://smallworld.mizuki.world/"><img src="/images/smallworld.png" alt="Small World: An Artist Directory for the Small Web" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="manyface world" href="https://manyface.neocities.org/"><img src="/images/manyface.png" alt="manyface world" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Solinus' Website" href="https://solinus.neocities.org/"><img src="/images/salinus.png" alt="Solinus' Website" width="88" height="31"></a>
