@@ -494,7 +494,9 @@ div#reasons img {
 	height:24px;
 	border-top:3px double #29221c;
 }
-
+#others-pots {
+		padding-left:28px;
+	}
 @media only screen and (max-width:768px) {
 	#buttonwall-home {
 		/*padding:40px 60px 40px 100px;*/
@@ -518,6 +520,9 @@ div#reasons img {
 	}
 	#buttonwall-home {
 		padding:14px 30px;
+	}
+	#others-pots {
+		padding-left:120px;
 	}
 }
 @media only screen and (max-width:540px) {
