@@ -196,6 +196,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="PENTUMBRA" href="https://pentumbra.space/"><img src="/images/pentumbra4.png" alt="PENTUMBRA" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="hazelonline" href="https://hazelonline.neocities.org/"><img src="/images/hazel.png" alt="hazelonline" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="I don't bite ☆" href="https://i-dont-bite.neocities.org/"><img src="/images/idontbitebutton.gif" alt="I don't bite ☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Get Cubed" href="https://getcubed.neocities.org/"><img src="/images/getcubed.png" alt="Get Cubed" width="88" height="31"></a>
 			</div>
 			<div class="button">
