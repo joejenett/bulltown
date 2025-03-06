@@ -90,7 +90,7 @@ layout: default
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"></a></p> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
@@ -112,7 +112,7 @@ layout: default
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"></a></p> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
@@ -136,7 +136,7 @@ layout: default
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"></a></p> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
