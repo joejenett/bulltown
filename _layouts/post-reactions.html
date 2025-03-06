@@ -85,12 +85,12 @@ layout: default
 				var output = '';
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output = '<div style="margin-top:18px;font-size:.9rem;font-weight:600;">Reactions: </div>';
+						output = '<div style="margin:18px 0 9px 0;font-size:.9rem;font-weight:600;">Reactions: </div>';
 					}
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
@@ -107,12 +107,12 @@ layout: default
 				var output = '';
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output = '<div style="margin-top:18px;font-size:.9rem;font-weight:600;">Reactions: </div>';
+						output = '<div style="margin:18px 0 9px 0;font-size:.9rem;font-weight:600;">Reactions: </div>';
 					}
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
@@ -132,12 +132,12 @@ layout: default
 				var output = '';
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output = '<div style="margin-top:18px;font-size:.9rem;font-weight:600;">Reactions: </div>';
+						output = '<div style="margin:18px 0 9px 0;font-size:.9rem;font-weight:600;">Reactions: </div>';
 					}
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a> ';
+						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
 					}
 				});
 				output += ' ';
