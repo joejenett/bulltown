@@ -196,6 +196,39 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="`.*~Fern Zone~*.`" href="https://transferns.neocities.org/"><img src="/images/transfern.gif" alt="`.*~Fern Zone~*.`" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="x SMOKO'S WEBZONE x" href="https://smokoswebzone.gay/"><img src="/images/webzonebutton.gif" alt="x SMOKO'S WEBZONE x" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Storeyed's Neocity!" href="https://storeyed.neocities.org/"><img src="/images/storeyed.gif" alt="Storeyed's Neocity!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="PAULS WORLD" href="https://paulsworld.neocities.org/"><img src="/images/paulsworldbutton.jpg" alt="PAULS WORLD" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="thinking about the immortality of the crab" href="https://mushmallow.neocities.org/"><img src="/images/mushbutton.png" alt="thinking about the immortality of the crab" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SCANNING BLUE ! 🎧" href="https://monsieurdoll.neocities.org/"><img src="/images/monsieurdoll.png" alt="SCANNING BLUE ! 🎧" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SlushieCafe" href="https://slushiecafe.neocities.org/"><img src="/images/slushiecafe.png" alt="SlushieCafe" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Antiamorous" href="https://antiamorous.neocities.org/"><img src="/images/antiamobutton.gif" alt="Antiamorous" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Contro World" href="https://contro-world.neocities.org/"><img src="/images/contro.gif" alt="Contro World" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Maximum Crunch" href="https://maxcrunch.neocities.org/"><img src="/images/maximumcrunch.png" alt="Maximum Crunch" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Kyropy" href="https://kyropy.neocities.org/"><img src="/images/kyropybutton.svg" alt="Kyropy" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="PENTUMBRA" href="https://pentumbra.space/"><img src="/images/pentumbra4.png" alt="PENTUMBRA" width="88" height="31"></a>
 			</div>
 			<div class="button">
