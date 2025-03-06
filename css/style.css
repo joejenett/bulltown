@@ -127,14 +127,14 @@ body {
 	margin-left:2px;
 	font-size:1em;
 }
-#result, #result2 {
+#result, #result2, #result3 {
 padding-top:18px;
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size:.9rem;
 font-weight:600;
 
 }
-#result p, #result p a, #result2 p, #result2 p a {
+#result p, #result p a, #result2 p, #result2 p a, #result3 p, #result3 p a {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size:.9rem;
 font-weight:600;
