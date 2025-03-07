@@ -568,9 +568,9 @@ div#reasons img {
 	#others-pots, #mypot {
 		padding-left:28px;
 	}
-	img#respect {
+	/*img#respect {
 		display:none;
-	}
+	}*/
 	.announce {
 		display:block;
 	}
