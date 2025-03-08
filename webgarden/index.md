@@ -48,7 +48,6 @@ iframe {
 <iframe title="missmoss" src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe title="Love Never Dies" src="https://venusinfoxfurs.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #597b8f;"></iframe>
 <iframe src="https://lockheartlove.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #804ebd;"></iframe>
-<iframe src="//oerrorpage.neocities.org/wbgrdn" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #000000;"></iframe>
 <iframe title="dxcccii" src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
 <iframe title="doqmeat" src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #cff07f;"></iframe>
 <iframe title="qrunchysnaq" src="https://qrunchysnaq.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #fff9e6;"></iframe>
@@ -82,9 +81,10 @@ iframe {
 <iframe title="neonriser" src="https://neonriser.neocities.org/webgarden" style="height:250px;width:250px;border:3px solid #000;" scrolling="no" loading="lazy"></iframe>
 <iframe title="skykristal" src="https://skykristal.art/Links/Webgardens/" style="height:250px;width:250px;border:3px solid #000;" scrolling="no" loading="lazy"></iframe>
 <iframe title="theenderdraco" src="https://theenderdraco.neocities.org/webgarden.html" height="250" width="250" scrolling="no" loading="lazy" style="border:3px solid orange;"></iframe>
-<iframe title="fencraft.leprd.space" src="https://fencraft.leprd.space/Links/webgarden.html" style="height:250px;width:250px;border:3px solid green;" scrolling="no" loading="lazy"></iframe>
+<iframe title="fencraft.leprd.space" src="https://fencraft.leprd.space/Links/webgarden.html" style="height:250px;width:250px;border:3px solid green;" loading="lazy"></iframe>
 <iframe title="sweetcharm.net" src="https://sweetcharm.net/.CuteDesktop/Website/planter.html" style="height:250px;width:250px;border:3px solid pink;" scrolling="no" loading="lazy"></iframe>
 <iframe title="astralobservatory" src="https://astralobservatory.neocities.org/webgarden.html" style="height:250px;width:250px;border:3px solid #409897;" height="250" width="250" scrolling="no" loading="lazy"></iframe>
+<iframe src="//oerrorpage.neocities.org/wbgrdn" height="250px" width="250px" loading="lazy" style="border:3px solid #000000;"></iframe>
 <iframe title="prophetesque" src="https://prophetesque.gay/webgarden" scrolling="no" height="250" width="250" style="border:3px solid #21f8f6;padding-right:2px;padding-bottom:2px;background-color:#21f8f6;"></iframe>
 <iframe title="superkirbylover" src="https://superkirbylover.neocities.org/webgarden" scrolling="no" height="238" width="238" style="border:3px solid #5c4532;background-color:#5c4532;padding-right:14px;padding-bottom:14px;"></iframe>
 <iframe title="epic1" src="https://epic1.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid #ccc;padding:2px;"></iframe>
