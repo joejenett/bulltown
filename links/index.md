@@ -196,6 +196,18 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Sharktree's mayhem station" href="https://sharktree.neocities.org/"><img src="/images/sharktree.png" alt="Sharktree's mayhem station" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="enter the cal zone" href="https://calzonie.neocities.org/"><img src="/images/calzoniebutton.gif" alt="enter the cal zone" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the web site of meeeee :3" href="https://taffy.neocities.org/"><img src="/images/taffybutton2023.gif" alt="the web site of meeeee :3" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="jack-dawlia's goober zone" href="https://jack-dawlia.neocities.org/"><img src="/images/jackdawlia.gif" alt="jack-dawlia's goober zone" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="`.*~Fern Zone~*.`" href="https://transferns.neocities.org/"><img src="/images/transfern.gif" alt="`.*~Fern Zone~*.`" width="88" height="31"></a>
 			</div>
 			<div class="button">
