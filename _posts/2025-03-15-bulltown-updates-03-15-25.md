@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /bulltown-updates-03-15-25/
 slug: bulltown-updates-03-15-25
-summary: notes the loose nut behind the wheel 😎
+summary: notes from the loose nut behind the wheel 😎
 comments: false
 ---
 I’ve gotta tell ya - getting everything to render nicely on mobile has been an ongoing challenge. Just yesterday, I discovered the background for the button wall on the 𝗯.𝗻𝗲𝗼 homepage had somehow disappeared probably due to some loose nut behind the wheel accidentally deleting some CSS. In the process of fixing that, I noticed a few remaining issues on how the page rendered on some mobile screen sizes. That’s all resolved (for) now. Whew!
