@@ -184,6 +184,9 @@ body {
 	}
 }
 @media only screen and (max-width:414px) {
+	.now-playing, .controls, .track-list, .credits, .mocontrol {
+		width:316px;
+	}
 	.controls, .mocontrol  {
 		font-size:.8em;
 		text-align:center;
