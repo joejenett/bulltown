@@ -163,7 +163,8 @@ body {
 }
 @media only screen and (max-width:430px) {
 	.now-playing, .controls, .track-list, .credits, .mocontrol {
-		width:340px;
+		width:330px;
+		
 	}
 	.now-playing, .controls {
 		margin-right:24px;
