@@ -26,10 +26,12 @@ layout: page
 		<i icon-name="skip-forward"></i>
 		<i icon-name="shuffle"></i>
 	</span>
-	<i icon-name="volume-1"></i>
-	<i icon-name="volume-x" class="hidden"></i>
-	<label for="range"><input id="range" type="range" min="0" max="100" class="volume-slider"></label>
-	<span class="timer">0:00 / 0:00</span>
+	<div class="timerwrap">
+		<i icon-name="volume-1"></i>
+		<i icon-name="volume-x" class="hidden"></i>
+		<label for="range"><input id="range" type="range" min="0" max="100" class="volume-slider"></label>
+		<span class="timer">0:00 / 0:00</span>
+	</div>
 </div>
 <div class="track-list left18"></div>
 <audio id="audio"></audio>

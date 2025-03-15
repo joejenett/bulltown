@@ -1,31 +1,31 @@
 body {
-  /*margin: 0;
-  font-family: monospace;*/
+	/*margin: 0;
+	font-family: monospace;*/
 }
 
 .now-playing {
-  position: relative;
-  top:-4px;
-  font-family: monospace;
-  width: 640px;
-  background-color: #29221c;
-  color: #fff9e6;
-  text-align: center;
-  font-size: 1rem;
-  line-height: 1.2rem;
+	position: relative;
+	top:-4px;
+	font-family: monospace;
+	width: 640px;
+	background-color: #29221c;
+	color: #fff9e6;
+	text-align: center;
+	font-size: 1rem;
+	line-height: 1.2rem;
 }
 
 .controls {
-  position: relative;
-  top:-24px;
-  font-family: monospace;
-  width: 640px;
-  background-color: #29221c;
-  color: #fff9e6;
-  user-select: none;
-  margin-top: 1.13rem;
-  display: flex;
-  justify-content: center;
+	position: relative;
+	top:-24px;
+	font-family: monospace;
+	width: 640px;
+	background-color: #29221c;
+	color: #fff9e6;
+	user-select: none;
+	margin-top: 1.13rem;
+	display: flex;
+	justify-content: center;
 }
 .track-list {
 	position:relative;
@@ -34,27 +34,27 @@ body {
 	padding-top: 2.55rem;
 }
 .credits {
-  position:relative;
-  top:-60px;
-  width: 640px;
-  height:22px;
-  background-color: #29221c;
-  color: #fff9e6;
-  font-size: 8pt;
-  padding: 9px 0 0 0;
-  text-align: center;
-  font-family: monospace;
+	position:relative;
+	top:-60px;
+	width: 640px;
+	height:22px;
+	background-color: #29221c;
+	color: #fff9e6;
+	font-size: 8pt;
+	padding: 9px 0 0 0;
+	text-align: center;
+	font-family: monospace;
 }
 
 .credits a {
-  color:#fff9e6;
-  font-size: 8pt;
-  text-decoration: none;
+	color:#fff9e6;
+	font-size: 8pt;
+	text-decoration: none;
 }
 
 .credits a:hover {
-  color:#ffffff;
-  background-color: #7f7a77;	
+	color:#ffffff;
+	background-color: #7f7a77;	
 }
 
 #min {
@@ -77,55 +77,57 @@ body {
 .mocontrol {
 	/*position:fixed;*/
 	background: #29221c;
-  width: 640px;
+	width: 640px;
 }
 
 .track {
-  color: #29221c;
-  padding-left: .4rem;
-  padding-block: .04rem;
-  line-height: 125%;
-  user-select: none;
-  /*border: #2820c6 solid 1px;*/
-  font-family: monospace;
+	color: #29221c;
+	padding-left: .4rem;
+	padding-block: .04rem;
+	line-height: 125%;
+	user-select: none;
+	/*border: #2820c6 solid 1px;*/
+	font-family: monospace;
 }
 
 .track:nth-child(odd) {
-  background-color: #eae9e8;
+	background-color: #eae9e8;
 }
 
 .track:nth-child(even) {
-  background-color: #d4d3d2;
+	background-color: #d4d3d2;
 }
 
 .track-list>.selected-track {
-  color: rgb(18, 14, 97);
-  background-color: #ffffff;
-  /*border: rgb(223 218 121) solid 1px;*/
+	color: rgb(18, 14, 97);
+	background-color: #ffffff;
+	/*border: rgb(223 218 121) solid 1px;*/
 }
 
 .track:hover {
-  background-color: #fffbf0;
-  color: rgb(0, 3, 160);
-  font-family: monospace;
+	background-color: #fffbf0;
+	color: rgb(0, 3, 160);
+	font-family: monospace;
 }
 
 .timer {
-  margin-left: 1rem;
-  margin-block: auto;
+	margin-left: 1rem;
+	margin-block: auto;
 }
-@media only screen and (max-width:779px) {
+
+@media only screen and (max-width:600px) {
+	.now-playing, .controls, .track-list, .credits, .mocontrol {
+		width:496px;
+	}
 	.now-playing {
 		position:relative;
 		top:-7px;
   		/* font-size:.9em; */
-		width:350px;
 	}
 	.controls {
 		position:relative;
 		top:-27px;
 		/* font-size:.8em; */
-		width:350px;
 		padding:6px 0 6px 0;
 	}
 	#min {
@@ -137,85 +139,143 @@ body {
 	.track-list {
 		position:relative;
 		top:-39px;
-		width:350px;
 		margin-top: 1rem;
 		padding-top: 0;
 	}
 	.credits {
 		position:relative;
 		top:-35px;
-		width:350px;
 	}
 	.mobaid {
-	display:block;
-	}
-	.mocontrol {
-		width:350px;
+		display:block;
 	}
 	.mocontrol img {
-	margin:6px 8px 1px 8px;
+		margin:6px 8px 1px 8px;
 	}
 	.track, .timer {
 		font-size:.9em;
 	}
 }	
-
+@media only screen and (max-width:540px) {
+	.now-playing, .controls, .track-list, .credits, .mocontrol {
+		width:440px;
+	}
+}
+@media only screen and (max-width:430px) {
+	.now-playing, .controls, .track-list, .credits, .mocontrol {
+		width:340px;
+	}
+	.now-playing, .controls {
+		margin-right:24px;
+	}
+		.timerwrap {
+		margin-right:20px;
+	}
+@media only screen and (max-width:428px) {
+	.now-playing, .controls, .track-list, .credits, .mocontrol {
+		width:330px;
+	}
+	.now-playing, .controls {
+		margin-right:24px;
+	}
+		.timerwrap {
+		margin-right:14px;
+	}
+}
+@media only screen and (max-width:414px) {
+	.controls, .mocontrol  {
+		font-size:.8em;
+		text-align:center;
+		text-indent:9px;
+	}
+	.timerwrap {
+		margin-right:12px;
+	}
+	.now-playing  {
+		font-size:.8em;
+		margin-right:32px;
+	}
+		.credits {
+		font-size:.6em;
+		margin-right:14px;
+	}
+	.mocontrol p a img {
+		position:relative;
+		left:-16px;
+	}
+}
+@media only screen and (max-width:390px) {
+	.controls, .timer  {
+		font-size:.8em;
+		text-align:left;
+	}
+	.now-playing  {
+		font-size:.8em;
+		text-align:left;
+		text-indent:17px;
+	}
+		.credits {
+		font-size:.55em;
+		text-align:left;
+		text-indent:9px;
+	}
+}
 .controls>svg {
-  cursor: pointer;
-  margin-bottom: -0.04rem;
-  margin-left: .25rem;
-  transform: scale(.75);
+	cursor: pointer;
+	margin-bottom: -0.04rem;
+	margin-left: .25rem;
+	transform: scale(.75);
 }
 
 .controls>svg:hover {
-  color: white;
-  transition-duration: .15s;
+	color: white;
+	transition-duration: .15s;
 }
 
 polygon {
-  user-select: none;
+	user-select: none;
 }
 
 .volume-slider {
-  transform: scale(.7);
-  margin-inline: -.85rem;
+	transform: scale(.7);
+	margin-inline: -.85rem;
 }
 
 input[type=range] {
-  -webkit-appearance: none;
-  background-color: rgb(198, 129, 0);
-  width: 100px;
-  height: .55rem;
-  margin-top: .5rem;
-  margin-bottom: 0.385rem;
+	-webkit-appearance: none;
+	background-color: rgb(198, 129, 0);
+	width: 100px;
+	height: .55rem;
+	margin-top: .5rem;
+	margin-bottom: 0.385rem;
 }
 
 input[type="range"]::-webkit-slider-thumb {
-  cursor: pointer;
-  -webkit-appearance: none;
-  background-color: rgb(32, 88, 218);
-  width: 8px;
-  height: 1.2rem;
-  border-radius: 3px;
+	cursor: pointer;
+	-webkit-appearance: none;
+	background-color: rgb(32, 88, 218);
+	width: 8px;
+	height: 1.2rem;
+	border-radius: 3px;
 }
 
 ::-webkit-scrollbar {
-  /*width: 8px;*/
+	/*width: 8px;*/
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #7f6157;
+	background-color: #7f6157;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #ff9148;
-  border-radius: 2px;
+	background-color: #ff9148;
+	border-radius: 2px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: rgb(78, 145, 255);
+	background-color: rgb(78, 145, 255);
 }
 
 .hidden {
-  display: none;
+	display: none;
 }
