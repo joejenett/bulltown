@@ -77,7 +77,7 @@ body {
 .mocontrol {
 	/*position:fixed;*/
 	background: #29221c;
-	margin-right:10px;
+  width: 640px;
 }
 
 .track {
