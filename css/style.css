@@ -17,9 +17,6 @@ body {
   	max-height:31px;
 } 
 #rating {
-	/*position:relative;
-	float:right;
-	margin:96px 36px 0 -144px;*/
 	border:none;
 	width:70px;
 }
@@ -71,9 +68,9 @@ body {
 	padding:2px 0 6px 0;
 }
 #slug {
-  position:relative;
-  float:right;
-  margin:25px 6px 0 0;
+	position:relative;
+	float:right;
+	margin:25px 6px 0 0;
 }
 #gb-container {
 	clear: both;
@@ -132,16 +129,16 @@ body {
 	font-size:1em;
 }
 #result, #result2, #result3 {
-padding-top:18px;
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:.9rem;
-font-weight:600;
+	padding-top:18px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:.9rem;
+	font-weight:600;
 
 }
 #result p, #result p a, #result2 p, #result2 p a, #result3 p, #result3 p a {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size:.9rem;
-font-weight:600;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:.9rem;
+	font-weight:600;
 }
 #result li {
 	list-style:none;
@@ -208,7 +205,6 @@ h3 {
 	padding:0 150px 36px 150px;
 	margin-bottom:48px;
 	margin-top:24px;
-	/*border-top:1px dashed #e4d3d5;*/
 }
 #buttonwall {
 	display:flex;
@@ -515,12 +511,9 @@ div#reasons img {
 	border-top:3px double #29221c;
 }
 #others-pots, #mypot {
-		padding-left:28px;
-	}
+	padding-left:28px;
+}
 @media only screen and (max-width:768px) {
-	#buttonwall-home {
-		/*padding:40px 60px 40px 100px;*/
-	}
 	#buttonwall {
 		padding:40px 52px;
 	}
@@ -572,9 +565,6 @@ div#reasons img {
 	#others-pots, #mypot {
 		padding-left:28px;
 	}
-	/*img#respect {
-		display:none;
-	}*/
 	.announce {
 		display:block;
 	}
@@ -739,7 +729,7 @@ div#reasons img {
 	#colorclub {
 		padding:26px 24px 38px 34px;
 	}
-		#page {
+	#page {
 		overflow:hidden scroll;
 	}
 }
