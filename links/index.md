@@ -107,9 +107,6 @@ layout: page
 				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.png" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="moonpr1sm’s planet" href="https://moonpr1sm.neocities.org/"><img src="/images/moonpr1sm.png" alt="moonpr1sm’s planet" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -194,6 +191,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Welcome to The City of Rest." href="https://saltydracon.neocities.org/"><img src="/images/thecitybutton.gif" alt="Welcome to The City of Rest." width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ATARAX" href="https://atarax.neocities.org/"><img src="/images/atarax.gif" alt="ATARAX" width="88" height="31"></a>
