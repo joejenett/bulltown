@@ -193,6 +193,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Moodle McDoodle" href="https://moodlemcdoodle.neocities.org/"><img src="/images/moodlebutton1.gif" alt="Moodle McDoodle" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="leusyth's webspace" href="https://leusyth.neocities.org/"><img src="/images/leusyth.png" alt="leusyth's webspace" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
