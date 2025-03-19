@@ -545,8 +545,8 @@ div#reasons img {
 		padding: 14px 40px 14px 50px;
 	}
 	#rating {
-		width:60px;
-		margin:96px 30px 0 -144px;
+		/*width:60px;
+		margin:96px 30px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 42px 38px 54px;
@@ -677,8 +677,8 @@ div#reasons img {
 		padding:12px;
 	}
 	#rating {
-		width:48px;
-		margin:96px 24px 0 -144px;
+		/*width:48px;
+		margin:96px 24px 0 -144px;*/
 	}
 }
 @media only screen and (max-width:430px) {
@@ -686,8 +686,8 @@ div#reasons img {
 		padding: 20px 44px;
 	}
 	#rating {
-		width:42px;
-		margin:96px 18px 0 -144px;
+		/*width:42px;
+		margin:96px 18px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
@@ -698,8 +698,8 @@ div#reasons img {
 		padding: 20px 44px;
 	}
 	#rating {
-		width:36px;
-		margin:96px 12px 0 -144px;
+		/*width:36px;
+		margin:96px 12px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 30px 38px 38px;
@@ -762,8 +762,8 @@ div#reasons img {
 		max-width: 100px;
 	}
 	#rating {
-		width:36px;
-		margin:96px 8px 0 -144px;
+		/*width:36px;
+		margin:96px 8px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 16px 38px 20px;
