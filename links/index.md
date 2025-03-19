@@ -193,6 +193,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="squishy mushroom" href="https://x-squishy-mushroom-x.neocities.org/"><img src="/images/squishy.gif" alt="squishy mushroom" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Moodle McDoodle" href="https://moodlemcdoodle.neocities.org/"><img src="/images/moodlebutton1.gif" alt="Moodle McDoodle" width="88" height="31"></a>
 			</div>
 			<div class="button">
