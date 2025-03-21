@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="JNKYRD" href="https://jnkyrd.neocities.org/"><img src="/images/jnkyrd.gif" alt="JNKYRD" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="manyface world" href="https://manyface.neocities.org/"><img src="/images/manyface.png" alt="manyface world" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -524,9 +527,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="ocean's site" href="https://oceansandy02.neocities.org/"><img src="/images/ocean.png" alt="ocean's site" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="JNKYRD" href="https://jnkyrd.neocities.org/"><img src="/images/jnkyrd.gif" alt="JNKYRD" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="A Realm Beyond" href="https://blazingcobaltx.neocities.org/"><img src="/images/arealmbeyond.gif" alt="A Realm Beyond" width="88" height="31"></a>
