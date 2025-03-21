@@ -196,6 +196,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="memoria" href="https://finalfantasyix.neocities.org/"><img src="/images/memoria.gif" alt="memoria" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Jak2k's Website" href="https://jak2k.schwanenberg.name/"><img src="/images/jak2k.webp" alt="Jak2k's Website" width="88" height="31"></a>
 			</div>
 			<div class="button">
