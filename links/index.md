@@ -193,6 +193,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Jak2k's Website" href="https://jak2k.schwanenberg.name/"><img src="/images/jak2k.webp" alt="Jak2k's Website" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Pepsi Harlot" href="https://pepsiharlot.com/"><img src="/images/pepsiharlotbutton1.png" alt="Pepsi Harlot" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="squishy mushroom" href="https://x-squishy-mushroom-x.neocities.org/"><img src="/images/squishy.gif" alt="squishy mushroom" width="88" height="31"></a>
 			</div>
 			<div class="button">
