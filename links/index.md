@@ -196,6 +196,24 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Don't go in the coffin just yet!" href="https://phantasmablahh.neocities.org/"><img src="/images/palomas2.png" alt="Don't go in the coffin just yet!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="standing at the outer edges of the world" href="https://winteryear.neocities.org/"><img src="/images/winteryear.gif" alt="standing at the outer edges of the world" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Starry's Grove" href="https://starry-knight.neocities.org/"><img src="/images/starrysgrove.png" alt="Starry's Grove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Onio Café" href="https://onio.cafe/"><img src="/images/onio.gif" alt="Onio Café" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="🜊 k o i l w o o d 🜊" href="https://koilwood.neocities.org/"><img src="/images/koil2.png" alt="🜊 k o i l w o o d 🜊" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bizly" href="https://bizly.neocities.org/"><img src="/images/bizly2.gif" alt="bizly" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="memoria" href="https://finalfantasyix.neocities.org/"><img src="/images/memoria.gif" alt="memoria" width="88" height="31"></a>
 			</div>
 			<div class="button">
