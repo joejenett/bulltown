@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="ko's crag" href="https://kopawz.neocities.org/"><img src="/images/koscrag.gif" alt="ko's crag" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="JNKYRD" href="https://jnkyrd.neocities.org/"><img src="/images/jnkyrd.gif" alt="JNKYRD" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -194,6 +197,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="N-has-a-site" href="https://n-has-a-site.neocities.org/"><img src="/images/nhasasite.png" alt="N-has-a-site" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="ZENOSLOTS" href="https://zenoslots.net/"><img src="/images/zenoslots.png" alt="ZENOSLOTS" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Don't go in the coffin just yet!" href="https://phantasmablahh.neocities.org/"><img src="/images/palomas2.png" alt="Don't go in the coffin just yet!" width="88" height="31"></a>
@@ -353,9 +362,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="dawn" href="https://dawnvoid.neocities.org/"><img src="/images/dawn.png" alt="dawn" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ko's crag" href="https://kopawz.neocities.org/"><img src="/images/koscrag.gif" alt="ko's crag" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="slaid's beach" href="https://slaid.neocities.org/"><img src="/images/slaibeach8.png" alt="slaid's beach" width="88" height="31"></a>
