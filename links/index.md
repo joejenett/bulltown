@@ -199,6 +199,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+			<a title="project c190" href="https://projectc190.neocities.org/"><img src="/images/c190.png" alt="project c190" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Unicode Angel" href="https://unicodeangel.neocities.org/"><img src="/images/unicodeangelbutton2.gif" alt="Unicode Angel" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="N-has-a-site" href="https://n-has-a-site.neocities.org/"><img src="/images/nhasasite.png" alt="N-has-a-site" width="88" height="31"></a>
 			</div>
 			<div class="button">
