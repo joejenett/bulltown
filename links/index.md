@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="ليث ريحـــــــان" href="https://arataka.neocities.org/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ko's crag" href="https://kopawz.neocities.org/"><img src="/images/koscrag.gif" alt="ko's crag" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -199,10 +202,10 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Fusil UK" href="http://fusil.uk/?ring"><img src="/images/fusil.gif" alt="Fusil UK" width="88" height="31"></a>
+				<a title="convexer's dumpster site" href="https://convexer.neocities.org/"><img src="/images/convexers.svg" alt="convexer's dumpster site" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ليث ريحـــــــان" href="https://arataka.neocities.org/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
+				<a title="Fusil UK" href="http://fusil.uk/?ring"><img src="/images/fusil.gif" alt="Fusil UK" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Please Insert Disc" href="https://rainyshinydays.neocities.org/"><img src="/images/rainyshiny.gif" alt="Please Insert Disc" width="88" height="31"></a>
