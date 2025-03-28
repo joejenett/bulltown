@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="Rini" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ليث ريحـــــــان" href="https://arataka.neocities.org/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -200,6 +203,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Virtually Isolated" href="https://virtually-isolated.neocities.org/"><img src="/images/isolated.png" alt="Virtually Isolated" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="convexer's dumpster site" href="https://convexer.neocities.org/"><img src="/images/convexers.svg" alt="convexer's dumpster site" width="88" height="31"></a>
@@ -781,9 +787,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="cepheus" href="https://cepheus.neocities.org/"><img src="/images/cepheus.gif" alt="cepheus" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="Rini" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Simone's Computer" href="https://simone.computer/"><img src="/images/simonecomp.gif" alt="Simone's Computer" width="88" height="31"></a>
