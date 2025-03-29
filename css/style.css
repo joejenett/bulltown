@@ -8,6 +8,22 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.iwt {
+	 position:relative;
+	 float:right;
+	 margin:4px 18px 0 9px;
+	 padding-left:2px;
+	 padding-bottom:9px;
+	 text-align:center;
+}
+.iwt-p {
+	 position:relative;
+	 float:right;
+	 margin:18px 18px 0 9px;
+	 padding-left:2px;
+	 padding-bottom:9px;
+	 text-align:center;
+}
 .left18 {
 	position:relative;
 	left:18px;

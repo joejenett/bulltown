@@ -1,13 +1,18 @@
 ---
 layout: default-p
 ---
+<div class="iwt-p">
+		<div style="text-align:center;margin:18px auto 18px auto;">
+		<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
+		<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
+	</div>
+</div>
 <div style="padding-right:18px;margin-top:36px;">
 	<label for="search-input" style="display:none;">search</label>
 	<input type="text" id="search-input" placeholder="search the journal">
 	<br>
 	<div id="results-container"></div>
 </div>
-
 <div style="display:flex;font-size:.75em;font-weight:400;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 	<div style="width:50%;">
 		{% if page.previous.url %}
