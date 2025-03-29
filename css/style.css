@@ -8,9 +8,18 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.iwtbanner {
+	width:350px;
+}
 .iwt {
 	 position:relative;
 	 float:right;
+	 margin:4px 18px 0 9px;
+	 padding-left:2px;
+	 padding-bottom:9px;
+	 text-align:center;
+}
+.iwt-b {
 	 margin:4px 18px 0 9px;
 	 padding-left:2px;
 	 padding-bottom:9px;
