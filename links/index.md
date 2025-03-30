@@ -1228,9 +1228,6 @@ layout: page
 				<a title="Abyss Bloom" href="https://abyssbloom.neocities.org/"><img src="/images/abyssbloom.png" alt="Abyss Bloom" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="pinksafire" href="https://its11pmwhatamidoing.neocities.org/"><img src="/images/pinksafire.png" alt="pinksafire" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Themby" href="https://themby.neocities.org/"><img src="/images/themby.gif" alt="Themby" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1410,7 +1407,7 @@ layout: page
 				<a title="LinkyBlog" href="https://linkyblog.neocities.org/"><img src="/images/linkybanner.png" alt="LinkyBlog" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Memento Mori" href="https://crossveil.neocities.org/"><img src="/images/crossveil.gif" alt="Memento Mori" width="88" height="31"></a>
+				<a title="Memento Mori" href="https://crossveil.online/"><img src="/images/crossveil.gif" alt="Memento Mori" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Red Velvet - definitely NOT a diary" href="https://redvelvet.cc/"><img src="/images/redvelvet.gif" alt="Red Velvet - definitely NOT a diary" width="88" height="31"></a>
@@ -1556,7 +1553,7 @@ layout: page
 				<a title="tinypaws" href="https://tinypaws.neocities.org/"><img src="/images/tinypaws.gif" alt="tinypaws" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="plasticdino" href="https://plasticdino.neocities.org/"><img src="/images/plasticdino.gif" alt="plasticdino" width="88" height="31"></a>
+				<a title="plasticdino" href="https://plasticdino.net/"><img src="/images/plasticdino.gif" alt="plasticdino" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="リテラリーひふみ" href="https://lhfm.neocities.org/"><img src="/images/hifumi.png" alt="LiterallyHifumi" width="88" height="31"></a>
@@ -1644,10 +1641,6 @@ layout: page
 			<div class="button">
 				<a title="cementgarden" href="https://cementgarden.neocities.org/"><img src="/images/cementgarden.gif" alt="cementgarden" width="88" height="31"></a>
 			</div>
-			<div class="button">
-				<a title="\\ reon" href="https://reon.neocities.org/"><img src="/images/reon.png" alt="\\ reon" width="88" height="31"></a>
-			</div>
-
 			<div class="button">
 				<a title="Neonriser" href="https://neonriser.neocities.org/"><img src="/images/neonriser.gif" alt="Neonriser" width="88" height="31"></a>
 			</div>
