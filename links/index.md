@@ -211,9 +211,6 @@ layout: page
 				<a title="convexer's dumpster site" href="https://convexer.neocities.org/"><img src="/images/convexers.svg" alt="convexer's dumpster site" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Fusil UK" href="http://fusil.uk/?ring"><img src="/images/fusil.gif" alt="Fusil UK" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Please Insert Disc" href="https://rainyshinydays.neocities.org/"><img src="/images/rainyshiny.gif" alt="Please Insert Disc" width="88" height="31"></a>
 			</div>
 			<div class="button">
