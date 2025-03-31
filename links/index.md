@@ -205,6 +205,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="HEAVEN WELCOMES YOU!" href="https://aetherie-99.neocities.org/"><img src="/images/aetherie99.gif" alt="HEAVEN WELCOMES YOU!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="★CNTRLPROCESS★" href="https://cntrlprocess.neocities.org/"><img src="/images/cntrlprocess.png" alt="★CNTRLPROCESS★" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Blopswebsite" href="https://blopswebsite.neocities.org/"><img src="/images/blopswebsite.gif" alt="Blopswebsite" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Virtually Isolated" href="https://virtually-isolated.neocities.org/"><img src="/images/isolated.png" alt="Virtually Isolated" width="88" height="31"></a>
 			</div>
 			<div class="button">
