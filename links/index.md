@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="the human finny" href="https://humanfinny.neocities.org/"><img src="/images/humanfinny.gif" alt="the human finny" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="Rini" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -203,6 +206,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Raised Online..." href="https://fallenfleurs.neocities.org/"><img src="/images/fallenfleurs.png" alt="Raised Online..." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="disasterpiece" href="https://disasterpiece.neocities.org/"><img src="/images/disasterpiece.png" alt="disasterpiece" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="HEAVEN WELCOMES YOU!" href="https://aetherie-99.neocities.org/"><img src="/images/aetherie99.gif" alt="HEAVEN WELCOMES YOU!" width="88" height="31"></a>
@@ -1036,9 +1045,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="✦ Channel Onion ✦" href="https://channelonion.neocities.org/"><img src="/images/onionbutton.png" alt="✦ Channel Onion ✦" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="the human finny" href="https://humanfinny.neocities.org/"><img src="/images/humanfinny.gif" alt="the human finny" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="EXPECTATIONemesis" href="https://expectationemesis.net/"><img src="/images/expectationemesis.png" alt="EXPECTATIONemesis" width="88" height="31"></a>
