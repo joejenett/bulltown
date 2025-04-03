@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="the human finny" href="https://humanfinny.neocities.org/"><img src="/images/humanfinny.gif" alt="the human finny" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -206,6 +209,12 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="BOOTLEG BLOG" href="https://bootlegdomain.neocities.org/"><img src="/images/bootleg.png" alt="BOOTLEG BLOG" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Rosaria Delacroix" href="https://rosariadelacroix.neocities.org/"><img src="/images/rosaria.png" alt="Rosaria Delacroix" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Raised Online..." href="https://fallenfleurs.neocities.org/"><img src="/images/fallenfleurs.png" alt="Raised Online..." width="88" height="31"></a>
@@ -898,9 +907,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="The web site of slashdiv" href="https://slashdiv.neocities.org/"><img src="/images/slashdiv.gif" alt="The web site of slashdiv" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Yamasztuka" href="https://yamasztuka.com/"><img src="/images/yamasztuka.gif" alt="Yamasztuka" width="88" height="31"></a>
