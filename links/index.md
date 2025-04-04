@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Maximum Crunch" href="https://maxcrunch.neocities.org/"><img src="/images/maximumcrunch.png" alt="Maximum Crunch" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="the castle" href="https://princss.online/"><img src="/images/princss.png" alt="the castle" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -211,6 +214,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="THE ENGULFED CATHEDRAL | ⛪🔥" href="https://playmoar.neocities.org/"><img src="/images/playmoar.gif" alt="THE ENGULFED CATHEDRAL | ⛪🔥" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="BOOTLEG BLOG" href="https://bootlegdomain.neocities.org/"><img src="/images/bootleg.png" alt="BOOTLEG BLOG" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -344,9 +350,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Contro World" href="https://contro-world.neocities.org/"><img src="/images/contro.gif" alt="Contro World" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Maximum Crunch" href="https://maxcrunch.neocities.org/"><img src="/images/maximumcrunch.png" alt="Maximum Crunch" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Kyropy" href="https://kyropy.neocities.org/"><img src="/images/kyropybutton.svg" alt="Kyropy" width="88" height="31"></a>
