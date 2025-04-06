@@ -203,6 +203,9 @@ layout: page
 				<a title="Subdomain Sluts" href="https://jaysplace.neocities.org/subdomains/"><img src="/images/subdomains.png" alt="Subdomain Sluts" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Responsive Web Directory" href="https://kalechips.net/responsive/"><img src="/images/rwd.png" alt="Responsive Web Directory" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
 			
