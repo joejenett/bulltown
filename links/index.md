@@ -194,7 +194,7 @@ layout: page
 				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Indieseek.xyz Indie Web Directory | Retroweb Ring" href="https://indieseek.xyz/webring/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory | Retroweb Ring" width="88" height="31"></a>
+				<a title="Indieseek.xyz Indie Web Directory" href="https://indieseek.xyz/"><img src="/images/indieseek.png" alt="Indieseek.xyz Indie Web Directory" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="The Ad-Lib Club | Webring" href="https://theadlibclub.neocities.org/"><img src="/images/ad-lib.png" alt="The Ad-Lib Club | Webring" width="88" height="31"></a>
