@@ -217,7 +217,7 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ANGELREGISTER" href="https://angelregister.neocities.org/"><img src="/images/placeholder.png" alt="ANGELREGISTER" width="88" height="31"></a>
+				<a title="ANGELREGISTER" href="https://angelregister.neocities.org/"><img src="/images/angelregister.png" alt="ANGELREGISTER" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="THE ENGULFED CATHEDRAL | ⛪🔥" href="https://playmoar.neocities.org/"><img src="/images/playmoar.gif" alt="THE ENGULFED CATHEDRAL | ⛪🔥" width="88" height="31"></a>
@@ -227,6 +227,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Rosaria Delacroix" href="https://rosariadelacroix.neocities.org/"><img src="/images/rosaria.png" alt="Rosaria Delacroix" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="House of Wild Water" href="https://houseofwildwater.neocities.org/"><img src="/images/houseofwildwater.png" alt="House of Wild Water" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Raised Online..." href="https://fallenfleurs.neocities.org/"><img src="/images/fallenfleurs.png" alt="Raised Online..." width="88" height="31"></a>
@@ -242,6 +245,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Blopswebsite" href="https://blopswebsite.neocities.org/"><img src="/images/blopswebsite.gif" alt="Blopswebsite" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Blink’s Nest" href="https://blinkmakesart.neocities.org/"><img src="/images/blinks.png" alt="Blink’s Nest" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Virtually Isolated" href="https://virtually-isolated.neocities.org/"><img src="/images/isolated.png" alt="Virtually Isolated" width="88" height="31"></a>
