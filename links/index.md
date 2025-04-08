@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="THE ENGULFED CATHEDRAL | ⛪🔥" href="https://playmoar.neocities.org/"><img src="/images/playmoar.gif" alt="THE ENGULFED CATHEDRAL | ⛪🔥" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Maximum Crunch" href="https://maxcrunch.neocities.org/"><img src="/images/maximumcrunch.png" alt="Maximum Crunch" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -224,9 +227,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="ANGELREGISTER" href="https://angelregister.neocities.org/"><img src="/images/angelregister.png" alt="ANGELREGISTER" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="THE ENGULFED CATHEDRAL | ⛪🔥" href="https://playmoar.neocities.org/"><img src="/images/playmoar.gif" alt="THE ENGULFED CATHEDRAL | ⛪🔥" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="BOOTLEG BLOG" href="https://bootlegdomain.neocities.org/"><img src="/images/bootleg.png" alt="BOOTLEG BLOG" width="88" height="31"></a>
