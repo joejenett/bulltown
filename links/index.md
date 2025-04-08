@@ -220,6 +220,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Kalechips" href="https://kalechips.net/"><img src="/images/kalechips.png" alt="Kalechips" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="ANGELREGISTER" href="https://angelregister.neocities.org/"><img src="/images/angelregister.png" alt="ANGELREGISTER" width="88" height="31"></a>
 			</div>
 			<div class="button">
