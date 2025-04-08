@@ -310,7 +310,7 @@ layout: page
 				<a title="leusyth's webspace" href="https://leusyth.neocities.org/"><img src="/images/leusyth.png" alt="leusyth's webspace" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ANCIENTCRYPT" href="https://ancientcrypt.tech/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Welcome to The City of Rest." href="https://saltydracon.neocities.org/"><img src="/images/thecitybutton.gif" alt="Welcome to The City of Rest." width="88" height="31"></a>
