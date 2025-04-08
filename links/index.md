@@ -191,6 +191,9 @@ layout: page
 				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -308,9 +311,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="leusyth's webspace" href="https://leusyth.neocities.org/"><img src="/images/leusyth.png" alt="leusyth's webspace" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Welcome to The City of Rest." href="https://saltydracon.neocities.org/"><img src="/images/thecitybutton.gif" alt="Welcome to The City of Rest." width="88" height="31"></a>
