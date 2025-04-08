@@ -253,9 +253,6 @@ layout: page
 				<a title="Blopswebsite" href="https://blopswebsite.neocities.org/"><img src="/images/blopswebsite.gif" alt="Blopswebsite" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Blink’s Nest" href="https://blinkmakesart.neocities.org/"><img src="/images/blinks.png" alt="Blink’s Nest" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Virtually Isolated" href="https://virtually-isolated.neocities.org/"><img src="/images/isolated.png" alt="Virtually Isolated" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -341,6 +338,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="`.*~Fern Zone~*.`" href="https://transferns.neocities.org/"><img src="/images/transfern.gif" alt="`.*~Fern Zone~*.`" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Blink’s Nest" href="https://blinkmakesart.neocities.org/"><img src="/images/blinks.png" alt="Blink’s Nest" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="x SMOKO'S WEBZONE x" href="https://smokoswebzone.gay/"><img src="/images/webzonebutton.gif" alt="x SMOKO'S WEBZONE x" width="88" height="31"></a>
