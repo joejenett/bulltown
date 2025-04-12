@@ -8,30 +8,51 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.postnav {
+	display:flex;
+	font-size:.75em;
+	font-weight:400;
+	border-top:1px dashed #ccc;
+	border-bottom:1px dashed #ccc;
+	margin:18px 0;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.fifty {
+	width:50%;
+}
+.right {
+	text-align:right;
+}
+.mb-twentyfour {
+	margin-bottom: 24px;
+}
 .iwtbanner {
 	width:350px;
 }
+.ninerem {
+	font-size:,9rem;
+}
 .iwt {
-	 position:relative;
-	 float:right;
-	 margin:4px 18px 0 9px;
-	 padding-left:2px;
-	 padding-bottom:9px;
-	 text-align:center;
+	position:relative;
+	float:right;
+	margin:4px 18px 0 9px;
+	padding-left:2px;
+	padding-bottom:9px;
+	text-align:center;
 }
 .iwt-b {
-	 margin:4px 18px 0 9px;
-	 padding-left:2px;
-	 padding-bottom:9px;
-	 text-align:center;
+	margin:4px 18px 0 9px;
+	padding-left:2px;
+	padding-bottom:9px;
+	text-align:center;
 }
 .iwt-p {
-	 position:relative;
-	 float:right;
-	 margin:18px 18px 0 9px;
-	 padding-left:2px;
-	 padding-bottom:9px;
-	 text-align:center;
+	position:relative;
+	float:right;
+	margin:18px 18px 0 9px;
+	padding-left:2px;
+	padding-bottom:9px;
+	text-align:center;
 }
 .left18 {
 	position:relative;
@@ -117,9 +138,7 @@ body {
 .button {
 	max-width:88px;
 	margin:3px;
-	/*position:relative;*/
 	float:left;
-	/*left:12px;*/
 }
 .button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
 	transform: scale(1.1);
@@ -192,8 +211,6 @@ body {
 }
 #toggler, #my-channel {
 	padding:0 18px 4px 18px;
-	/*border: 1px solid #ddd;
-	border-radius:0;*/
 	text-align:left;
 	margin-bottom:9px;
 	font-size:.95em;
@@ -679,9 +696,6 @@ div#reasons img {
 	#cover {
 		height:200px;
 	}
-	#cover img {
-		/*max-width:60%;*/
-	}
 	div#thefall img, div#reasons img {
 		max-width:100%;
 		max-height:100%;
@@ -701,18 +715,10 @@ div#reasons img {
 	#human-container {
 		padding:12px;
 	}
-	#rating {
-		/*width:48px;
-		margin:96px 24px 0 -144px;*/
-	}
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
 		padding: 20px 44px;
-	}
-	#rating {
-		/*width:42px;
-		margin:96px 18px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
@@ -721,10 +727,6 @@ div#reasons img {
 @media only screen and (max-width:428px) {
 	#buttonwall {
 		padding: 20px 44px;
-	}
-	#rating {
-		/*width:36px;
-		margin:96px 12px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 30px 38px 38px;
@@ -748,9 +750,6 @@ div#reasons img {
 		margin:0;
 		padding-right:40px;
 	}
-	#buttsep {
-		/*margin-right:44px;*/
-	}
 	.gallery img, .image img {
 		max-width:110px;	
 	}
@@ -764,7 +763,7 @@ div#reasons img {
 
 @media only screen and (max-width:390px) {
 	.iwtbanner {
-	width:300px;
+		width:300px;
 	}
 	#buttonwall {
 		margin:18px auto 72px auto;
@@ -791,10 +790,6 @@ div#reasons img {
 	}
 	.gallery img, .image img {
 		max-width: 100px;
-	}
-	#rating {
-		/*width:36px;
-		margin:96px 8px 0 -144px;*/
 	}
 	#colorclub {
 		padding:26px 16px 38px 20px;
