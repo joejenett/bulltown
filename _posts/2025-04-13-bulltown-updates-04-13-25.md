@@ -15,7 +15,7 @@ comments: false
 Added three more of my older fave photos to <a href="https://bulltown.joejenett.com/img.select/"><em>img.select</em></a>.
 
 <p>
-There’s something I’ve been meaning to say about the bulltown button walls. Links are my life - I’ve been curating them forever. Though you won’t find a blogroll here, the <em>mutuals</em> and <em>followers</em> sections are full of sites I really like visiting - there’s some really cool creatives behind them.
+There’s something I’ve been meaning to say about the bulltown button walls. Links are my life - I’ve been curating them forever. Though you won’t find a blogroll here, the <em>mutuals</em> and <em>followers</em> sections are full of sites I really like visiting - there’s some really cool creative people behind them.
 </p>
 <p>
 I joined Neocities last September and for me, it’s become quite the discovery engine!
