@@ -10,9 +10,9 @@ summary: this ain’t bull
 comments: false
 ---
 <div style="position:relative;float:right;margin:3px;width:136px;text-align:center;clear:both;">
-<img src="/images/abstracto-th.jpg" alt="" width="60" style="border:1px solid #000;"><br>
-<img src="/images/playtime-th.jpg" alt="" width="60" style="border:1px solid #000;"><br>
-<img src="/images/skyfire-th.jpg" alt="" width="60" style="border:1px solid #000;">
+<img src="/images/abstracto-th.jpg" alt="" width="60" style="border:1px solid #000;margin:3px;"><br>
+<img src="/images/playtime-th.jpg" alt="" width="60" style="border:1px solid #000;margin:3px;"><br>
+<img src="/images/skyfire-th.jpg" alt="" width="60" style="border:1px solid #000;margin:3px;">
 </div>
 Added three more of my older fave photos to <a href="https://bulltown.joejenett.com/img.select/"><em>img.select</em></a>.
 
