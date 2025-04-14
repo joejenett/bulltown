@@ -23,5 +23,6 @@ I joined Neocities last September and for me, it’s become quite the discovery 
 <p>
 I’m spread a bit thin among my various sites but I’ve got to tell you - the time I’ve spent hangin’ around the Neocities community has been the most fulfilling.
 </p>
-<p>Thank you all!</p>
+<p>Thanks!</p>
+<p style="font-size:2em;text-align:right;filter: grayscale(80%);">😎</p>
 <a href="https://brid.gy/publish/mastodon"></a>
