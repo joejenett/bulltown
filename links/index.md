@@ -223,6 +223,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Piece of the Pie" href="https://pieceofthepie.neocities.org/"><img src="/images/pieceofthepie.gif" alt="Piece of the Pie" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Kalechips" href="https://kalechips.net/"><img src="/images/kalechips.png" alt="Kalechips" width="88" height="31"></a>
 			</div>
 			<div class="button">
