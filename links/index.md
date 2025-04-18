@@ -226,6 +226,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title=":: S E R E N N A U ::" href="https://serennau.co.uk/"><img src="/images/serennau.png" alt=":: S E R E N N A U ::" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="CuteLovelyCove" href="https://cutelovelycove.neocities.org/"><img src="/images/cutelovelycovebutton.gif" alt="CuteLovelyCove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Dreamscapes‧" href="https://meyr0s3.neocities.org/"><img src="/images/dreams.gif" alt="Dreamscapes‧" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Kalechips" href="https://kalechips.net/"><img src="/images/kalechips.png" alt="Kalechips" width="88" height="31"></a>
 			</div>
 			<div class="button">
