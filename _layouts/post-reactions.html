@@ -28,7 +28,7 @@ layout: default-p
 {% if page.title != "" %}
 <article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
 	<header class="post-header">
-		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline">{{ page.title | escape }}</h2>
+		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline"><a class="url u-url u-uid uid bookmark" href="https://bulltown.joejenett.com{{ page.permalink }}">{{ page.title | escape }}</a></h2>
 	</header>
 	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
 		{{ content }}
