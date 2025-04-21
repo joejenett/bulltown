@@ -70,18 +70,7 @@ layout: default-p
 	</footer>
  {%- endif -%}
 
-<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
-	<div style="width:50%;">
-		{% if page.previous.url %}
-		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
-		{% endif %}
-	</div>
-	<div style="width:50%;text-align:right;">
-		{% if page.next.url %}
-		<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
-		{% endif %}
-	</div>
-</div>
+
 
 <script>
 	$().ready(function(){
@@ -106,11 +95,23 @@ layout: default-p
 </script>
 <div id="result0" style="margin-bottom:48px;"></div>
 
-
-
-
-
 	<p><a class="u-url" href="https://bulltown.joejenett.com{{ page.permalink }}"><small>(permalink)</small></a></p>
+
+	<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
+	<div style="width:50%;">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+		{% endif %}
+	</div>
+	<div style="width:50%;text-align:right;">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+		{% endif %}
+	</div>
+</div>
+
+
+
 </article>
 <div style="margin-top:72px;">
 {%- include j_footer.html -%}	
