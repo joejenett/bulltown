@@ -104,9 +104,6 @@ layout: page
 				<a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="astral town ✰" href="https://serimemo.neocities.org/"><img src="/images/astral.png" alt="astral town ✰" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -224,6 +221,30 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="rinrinring a bell <3" href="https://whiteheartrainbowsoul.neocities.org/"><img src="/images/whiteheart.gif" alt="rinrinring a bell <3" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="dogblog" href="https://dogblog.neocities.org/"><img src="/images/dogblog.gif" alt="dogblog" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="no loss / no disappointment." href="https://citadark.neocities.org/"><img src="/images/citadark.gif" alt="no loss / no disappointment." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="YuRo's Nest" href="https://yuros-nest.neocities.org/"><img src="/images/yuro.png" alt="YuRo's Nest" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="BMH Online" href="https://bmh.neocities.org/"><img src="/images/bmhonline.png" alt="BMH Online" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bloopywoopy" href="https://bloopywoopy.neocities.org/"><img src="/images/bloopywoopy.gif" alt="bloopywoopy" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="purgamentum exit" href="https://notprincehamlet.neocities.org/"><img src="/images/notprincehamlet.png" alt="purgamentum exit" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Tem's Page" href="https://temina.neocities.org/"><img src="/images/temina.png" alt="Tem's Page" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title=":: S E R E N N A U ::" href="https://serennau.co.uk/"><img src="/images/serennau.png" alt=":: S E R E N N A U ::" width="88" height="31"></a>
