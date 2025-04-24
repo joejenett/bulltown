@@ -223,6 +223,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="lasagna, fresh out of the oven" href="https://funnyorangecat.neocities.org/"><img src="/images/focbutton.gif" alt="lasagna, fresh out of the oven" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Welcome to the Indynet" href="https://indygiertz.net/"><img src="/images/indynet.gif" alt="Welcome to the Indynet" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Wild Bread" href="https://wildbread.pictures/"><img src="/images/wildbread.gif" alt="Wild Bread" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="rinrinring a bell <3" href="https://whiteheartrainbowsoul.neocities.org/"><img src="/images/whiteheart.gif" alt="rinrinring a bell <3" width="88" height="31"></a>
 			</div>
 			<div class="button">
