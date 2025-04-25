@@ -226,6 +226,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="COMPUTER ARSON" href="https://computerarson.neocities.org/"><img src="/images/computerarson.png" alt="COMPUTER ARSON" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
 			</div>
 			<div class="button">
