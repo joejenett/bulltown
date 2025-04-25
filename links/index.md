@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Tem's Page" href="https://temina.neocities.org/"><img src="/images/temina.png" alt="Tem's Page" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Piece of the Pie" href="https://pieceofthepie.neocities.org/"><img src="/images/pieceofthepie.gif" alt="Piece of the Pie" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -257,9 +260,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="purgamentum exit" href="https://notprincehamlet.neocities.org/"><img src="/images/notprincehamlet.png" alt="purgamentum exit" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Tem's Page" href="https://temina.neocities.org/"><img src="/images/temina.png" alt="Tem's Page" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title=":: S E R E N N A U ::" href="https://serennau.co.uk/"><img src="/images/serennau.png" alt=":: S E R E N N A U ::" width="88" height="31"></a>
