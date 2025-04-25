@@ -223,6 +223,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="greytext" href="https://greytext.neocities.org/"><img src="/images/greytext.png" alt="greytext" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="lasagna, fresh out of the oven" href="https://funnyorangecat.neocities.org/"><img src="/images/focbutton.gif" alt="lasagna, fresh out of the oven" width="88" height="31"></a>
 			</div>
 			<div class="button">
