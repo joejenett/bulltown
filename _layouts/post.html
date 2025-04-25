@@ -95,9 +95,14 @@ layout: default-p
 </script>
 <div id="result0" style="margin-bottom:48px;"></div>
 
-	<p><a class="u-url" href="https://bulltown.joejenett.com{{ page.permalink }}"><small>(permalink)</small></a></p>
 
-	<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
+<div style="margin-bottom:36px;">
+{%- if page.comments.host -%}
+	{%- include fediverse_comments.html -%}
+{%- endif -%}
+</div>
+
+<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
 	<div style="width:50%;">
 		{% if page.previous.url %}
 		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
@@ -109,6 +114,10 @@ layout: default-p
 		{% endif %}
 	</div>
 </div>
+
+	<p><a class="u-url" href="https://bulltown.joejenett.com{{ page.permalink }}"><small>(permalink)</small></a></p>
+
+	
 
 
 
