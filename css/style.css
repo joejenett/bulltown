@@ -25,7 +25,7 @@ body {
 	margin-bottom: 24px;
 }
 .iwtbanner {
-	width:350px;
+	width:200px;
 }
 .ninerem {
 	font-size:,9rem;
@@ -731,9 +731,6 @@ div#reasons img {
 	}
 }
 @media only screen and (max-width:414px) {
-	.iwtbanner {
-		width:320px;
-	}
 	#buttonwall {
 		padding:24px 36px;
 	}
@@ -760,9 +757,6 @@ div#reasons img {
 }
 
 @media only screen and (max-width:390px) {
-	.iwtbanner {
-		width:300px;
-	}
 	#buttonwall {
 		margin:18px auto 72px auto;
 		padding:24px 24px;
