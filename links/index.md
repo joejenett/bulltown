@@ -226,6 +226,24 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Celestial Delirium!!" href="https://liyashi.neocities.org/"><img src="/images/delirium.png" alt="Celestial Delirium!!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Monastery of St. Blamensir" href="https://blamensir.neocities.org/"><img src="/images/blamensir.png" alt="Monastery of St. Blamensir" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="YonderMoon" href="https://yondermoon.neocities.org/"><img src="/images/yondermoon.png" alt="YonderMoon" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Cidoku Network" href="https://cidoku.net/en/"><img src="/images/cidokunet.gif" alt="The Cidoku Network" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SUCH UNFORGIVEABLE HERESEY" href="https://waywardlamb.neocities.org/"><img src="/images/waywardlamb.png" alt="SUCH UNFORGIVEABLE HERESEY" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Forestfolke Online" href="https://forestfolke.neocities.org/"><img src="/images/forestfolke.gif" alt="Forestfolke Online" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
 			</div>
 			<div class="button">
