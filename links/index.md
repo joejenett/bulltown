@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="M-M-MION!" href="https://evilperson.neocities.org/"><img src="/images/evilbutton.gif" alt="M-M-MION!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -245,9 +248,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="T H E H O A R D" href="https://the-game-hoard.neocities.org/"><img src="/images/thehoard.png" alt="T H E H O A R D" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="M-M-MION!" href="https://evilperson.neocities.org/"><img src="/images/evilbutton.gif" alt="M-M-MION!" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="somewhere beyond the sea" href="https://tectrix.neocities.org/"><img src="/images/tectrix.gif" alt="somewhere beyond the sea" width="88" height="31"></a>
