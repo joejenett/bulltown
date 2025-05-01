@@ -223,6 +223,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="i'm a mediocre millennial" href="https://mediocremillennial.neocities.org/"><img src="/images/mediocremill.png" alt="i'm a mediocre millennial" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Celestial Delirium!!" href="https://liyashi.neocities.org/"><img src="/images/delirium.png" alt="Celestial Delirium!!" width="88" height="31"></a>
 			</div>
 			<div class="button">
