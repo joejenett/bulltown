@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Tem's Page" href="https://temina.neocities.org/"><img src="/images/temina.png" alt="Tem's Page" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -223,6 +226,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" href="https://buryevil.neocities.org/"><img src="/images/buryevil.png" alt="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="i'm a mediocre millennial" href="https://mediocremillennial.neocities.org/"><img src="/images/mediocremill.png" alt="i'm a mediocre millennial" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -242,9 +248,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Forestfolke Online" href="https://forestfolke.neocities.org/"><img src="/images/forestfolke.gif" alt="Forestfolke Online" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="(ﾐዋ ﻌ ዋﾐ)ﾉ" href="https://snails.neocities.org/"><img src="/images/snails.png" alt="(ﾐዋ ﻌ ዋﾐ)ﾉ" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="greytext" href="https://greytext.neocities.org/"><img src="/images/greytext.png" alt="greytext" width="88" height="31"></a>
