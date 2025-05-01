@@ -226,6 +226,36 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="strawberry-transneu" href="https://strawberry-transneu.neocities.org/"><img src="/images/transneu.png" alt="strawberry-transneu" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cams casino" href="https://c4m.my/"><img src="/images/c4m.gif" alt="cams casino" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mo's Fortune Telling Tent" href="https://rainydaydeer.neocities.org/"><img src="/images/rainyday.gif" alt="Mo's Fortune Telling Tent" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="heart shaped box." href="https://hydromaniac.neocities.org/"><img src="/images/hydromaniac.gif" alt="heart shaped box." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Ridvenge" href="https://ridvenge.neocities.org/"><img src="/images/ridvenge.gif" alt="Ridvenge" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Kiskadee's Nest" href="https://kiskadee.neocities.org/"><img src="/images/kiskadee.png" alt="Kiskadee's Nest" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="T H E H O A R D" href="https://the-game-hoard.neocities.org/"><img src="/images/thehoard.png" alt="T H E H O A R D" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="M-M-MION!" href="https://evilperson.neocities.org/"><img src="/images/evilbutton.gif" alt="M-M-MION!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="somewhere beyond the sea" href="https://tectrix.neocities.org/"><img src="/images/tectrix.gif" alt="somewhere beyond the sea" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="☆ ratteta ☆" href="https://ratteta.neocities.org/"><img src="/images/ratteta.gif" alt="☆ ratteta ☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" href="https://buryevil.neocities.org/"><img src="/images/buryevil.png" alt="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" width="88" height="31"></a>
 			</div>
 			<div class="button">
