@@ -229,6 +229,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Randomshiet" href="https://randomshiet.neocities.org/"><img src="/images/randombanner.png" alt="Randomshiet" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="⋆ ˚｡⋆୨୧˚ lavender fields ✿⋆˚₊ ⊹" href="https://lavenderblues.neocities.org/"><img src="/images/lavenderbluesbutton.gif" alt="⋆ ˚｡⋆୨୧˚ lavender fields ✿⋆˚₊ ⊹" width="88" height="31"></a>
 			</div>
 			<div class="button">
