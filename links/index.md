@@ -229,6 +229,27 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="⋆ ˚｡⋆୨୧˚ lavender fields ✿⋆˚₊ ⊹" href="https://lavenderblues.neocities.org/"><img src="/images/lavenderbluesbutton.gif" alt="⋆ ˚｡⋆୨୧˚ lavender fields ✿⋆˚₊ ⊹" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="welcome to my garden, dear guest °❀.ೃ࿔* " href="https://inthemeantimewecry.neocities.org/"><img src="/images/inthemeantime.gif" alt="welcome to my garden, dear guest °❀.ೃ࿔* " width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="milk" href="https://milkpowderbun.com/"><img src="/images/milkbutton.gif" alt="milk" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="NICKFISHSTICK" href="https://nickfish.neocities.org/"><img src="/images/nickfish.gif" alt="NICKFISHSTICK" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Geeky Jay's Lounge" href="https://geeky-jay.neocities.org/"><img src="/images/geekyjay.gif" alt="Geeky Jay's Lounge" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="WELCOME TO THE HATsite!" href="https://maehat.neocities.org/"><img src="/images/maebutton.gif" alt="WELCOME TO THE HATsite!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="✧ The Polar Refresh" href="https://slushienova.neocities.org/"><img src="/images/slush.jpg" alt="✧ The Polar Refresh" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="strawberry-transneu" href="https://strawberry-transneu.neocities.org/"><img src="/images/transneu.png" alt="strawberry-transneu" width="88" height="31"></a>
 			</div>
 			<div class="button">
