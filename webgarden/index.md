@@ -47,9 +47,14 @@ iframe {
 <div id="others-pots">
 <iframe title="missmoss" src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe title="Love Never Dies" src="https://venusinfoxfurs.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #597b8f;"></iframe>
+<a href="https://artwork.neocities.org/"><iframe src="https://artwork.neocities.org/webgarden2.html" scrolling="no" style="width:250px;height:250px;border:2px dashed pink;"></iframe></a>
 <iframe src="https://teeth.dog/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px outset red;"></iframe>
+<iframe src="https://sakuradreams.neocities.org/Pages/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;"></iframe>
 <iframe src="https://solaria.neocities.org/garden/webgarden" height="250px" width="250px" scrolling="no" style="border:3px outset #8750f0;"></iframe>
+<iframe src="https://dollarchive.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #145a44;"></iframe>
+<iframe src="https://mossforestdollz.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #13603f;"></iframe>
 <iframe src="https://lockheartlove.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #804ebd;"></iframe>
+<iframe src="https://beaniepines.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #f95eb5;"></iframe>
 <iframe title="dxcccii" src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
 <iframe title="doqmeat" src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #cff07f;"></iframe>
 <iframe title="qrunchysnaq" src="https://qrunchysnaq.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #fff9e6;"></iframe>
