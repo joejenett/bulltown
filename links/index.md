@@ -229,6 +229,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Rusty Bytes" href="https://rusty-bytes.neocities.org/"><img src="/images/rusty.png" alt="Rusty Bytes" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="the doll archive (wip)" href="https://dollarchive.neocities.org/"><img src="/images/dollarchive.gif" alt="the doll archive (wip)" width="88" height="31"></a>
 			</div>
 			<div class="button">
