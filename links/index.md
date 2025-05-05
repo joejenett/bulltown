@@ -229,6 +229,18 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Yordi" href="https://yordi.me/"><img src="/images/yordi.png" alt="Yordi" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Sketches in Ascii:" href="https://celadon.moe/"><img src="/images/cellie.png" alt="Sketches in Ascii:" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="RainbowSpec" href="https://rainbowspec.observer/"><img src="/images/rainbowspecbutton.png" alt="RainbowSpec" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bittersweet" href="https://xixxii.neocities.org/"><img src="/images/xixxiibutton.gif" alt="bittersweet" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Randomshiet" href="https://randomshiet.neocities.org/"><img src="/images/randombanner.png" alt="Randomshiet" width="88" height="31"></a>
 			</div>
 			<div class="button">
