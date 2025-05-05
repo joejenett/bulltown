@@ -229,6 +229,15 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="the doll archive (wip)" href="https://dollarchive.neocities.org/"><img src="/images/dollarchive.gif" alt="the doll archive (wip)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="NEMO'S RAINFOREST" href="https://mossforestdollz.neocities.org/"><img src="/images/nemos.gif" alt="NEMO'S RAINFOREST" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bean's DIY garden" href="https://beaniepines.neocities.org/"><img src="/images/bpdusk.gif" alt="bean's DIY garden" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Yordi" href="https://yordi.me/"><img src="/images/yordi.png" alt="Yordi" width="88" height="31"></a>
 			</div>
 			<div class="button">
