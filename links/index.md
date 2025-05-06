@@ -229,6 +229,45 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="we got it all at uhf!" href="https://rosiesworld.neocities.org/"><img src="/images/rosiesworld.png" alt="we got it all at uhf!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="seventeen doves online" href="https://seventeendoves.neocities.org/"><img src="/images/17dovesbutton.png" alt="seventeen doves online" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" href="https://sclptures.neocities.org/"><img src="/images/sclptures.png" alt="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pet... YOU!!" href="https://petyou.neocities.org/"><img src="/images/petyou.jpg" alt="pet... YOU!!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="☆ BATS & BITES ☆" href="https://turbuggy.neocities.org/"><img src="/images/turbuggy.gif" alt="☆ BATS & BITES ☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title=".:: Penny ♡ Loves ♡ Pandas ::." href="https://pennylovespandas.neocities.org/"><img src="/images/pennyspinkbutton.gif" alt=".:: Penny ♡ Loves ♡ Pandas ::." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="꒰ sweet-pea says hello! ꒱" href="https://sweet-pea.neocities.org/"><img src="/images/sweetpea.gif" alt="꒰ sweet-pea says hello! ꒱" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="7's in the name" href="https://seventy7.neocities.org/"><img src="/images/button777.png" alt="7's in the name" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="layercake ♡ home" href="https://layercake.nekoweb.org/"><img src="/images/layercakebutton.gif" alt="layercake ♡ home" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="kneepaws corner!" href="https://kneepaw.neocities.org/"><img src="/images/kneepaw.png" alt="kneepaws corner!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="YOU'LL DIG US!" href="https://flamingokid.neocities.org/"><img src="/images/flamingokid.png" alt="YOU'LL DIG US!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="welcome to my computer!" href="https://flowerinbinary.neocities.org/"><img src="/images/flowerinbinaryblue.png" alt="welcome to my computer!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Rusty Bytes" href="https://rusty-bytes.neocities.org/"><img src="/images/rusty.png" alt="Rusty Bytes" width="88" height="31"></a>
 			</div>
 			<div class="button">
