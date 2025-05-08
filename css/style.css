@@ -119,14 +119,11 @@ body {
 #gb-container {
 	clear: both;
 	text-align: center;
-	position:relative;
-	top:-48px;
 }
 #guestbook {
 	width:400px;
-	height:425px;
-	/*margin-top:48px;
-	margin-left:-106px;*/
+	height:460px;
+	margin-bottom: 24px;
 	border:none;
 	overflow:auto;
 	max-width:100%;
@@ -242,9 +239,8 @@ h3 {
 	padding:12px 40px 12px 40px;
 }
 #commento {
-	padding:0 150px 36px 150px;
-	margin-bottom:48px;
-	margin-top:24px;
+	margin-top:48px;
+	text-align:center;
 }
 #buttonwall {
 	display:flex;
