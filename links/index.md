@@ -228,6 +228,39 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="toribytez✦ // (INTER).face" href="https://toribytez.neocities.org/"><img src="/images/toributtonz.png" alt="toribytez✦ // (INTER).face" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Trinity" href="https://trinityexe.neocities.org/"><img src="/images/maintrinitybutton.gif" alt="Trinity" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the internet angel descends!" href="https://internetidol.neocities.org/"><img src="/images/internetidol.gif" alt="the internet angel descends!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="✧ARES✧" href="https://hellstarares.rip/"><img src="/images/hellstarares.gif" alt="✧ARES✧" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="WANGO BANGY" href="https://wangobangy.neocities.org/"><img src="/images/wangobangybutton.png" alt="WANGO BANGY" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SUNNYDAY" href="https://sunnyday.neocities.org/"><img src="/images/sunnyday.png" alt="SUNNYDAY" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="僕は答える—ぴぽぴぽ~♪" href="https://milk-tea.neocities.org/"><img src="/images/milktea.gif" alt="僕は答える—ぴぽぴぽ~♪" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="VENTABLACK." href="https://ventablack.neocities.org/"><img src="/images/ventablack.png" alt="VENTABLACK." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="-+-peachnuts-+-" href="https://peachnuts.neocities.org/"><img src="/images/peachnuts.gif" alt="-+-peachnuts-+-" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="dewdrop club" href="https://iqra.dewdrop.club/"><img src="/images/dewdrop.gif" alt="dewdrop club" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title=":: Retro Y2K | V7 ::" href="https://kristylicious.neocities.org/"><img src="/images/kristyliciousbutton.png" alt=":: Retro Y2K | V7 ::" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="we got it all at uhf!" href="https://rosiesworld.neocities.org/"><img src="/images/rosiesworld.png" alt="we got it all at uhf!" width="88" height="31"></a>
 			</div>
 			<div class="button">
