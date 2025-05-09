@@ -228,6 +228,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Mel's Haven" href="https://maysi.neocities.org/"><img src="/images/maysi.png" alt="Mel's Haven" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="toribytez✦ // (INTER).face" href="https://toribytez.neocities.org/"><img src="/images/toributtonz.png" alt="toribytez✦ // (INTER).face" width="88" height="31"></a>
 			</div>
 			<div class="button">
