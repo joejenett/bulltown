@@ -7,6 +7,10 @@ category:
 permalink: /the-old-becoming-the-new/
 slug: the-old-becoming-the-new
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114483573471557958
 ---
 Ever since a certain orange character came down the fancy escalator to announce his intentions, I’ve consumed a fair amount of information daily by listening to news in the background. I need to know what’s up after all. 
 
