@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="M-M-MION!" href="https://evilperson.neocities.org/"><img src="/images/evilbutton.gif" alt="M-M-MION!" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -228,6 +231,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="MADNESS Patches" href="https://dancingpatches.neocities.org/"><img src="/images/dancingpatches.gif" alt="MADNESS Patches" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Curious Cones" href="https://cones.lol/"><img src="/images/cones.gif" alt="Curious Cones" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="you approach the i-land" href="https://i-land.online/"><img src="/images/iland.png" alt="you approach the i-land" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -295,9 +304,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="kneepaws corner!" href="https://kneepaw.neocities.org/"><img src="/images/kneepaw.png" alt="kneepaws corner!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="YOU'LL DIG US!" href="https://flamingokid.neocities.org/"><img src="/images/flamingokid.png" alt="YOU'LL DIG US!" width="88" height="31"></a>
@@ -411,7 +417,7 @@ layout: page
 				<a title="lasagna, fresh out of the oven" href="https://funnyorangecat.neocities.org/"><img src="/images/focbutton.gif" alt="lasagna, fresh out of the oven" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Welcome to the Indynet" href="https://indygiertz.net/"><img src="/images/indynet.gif" alt="Welcome to the Indynet" width="88" height="31"></a>
+				<a title="Welcome to the Indynet" href="https://indynet.neocities.org/"><img src="/images/indynet.gif" alt="Welcome to the Indynet" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Wild Bread" href="https://wildbread.pictures/"><img src="/images/wildbread.gif" alt="Wild Bread" width="88" height="31"></a>
