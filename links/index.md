@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="nyre's silly spot! v. 1.1" href="https://nyrestar.neocities.org/"><img src="/images/nyresbutton.gif" alt="nyre's silly spot! v. 1.1" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -229,6 +232,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="♪ ⚠ N O I S E C O R V I D ⚠ ♪" href="https://noisecorvid.neocities.org/"><img src="/images/noisecorvidbutton.gif" alt="♪ ⚠ N O I S E C O R V I D ⚠ ♪" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="MADNESS Patches" href="https://dancingpatches.neocities.org/"><img src="/images/dancingpatches.gif" alt="MADNESS Patches" width="88" height="31"></a>
