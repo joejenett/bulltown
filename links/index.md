@@ -47,7 +47,7 @@ layout: page
 				<a title="nyre's silly spot! v. 1.1" href="https://nyrestar.neocities.org/"><img src="/images/nyresbutton.gif" alt="nyre's silly spot! v. 1.1" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
+				<a title="Benobii's Homepage" href="https://benobii.neocities.org/"><img class="button-fix" src="/images/benobii.gif" alt="Benobii's Homepage" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="M-M-MION!" href="https://evilperson.neocities.org/"><img src="/images/evilbutton.gif" alt="M-M-MION!" width="88" height="31"></a>
@@ -255,7 +255,7 @@ layout: page
 				<a title="Lakes The Guy" href="https://lakestheguy.neocities.org/"><img src="/images/lakestheguy.png" alt="Lakes The Guy" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="=^_ _^= ...z..z..Z" href="https://nekofetti.neocities.org/"><img src="/images/nekofetti.gif" alt="=^_ _^= ...z..z..Z" width="88" height="31"></a>
+				<a title="=^_ _^= ...z..z..Z" href="https://nekofetti.neocities.org/"><img class="button-fix" src="/images/nekofetti.gif" alt="=^_ _^= ...z..z..Z" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="♪ ⚠ N O I S E C O R V I D ⚠ ♪" href="https://noisecorvid.neocities.org/"><img src="/images/noisecorvidbutton.gif" alt="♪ ⚠ N O I S E C O R V I D ⚠ ♪" width="88" height="31"></a>
@@ -717,7 +717,7 @@ layout: page
 				<a title="WonderMap" href="https://wondermap.neocities.org/"><img src="/images/wondermap.jpg" alt="WonderMap" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Nova Galaxium" href="https://pastel-skies.nekoweb.org/"><img src="/images/pastelskies.gif" alt="Nova Galaxium" width="88" height="31"></a>
+				<a title="Nova Galaxium" href="https://pastel-skies.nekoweb.org/"><img class="button-fix" src="/images/pastelskies.gif" alt="Nova Galaxium" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="kepler-16b" href="https://kepler-16b.neocities.org/"><img src="/images/kepler.png" alt="kepler-16b" width="88" height="31"></a>
