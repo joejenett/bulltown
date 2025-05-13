@@ -234,6 +234,30 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="aid's small corner" href="https://zhongvie.neocities.org/	"><img src="/images/zhongvie.png" alt="aid's small corner" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="visualculture" href="https://visualculture.vc/"><img src="/images/visualculture.png" alt="visualculture" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Ninjaweb" href="https://ninjaweb.neocities.org/"><img src="/images/ninjawebgif.gif" alt="Ninjaweb" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="redrevelry" href="https://redrevelry.neocities.org/"><img src="/images/redrevelry.png" alt="redrevelry" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="WEBSITE OF Y2KWAVES" href="https://y2kwaves.neocities.org/"><img src="/images/y2kwavesbutton.gif" alt="WEBSITE OF Y2KWAVES" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Pizzacat Delights' Cozy Home" href="https://pizzacatdelights.neocities.org/"><img src="/images/pizzacat.png" alt="Pizzacat Delights' Cozy Home" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Lakes The Guy" href="https://lakestheguy.neocities.org/"><img src="/images/lakestheguy.png" alt="Lakes The Guy" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="=^_ _^= ...z..z..Z" href="https://nekofetti.neocities.org/"><img src="/images/nekofetti.gif" alt="=^_ _^= ...z..z..Z" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="♪ ⚠ N O I S E C O R V I D ⚠ ♪" href="https://noisecorvid.neocities.org/"><img src="/images/noisecorvidbutton.gif" alt="♪ ⚠ N O I S E C O R V I D ⚠ ♪" width="88" height="31"></a>
 			</div>
 			<div class="button">
