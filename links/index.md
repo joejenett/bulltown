@@ -687,7 +687,7 @@ layout: page
 				<a title="drmollytov" href="https://drmollytov.neocities.org/"><img src="/images/drmollytov.png" alt="drmollytov" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="East Athenaeum" href="https://eastathenaeum.neocities.org/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
+				<a title="East Athenaeum" href="https://eastathenaeum.net/"><img src="/images/eastathenaeum.gif" alt="East Athenaeum" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="dawn" href="https://dawnvoid.neocities.org/"><img src="/images/dawn.png" alt="dawn" width="88" height="31"></a>
