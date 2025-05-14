@@ -7,6 +7,10 @@ category:
 permalink: /bulltown-linking-policy/
 slug: bulltown-linking-policy
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114506518265149323
 ---
 Hello friends. If you haven’t noticed, there’s a whole-lotta linking going on around here and I thought it would be useful to inform you as to what I’m doing - my linking policy if you will.
 
