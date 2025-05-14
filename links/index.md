@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="YOU'LL DIG US!" href="https://flamingokid.neocities.org/"><img src="/images/flamingokid.png" alt="YOU'LL DIG US!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="nyre's silly spot! v. 1.1" href="https://nyrestar.neocities.org/"><img src="/images/nyresbutton.gif" alt="nyre's silly spot! v. 1.1" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -334,9 +337,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="kneepaws corner!" href="https://kneepaw.neocities.org/"><img src="/images/kneepaw.png" alt="kneepaws corner!" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="YOU'LL DIG US!" href="https://flamingokid.neocities.org/"><img src="/images/flamingokid.png" alt="YOU'LL DIG US!" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="welcome to my computer!" href="https://flowerinbinary.neocities.org/"><img src="/images/flowerinbinaryblue.png" alt="welcome to my computer!" width="88" height="31"></a>
