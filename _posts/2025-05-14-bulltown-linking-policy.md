@@ -20,7 +20,7 @@ The mutuals are prominently shown on both the main pages and links pages of both
 
 Why? I appreciate your interest.
 
-Thanks,
+Thanks,<br>
 joe jenett
 
 
