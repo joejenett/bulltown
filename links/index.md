@@ -237,6 +237,33 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="witheachmutation" href="https://witheachmutation.com/"><img src="/images/witheach.png" alt="witheachmutation" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="floral-tears" href="https://floral-tears.neocities.org/"><img src="/images/floraltears.gif" alt="floral-tears" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="DAIKONET" href="https://daikonet.neocities.org/"><img src="/images/daikonet.gif" alt="DAIKONET" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Ecruteak Forest" href="https://ecruteakforest.com/"><img src="/images/ecruteakforest.png" alt="Ecruteak Forest" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Buried Relic" href="https://buriedrelic.neocities.org/"><img src="/images/buriedrelic.png" alt="Buried Relic" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="bielzin’s space" href="https://bielzin.neocities.org/"><img src="/images/bielzinbutton.png" alt="bielzin’s space" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pixalina" href="https://pixalina.neocities.org/"><img src="/images/pixalina.gif" alt="pixalina" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pxxels and the occasional glitch" href="https://pxxels.neocities.org/"><img src="/images/pxxels.gif" alt="pxxels and the occasional glitch" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="there's a bug on my ceiling" href="https://spookysix.neocities.org/"><img src="/images/spookysix.gif" alt="there's a bug on my ceiling" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="aid's small corner" href="https://zhongvie.neocities.org/	"><img src="/images/zhongvie.png" alt="aid's small corner" width="88" height="31"></a>
 			</div>
 			<div class="button">
