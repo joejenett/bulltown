@@ -237,6 +237,36 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="☆*:.｡.o(≧▽≦)o.｡.:*☆" href="https://foggybear42.net/"><img src="/images/foggybear42.gif" alt="☆*:.｡.o(≧▽≦)o.｡.:*☆" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="femtanyl fan website!" href="https://femtanyl03.neocities.org/"><img src="/images/femtanyl03button.gif" alt="femtanyl fan website!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="meow meow meow meow" href="https://computer.nekoweb.org/"><img src="/images/computer.png" alt="meow meow meow meow" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the k-hole" href="https://aurorawho.neocities.org/"><img src="/images/aurorawho.gif" alt="the k-hole" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Lazer-Bunny's Website ˚ʚ♡ɞ˚" href="https://lazer-bunny.neocities.org/"><img src="/images/lazerbunny.gif" alt="Lazer-Bunny's Website ˚ʚ♡ɞ˚" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Moogleboogles" href="https://moogleboogles.neocities.org/"><img src="/images/moogleboogles.png" alt="Moogleboogles" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Sap: by Willa" href="https://willascool.neocities.org/"><img src="/images/sap.jpeg" alt="Sap: by Willa" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="let me get a bite!" href="https://fangzzz.neocities.org/"><img src="/images/fangzzz.png" alt="let me get a bite!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Meowlecules" href="https://meowlecules.neocities.org/"><img src="/images/meowlecules.gif" alt="Meowlecules" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="planetary influence" href="https://planetaryinfluence.neocities.org/"><img src="/images/planetaryinfluence.gif" alt="planetary influence" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="witheachmutation" href="https://witheachmutation.com/"><img src="/images/witheach.png" alt="witheachmutation" width="88" height="31"></a>
 			</div>
 			<div class="button">
