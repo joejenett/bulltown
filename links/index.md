@@ -255,7 +255,7 @@ layout: page
 				<a title="the k-hole" href="https://aurorawho.neocities.org/"><img src="/images/aurorawho.gif" alt="the k-hole" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Lazer-Bunny's Website ˚ʚ♡ɞ˚" href="https://lazer-bunny.neocities.org/"><img src="/images/lazerbunny.gif" alt="Lazer-Bunny's Website ˚ʚ♡ɞ˚" width="88" height="31"></a>
+				<a title="Lazer-Bunny's Website ˚ʚ♡ɞ˚" href="https://lazer-bunny.neocities.org/"><img class="button-fix" src="/images/lazerbunny.gif" alt="Lazer-Bunny's Website ˚ʚ♡ɞ˚" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Moogleboogles" href="https://moogleboogles.neocities.org/"><img src="/images/moogleboogles.png" alt="Moogleboogles" width="88" height="31"></a>
