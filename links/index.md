@@ -237,6 +237,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="hey wake up its me that glow" href="https://crowdedstrangers.neocities.org/"><img src="/images/crowdedstrangers.png" alt="hey wake up its me that glow" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="wraith castle" href="https://wraithcastle.neocities.org/"><img src="/images/wraithcastlebutton.gif" alt="wraith castle" width="88" height="31"></a>
 			</div>
 			<div class="button">
