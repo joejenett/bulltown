@@ -627,7 +627,7 @@ div#reasons img {
 	}
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 52px;
+		padding:24px 50px;
 	}
 	#hcard-container {
 		max-width: 85%;
@@ -728,7 +728,7 @@ div#reasons img {
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 34px;
+		padding:24px 32px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
