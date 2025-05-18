@@ -327,7 +327,7 @@ layout: page
 				<a title="♪ ⚠ N O I S E C O R V I D ⚠ ♪" href="https://noisecorvid.neocities.org/"><img src="/images/noisecorvidbutton.gif" alt="♪ ⚠ N O I S E C O R V I D ⚠ ♪" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="MADNESS Patches" href="https://dancingpatches.neocities.org/"><img src="/images/dancingpatches.gif" alt="MADNESS Patches" width="88" height="31"></a>
+				<a title="MADNESS Patches" href="https://dancingpatches.neocities.org/"><img class="button-fix" src="/images/dancingpatches.gif" alt="MADNESS Patches" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Curious Cones" href="https://cones.lol/"><img src="/images/cones.gif" alt="Curious Cones" width="88" height="31"></a>
