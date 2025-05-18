@@ -261,7 +261,7 @@ layout: page
 				<a title="Moogleboogles" href="https://moogleboogles.neocities.org/"><img src="/images/moogleboogles.png" alt="Moogleboogles" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Sap: by Willa" href="https://willascool.neocities.org/"><img src="/images/sap.jpeg" alt="Sap: by Willa" width="88" height="31"></a>
+				<a title="Sap: by Willa" href="https://willascool.neocities.org/"><img class="button-fix" src="/images/sap.jpeg" alt="Sap: by Willa" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="let me get a bite!" href="https://fangzzz.neocities.org/"><img src="/images/fangzzz.png" alt="let me get a bite!" width="88" height="31"></a>
