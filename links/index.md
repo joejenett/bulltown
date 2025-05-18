@@ -288,7 +288,7 @@ layout: page
 				<a title="Buried Relic" href="https://buriedrelic.neocities.org/"><img src="/images/buriedrelic.png" alt="Buried Relic" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="bielzin’s space" href="https://bielzin.neocities.org/"><img src="/images/bielzinbutton.png" alt="bielzin’s space" width="88" height="31"></a>
+				<a title="bielzin’s space" href="https://bielzin.neocities.org/"><img class="button-fix" src="/images/bielzinbutton.png" alt="bielzin’s space" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="pixalina" href="https://pixalina.neocities.org/"><img src="/images/pixalina.gif" alt="pixalina" width="88" height="31"></a>
