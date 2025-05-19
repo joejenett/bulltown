@@ -580,10 +580,6 @@ div#reasons img {
 	#buttonwall-home {
 		padding: 14px 40px 14px 50px;
 	}
-	#rating {
-		/*width:60px;
-		margin:96px 30px 0 -144px;*/
-	}
 	#colorclub {
 		padding:26px 42px 38px 54px;
 	}
@@ -671,9 +667,9 @@ div#reasons img {
 	#buttons {
 		margin-top:0;
 	}
-	#buttonwall .button {
+/*	#buttonwall .button {
 		margin:1px;
-	}
+	}*/
 	#button-wall {
 		text-align:center;
 		margin:36px 20px;
@@ -728,7 +724,7 @@ div#reasons img {
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 32px;
+		padding:24px 30px 24px 34px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
