@@ -706,6 +706,14 @@ div#reasons img {
 		padding:12px;
 	}
 }
+@media only screen and (max-width:440px) {
+	#buttonwall {
+		padding: 20px 32px 20px 40px;
+	}
+	#colorclub {
+		padding:26px 36px 38px 36px;
+	}
+}
 @media only screen and (max-width:430px) {
 	#buttonwall {
 		padding: 20px 38px 20px 38px;
