@@ -611,9 +611,9 @@ div#reasons img {
 	#bfixer {
 		max-width:92%;
 	}
-	.button {
+/*	.button {
 		margin:1px;
-	}
+	}*/
 	#buttonwall-home {
 		padding:40px 10px 40px 46px;
 	}
@@ -623,7 +623,7 @@ div#reasons img {
 	}
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 50px;
+		padding:24px 50px 24px 50px;
 	}
 	#hcard-container {
 		max-width: 85%;
@@ -708,7 +708,7 @@ div#reasons img {
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
-		padding: 20px 44px;
+		padding: 20px 38px 20px 38px;
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
@@ -716,7 +716,7 @@ div#reasons img {
 }
 @media only screen and (max-width:428px) {
 	#buttonwall {
-		padding: 20px 44px;
+		padding: 20px 38px;
 	}
 	#colorclub {
 		padding:26px 30px 38px 38px;
@@ -724,7 +724,7 @@ div#reasons img {
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 30px 24px 34px;
+		padding:24px 28px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
@@ -751,7 +751,7 @@ div#reasons img {
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 24px;
+		padding:24px 18px;
 	}
 	#buttonwall-home {
 		padding:40px 10px 40px 30px;
