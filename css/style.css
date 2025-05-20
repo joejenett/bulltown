@@ -642,9 +642,6 @@ div#reasons img {
 	.gotalk {
 		max-height:22px;
 	}
-	#buttsep {
-		/*margin-top:154px;*/
-	}
 	.footer {
 		margin:12px 0 12px 0;
 	}
@@ -722,13 +719,16 @@ div#reasons img {
 		padding:26px 36px 38px 36px;
 	}
 	#buttsep {
-	margin:0 18px 0 0;
+	margin:0 24px 0 0;
 }
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
 		padding: 20px 38px 20px 38px;
 	}
+	#buttsep {
+	margin:0 14px 0 0;
+}
 	#mutuals, #followers, #also {
 		margin:0 6px 0 -6px;
 	}
@@ -751,6 +751,9 @@ div#reasons img {
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
 	}
+	#buttsep {
+	margin:0 24px 0 0;
+}
 	.link-bhead {
 		margin-left:24px;
 		padding-right:54px;
@@ -778,6 +781,9 @@ div#reasons img {
 	#buttonwall-home {
 		padding:40px 8px 40px 28px;
 	}
+	#buttsep {
+	margin:0 12px 0 0;
+}
 	#mutuals, #followers, #also {
 		margin:0 7px 0 -7px;
 	}
