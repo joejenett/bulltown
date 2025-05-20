@@ -8,6 +8,9 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#mutuals {
+	padding-left:6px;
+}
 .postnav {
 	display:flex;
 	font-size:.75em;
@@ -132,7 +135,7 @@ body {
 }
 .button {
 	max-width:88px;
-	margin:3px;
+	margin:2px;
 	float:left;
 }
 .button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
@@ -542,9 +545,11 @@ div#reasons img {
 }
 #buttsep {
 	clear:both;
-	margin-top:136px;
+	margin:0 18px 0 0;
 	height:24px;
 	border-top:3px double #29221c;
+	position:relative;
+	top:12px;
 }
 #others-pots, #mypot {
 	padding-left:28px;
@@ -569,6 +574,9 @@ div#reasons img {
 	#buttonwall-home {
 		padding:14px 30px;
 	}
+	#mutuals {
+	padding-left:3px;
+}
 	#others-pots, #mypot {
 		padding-left:120px;
 	}
@@ -708,15 +716,21 @@ div#reasons img {
 }
 @media only screen and (max-width:440px) {
 	#buttonwall {
-		padding: 20px 32px 20px 40px;
+		padding: 20px 26px 20px 46px;
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
 	}
+	#buttsep {
+	margin:0 18px 0 0;
+}
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
 		padding: 20px 38px 20px 38px;
+	}
+	#mutuals, #followers, #also {
+		margin:0 6px 0 -6px;
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
@@ -762,7 +776,10 @@ div#reasons img {
 		padding:24px 18px;
 	}
 	#buttonwall-home {
-		padding:40px 10px 40px 30px;
+		padding:40px 8px 40px 28px;
+	}
+	#mutuals, #followers, #also {
+		margin:0 7px 0 -7px;
 	}
 	.home-bhead {
 		margin-left:24px;

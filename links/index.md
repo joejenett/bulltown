@@ -230,7 +230,7 @@ layout: page
 				<a title="Pantson Color Club" href="https://pantson.xandra.cc/"><img src="/images/pantson.png" alt="Pantson Color Club" width="88" height="31"></a>
 			</div>
 			
-			<div id="buttsep" style="position:relative;top:12px;">
+			<div id="buttsep">
 			</div>
 			<!--w-->					
 			<div class="button">
