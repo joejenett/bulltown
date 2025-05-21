@@ -237,6 +237,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="milkshake <3" href="https://ayouchoco.glitch.me/"><img src="/images/milkshake.gif" alt="milkshake <3" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="I'M FANTASIZING ALL THE TIME" href="https://nyaa.neocities.org/"><img src="/images/nyaabanner.gif" alt="I'M FANTASIZING ALL THE TIME" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="PJ's Personal Site" href="https://vessel.pjacaciaashberry.com/"><img src="/images/pjbutton.png" alt="PJ's Personal Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -304,6 +310,9 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="aid's small corner" href="https://zhongvie.neocities.org/	"><img src="/images/zhongvie.png" alt="aid's small corner" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="the sun hurts my eyes :(" href="https://pillbugs.neocities.org/"><img src="/images/placeholder.png" alt="the sun hurts my eyes :(" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="visualculture" href="https://visualculture.vc/"><img src="/images/visualculture.png" alt="visualculture" width="88" height="31"></a>
