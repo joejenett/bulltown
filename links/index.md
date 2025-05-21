@@ -83,7 +83,7 @@ layout: page
 				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ليث ريحـــــــان" href="https://arataka.neocities.org/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
+				<a title="ليث ريحـــــــان" href="https://arataka.moe/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="ko's crag" href="https://kopawz.neocities.org/"><img src="/images/koscrag.gif" alt="ko's crag" width="88" height="31"></a>
@@ -235,6 +235,9 @@ layout: page
 			<!--w-->					
 			<div class="button">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="PJ's Personal Site" href="https://vessel.pjacaciaashberry.com/"><img src="/images/pjbutton.png" alt="PJ's Personal Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="hey wake up its me that glow" href="https://crowdedstrangers.neocities.org/"><img src="/images/crowdedstrangers.png" alt="hey wake up its me that glow" width="88" height="31"></a>
