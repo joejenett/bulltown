@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Lakes The Guy" href="https://lakestheguy.neocities.org/"><img src="/images/lakestheguy.png" alt="Lakes The Guy" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="YOU'LL DIG US!" href="https://flamingokid.neocities.org/"><img src="/images/flamingokid.png" alt="YOU'LL DIG US!" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -331,9 +334,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Pizzacat Delights' Cozy Home" href="https://pizzacatdelights.neocities.org/"><img src="/images/pizzacat.png" alt="Pizzacat Delights' Cozy Home" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Lakes The Guy" href="https://lakestheguy.neocities.org/"><img src="/images/lakestheguy.png" alt="Lakes The Guy" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="=^_ _^= ...z..z..Z" href="https://nekofetti.neocities.org/"><img class="button-fix" src="/images/nekofetti.gif" alt="=^_ _^= ...z..z..Z" width="88" height="31"></a>
