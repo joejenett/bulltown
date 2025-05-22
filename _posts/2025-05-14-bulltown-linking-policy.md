@@ -14,7 +14,8 @@ comments:
 ---
 Hello friends. If you haven’t noticed, there’s a whole-lotta linking going on around here and I thought it would be useful to inform you as to what I’m doing - my linking policy if you will.
 
-<img src="/images/elguy.png" alt="" width="40" style="position:relative;float:right;margin-right:6px;">I consider anyone who follows bulltown at Neocities to be part of my neighborhood and include their (active) sites in the ‘neocities neighbors’ button walls found on the main pages of both versions of bulltown. Needless to say, I’d love you to include bulltown in your site’s neighborhood. If you do, you’ll also be added to the ’mutuals’ sections of both versions of bulltown.
+<a href="https://iwebthings.joejenett.com/meet-my-new-alter-ego-linkguy/"><img src="/images/elguy.png" alt="" width="40" style="position:relative;float:right;margin-right:6px;"></a>
+I consider anyone who follows bulltown at Neocities to be part of my neighborhood and include their (active) sites in the ‘neocities neighbors’ button walls found on the main pages of both versions of bulltown. Needless to say, I’d love you to include bulltown in your site’s neighborhood. If you do, you’ll also be added to the ’mutuals’ sections of both versions of bulltown.
 
 The mutuals are prominently shown on both the main pages and links pages of both sites.
 
