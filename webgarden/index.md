@@ -46,6 +46,7 @@ iframe {
 				
 <div id="others-pots">
 <iframe title="missmoss" src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
+<iframe src="https://slushienova.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #02abe4;"></iframe>
 <iframe title="Love Never Dies" src="https://venusinfoxfurs.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #597b8f;"></iframe>
 <a href="https://artwork.neocities.org/"><iframe src="https://artwork.neocities.org/webgarden2.html" scrolling="no" style="width:250px;height:250px;border:2px dashed pink;"></iframe></a>
 <iframe src="https://teeth.dog/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px outset red;"></iframe>
