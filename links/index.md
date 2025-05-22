@@ -237,6 +237,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Proletarian Library" href="https://proletarian-library.neocities.org/en/"><img src="/images/plibrary.png" alt="Proletarian Library" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="milkshake <3" href="https://ayouchoco.glitch.me/"><img src="/images/milkshake.gif" alt="milkshake <3" width="88" height="31"></a>
 			</div>
 			<div class="button">
