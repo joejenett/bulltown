@@ -315,7 +315,7 @@ layout: page
 				<a title="aid's small corner" href="https://zhongvie.neocities.org/	"><img src="/images/zhongvie.png" alt="aid's small corner" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="the sun hurts my eyes :(" href="https://pillbugs.neocities.org/"><img src="/images/placeholder.png" alt="the sun hurts my eyes :(" width="88" height="31"></a>
+				<a title="the sun hurts my eyes :(" href="https://pillbugs.neocities.org/"><img src="/images/pillbugs.png" alt="the sun hurts my eyes :(" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="visualculture" href="https://visualculture.vc/"><img src="/images/visualculture.png" alt="visualculture" width="88" height="31"></a>
