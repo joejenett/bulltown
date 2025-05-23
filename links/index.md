@@ -600,9 +600,6 @@ layout: page
 				<a title="Please Insert Disc" href="https://rainyshinydays.neocities.org/"><img src="/images/rainyshiny.gif" alt="Please Insert Disc" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="The web site of toothpasted" href="https://teeth.dog/"><img src="/images/toothpaste.gif" alt="The web site of toothpasted" width="88" height="31"></a>
-			</div>
-			<div class="button">
 			<a title="project c190" href="https://projectc190.neocities.org/"><img src="/images/c190.png" alt="project c190" width="88" height="31"></a>
 			</div>
 			<div class="button">
