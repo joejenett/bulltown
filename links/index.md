@@ -240,6 +240,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Crystal's Website" href="https://crystalsweb.neocities.org/"><img src="/images/crystalsweb.gif" alt="Crystal's Website" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Proletarian Library" href="https://proletarian-library.neocities.org/en/"><img src="/images/plibrary.png" alt="Proletarian Library" width="88" height="31"></a>
 			</div>
 			<div class="button">
