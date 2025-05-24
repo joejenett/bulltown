@@ -240,6 +240,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Seunglixe" href="https://seunglixe.neocities.org/"><img src="/images/seunglixebutton.png" alt="Seunglixe" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Crystal's Website" href="https://crystalsweb.neocities.org/"><img src="/images/crystalsweb.gif" alt="Crystal's Website" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -636,7 +639,7 @@ layout: page
 				<a title="memoria" href="https://finalfantasyix.neocities.org/"><img src="/images/memoria.gif" alt="memoria" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Jak2k's Website" href="https://jak2k.schwanenberg.name/"><img src="/images/jak2k.webp" alt="Jak2k's Website" width="88" height="31"></a>
+				<a title="Jak2k's Website" href="https://jak2k.eu/"><img src="/images/jak2k.webp" alt="Jak2k's Website" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Pepsi Harlot" href="https://pepsiharlot.com/"><img src="/images/pepsiharlotbutton1.png" alt="Pepsi Harlot" width="88" height="31"></a>
