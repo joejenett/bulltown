@@ -240,6 +240,48 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="rango's web hell hole" href="https://wriorango.neocities.org/"><img src="/images/wriorango.png" alt="rango's web hell hole" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="PAINTKILLER" href="https://ppaaiinnttkkiilleerr.neocities.org/"><img src="/images/paintkiller.png" alt="PAINTKILLER" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="THE LAVA LOUNGE" href="https://lavalounge.neocities.org/"><img src="/images/lavalounge.gif" alt="THE LAVA LOUNGE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="The Secret Site of Jett Secret" href="https://jettsecret.neocities.org/"><img class="button-fix" src="/images/secretbutton3.gif" alt="The Secret Site of Jett Secret" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="world of whimsy" href="https://grittycat.neocities.org/"><img src="/images/grittycat.gif" alt="world of whimsy" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="hey" href="https://magentastar.neocities.org/"><img class="button-fix" src="/images/magstar.png" alt="hey" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="in the wreckage" href="https://inthewreckage.neocities.org/"><img src="/images/inthewreckagebutton.png" alt="in the wreckage" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="REX♠LTED" href="https://rexalted.neocities.org/"><img src="/images/rexalted.gif" alt="REX♠LTED" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="dudalog" href="https://dudalog.neocities.org/"><img src="/images/dudabutton.png" alt="dudalog" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="THE BOZONE" href="https://bozocorner.com/"><img src="/images/bozo.gif" alt="THE BOZONE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="jimbo's barnyard" href="https://cowgrls.neocities.org/"><img src="/images/cowgrls.gif" alt="jimbo's barnyard" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Shrimp hideout" href="https://222222.neocities.org/"><img src="/images/222222.png" alt="Shrimp hideout" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="BadGraph1csGhost's Website" href="https://badgraph1csghost.neocities.org/"><img src="/images/badgraph1csghost.png" alt="BadGraph1csGhost's Website" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="basher" href="https://basher.xyz/"><img src="/images/basher.png" alt="basher" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Seunglixe" href="https://seunglixe.neocities.org/"><img src="/images/seunglixebutton.png" alt="Seunglixe" width="88" height="31"></a>
 			</div>
 			<div class="button">
