@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="in the wreckage" href="https://inthewreckage.neocities.org/"><img src="/images/inthewreckagebutton.png" alt="in the wreckage" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Lakes The Guy" href="https://lakestheguy.neocities.org/"><img src="/images/lakestheguy.png" alt="Lakes The Guy" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -258,9 +261,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="hey" href="https://magentastar.neocities.org/"><img class="button-fix" src="/images/magstar.png" alt="hey" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="in the wreckage" href="https://inthewreckage.neocities.org/"><img src="/images/inthewreckagebutton.png" alt="in the wreckage" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="REX♠LTED" href="https://rexalted.neocities.org/"><img src="/images/rexalted.gif" alt="REX♠LTED" width="88" height="31"></a>
