@@ -248,6 +248,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Gwen's Library" href="https://gwenslibrary.neocities.org/"><img src="/images/gwenslibrary.png" alt="Gwen's Library" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="christinee.neocities.org" href="https://christinee.neocities.org/"><img src="/images/christinee.png" alt="christinee.neocities.org" width="88" height="31"></a>
 			</div>
 			<div class="button">
