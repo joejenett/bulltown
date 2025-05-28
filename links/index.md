@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="bean's DIY garden" href="https://beaniepines.neocities.org/"><img src="/images/bpdusk.gif" alt="bean's DIY garden" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="in the wreckage" href="https://inthewreckage.neocities.org/"><img src="/images/inthewreckagebutton.png" alt="in the wreckage" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -242,7 +245,10 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="The web site of sodajerksconfidante" href="https://sodajerksconfidante.neocities.org/"><img src="/images/sodajerk.gif" alt="The web site of sodajerksconfidante" width="88" height="31"></a>
+				<a title="Cₕₐₒₜᵢc Gₒₒdₙₑₛₛ" href="https://chaoticgoodness.neocities.org/"><img src="/images/chaosbutton.gif" alt="Cₕₐₒₜᵢc Gₒₒdₙₑₛₛ" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Sodajerk's Confidante" href="https://sodajerksconfidante.neocities.org/"><img src="/images/sodajerk.gif" alt="Sodajerk's Confidante" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="rango's web hell hole" href="https://wriorango.neocities.org/"><img src="/images/wriorango.png" alt="rango's web hell hole" width="88" height="31"></a>
@@ -477,9 +483,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="NEMO'S RAINFOREST" href="https://mossforestdollz.neocities.org/"><img src="/images/nemos.gif" alt="NEMO'S RAINFOREST" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="bean's DIY garden" href="https://beaniepines.neocities.org/"><img src="/images/bpdusk.gif" alt="bean's DIY garden" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Yordi" href="https://yordi.me/"><img src="/images/yordi.png" alt="Yordi" width="88" height="31"></a>
