@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Ridvenge" href="https://ridvenge.neocities.org/"><img src="/images/ridvenge.gif" alt="Ridvenge" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="bean's DIY garden" href="https://beaniepines.neocities.org/"><img src="/images/bpdusk.gif" alt="bean's DIY garden" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -531,9 +534,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="heart shaped box." href="https://hydromaniac.neocities.org/"><img src="/images/hydromaniac.gif" alt="heart shaped box." width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Ridvenge" href="https://ridvenge.neocities.org/"><img src="/images/ridvenge.gif" alt="Ridvenge" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Kiskadee's Nest" href="https://kiskadee.neocities.org/"><img src="/images/kiskadee.png" alt="Kiskadee's Nest" width="88" height="31"></a>
