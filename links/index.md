@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="YuRo's Nest" href="https://yuros-nest.neocities.org/"><img src="/images/yuro.png" alt="YuRo's Nest" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Ridvenge" href="https://ridvenge.neocities.org/"><img src="/images/ridvenge.gif" alt="Ridvenge" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -597,9 +600,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="no loss / no disappointment." href="https://citadark.neocities.org/"><img src="/images/citadark.gif" alt="no loss / no disappointment." width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="YuRo's Nest" href="https://yuros-nest.neocities.org/"><img src="/images/yuro.png" alt="YuRo's Nest" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="BMH Online" href="https://bmh.neocities.org/"><img src="/images/bmhonline.png" alt="BMH Online" width="88" height="31"></a>
