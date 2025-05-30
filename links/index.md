@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="PAINTKILLER" href="https://ppaaiinnttkkiilleerr.neocities.org/"><img src="/images/paintkiller.png" alt="PAINTKILLER" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="rango's web hell hole" href="https://wriorango.neocities.org/"><img src="/images/wriorango.png" alt="rango's web hell hole" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -227,7 +230,7 @@ layout: page
 				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="<:-)" href="https://miou2192.neocities.org/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
+				<a title="<:-)" href="https://miou2192.com/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
@@ -254,6 +257,12 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="bummerdotcom" href="https://bummerdotcom.com/"><img src="/images/bummer.png" alt="bummerdotcom" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Tetrisk's Lair" href="https://tetrisk-lair.neocities.org/"><img src="/images/tetrisk.gif" alt="Tetrisk's Lair" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="- remember the internet? - FABLED.DAY" href="https://fabled.day/"><img src="/images/fabled.gif" alt="- remember the internet? - FABLED.DAY" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -267,9 +276,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Sodajerk's Confidante" href="https://sodajerksconfidante.neocities.org/"><img src="/images/sodajerk.gif" alt="Sodajerk's Confidante" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="PAINTKILLER" href="https://ppaaiinnttkkiilleerr.neocities.org/"><img src="/images/paintkiller.png" alt="PAINTKILLER" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="THE LAVA LOUNGE" href="https://lavalounge.neocities.org/"><img src="/images/lavalounge.gif" alt="THE LAVA LOUNGE" width="88" height="31"></a>
