@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="rango's web hell hole" href="https://wriorango.neocities.org/"><img src="/images/wriorango.png" alt="rango's web hell hole" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="YuRo's Nest" href="https://yuros-nest.neocities.org/"><img src="/images/yuro.png" alt="YuRo's Nest" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -251,6 +254,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="- remember the internet? - FABLED.DAY" href="https://fabled.day/"><img src="/images/fabled.gif" alt="- remember the internet? - FABLED.DAY" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Gwen's Library" href="https://gwenslibrary.neocities.org/"><img src="/images/gwenslibrary.png" alt="Gwen's Library" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -261,9 +267,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="Sodajerk's Confidante" href="https://sodajerksconfidante.neocities.org/"><img src="/images/sodajerk.gif" alt="Sodajerk's Confidante" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="rango's web hell hole" href="https://wriorango.neocities.org/"><img src="/images/wriorango.png" alt="rango's web hell hole" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="PAINTKILLER" href="https://ppaaiinnttkkiilleerr.neocities.org/"><img src="/images/paintkiller.png" alt="PAINTKILLER" width="88" height="31"></a>
