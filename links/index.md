@@ -257,6 +257,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Josh's Homepage" href="https://joshisking.neocities.org/"><img src="/images/josh.png" alt="Josh's Homepage" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="bummerdotcom" href="https://bummerdotcom.com/"><img src="/images/bummer.png" alt="bummerdotcom" width="88" height="31"></a>
 			</div>
 			<div class="button">
