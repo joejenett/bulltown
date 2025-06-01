@@ -44,6 +44,24 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="foreverliketh.is" href="https://foreverliketh.is/"><img src="/images/foreverlikethis.png" alt="foreverliketh.is" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Aywren's Nook" href="https://aywren.com/"><img src="/images/aywren.gif" alt="Aywren's Nook" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" href="https://sclptures.neocities.org/"><img src="/images/sclptures.png" alt="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -104,9 +122,6 @@ layout: page
 				<a title="Rini" href="https://rini.neocities.org/"><img src="/images/rini.gif" alt="Rini" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="ليث ريحـــــــان" href="https://arataka.moe/"><img src="/images/arataka.gif" alt="ليث ريحـــــــان" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -128,24 +143,6 @@ layout: page
 				<a title="The Olive Jar" href="https://theolivejar.neocities.org/"><img src="/images/olivejarbutton.gif" alt="The Olive Jar" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="melankorin" href="https://melankorin.net/"><img src="/images/melankorin.gif" alt="melankorin" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="foreverliketh.is" href="https://foreverliketh.is/"><img src="/images/foreverlikethis.png" alt="foreverliketh.is" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Aywren's Nook" href="https://aywren.com/"><img src="/images/aywren.gif" alt="Aywren's Nook" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="zeus" href="https://zeusofthecrows.github.io/stadt/"><img src="/images/zeus-retro.gif" alt="zeus" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="cervidaze ☘" href="https://cervidaze.me/"><img src="/images/cervidaze.png" alt="cervidaze ☘" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -164,9 +161,6 @@ layout: page
 				<a title="jamie’s epic web zone" href="https://shinyexe.neocities.org/"><img src="/images/shinyexe.gif" alt="jamie’s epic web zone" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -174,6 +168,12 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="moonpr1sm’s planet" href="https://moonpr1sm.neocities.org/"><img src="/images/moonpr1sm.png" alt="moonpr1sm’s planet" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="<:-)" href="https://miou2192.com/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Sponduliocity" href="https://spondulio.neocities.org/"><img src="/images/spondbutton.gif" alt="Sponduliocity" width="88" height="31"></a>
@@ -185,6 +185,9 @@ layout: page
 				<a title="Gooser.net" href="https://gooooser.neocities.org/"><img src="/images/gooser22.gif" alt="Gooser.net" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Bytemoth's (Astoundingly Effervescent) Brook" href="https://bytemoth.neocities.org/"><img src="/images/bytemoth.png" alt="Bytemoth's (Astoundingly Effervescent) Brook" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -194,10 +197,16 @@ layout: page
 				<a title="ᓚᘏᗢ" href="https://cherished-cat.neocities.org/"><img src="/images/cherishedcat.png" alt="ᓚᘏᗢ" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="bearly there" href="https://bearlythere.neocities.org/"><img src="/images/bearly.png" alt="bearly there" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="divergent rays" href="https://divergentrays.com/"><img src="/images/divergent.gif" alt="divergent rays" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="A Blue in a Sea of Reds" href="https://a-blue-in-a-sea-of-reds.neocities.org/"><img src="/images/blue.png" alt="A Blue in a Sea of Reds" width="88" height="31"></a>
@@ -221,19 +230,10 @@ layout: page
 				<a title="Chocolate Revel" href="https://chocolaterevel.neocities.org/"><img src="/images/chocolaterevel.png" alt="Chocolate Revel" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="WiiCHiCKEN i AM AWESOME" href="https://wiggle.monster/"><img src="/images/wiichicken.gif" alt="WiiCHiCKEN i AM AWESOME" width="88" height="31"></a>
+				<a title="CageyGames" href="https://cageygames.neocities.org/"><img src="/images/cageygames.png" alt="CageyGames" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cherie.gif" alt="cherie" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="[tfpXE]" href="https://tfpxe.wtf/"><img src="/images/tfpxe1.gif" alt="[tfpXE]" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="Lankarta Project - Fictional Maps and More" href="https://lankarta-project.neocities.org/"><img src="/images/lankarta.gif" alt="Lankarta Project - Fictional Maps and More" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="<:-)" href="https://miou2192.com/"><img src="/images/miou2192.png" alt="<:-)" width="88" height="31"></a>
+				<a title="ANCIENTCRYPT" href="https://ancientcrypt.neocities.org/"><img src="/images/ancientcrypt.gif" alt="ANCIENTCRYPT" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Webmaster Webring" href="https://webmasterwebring.netlify.app/"><img src="/images/wmwebring.png" alt="Webmaster Webring" width="88" height="31"></a>
