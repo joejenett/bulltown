@@ -62,6 +62,9 @@ layout: page
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" href="https://sclptures.neocities.org/"><img src="/images/sclptures.png" alt="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1304,9 +1307,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="☆ doqmeat's website ☆" href="https://doqmeat.com/"><img src="/images/doqmeat.png" alt="☆ doqmeat's website ☆" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="j p g z o n e" href="https://willdotjpg.gay/"><img src="/images/willdotjpg.png" alt="j p g z o n e" width="88" height="31"></a>
