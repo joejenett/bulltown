@@ -263,6 +263,33 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Welcome to hekate.neocities.org!" href="https://hekate.neocities.org/"><img src="/images/hekate.png" alt="Welcome to hekate.neocities.org!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="GRASS" href="https://puppygrass.neocities.org/"><img src="/images/puppygrass.gif" alt="GRASS" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="daisysite" href="https://daisysite.neocities.org/"><img src="/images/daisysite.gif" alt="daisysite" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="coffeeplant" href="https://coffeeplant.neocities.org/"><img src="/images/coffeeplant.png" alt="coffeeplant" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="HER CANINE TEETH IN THE SIDE OF MY NECK" href="https://chimerathing.neocities.org/"><img src="/images/chimerathing.png" alt="HER CANINE TEETH IN THE SIDE OF MY NECK" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="pennyfication!" href="https://pennyfication.neocities.org/"><img src="/images/pennyfication.jpg" alt="pennyfication!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="♪ Musictelevision" href="https://musictelevision.neocities.org/"><img src="/images/musictelevision.png" alt="♪ Musictelevision" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="xsolimini's HQ" href="https://xsolimini.fr/"><img src="/images/xsoliminishq.gif" alt="xsolimini's HQ" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="51db" href="https://51db.neocities.org/"><img src="/images/51db.gif" alt="51db" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Josh's Homepage" href="https://joshisking.neocities.org/"><img src="/images/josh.png" alt="Josh's Homepage" width="88" height="31"></a>
 			</div>
 			<div class="button">
