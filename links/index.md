@@ -44,6 +44,9 @@ layout: page
 			<div class="link-bhead">mutuals &amp; affiliations 
 			</div>
 			<div class="button">
+				<a title="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" href="https://sclptures.neocities.org/"><img src="/images/sclptures.png" alt="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="PAINTKILLER" href="https://ppaaiinnttkkiilleerr.neocities.org/"><img src="/images/paintkiller.png" alt="PAINTKILLER" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -471,9 +474,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="seventeen doves online" href="https://seventeendoves.neocities.org/"><img src="/images/17dovesbutton.png" alt="seventeen doves online" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" href="https://sclptures.neocities.org/"><img src="/images/sclptures.png" alt="𝑺𝑪𝑳𝑷𝑻𝑼𝑹𝑬𝑺" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="pet... YOU!!" href="https://petyou.neocities.org/"><img src="/images/petyou.jpg" alt="pet... YOU!!" width="88" height="31"></a>
