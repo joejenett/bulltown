@@ -8,6 +8,14 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#littlenav {
+	margin-top:9px;
+	font-size:.8em;
+}
+#littlenav a {
+	border:1px solid #c7b3b3;
+	padding:0 4px 3px 4px;
+}
 #mutuals {
 	padding-left:6px;
 }
