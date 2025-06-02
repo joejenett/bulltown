@@ -34,6 +34,9 @@ layout: page
 			GIF animation is OFF by default (except on mouse hover).
 		</p>
 	</div>
+			<div id="load-note">
+				Please allow a moment or two for buttons to fully load. Thanks!
+			</div>
 
 	<div id="buttonwall">
 
