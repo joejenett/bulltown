@@ -7,6 +7,10 @@ category:
 permalink: /betcha-didn’t-know/
 slug: betcha-didn’t-know
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114615215108054915
 ---
 <p>
 Earlier this year I wrote <a href="https://simply.joejenett.com/notes-on-an-ageless-web/">something</a> over at the <em>simply.</em> blog which included what someone had said on the <em>bulltown</em> guestbook:
