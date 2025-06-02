@@ -35,7 +35,7 @@ layout: page
 		</p>
 	</div>
 			<div id="load-note">
-				Please allow a moment or two for buttons to fully load. Thanks!
+				Please allow a few moments for buttons to load (reload if stalled). Thx.
 			</div>
 
 	<div id="buttonwall">
