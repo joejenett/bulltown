@@ -269,6 +269,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="human-collector0" href="https://human-collector0.neocities.org/"><img src="/images/hc.png" alt="human-collector0" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Wallace-Online" href="https://wallace-online.neocities.org/"><img src="/images/wallace.png" alt="Wallace-Online" width="88" height="31"></a>
 			</div>
 			<div class="button">
