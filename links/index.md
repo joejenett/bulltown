@@ -62,6 +62,9 @@ layout: page
 				<a title="SWIFTY'S HQ!" href="https://swiftyshq.neocities.org/"><img src="/images/swifty2.gif" alt="SWIFTY'S HQ!" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="xsolimini's HQ" href="https://xsolimini.fr/"><img src="/images/xsoliminishq.gif" alt="xsolimini's HQ" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="the ether personified" href="https://philia995.neocities.org/"><img src="/images/phillia.png" alt="the ether personified" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -263,6 +266,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Wallace-Online" href="https://wallace-online.neocities.org/"><img src="/images/wallace.png" alt="Wallace-Online" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Welcome to hekate.neocities.org!" href="https://hekate.neocities.org/"><img src="/images/hekate.png" alt="Welcome to hekate.neocities.org!" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -282,9 +288,6 @@ layout: page
 			</div>
 			<div class="button">
 				<a title="♪ Musictelevision" href="https://musictelevision.neocities.org/"><img src="/images/musictelevision.png" alt="♪ Musictelevision" width="88" height="31"></a>
-			</div>
-			<div class="button">
-				<a title="xsolimini's HQ" href="https://xsolimini.fr/"><img src="/images/xsoliminishq.gif" alt="xsolimini's HQ" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="51db" href="https://51db.neocities.org/"><img src="/images/51db.gif" alt="51db" width="88" height="31"></a>
