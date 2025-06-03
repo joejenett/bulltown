@@ -11,7 +11,7 @@ comments:
   host: toot.community
   username: jenett
   id: 114615215108054910
-reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:1rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114615215108054915\"><img src=\"https://static.toot.community/cache/accounts/avatars/109/326/597/713/827/183/original/c442790693c58a6f.gif\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Brad Enslen</span></a></p>"
+reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:1rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114615215108054915#favorited-by-109326597713827183\"><img src=\"https://static.toot.community/cache/accounts/avatars/109/326/597/713/827/183/original/c442790693c58a6f.gif\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Brad Enslen</span></a></p>"
 ---
 <p>
 Earlier this year I wrote <a href="https://simply.joejenett.com/notes-on-an-ageless-web/">something</a> over at the <em>simply.</em> blog which included what someone had said on the <em>bulltown</em> guestbook:
