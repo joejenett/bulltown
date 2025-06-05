@@ -269,6 +269,33 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="madeinv.love" href="https://madeinv.love/"><img src="/images/madeinv.gif" alt="madeinv.love" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Dannarchy" href="https://dannarchy.com/"><img src="/images/dannarchy.gif" alt="Dannarchy" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="website schmebsite" href="https://0helm.neocities.org/"><img src="/images/schmebsite.png" alt="website schmebsite" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="cherrytalk!" href="https://cherrymocha.neocities.org/"><img src="/images/cherrymocha.png" alt="cherrytalk!" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="NEONSPIRAL" href="https://neonspiral.neocities.org/"><img src="/images/neonspiral.gif" alt="NEONSPIRAL" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Best Gyaru in Buenos Aires" href="https://blackberrysodapop.neocities.org/"><img src="/images/blackberrysodapop.gif" alt="Best Gyaru in Buenos Aires" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="00s" href="https://00s.neocities.org/"><img src="/images/00s.gif" alt="00s" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="clearglass" href="https://clearglass.neocities.org/"><img src="/images/clearglassbutton.png" alt="clearglass" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="♡ keep you locked up in the trunk of my mind " href="https://corktree.neocities.org/"><img src="/images/corktree.png" alt="♡ keep you locked up in the trunk of my mind " width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="human-collector0" href="https://human-collector0.neocities.org/"><img src="/images/hc.png" alt="human-collector0" width="88" height="31"></a>
 			</div>
 			<div class="button">
