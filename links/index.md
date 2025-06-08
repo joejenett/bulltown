@@ -269,6 +269,9 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="WELCOME TO COLORWORLD" href="https://colorworld.neocities.org/"><img src="/images/colorworld.gif" alt="WELCOME TO COLORWORLD" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="madeinv.love" href="https://madeinv.love/"><img src="/images/madeinv.gif" alt="madeinv.love" width="88" height="31"></a>
 			</div>
 			<div class="button">
