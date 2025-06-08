@@ -157,7 +157,7 @@ body {
 	margin:2px;
 	float:left;
 }
-.button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
+.button a:hover img, .iwt a:hover img, .iwt-b a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
 	transform: scale(1.1);
 }
 #play-gif img, #stop-gif img {
