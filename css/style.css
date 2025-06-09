@@ -8,6 +8,11 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#buttons {
+	text-align:center;
+	margin-top:24px;
+	clear:both;
+}
 #rings {
 	margin-top:8px;
 	text-align:center;
@@ -20,9 +25,19 @@ body {
 	max-height:75px;
 	border:none;
 }
+.va-m {
+	 vertical-align:middle;
+}
+.mr-12 {
+	margin-right:12px;
+}
 .searchwrap {
 	 padding-right:18px;
 	 margin-top:12px;
+}
+.searchwrap-p {
+	padding-right:18px;
+	margin-top:36px;
 }
 .welcome-one {
 	line-height:1.2em;
@@ -180,6 +195,12 @@ body {
 }
 .mb-48 {
 	margin-bottom:48px;
+}
+.mb-36 {
+	margin-bottom:36px;
+}
+.mt-72 {
+	margin-top:72px;
 }
 .mt-48 {
 	 margin-top:48px;

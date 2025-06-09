@@ -25,7 +25,7 @@ layout: page
 		</p>	
 	</noscript>		
 				
-	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
+	<div id="buttons">
 					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
 					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
 	</div>

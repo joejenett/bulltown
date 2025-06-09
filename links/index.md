@@ -9,25 +9,24 @@ layout: page
 		<div class="div1 iwt">
 			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><label for="ta1"><textarea id="ta1" style="width:85%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></label></p>
 		</div>
-		<div  class="div2 iwt">
+		<div class="div2 iwt">
 		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;" width="88" height="31"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
-		<div  class="div3 iwt">
+		<div class="div3 iwt">
 			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><label for="ta2"><textarea id="ta2" style="width:85%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></label></p></a>
 		</div>
 	</div>
 		<div style="text-align:left;font-weight:400;">
 					If you link to bulltown.2022 OR bulltown.neo from your personal, non-commercial site, please let me know so I can promptly add your linked button to the ‘mutuals’ on both bulltown sites. Thx.
 					</div>
-	<!--<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a>	-->		
-	<noscript>
+					<noscript>
 		<p>
 			Please enable JavaScript for full functionality.
 		</p>	
 	</noscript>
 	
 				
-	<div id="buttons" style="text-align:center;margin-top:24px;clear:both;">
+	<div id="buttons">
 					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
 					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
 		<p style="font-size:.8em;">
