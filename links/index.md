@@ -349,7 +349,7 @@ layout: page
 				<a title="Cₕₐₒₜᵢc Gₒₒdₙₑₛₛ" href="https://chaoticgoodness.neocities.org/"><img src="/images/chaosbutton.gif" alt="Cₕₐₒₜᵢc Gₒₒdₙₑₛₛ" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="Sodajerk's Confidante" href="https://sodajerksconfidante.neocities.org/"><img src="/images/sodajerk.gif" alt="Sodajerk's Confidante" width="88" height="31"></a>
+				<a title="★ SEPULCHRITUDE! ★" href="https://sepulchritude.neocities.org/"><img src="/images/sepulchritude.png" alt="★ SEPULCHRITUDE! ★" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="THE LAVA LOUNGE" href="https://lavalounge.neocities.org/"><img src="/images/lavalounge.gif" alt="THE LAVA LOUNGE" width="88" height="31"></a>
