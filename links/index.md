@@ -1167,9 +1167,6 @@ layout: page
 				<a title="june's web page...ᐟ 💫" href="https://juneish.neocities.org/"><img src="/images/webcatz.png" alt="june's web page...ᐟ 💫" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="lopster@neocities" href="https://lopster.neocities.org/"><img src="/images/lopster.gif" alt="lopster@neocities" width="88" height="31"></a>
-			</div>
-			<div class="button">
 				<a title="jeith!" href="https://jeith.com/"><img src="/images/jeith.gif" alt="jeith!" width="88" height="31"></a>
 			</div>
 			<div class="button">
