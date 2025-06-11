@@ -2,8 +2,8 @@
 <base target="_top">
 
 <div class="home">
-	<div style="padding-bottom:0;">
-		<span style="border-bottom:1px dashed #3e5018;padding-bottom:3px;font-size:1.1em;">Latest from the <a style="text-decoration:none;" href="/archive/"><em style="font-weight:800;color:#440303;">b22 journal</em></a>: &nbsp; </span><a title="full content atom feed" href="https://bulltown.joejenett.com/feed.atom"><img src="/images/rss.png" alt="full content atom feed" style="max-width:14px;margin:4px;vertical-align:middle;"></a>
+	<div class="pb-0">
+		<span class="latest-dash">Latest from the <a style="text-decoration:none;" href="/archive/"><em class="fw700">b22 journal</em></a>: &nbsp; </span><a title="full content atom feed" href="https://bulltown.joejenett.com/feed.atom"><img class="latest-rss" src="/images/rss.png" alt="full content atom feed"></a>
 	</div>
 				{{ content }}
 				<div class="post-list">
@@ -15,14 +15,14 @@
 					{% endif %}-->
 					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-					<div style="margin-bottom:24px;padding-bottom:6px;margin-right:12px;">
+					<div class="latest-wrap">
 						{%- if post.title != "" -%}
-						<h2 class="post-title p-name" style="margin-top:18px;color:#440303;">{{ post.title | escape }}</h2>
+						<h2 class="post-title p-name namewrap">{{ post.title | escape }}</h2>
 						{%- endif -%}
 						{%- if site.show_excerpts -%}
-						<div style="position:relative;top:-12px;">{{ post.excerpt }}</div>
+						<div class="ewrap">{{ post.excerpt }}</div>
 						{%- endif -%}
-						<div style="position:relative;top:-8px;line-height:1em;margin-bottom:-2em;">
+						<div class="newsmetawrap">
 							<span class="post-meta"><a target="_top" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 							&bull; <span class="post-meta p-author h-card">joe jenett
 							</span>

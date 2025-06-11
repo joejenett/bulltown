@@ -22,3 +22,35 @@ blockquote {
 	padding-left:18px;
 	border-left:5px solid #ddd;
 }
+.pb-0 {
+	padding-bottom:0;
+}
+.latest-dash {
+	 border-bottom:1px dashed #3e5018;
+	 padding-bottom:3px;
+	 font-size:1.1em;
+}
+.latest-rss {
+	 max-width:14px;
+	 margin:4px;
+	 vertical-align:middle;
+}
+.latest-wrap {
+	margin-bottom:24px;
+	padding-bottom:6px;
+	margin-right:12px;
+}
+.newsmetawrap {
+	position:relative;
+	top:-8px;
+	line-height:1em;
+	margin-bottom:-2em;
+}
+.namewrap {
+	 margin-top:18px;
+	 color:#440303;
+}
+.ewrap {
+	 position:relative;
+	 top:-12px;
+}
