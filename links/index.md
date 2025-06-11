@@ -271,7 +271,7 @@ layout: page
 				<a title="Tapeykatt's Place" href="https://tapeykatt.neocities.org/"><img src="/images/tapeykatt.gif" alt="Tapeykatt's Place" width="88" height="31"></a>
 			</div>
 			<div class="button">
-				<a title="happy4life" href="https://happyniss.neocities.org/"><img src="/images/happyniss.png" alt="happy4life" width="88" height="31"></a>
+				<a title="happy4life" href="https://happyniss.neocities.org/"><img class="button-fix" src="/images/happyniss.png" alt="happy4life" width="88" height="31"></a>
 			</div>
 			<div class="button">
 				<a title="Spark of Creation" href="https://sparkofcreation.neocities.org/"><img src="/images/sparkofcreation.png" alt="Spark of Creation" width="88" height="31"></a>
