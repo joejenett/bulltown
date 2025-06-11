@@ -268,6 +268,33 @@ layout: page
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Tapeykatt's Place" href="https://tapeykatt.neocities.org/"><img src="/images/tapeykatt.gif" alt="Tapeykatt's Place" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="happy4life" href="https://happyniss.neocities.org/"><img src="/images/happyniss.png" alt="happy4life" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Spark of Creation" href="https://sparkofcreation.neocities.org/"><img src="/images/sparkofcreation.png" alt="Spark of Creation" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="FRUMP ZONE" href="https://frump.zone/"><img src="/images/frumpzone.gif" alt="FRUMP ZONE" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="Mutterbutter" href="https://mutterbutter.neocities.org/"><img src="/images/muttrbttr.gif" alt="Mutterbutter" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="anywhere" href="https://anywhere.neocities.org/"><img src="/images/anywhere.png" alt="anywhere" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="HEAVEN ON EARTH" href="https://vanillamilkshake.neocities.org/"><img src="/images/vanillamilkshake.png" alt="HEAVEN ON EARTH" width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="your eyes may wander..." href="https://sea-of-colors.neocities.org/"><img src="/images/seaofcolors.png" alt="your eyes may wander..." width="88" height="31"></a>
+			</div>
+			<div class="button">
+				<a title="| BAALBEK |" href="https://baalbek.neocities.org/"><img src="/images/baalbek.jpg" alt="| BAALBEK |" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="WELCOME TO COLORWORLD" href="https://colorworld.neocities.org/"><img src="/images/colorworld.gif" alt="WELCOME TO COLORWORLD" width="88" height="31"></a>
 			</div>
 			<div class="button">
