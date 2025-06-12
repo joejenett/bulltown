@@ -3,20 +3,20 @@ layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | links"</script>
 
-<div style="/*position:relative;float:right;margin:24px 9px 0 9px;padding-left:2px;padding-bottom:9px;text-align:center;z-index:1000;*/">
-	<div style="position:relative;top:-18px;text-align:center;font-size:1.2rem;font-style:italic;font-weight:600;margin:12px 0;color:#440303;">link to us</div>
-	<div style="text-align:center;display: grid;grid-template-columns: repeat(3, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;">
+<div>
+	<div class="linktous">link to us</div>
+	<div class="columnwrap">
 		<div class="div1 iwt">
-			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"></a><p><label for="ta1"><textarea id="ta1" style="width:85%;height:100px;"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></label></p>
+			<a href="/images/b22button.png" download="b22button"><img src="/images/b22button.png" alt="b22button" title="click to download and thanks for linking!" class="w88 mt-2"></a><p><label for="ta1"><textarea id="ta1"><a title="bulltown.2022" href="https://bulltown.joejenett.com/"><img title="bulltown.2022" src="https://your-domain-please/b22button.png" alt="bulltown.2022" width="88" height="31"></a></textarea></label></p>
 		</div>
 		<div class="div2 iwt">
-		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;" width="88" height="31"><p><span style="font-size:3em;">⬆︎</span><br>to link<br>to either URL</p></a>
+		<a href="/images/bulltown.png" download="bulltown"><img src="/images/bulltown.png" alt="bulltown" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;" width="88" height="31"><p><span class="threeem">⬆︎</span><br>to link<br>to either URL</p></a>
 		</div>
 		<div class="div3 iwt">
-			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" style="width:88px;margin-top:2px;"><p><label for="ta2"><textarea id="ta2" style="width:85%;height:100px;"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></label></p></a>
+			<a href="/images/b-n-button.png" download="b-n-button"><img src="/images/b-n-button.png" alt="b-n-button" title="click to download and thanks for linking!" class="w88 mt-2"><p><label for="ta2"><textarea id="ta2"><a title="bulltown.neo" href="https://bulltown.neocities.org/"><img title="bulltown.neo" src="https://your-domain-please/b-n-button.png" alt="bulltown.neo" width="88" height="31"></a></textarea></label></p></a>
 		</div>
 	</div>
-		<div style="text-align:left;font-weight:400;">
+		<div class="ta-l fw400">
 					If you link to bulltown.2022 OR bulltown.neo from your personal, non-commercial site, please let me know so I can promptly add your linked button to the ‘mutuals’ on both bulltown sites. Thx.
 					</div>
 					<noscript>
@@ -29,7 +29,7 @@ layout: page
 	<div id="buttons">
 					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
 					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
-		<p style="font-size:.8em;">
+		<p class="offby">
 			GIF animation is OFF by default (except on mouse hover).
 		</p>
 	</div>
