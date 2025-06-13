@@ -25,7 +25,6 @@ layout: page
 		</p>	
 	</noscript>
 	
-				
 	<div id="buttons">
 					<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
 					<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
@@ -37,6 +36,9 @@ layout: page
 				Please allow a few moments for buttons to load (reload if stalled). Thx.
 			</div>
 
+			
+			
+			
 	<div id="buttonwall">
 
 		<span class="freezeframe">
@@ -171,7 +173,7 @@ layout: page
 			<div class="button">
 				<a title="Lockheart Love" href="https://lockheartlove.neocities.org/"><img src="/images/lockheartlove.png" alt="Lockheart Love" width="88" height="31"></a>
 			</div>
-			<div class="button">
+			<div class="button" id="#swiftred.neocities.org">
 				<a title="SwiftRed's Site" href="https://swiftred.neocities.org/"><img src="/images/swiftred.jpg" alt="SwiftRed's Site" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -2381,4 +2383,4 @@ layout: page
 	</div>
 </div>
 <script src="/js/freezeframe.min.js"></script>
-		
+	
