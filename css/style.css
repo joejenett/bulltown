@@ -8,6 +8,15 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#button-search, #locator, #locatetopper {
+	background:#fff;
+	border:1px solid #440303;
+}
+#locatetopperwrap {
+	position:absolute;
+	right: 48px;
+	top:500px;
+}
 #formwrap {
 	text-align:center;
 }
@@ -574,7 +583,7 @@ h3 {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 52px;
+	padding:40px 58px;
 	
 }
 #buttonwall-home {
