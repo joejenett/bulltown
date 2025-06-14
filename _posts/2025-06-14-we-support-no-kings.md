@@ -10,8 +10,4 @@ summary:
 ---
 <a href="https://www.nokings.org/"><img src="/images/nokings.png" alt="" class="mw100 mt-12"></a>
 
-
-
-
-
 <a href="https://brid.gy/publish/mastodon"></a>
