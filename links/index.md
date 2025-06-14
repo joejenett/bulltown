@@ -293,6 +293,18 @@ layout: page
 			<div class="button" id="linkylove">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
+			<div class="button" id="nicegirlslumber">
+				<a title="Welcome to my Bedroom!" href="https://nicegirlslumber.neocities.org/"><img src="/images/nicegirlslumberbutton.png" alt="Welcome to my Bedroom!" width="88" height="31"></a>
+			</div>
+			<div class="button" id="lemonadehammer">
+				<a title="ENTER THE DINER?" href="https://lemonadehammer.neocities.org/"><img src="/images/" alt="ENTER THE DINER?" width="88" height="31"></a>
+			</div>
+			<div class="button" id="kkb">
+				<a title="Love... is a lonely thing" href="https://kkb.online/"><img src="/images/kkbutton.gif" alt="Love... is a lonely thing" width="88" height="31"></a>
+			</div>
+			<div class="button" id="raisu">
+				<a title="imari paradise" href="https://raisu.neocities.org/"><img src="/images/raisu.gif" alt="imari paradise" width="88" height="31"></a>
+			</div>
 			<div class="button" id="madukamagica">
 				<a title="START GAME!!!" href="https://madukamagica.neocities.org/"><img src="/images/madukamagica.png" alt="START GAME!!!" width="88" height="31"></a>
 			</div>
@@ -587,7 +599,7 @@ layout: page
 			<div class="button" id="peachnuts">
 				<a title="-+-peachnuts-+-" href="https://peachnuts.neocities.org/"><img src="/images/peachnuts.gif" alt="-+-peachnuts-+-" width="88" height="31"></a>
 			</div>
-			<div class="button" id="dewdrop">
+			<div class="button" id="iqra">
 				<a title="dewdrop club" href="https://iqra.dewdrop.club/"><img src="/images/dewdrop.gif" alt="dewdrop club" width="88" height="31"></a>
 			</div>
 			<div class="button" id="kristylicious">
