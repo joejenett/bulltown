@@ -25,6 +25,9 @@ blockquote {
 .mw100 {
 	max-width:100%;
 }
+.mt-12 {
+	margin-top:12px;
+}
 .pb-0 {
 	padding-bottom:0;
 }
