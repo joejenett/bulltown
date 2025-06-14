@@ -12,6 +12,9 @@ body {
 	background:#fff;
 	border:1px solid #440303;
 }
+.mw100 {
+	max-width:100%;
+}
 #locatetopperwrap {
 	position:absolute;
 	right: 48px;
