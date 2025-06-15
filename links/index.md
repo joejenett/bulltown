@@ -467,7 +467,7 @@ layout: page
 			<div class="button" id="nyaa">
 				<a title="I'M FANTASIZING ALL THE TIME" href="https://nyaa.neocities.org/"><img src="/images/nyaabanner.gif" alt="I'M FANTASIZING ALL THE TIME" width="88" height="31"></a>
 			</div>
-			<div class="button" id="pjacaciaashberry">
+			<div class="button" id="pjonline">
 				<a title="PJ's Personal Site" href="https://vessel.pjacaciaashberry.com/"><img src="/images/pjbutton.png" alt="PJ's Personal Site" width="88" height="31"></a>
 			</div>
 			<div class="button" id="crowdedstrangers">
@@ -706,9 +706,6 @@ layout: page
 			</div>
 			<div class="button" id="">
 				<a title="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" href="https://buryevil.neocities.org/"><img src="/images/buryevil.png" alt="𝖇𝖚𝖗𝖞𝖊𝖛𝖎𝖑" width="88" height="31"></a>
-			</div>
-			<div class="button" id="">
-				<a title="i'm a mediocre millennial" href="https://mediocremillennial.neocities.org/"><img src="/images/mediocremill.png" alt="i'm a mediocre millennial" width="88" height="31"></a>
 			</div>
 			<div class="button" id="">
 				<a title="Celestial Delirium!!" href="https://liyashi.neocities.org/"><img src="/images/delirium.png" alt="Celestial Delirium!!" width="88" height="31"></a>
@@ -2099,7 +2096,7 @@ layout: page
 			<div class="button" id="">
 				<a title="Tangerine Tree" href="https://plumbum.neocities.org/"><img src="/images/tangerinetree.png" alt="Tangerine Tree" width="88" height="31"></a>
 			</div>
-			<div class="button" id="">
+			<div class="button" id="solarpoppunk">
 				<a title="solar(pop)punk" href="https://techrahouse.neocities.org/s/home"><img src="/images/solarpoppunk.gif" alt="solar(pop)punk" width="88" height="31"></a>
 			</div>
 			<div class="button" id="">
