@@ -6,6 +6,10 @@ body {
 	margin:0;
 	color:#300202;
 }
+.prmt12 {
+	position:relative;
+	top:12px;
+}
 h2 {
 	font-size:1.2rem;
 }
