@@ -302,6 +302,9 @@ layout: page
 			<div class="button" id="lemonadehammer">
 				<a title="ENTER THE DINER?" href="https://lemonadehammer.neocities.org/"><img src="/images/lemonadehammer.png" alt="ENTER THE DINER?" width="88" height="31"></a>
 			</div>
+			<div class="button" id="farikz">
+				<a title="f a r i k z" href="https://farikz.neocities.org/"><img src="/images/farikz.png" alt="f a r i k z" width="88" height="31"></a>
+			</div>
 			<div class="button" id="kkb">
 				<a title="Love... is a lonely thing" href="https://kkb.online/"><img src="/images/kkbutton.gif" alt="Love... is a lonely thing" width="88" height="31"></a>
 			</div>
