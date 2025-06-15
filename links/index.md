@@ -293,6 +293,9 @@ layout: page
 			<div class="button" id="linkylove">
 				<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove4.png" alt="i.webthings linkylove" width="88" height="31"></a>
 			</div>
+			<div class="button" id="mshellfire">
+				<a title="Ms. Hellfire For Dummies" href="https://mshellfire.neocities.org/"><img src="/images/mshellfire.gif" alt="Ms. Hellfire For Dummies" width="88" height="31"></a>
+			</div>
 			<div class="button" id="nicegirlslumber">
 				<a title="Welcome to my Bedroom!" href="https://nicegirlslumber.neocities.org/"><img src="/images/nicegirlslumberbutton.png" alt="Welcome to my Bedroom!" width="88" height="31"></a>
 			</div>
