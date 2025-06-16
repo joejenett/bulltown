@@ -6,7 +6,10 @@ author: joe jenett
 category: 
 permalink: /bulltown-updates-06-16-25/
 slug: bulltown-updates-06-16-25
-summary:
+summary: comments:
+  host: toot.community
+  username: jenett
+  id: 114693806938970626
 ---
 <p>
 I tooted something <a title="joe jenett |  toot.community" href="https://toot.community/@jenett/114682098301426244">a few days ago</a>  over at Mastodon:
