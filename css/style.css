@@ -8,17 +8,31 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.bigdeal {
+	font-size:1.6em;
+	font-weight:600;
+	color:#440303;
+	font-style:italic;
+}
 #button-search, #locator, #locatetopper {
 	background:#fff;
 	border:1px solid #440303;
 }
+#locator {
+	font-size:.6em;
+}
 .mw100 {
 	max-width:100%;
 }
+#locatetopper {
+	text-align:center;
+	position:relative;
+	top:-24px
+}
 #locatetopperwrap {
-	position:absolute;
+	position:fixed;
 	right: 48px;
-	top:500px;
+	top:800px;
 }
 #formwrap {
 	text-align:center;
@@ -877,7 +891,7 @@ div#reasons img {
 }
 #buttsep {
 	clear:both;
-	margin:0 18px 0 0;
+	margin:0 4px 0 0;
 	height:24px;
 	border-top:3px double #29221c;
 	position:relative;
@@ -888,10 +902,14 @@ div#reasons img {
 }
 @media only screen and (max-width:768px) {
 	#buttonwall {
-		padding:40px 52px;
+		padding:40px 58px;
 	}
 	p.hideit {
 		display:none;
+	}
+	#locatetopperwrap {
+		right: 24px;
+		top:800px;
 	}
 }
 @media only screen and (max-width:679px) {
@@ -901,7 +919,7 @@ div#reasons img {
 }
 @media only screen and (max-width:600px) {
 	#buttonwall {
-		padding: 40px 28px;
+		padding: 40px 34px;
 	}
 	#buttonwall-home {
 		padding:14px 30px;
@@ -912,10 +930,14 @@ div#reasons img {
 	#others-pots, #mypot {
 		padding-left:120px;
 	}
+	#locatetopperwrap {
+		right: 10px;
+		top:830px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
-		padding: 40px 45px;
+		padding: 40px 50px;
 	}
 	#buttonwall-home {
 		padding: 14px 40px 14px 50px;
@@ -928,6 +950,10 @@ div#reasons img {
 	}
 	#others-pots, #mypot {
 		padding-left:80px;
+	}
+	#locatetopperwrap {
+		right: 12px;
+		top:700px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1056,10 +1082,10 @@ div#reasons img {
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
-		padding: 20px 38px 20px 38px;
+		padding: 20px 40px;
 	}
 	#buttsep {
-	margin:0 14px 0 0;
+	margin:0 12px 0 0;
 }
 	#mutuals, #followers, #also {
 		margin:0 6px 0 -6px;
@@ -1070,15 +1096,19 @@ div#reasons img {
 }
 @media only screen and (max-width:428px) {
 	#buttonwall {
-		padding: 20px 38px;
+		padding: 20px 40px;
 	}
 	#colorclub {
 		padding:26px 30px 38px 38px;
 	}
+	#locatetopperwrap {
+		right: 10px;
+		top:810px;
+	}
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding:24px 26px;
+		padding:24px 32px;
 	}
 	#buttonwall-home {
 		padding:40px 0 40px 40px;
@@ -1086,14 +1116,14 @@ div#reasons img {
 	#buttsep {
 	margin:0 24px 0 0;
 }
-	.link-bhead {
+/*	.link-bhead {
 		margin-left:24px;
 		padding-right:54px;
 	}
 	.link-thanks {
 		margin:0;
 		padding-right:40px;
-	}
+	}*/
 	.gallery img, .image img {
 		max-width:110px;	
 	}
@@ -1103,19 +1133,23 @@ div#reasons img {
 	#page {
 		overflow:hidden scroll;
 	}
+	#locatetopperwrap {
+		right: 10px;
+		top:810px;
+	}
 }
 
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 18px;
+		padding:24px 22px;
 	}
 	#buttonwall-home {
 		padding:40px 8px 40px 28px;
 	}
 	#buttsep {
-	margin:0 12px 0 0;
-}
+		margin:0 12px 0 0;
+	}
 	#mutuals, #followers, #also {
 		margin:0 7px 0 -7px;
 	}
@@ -1127,18 +1161,22 @@ div#reasons img {
 		margin:0;
 		padding-right:12px;
 	}
-	.link-bhead {
+/*	.link-bhead {
 		margin-left:24px;
 		padding-right:36px;
 	}
 	.link-thanks {
 		margin:0;
 		padding-right:22px;
-	}
+	}*/
 	.gallery img, .image img {
 		max-width: 100px;
 	}
 	#colorclub {
 		padding:26px 16px 38px 20px;
+	}
+	#locatetopperwrap {
+		right: 12px;
+		top:810px;
 	}
 }
