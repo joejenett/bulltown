@@ -6,6 +6,12 @@ body {
 	margin:0;
 	color:#300202;
 }
+.bigdeal {
+	font-size:1.6em;
+	font-weight:600;
+	color:#440303;
+	font-style:italic;
+}
 .prmt12 {
 	position:relative;
 	top:12px;
