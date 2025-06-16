@@ -6,7 +6,8 @@ author: joe jenett
 category: 
 permalink: /bulltown-updates-06-16-25/
 slug: bulltown-updates-06-16-25
-summary: comments:
+summary: 
+comments:
   host: toot.community
   username: jenett
   id: 114693806938970626
