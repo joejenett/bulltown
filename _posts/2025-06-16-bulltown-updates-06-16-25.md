@@ -32,4 +32,5 @@ Thing is, in order to implement the idea on both versions of <em>bulltown</em> i
 Please pardon our dust!
 </p>
 <p>Thanks.</p>
+
 <a href="https://brid.gy/publish/mastodon"></a>
