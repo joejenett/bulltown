@@ -13,6 +13,9 @@ comments:
   id: 114693806938970626
 ---
 <p>
+Update 06/17/25: With fingers crossed, I’m pleased to announce that the button wall on the <em>links</em> page is now searchable - yay!
+</p>
+<p>
 I tooted something <a title="joe jenett |  toot.community" href="https://toot.community/@jenett/114682098301426244">a few days ago</a>  over at Mastodon:
 </p>
 <blockquote>
