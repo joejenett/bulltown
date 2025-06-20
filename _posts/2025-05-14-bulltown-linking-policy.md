@@ -21,10 +21,9 @@ The mutuals are prominently shown on both the main pages and links pages of both
 
 Why? I appreciate your interest.
 
-Thanks,<br>
-joe jenett
+Thanks,<br>joe jenett  
 
-
+Update 06/19/25: In rare cases, I may deviate from this policy when I feel it’s appropriate to do so.
 
 
 
