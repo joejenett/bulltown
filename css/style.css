@@ -409,14 +409,20 @@ body {
 	text-align:center;
 }
 .iwt-b {
-	width:276px;
+	width:272px;
 	margin:24px auto 30px auto;
 	padding:1px;
 	border-radius:6px;
 	line-height:1px;
 }
 .iwt-b img {
-	margin:2px;
+	margin:1px;
+}
+.iwt-b img.odd {
+	transform:skewY(3deg);
+}
+.iwt-b img.even {
+	transform:skewY(-3deg);
 }
 .iwt-p {
 	position:relative;
