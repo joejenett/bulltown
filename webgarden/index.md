@@ -96,6 +96,6 @@ iframe {
 <iframe title="prophetesque" src="https://prophetesque.gay/webgarden" scrolling="no" height="250" width="250" style="border:3px solid #21f8f6;padding-right:2px;padding-bottom:2px;background-color:#21f8f6;"></iframe>
 <iframe title="superkirbylover" src="https://superkirbylover.neocities.org/webgarden" scrolling="no" height="238" width="238" style="border:3px solid #5c4532;background-color:#5c4532;padding-right:14px;padding-bottom:14px;"></iframe>
 <iframe title="epic1" src="https://epic1.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid #ccc;padding:2px;"></iframe>
-<iframe title="sadgrl" src="https://goblin-heart.net/sadgrl/webgarden" style="border:3px solid green;padding-right:8px;padding-bottom:8px;" height="242" width="242" scrolling="no" loading="lazy"></iframe>
+<iframe title="sadgrl" src="https://sadgrl.online/sadgrl/webgarden" style="border:3px solid green;padding-right:8px;padding-bottom:8px;" height="242" width="242" scrolling="no" loading="lazy"></iframe>
 </div>
 						
