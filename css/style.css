@@ -738,6 +738,7 @@ p {
 	border: 1px solid #440303;
 	padding: 10px 0 10px 0;
 	border-radius:10px;
+	background:#fffefd;
 }
 .hcard-header p, .hcard-body p {
 	line-height:1.2em;
