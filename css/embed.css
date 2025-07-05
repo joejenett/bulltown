@@ -41,7 +41,9 @@ blockquote {
 .mt-12 {
 	margin-top:12px;
 }
-.pb-0 {
+.mt-24 {
+	margin-top:24px;
+}.pb-0 {
 	padding-bottom:0;
 }
 .latest-dash {
