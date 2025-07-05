@@ -7,6 +7,10 @@ category:
 permalink: /this-is-worth-sharing-twice-imo/
 slug: this-is-worth-sharing-twice-imo
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114802682080136712
 ---
 <p>
 I linked to this free online book last year over at the hub and someone mentioning it again this morning on my Mastodon timeline prompted me to share it here as well:
