@@ -23,7 +23,7 @@ I do believe the people who run Neocities may have me confused with someone else
 Though I do sometimes update the bulltown.neo site as many as six times per day, my motivation is far different than that of the character that rule was written for. 
 </p>
 <p>
-I’m just the old button guy trying to deliver what I’m known for. When someone follows me at the Neocities community, I make sure their button is promptly added to my ”neighbors” wall. Likewise, when I’m lucky enough to have someone link to my site, I make sure their button is promptly added to my ”mutuals” wall.
+I’m just the old button wall guy trying to deliver what I’m known for. When someone follows me at the Neocities community, I make sure their button is promptly added to my ”neighbors” wall. Likewise, when I’m lucky enough to have someone link to my site, I make sure their button is promptly added to my ”mutuals” wall.
 </p>
 <p>
 This ain’t rocket science ya know. I’m a simple web guy who’s been curating and sharing links on the web for a long, long time.
