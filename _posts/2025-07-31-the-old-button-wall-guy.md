@@ -7,6 +7,10 @@ category:
 permalink: /the-old-button-wall-guy/
 slug: the-old-button-wall-guy
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114949934343776583
 ---
 <p>
 Remember that old adage, ”When life gives you lemons...?” Well, consider this post an attempt to make a little lemonade.
