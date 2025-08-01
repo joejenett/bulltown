@@ -36,5 +36,5 @@ This ain’t rocket science ya know. I’m a simple web guy who’s been curatin
 So, now that they decided to interrupt my interaction in the community for the second time in just a few weeks, I’m thinking the people who run Neocities must have me pegged as some sort of bad guy trying to get away with something.
 </p>
 <p>
-Being the old button wall guy is just my most modern iteration of something I’ve been doing on the web for over 27 years. And I don’t take kindly to being treated like something else, thank you.
+Being the old button wall guy is just the most modern iteration of something I’ve been doing on the web for over 27 years. And I don’t take kindly to being treated like something else, thank you.
 </p><a href="https://brid.gy/publish/mastodon"></a>
