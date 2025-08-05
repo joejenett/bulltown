@@ -47,15 +47,20 @@ iframe {
 <div id="others-pots">
 <iframe title="missmoss" src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe src="https://slushienova.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #02abe4;"></iframe>
-<iframe title="Love Never Dies" src="https://venusinfoxfurs.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #597b8f;"></iframe>
+<iframe src="https://lakestheguy.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid blue;"></iframe>
+<iframe src="https://bielzin.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #99feed;"></iframe>
 <a href="https://artwork.neocities.org/"><iframe src="https://artwork.neocities.org/webgarden2.html" scrolling="no" style="width:250px;height:250px;border:3px dashed pink;"></iframe></a>
 <iframe src="https://teeth.dog/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px outset red;"></iframe>
 <iframe src="https://sakuradreams.neocities.org/Pages/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;"></iframe>
+<iframe src="https://aroundthefur.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #008080;"></iframe>
 <iframe src="https://solaria.neocities.org/garden/webgarden" height="250px" width="250px" scrolling="no" style="border:3px outset #8750f0;"></iframe>
+<iframe src="https://theabsoluterealm.com/main/CoolStuff/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #81a3a7;"></iframe>
+
 <iframe src="https://dollarchive.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #145a44;"></iframe>
 <iframe src="https://mossforestdollz.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #13603f;"></iframe>
 <iframe src="https://lockheartlove.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #804ebd;"></iframe>
 <iframe src="https://beaniepines.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #f95eb5;"></iframe>
+<iframe src="https://machine-cat.space/webgarden.html" height="250px" width="250px" scrolling="no" frameBorder="0" style="border:3px solid #7b19ca;"></iframe>
 <iframe title="dxcccii" src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
 <iframe title="doqmeat" src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #cff07f;"></iframe>
 <iframe title="qrunchysnaq" src="https://qrunchysnaq.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #fff9e6;"></iframe>
@@ -86,6 +91,7 @@ iframe {
 <iframe title="corq" src="https://corq.neocities.org/webgarden" style="border:3px solid #ccc;" height="250" width="250" scrolling="no" loading="lazy"></iframe>
 <iframe title="zeusofthecrows"  scrolling="no" width="250" height="250" src="https://zeusofthecrows.github.io/stadt/webgarden" style="border:3px solid #2b7781;"></iframe>
 <iframe title="sixey.es" src="https://sixey.es/greenhouse/webgarden.html" style="height:250px;width:250px;border:3px solid #999;" scrolling="no" loading="lazy"></iframe>
+<iframe title="enter the sevenfold" src="https://enter-the-sevenfold.neocities.org/webgarden" style="height:250px;width:250px;border:3px solid #260651;" scrolling="no" loading="lazy"></iframe>
 <iframe title="neonriser" src="https://neonriser.neocities.org/webgarden" style="height:250px;width:250px;border:3px solid #000;" scrolling="no" loading="lazy"></iframe>
 <iframe title="skykristal" src="https://skykristal.art/Links/Webgardens/" style="height:250px;width:250px;border:3px solid #000;" scrolling="no" loading="lazy"></iframe>
 <iframe title="theenderdraco" src="https://theenderdraco.neocities.org/webgarden.html" height="250" width="250" scrolling="no" loading="lazy" style="border:3px solid orange;"></iframe>
