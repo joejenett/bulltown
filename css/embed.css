@@ -22,6 +22,9 @@ body {
 h2 {
 	font-size:1.2rem;
 }
+.mt-6 {
+	margin-top:6px;
+}
  a {
 	text-decoration:none;
 	color:#386f7f;
