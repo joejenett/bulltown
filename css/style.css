@@ -17,6 +17,7 @@ body {
 }
 .br6 {
 	border-radius:6px;
+	border:1px solid #ddd;
 }
 #lp {
 	margin-bottom:72px;
