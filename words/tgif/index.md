@@ -1,3 +1,5 @@
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | tgif"</script>
+
 <div class="goback">
 <a href="/words/">&larr; back to words</a>
 </div>
@@ -14,3 +16,5 @@ the tgif series
 <br><a href="/words/tgif8/">time gone in fidgeting</a>
 <br><a href="/words/tgif9/">to guard its fortresses</a>
 <br><a href="/words/tgif10/">times goes in fragments</a></p>
+
+
