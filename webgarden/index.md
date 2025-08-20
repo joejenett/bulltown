@@ -52,6 +52,7 @@ iframe {
 <a href="https://artwork.neocities.org/"><iframe src="https://artwork.neocities.org/webgarden2.html" scrolling="no" style="width:250px;height:250px;border:3px dashed pink;"></iframe></a>
 <iframe src="https://teeth.dog/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px outset red;"></iframe>
 <iframe src="https://sakuradreams.neocities.org/Pages/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;"></iframe>
+<iframe src="https://mindorzxperfect.neocities.org//webgarden/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;width:250px;height:250px;margin:"></iframe>
 <iframe src="https://aroundthefur.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #008080;"></iframe>
 <iframe src="https://solaria.neocities.org/garden/webgarden" height="250px" width="250px" scrolling="no" style="border:3px outset #8750f0;"></iframe>
 <iframe src="https://theabsoluterealm.com/main/CoolStuff/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #81a3a7;"></iframe>
