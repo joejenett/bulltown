@@ -51,8 +51,9 @@ blockquote {
 }
 .latest-dash {
 	 border-bottom:1px dashed #3e5018;
-	 padding-bottom:9px;
-	 font-size:1.1em
+	 padding-bottom:3px;
+	 font-size:1.1em;
+	 margin-bottom:8px;
 }
 .latest-rss {
 	 max-width:14px;
