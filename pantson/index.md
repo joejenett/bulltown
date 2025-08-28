@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | pantson color club"</script>
+<script>document.title="𝗯𝟮𝟮 | pantson color club"</script>
 <script>
 	function showButtons() {
 		var wall = document.getElementById("button-wall");
