@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | pride"</script>
+
 <style>
 .table{
 	display:block;
