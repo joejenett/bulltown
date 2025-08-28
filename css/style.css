@@ -8,6 +8,27 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.pr-an {
+	position:relative;
+	float:right;
+	width:24px;
+	height:24px;
+	margin:16px 72px 0 6px;
+}
+.pr100 {
+	/*position:relative;
+	float:right;*/
+	width:100px;
+	height:100px;
+	margin: 0 48px;
+}
+.bb {
+	border-bottom:1px solid #ddd;
+	padding-bottom:100px;
+}
+.pointeightem {
+	font-size:.8em;
+}
 .tb24 {
 	margin:24px 0;
 }
