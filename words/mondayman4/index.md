@@ -1,4 +1,4 @@
-<div class="goback">
+<script>document.title="𝗯𝟮𝟮 | monday man: day 29"</script><div class="goback">
 <a href="/words/">&larr; back to words</a>
 </div>
 <h2>

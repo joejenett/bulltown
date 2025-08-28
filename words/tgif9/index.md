@@ -1,3 +1,4 @@
+<script>document.title="𝗯𝟮𝟮 | to guard its fortresses"</script>
 <div class="goback">
 <a href="/words/">&larr; back to words</a>
 </div>

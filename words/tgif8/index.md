@@ -1,3 +1,4 @@
+<script>document.title="𝗯𝟮𝟮 | time gone in fidgeting"</script>
 <div class="goback">
 <a href="/words/">&larr; back to words</a>
 </div>
