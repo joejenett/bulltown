@@ -2,7 +2,8 @@
 layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | words"</script>
-<div style="text-align:center;margin-top:100px;line-height:1.4em;">
+<div style="text-align:center;margin-top:100px;line-height:1.4em;" class="bm60">
+	<p><a href="https://brainstormer.joejenett.com/posts/on%20the%20reality%20of%20politics.md">on the reality of politics</a></p>
 	<p><a href="cringed/" target="_top">adventures in poopooland: he cringed</a></p>
 	<a href="/words/scattered/" target="_top">scattered soul</a><br>
 	<span style="font-size:.8em;">series of daily thoughts from 9/06/98 thru 12/10/98, redesigned in 2022</span><br>

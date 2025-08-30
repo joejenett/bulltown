@@ -2,7 +2,7 @@
 layout: page
 ---
 <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | other"</script>
-<div style="text-align:center;margin-top:36px;line-height:1.4em;" class="bb">
+<div style="text-align:center;margin-top:100px;line-height:1.4em;" class="bm60">
 	<p>
 		<a href="/other/manicfesto">manicfesto</a> *<br>
 	</p>
