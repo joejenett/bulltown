@@ -41,6 +41,7 @@ body {
 .bgbase {
 	background-color: #fff9e6;
 	margin:auto;
+	font-style:italic;
 }
 .br24 {
 	border-radius:24px;
@@ -497,7 +498,7 @@ body {
 	float:left;
 }
 .home-bhead {
-	font-size:.9em;
+	font-size:1em;
 	font-weight:500;
 	font-style:italic;
 	text-align:center;
@@ -506,8 +507,8 @@ body {
 	clear:both;
 }
 .home-bhead-p {
-	font-size:.9em;
-	font-weight:500;galle
+	font-size:1em;
+	font-weight:500;
 	font-style:italic;
 	text-align:center;
 	padding:18px 32px 6px 0;
@@ -515,7 +516,7 @@ body {
 	clear:both;
 }
 .home-thanks {
-	font-size:1em;
+	font-size:1.1em;
 	font-weight:600;
 	font-style:italic;
 	text-align:center;
@@ -523,7 +524,7 @@ body {
 	margin:0 auto 0 -6px;
 }
 .link-bhead {
-	font-size:.9em;
+	font-size:1em;
 	font-weight:500;
 	font-style:italic;
 	text-align:center;
