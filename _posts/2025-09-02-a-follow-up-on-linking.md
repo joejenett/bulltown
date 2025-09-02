@@ -5,7 +5,7 @@ date: 2025-09-02T11:38:29 -0400
 author: joe jenett
 category:
   - 
-permalink: a-follow-up-on-linking
+permalink: /a-follow-up-on-linking/
 slug: a-follow-up-on-linking
 summary:
 ---
