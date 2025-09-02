@@ -794,7 +794,7 @@ p {
 	margin:0;
 }
 blockquote {
-	font-style:italic;
+	/*font-style:italic;*/
 	padding-left:18px;
 	border-left:5px solid #ddd;
 }
