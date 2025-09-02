@@ -8,6 +8,10 @@ category:
 permalink: /a-follow-up-on-linking/
 slug: a-follow-up-on-linking
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115136447479384074
 ---
 <p class="pt-9">
 I said something <a href="https://bulltown.joejenett.com/bulltown-updates-02-16-25/">previously</a> that seems a useful place to begin:
