@@ -11,7 +11,7 @@ comments: false
 ---
 I’m thankful to report the [bulltown.sidecar webring](https://sidecar.neocities.org/) is starting to come alive. Six personal [websites](https://sidecar.neocities.org/member-list/) have joined up, each with plenty to explore. If your site is personal, please consider joining.
 
-There’s two entryways to bulltown. While the dual versions look similar, each site has its own unique content aside from their _links_ pages, which are identical but maintained separately. Applying updates to two separate versions simultaneously has helped hone my skills a bit and I’m good with that.  
+There’s two entryways to <em>bulltown</em>. While the dual versions look similar, each site has its own unique content aside from their _links_ pages, which are identical but maintained separately. Applying updates to two separate versions simultaneously has helped hone my skills a bit and I’m good with that.  
 
 One’s never too old to grow.
 
