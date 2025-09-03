@@ -29,7 +29,7 @@ The links page wall contains buttons which appear in either the ‘mutuals &amp;
 
 Buttons for sites that follow <em>bulltown</em> at Neocities (shown on the main page) are also included on the links page button wall.
 
-In a nutshell, if you follow bulltown at Neocities and link to us as well, your linked button would appear a total of 3 times on both versions of <em>bulltown</em>. Color me grateful.
+In a nutshell, if you follow bulltown at Neocities and link to us as well, your linked button would appear a total of 3 times on each version of <em>bulltown</em>. Color me grateful.
 
 Cheers!
 
