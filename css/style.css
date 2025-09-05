@@ -17,9 +17,16 @@ body {
 .pr-an {
 	position:relative;
 	float:right;
-	width:24px;
-	height:24px;
-	margin:16px 72px 0 6px;
+	width:40px;
+	height:40px;
+	margin-right:24px;
+}
+.pr-an2 {
+	position:relative;
+	float:right;
+	width:28px;
+	height:28px;
+	margin:6px;
 }
 .pr100 {
 	width:100px;
@@ -1020,6 +1027,9 @@ div#reasons img {
 		right: 10px;
 		top:830px;
 	}
+	.pr-an {
+		margin:6px 6px 0 6px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
@@ -1041,8 +1051,20 @@ div#reasons img {
 		right: 12px;
 		top:700px;
 	}
+	/*.pr-an {
+		margin:0 6px 0 6px;
+	}
+	.pr-an2 {
+		margin:0;
+	}*/
 }
 @media only screen and (max-width:479px) {
+	/*.pr-an {
+		margin:6px 6px 0 6px;
+	}
+	.pr-an2 {
+		margin:6px;
+	}*/
 	body {
 		font-size:18px;
 	}
