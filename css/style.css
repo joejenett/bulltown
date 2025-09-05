@@ -15,18 +15,9 @@ body {
 	margin-top:7px;
 } 
 .pr-an {
-	position:relative;
-	float:right;
-	width:40px;
-	height:40px;
-	margin-right:24px;
-}
-.pr-an2 {
-	position:relative;
-	float:right;
-	width:28px;
-	height:28px;
-	margin:6px;
+	margin:0 auto;
+	width:36px;
+	height:36px;
 }
 .pr100 {
 	width:100px;
@@ -578,6 +569,9 @@ body {
 .button a:hover img, .iwt a:hover img, .iwt-b a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
 	transform: scale(1.1);
 }
+.pr-an a:hover img {
+	transform: scale(2.8);
+}
 #play-gif img, #stop-gif img {
 	width:65px;
 	height:17px;
@@ -997,7 +991,7 @@ div#reasons img {
 	#buttonwall {
 		padding:40px 58px;
 	}
-	p.hideit {
+	p.hideit, div.hideit {
 		display:none;
 	}
 	#locatetopperwrap {
@@ -1027,9 +1021,7 @@ div#reasons img {
 		right: 10px;
 		top:830px;
 	}
-	.pr-an {
-		margin:6px 6px 0 6px;
-	}
+	
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
@@ -1051,20 +1043,8 @@ div#reasons img {
 		right: 12px;
 		top:700px;
 	}
-	/*.pr-an {
-		margin:0 6px 0 6px;
-	}
-	.pr-an2 {
-		margin:0;
-	}*/
 }
 @media only screen and (max-width:479px) {
-	/*.pr-an {
-		margin:6px 6px 0 6px;
-	}
-	.pr-an2 {
-		margin:6px;
-	}*/
 	body {
 		font-size:18px;
 	}
