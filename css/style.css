@@ -19,6 +19,10 @@ body {
 	width:36px;
 	height:36px;
 }
+.butt66 {
+	width:66px;
+	margin-top:2px;
+}
 .pr100 {
 	width:100px;
 	height:100px;
@@ -191,14 +195,14 @@ body {
 	padding-top:9px;
 }
 .bsc-one {
-	font-size:.85em;
+	font-size:.8em;
 	font-weight:500;
 	color:#2c526a;
 	position:relative;
 	top:-7px;
 } 
 .bsc-two {
-	font-size:.85em;
+	font-size:.8em;
 	font-weight:500;
 	color:#2c526a;
 	position:relative;
@@ -222,7 +226,7 @@ body {
 	position:relative;top:7px;
 }
 .pride25 {
-	width:88px;
+	width:66px;
 	margin-top:2px;
 }
 .fw500 {
