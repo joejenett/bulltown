@@ -61,6 +61,9 @@ body {
 #lp {
 	margin-bottom:72px;
 }
+.bgbase.br6 {
+	padding:0 6px;
+}
 .navhome {
 	color: #440303;
 	font-weight:800;
