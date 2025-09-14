@@ -8,6 +8,9 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.red {
+	color:red;
+}
 .itsoff {
 	font-size:.8rem;
 	color:#222;
@@ -61,7 +64,11 @@ body {
 #lp {
 	margin-bottom:72px;
 }
-.bgbase.br6 {
+.bsp6 {
+	border-radius:6px;
+	border:1px solid #d7d2ce;
+}
+.bgbase.bsp6 {
 	padding:0 6px;
 }
 .navhome {
@@ -584,7 +591,7 @@ body {
 	height:17px;
 	border-radius:6px;
 	border:1px solid #440303;
-
+	box-shadow: 1px 1px #376f7f;
 }
 #play-gif img:hover, #stop-gif img:hover {
 	transform: scale(1.1);
