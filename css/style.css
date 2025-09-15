@@ -170,7 +170,7 @@ body {
 }
 .searchwrap {
 	 padding-right:18px;
-	 margin-top:12px;
+	 /*margin-top:12px;*/
 }
 .searchwrap-p {
 	padding-right:18px;
@@ -337,6 +337,9 @@ body {
 .mt-minus28 {
 	margin-top:-28px;
 }
+.mtm-18 {
+	margin-top:-18px;
+}
 .mt-minus12 {
 	margin-top:-12px;
 }
@@ -432,7 +435,7 @@ body {
 	padding:3px 0;
 }
 #littlenav {
-	margin-top:9px;
+	margin:3px 0 12px 0;
 	font-size:.8em;
 }
 #littlenav a {

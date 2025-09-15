@@ -1,20 +1,19 @@
 ---
 layout: default-p
 ---
-<!--
-	<div class="iwt-p">
+<div class="iwt-p">
 		<div class="playwrap">
 		<button id="play-gif"><img alt="" src="/images/playg.png" width="65" height="17"></button>
 		<button id="stop-gif"><img alt="" src="/images/stopg.png" width="65" height="17"></button>
 	</div>
 </div>
--->
 <div class="searchwrap-p">
 	<label for="search-input" class="nodisplay">search</label>
 	<input type="text" id="search-input" placeholder="search the journal">
 	<br>
 	<div id="results-container"></div>
 </div>
+
 <div class="postnav">
 	<div class="fifty">
 		{% if page.previous.url %}
@@ -30,7 +29,7 @@ layout: default-p
 {% if page.title != "" %}
 <article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
 	<header class="post-header">
-		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline"><a class="url u-url u-uid uid bookmark" href="https://bulltown.joejenett.com{{ page.permalink }}">{{ page.title | escape }}</a></h2>
+		<h2 class="post-title p-name namewrap" itemprop="name headline"><a class="url u-url u-uid uid bookmark" href="https://bulltown.joejenett.com{{ page.permalink }}">{{ page.title | escape }}</a></h2>
 	</header>
 	<div class="post-content e-content mr-12" itemprop="articleBody">
 		{{ content }}
@@ -66,11 +65,12 @@ layout: default-p
 				{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.joejenett.com/" rel="author"><img alt="bulltown.2022" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="u-photo photo va-m br6" loading="lazy" width="24" height="24"></a>
 					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 				</span>
-			</span>
 				{%- endif -%}
 			</p>
+		</span>
 	</footer>
  {%- endif -%}
+
 
 
 <script>
@@ -96,16 +96,13 @@ layout: default-p
 </script>
 <div id="result0" class="mb-48"></div>
 
-	<div id="resultsp">
-		{{ page.reaction }}
-	</div>
 
-	
-	<div class="mb-36">
+<div class="mb-36">
 {%- if page.comments.host -%}
 	{%- include fediverse_comments.html -%}
 {%- endif -%}
 </div>
+
 <div class="postnav">
 	<div class="fifty">
 		{% if page.previous.url %}
@@ -121,6 +118,8 @@ layout: default-p
 
 
 	<p><a class="u-url" href="https://bulltown.joejenett.com{{ page.permalink }}"><small>(permalink)</small></a></p>
+
+	
 
 
 
