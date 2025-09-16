@@ -76,6 +76,5 @@ blockquote {
 	 color:#440303;
 }
 .ewrap {
-	 position:relative;
-	 top:-12px;
+	margin-top:12px;
 }
