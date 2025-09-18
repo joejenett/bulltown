@@ -22,6 +22,11 @@ body {
 	width:36px;
 	height:36px;
 }
+.prtwo-an {
+	margin: 0 0 4px 300px;
+	width:12px;
+	height:12px;
+}
 .butt66 {
 	width:66px;
 	margin-top:2px;
@@ -588,6 +593,9 @@ body {
 }
 .pr-an a:hover img {
 	transform: scale(2.8);
+}
+.prtwo-an a:hover img {
+	transform: scale(8.0);
 }
 #play-gif img, #stop-gif img {
 	width:65px;
