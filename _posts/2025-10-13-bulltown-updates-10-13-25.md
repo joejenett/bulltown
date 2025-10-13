@@ -7,6 +7,10 @@ category:
 permalink: /bulltown-updates-10-13-25/
 slug: bulltown-updates-10-13-25
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115367689608534785
 ---
 <p>
 The big button walls on the links pages of 𝗯𝟮𝟮 and 𝗯.𝗻𝗲𝗼 are growing like crazy - there’s now over 1,200 linked buttons - yay!
