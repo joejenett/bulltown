@@ -66,10 +66,8 @@ blockquote {
 	margin-right:12px;
 }
 .newsmetawrap {
-	position:relative;
-	/*top:-8px;*/
+	margin-top:1rem;
 	line-height:1em;
-	margin-bottom:-2em;
 }
 .namewrap {
 	 margin-top:18px;
