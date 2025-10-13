@@ -67,7 +67,7 @@ blockquote {
 }
 .newsmetawrap {
 	position:relative;
-	top:-8px;
+	/*top:-8px;*/
 	line-height:1em;
 	margin-bottom:-2em;
 }
