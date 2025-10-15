@@ -16,7 +16,7 @@ comments:
 The big button walls on the links pages of 𝗯𝟮𝟮 and 𝗯.𝗻𝗲𝗼 are growing like crazy - there’s now over 1,200 linked buttons - yay!
 </p>
 <p>
-When I started bulltown, I decided to leave it up to each visitor whether to show animations - it’s off by default. The script I use has been taking about 6 seconds to process all those buttons. Something’s in place I hope will improve that.
+When I revived bulltown, I decided to leave it up to each visitor whether to show animations - it’s off by default. Recently, the script I use has been taking 6 seconds or more to process all those buttons. Something’s in place I hope will improve that.
 </p>
 <p class="upbox">
 	Update 10/13/25, 7:33 PM: Big improvement at 𝗯𝟮𝟮 - tomorrow’s update at 𝗯.𝗻𝗲𝗼 will implement the same improvement.
