@@ -8,6 +8,13 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#bswrap {
+	margin-top:-12px;
+}
+.opti {
+	font-size:.8rem;
+	margin-top:-16px;
+}
 .upbox {
 	border:1px solid #a2b8cc;
 	padding:0 0 0 4px;
@@ -101,6 +108,7 @@ body {
 	padding-top:12px;
 	text-align:left;
 	margin:12px 0 24px 0;
+	font-size:.9rem;
 }
 #button-search, #locator, #locatetopper {
 	background:#fff;
