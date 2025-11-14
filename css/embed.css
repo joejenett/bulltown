@@ -6,6 +6,9 @@ body {
 	margin:0;
 	color:#300202;
 }
+.nodisplay {
+	display:none;
+}
 .upbox {
 	border:1px solid #a2b8cc;
 	padding:0 0 0 4px;
