@@ -24,7 +24,7 @@ For what it’s worth, I fully understand the anger expressed. I’m sorry!
 </p>
 
 <p>
-To my many friends and followers lost in the community:  I miss you guys and gals! I’m on your side and most importantly, I want you to know you're safe here. I do understand.
+To my many friends and followers lost in the community:  I miss you guys and gals! I’m on your side and most important, I want you to know you're safe here. I do understand.
 </p>
 <p>
 &mdash; joe jenett
