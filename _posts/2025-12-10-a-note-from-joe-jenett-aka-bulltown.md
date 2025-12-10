@@ -8,6 +8,10 @@ category:
 permalink: /a-note-from-joe-jenett-aka-bulltown/
 slug: a-note-from-joe-jenett-aka-bulltown
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115695247369056589
 ---
 <p>
 In a recent blog post at bulltown.neo, I linked to a <em>page.i.like</em> on a site which, unknown to me at the time, also contained other toxic content aimed at the trans community.
