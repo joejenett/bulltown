@@ -47,10 +47,10 @@ iframe {
 <div id="others-pots">
 <iframe title="missmoss" src="https://missmoss.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid green;"></iframe>
 <iframe src="https://slushienova.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #02abe4;"></iframe>
+<iframe src="https://oleracea.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy"  style="border:3px solid green;"></iframe> 
 <iframe src="https://lakestheguy.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid blue;"></iframe>
 <iframe src="https://bielzin.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #99feed;"></iframe>
 <a href="https://artwork.neocities.org/"><iframe src="https://artwork.neocities.org/webgarden2.html" scrolling="no" style="width:250px;height:250px;border:3px dashed pink;"></iframe></a>
-<iframe src="https://teeth.dog/webgarden" height="250" width="250" scrolling="no" frameborder="0" style="border:3px outset red;"></iframe>
 <iframe src="https://sakuradreams.neocities.org/Pages/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;"></iframe>
 <iframe src="https://mindorzxperfect.neocities.org//webgarden/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid pink;width:250px;height:250px;margin:"></iframe>
 <iframe src="https://aroundthefur.neocities.org/webgarden" height="250px" width="250px" scrolling="no" style="border:3px solid #008080;"></iframe>
