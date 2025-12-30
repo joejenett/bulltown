@@ -66,7 +66,7 @@ layout: page
 				<a title="bumblingbats" href="https://bumblingbats.neocities.org/"><img src="/images/pantson_green.png" alt="bumblingbats" width="64" height="100"></a>
 			</div>
 			<div class="button">
-				<a title="cherie" href="https://cherie.nekoweb.org/"><img src="/images/cheriepink.png" alt="cherie" width="64" height="100"></a>
+				<a title="cherie - site no longer available"><img src="/images/cheriepink.png" alt="cherie" width="64" height="100"></a>
 			</div>
 			<div class="button">
 				<a title="Velvet's Smoking Lounge" href="https://velvet-boutique.neocities.org/"><img src="/images/cherryred.png" alt="Velvet's Smoking Lounge" width="64" height="100"></a>
