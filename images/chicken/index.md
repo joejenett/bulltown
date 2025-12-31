@@ -1,4 +1,4 @@
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | change_your_chicken"</script>
+<script>document.title="bulltown.2022 | change_your_chicken"</script>
 <div class="goback">
 <a href="/images/">&larr; back to images</a>
 </div>

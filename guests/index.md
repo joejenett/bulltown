@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | guests"</script>
+<script>document.title="bulltown.2022 | guests"</script>
 <p style="text-align:center;margin-top:100px;line-height:1.4em;" class="bm60">
 	<a href="speyer/" target="_top">speyer cathedral by kim jenett</a><br>
 	<a href="stl65/" target="_top">stl65 by dad bruner</a><br>

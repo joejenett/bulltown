@@ -1,4 +1,4 @@
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | dablues"</script>
+<script>document.title="bulltown.2022 | dablues"</script>
 <div class="goback">
 <a href="/guests/">&larr; back to guests</a>
 </div>

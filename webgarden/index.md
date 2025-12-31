@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | webgarden"</script>
+<script>document.title="bulltown.2022 | webgarden"</script>
 <style>
 iframe {
 	position:relative;

@@ -1,4 +1,4 @@
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | the tgif series"</script>
+<script>document.title="bulltown.2022 | the tgif series"</script>
 
 <div class="goback">
 <a href="/words/">&larr; back to words</a>

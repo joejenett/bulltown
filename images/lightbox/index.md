@@ -2,7 +2,7 @@
 <link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | images: lightbox"</script>
+<script>document.title="bulltown.2022 | images: lightbox"</script>
 <h2>images: lightbox view  <span style="font-size:.8em;margin-left:24px;font-weight:400;"> (<a href="/images/">&rarr; gallery view</a>) </span></h2>
 <p style="margin-top:-12px;font-size:.85em;">Works best with JavaScript enabled.</p>
 <div class="gallery-container">

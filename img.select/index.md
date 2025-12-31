@@ -2,7 +2,7 @@
 <link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | img.select"</script>
+<script>document.title="bulltown.2022 | img.select"</script>
 
 
 

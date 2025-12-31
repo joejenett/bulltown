@@ -1,4 +1,4 @@
-<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | images: gallery"</script>
+<script>document.title="bulltown.2022 | images: gallery"</script>
 
 <h2>images: gallery view  <span style="font-size:.8em;margin-left:24px;font-weight:400;"> (<a href="/images/lightbox/">&rarr; lightbox view</a>) </span></h2>
 <div class="gallery-container">
