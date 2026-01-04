@@ -8,6 +8,11 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#leroy {
+	position:inline;
+	display:block;
+	font-size:.95em;
+}
 .bold {
 	font-weight:600;
 }
