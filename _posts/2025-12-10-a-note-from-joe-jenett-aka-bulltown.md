@@ -14,7 +14,7 @@ comments:
   id: 115695247369056589
 ---
 <p>
-In a recent blog post at bulltown.neo, I linked to a <em>page.i.like</em> on a site which, unknown to me at the time, also contained other toxic opinions aimed at the trans community.
+In a recent blog post at bulltown.neo, I linked to a <em>page.i.like</em> on a site which, unknown to me at the time, also contained other content with rather toxic opinions aimed at the trans community.
 </p>
 <p>
 I have to admit I should have done a better job of vetting the site. After it was brought to my attention in the Neocities community, I read some of the content in question. As a supporter of trans rights for decades, I was offended too! 
