@@ -17,7 +17,7 @@ comments:
 In a recent blog post at bulltown.neo, I linked to a <em>page.i.like</em> on a site which, unknown to me at the time, also contained other toxic content aimed at the trans community.
 </p>
 <p>
-I’m ashamed to admit that I should have done a better job of vetting the site. After it was brought to my attention in the Neocities community, I read some of the content in question. As someone who has supported trans rights for decades, I was offended too! 
+I have to admit I should have done a better job of vetting the site. After it was brought to my attention in the Neocities community, I read some of the content in question. As a supporter of trans rights for decades, I was offended too! 
 </p>
 <p>
 For what it’s worth, I fully understand the anger expressed. I’m sorry!
