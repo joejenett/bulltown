@@ -5,10 +5,11 @@ layout: default
 <style>
 ul, ul li {
 	margin-top:9px;
+	margin-right:12px;
 }
 
 </style>
-<div class="">
+<div class="mr-12">
 	<p>
 		<strong>site credits</strong>
 	</p>
