@@ -35,7 +35,7 @@ ul, ul li {
 		<li><a href="https://bechnokid.neocities.org/">Bechno Kid's Hideout!</a>: Wrote an excellent tutorial on using Freezeframe.js.</li>
 		<li><a href="https://github.com/giuseppeg/screensaver">Screensaver.js</a>: Behind one of my favorite site features.</li>
 		<li><a href="https://stackoverflow.com/questions">Stack Overflow</a> and <a href="https://www.w3schools.com/">W3Schools (ads, commercial)</a>: When I need quick answers!</li>
-		<li><a href="https://pixabay.com/">Pixabay</a>: Source of the ‘logo’ used at the <a href="https://sidecar.neocities.org/">bulltown.sidecar webring</a>. </li>
+		<li><a href="https://pixabay.com/">Pixabay (ads)</a>: Source of the ‘logo’ used at the <a href="https://sidecar.neocities.org/">bulltown.sidecar webring</a>. </li>
 		<li><a href="https://webneko.net/">the Web Neko Server</a>: Creator of <em>bulltown</em>’s previous mascot, recently replaced due to accessibility issues - I miss that little guy!</li>
 	</ul>
 	<p>-joe jenett</p>
