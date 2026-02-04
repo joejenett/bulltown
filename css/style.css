@@ -8,6 +8,10 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.jneko {
+	 margin-left:16px;
+	 margin-bottom:18px;
+}
 .bbg {
 	background:#000;
 }
@@ -208,6 +212,9 @@ article.comment img, .comment_avatar {
 .mr-12 {
 	margin-right:12px;
 }
+.mr3 {
+	margin-right:3px;
+}
 .searchwrap {
 	 padding-right:18px;
 	 /*margin-top:12px;*/
@@ -403,6 +410,9 @@ article.comment img, .comment_avatar {
 }
 .mt-24 {
 	margin-top:24px;
+}
+.mt-36 {
+	margin-top:36px;
 }
 .mt-12 {
 	margin-top:12px;
