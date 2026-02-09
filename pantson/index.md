@@ -51,6 +51,9 @@ layout: page
 			<div style="font-size:1em;font-weight:500;font-style:italic;text-align:center;padding:2px 0 6px 0;margin-top:140px;clear:both;/*position:relative;left:-22px;*/">color cards collected
 			</div>
 			<div class="button">
+				<a title="fly me to the moon!" href="https://moondvsted.space/"><img src="/images/stel1.png" alt="moondvsted" width="64" height="100"></a>
+			</div>
+			<div class="button">
 				<a title="GET GROOVIN'" href="https://sunpop.neocities.org/"><img src="/images/opal.png" alt="GET GROOVIN'" width="64" height="100"></a>
 			</div>
 			<div class="button">
