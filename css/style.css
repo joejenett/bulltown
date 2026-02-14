@@ -506,7 +506,7 @@ article.comment img, .comment_avatar {
 	display:flex;
 	font-size:.75em;
 	font-weight:400;
-	margin:18px 0;
+	margin:12px 24px 0 0;
 	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 .fifty {
@@ -524,7 +524,7 @@ article.comment img, .comment_avatar {
 .ninerem {
 	font-size:.9rem;
 }
-.pointnineem {
+.pointnineem, .nineem {
 	font-size:.9em;
 }
 .iwt {
