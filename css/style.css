@@ -8,6 +8,25 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#recently {
+	border-top:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	margin:18px 12px 24px 0;
+	padding:2px;
+}
+.rhead {
+	float:left;
+	margin-right:1em;
+	font-weight:500;
+	font-style:italic;
+}
+.feed {
+	font-size: 1em;
+}
+#feedid {
+	float:left;
+	margin-right: .25em;
+}
 .tintback {
 	 background:#ccc6b7;
 }
