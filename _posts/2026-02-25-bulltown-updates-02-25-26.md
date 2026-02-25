@@ -7,6 +7,10 @@ category:
 permalink: /bulltown-updates-02-25-26/
 slug: bulltown-updates-02-25-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116132993109917540
 ---
 <div class="frm">
 	<a href="https://bulltown.joejenett.com/"><img src="/images/b22button.png" width="88" alt="bulltown.2022"></a>
