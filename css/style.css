@@ -9,9 +9,9 @@ body {
 	color:#300202;
 }
 #recently {
-	border-top:1px solid #ddd;
-	border-bottom:1px solid #ddd;
-	margin:18px 12px 24px 0;
+	border-top:1px solid #dfcecd;
+	border-bottom:1px solid #dfcecd;
+	margin:12px 12px 24px 12px;
 	padding:2px;
 }
 .rhead {
@@ -104,12 +104,12 @@ article.comment img, .comment_avatar {
 	margin: 0 48px;
 }
 .bb {
-	border-bottom:1px solid #ddd;
+	border-bottom:1px solid #dfcecd;
 	padding-bottom:100px;
 }
 .bt {
 	margin-top:100px;
-	border-top:1px solid #ddd;
+	border-top:1px solid #dfcecd;
 	padding-top:36px;
 }
 .bm60 {
@@ -361,8 +361,8 @@ article.comment img, .comment_avatar {
 }
 .bizfree-sep {
 	text-align:center;
-	margin:-12px 0 24px 0;
-	border-top:1px solid #ddd;
+	margin:12px 0 24px 0;
+	border-top:1px solid #dfcecd;
 } 
 .hometop-one {
 	text-align:center;
@@ -391,6 +391,7 @@ article.comment img, .comment_avatar {
 }
 .latest-wrap {
 	margin:36px 12px 6px 24px;
+	border-bottom: 1px solid #d7c2c1;
 }
 .namewrap {
 	 margin-top:18px;
@@ -777,6 +778,7 @@ h3 {
 #commento {
 	margin-top:48px;
 	text-align:center;
+	border-top: 1px solid #dfcecd;
 }
 #buttonwall {
 	display:flex;
@@ -1083,6 +1085,7 @@ div#reasons img {
 	padding:8px 0 8px 0;
 	position:relative;
 	top:12px;
+
 }
 .j_footer {
 	width:100%;
