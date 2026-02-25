@@ -71,6 +71,8 @@ blockquote {
 	margin-bottom:24px;
 	padding-bottom:6px;
 	margin-right:12px;
+	border-bottom: 1px solid #d7c2c1;
+
 }
 .newsmetawrap {
 	margin-top:1rem;
