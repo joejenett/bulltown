@@ -20,7 +20,7 @@ body {
 #recently {
 	/*border-top:1px solid #dfcecd;
 	border-bottom:1px solid #dfcecd;*/
-	margin:12px;
+	margin:12px 12px 24px 12px;
 	padding:2px;
 }
 .rhead {
