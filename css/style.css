@@ -18,9 +18,9 @@ body {
 	margin: 0;
 }
 #recently {
-	border-top:1px solid #dfcecd;
-	border-bottom:1px solid #dfcecd;
-	margin:12px 12px 24px 12px;
+	/*border-top:1px solid #dfcecd;
+	border-bottom:1px solid #dfcecd;*/
+	margin:12px;
 	padding:2px;
 }
 .rhead {
