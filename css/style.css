@@ -20,7 +20,7 @@ body {
 #recently {
 	/*border-top:1px solid #dfcecd;
 	border-bottom:1px solid #dfcecd;*/
-	margin:12px 12px 24px 12px;
+	margin:12px 0 24px 0;
 	padding:2px;
 }
 .rhead {
@@ -34,7 +34,8 @@ body {
 }
 #feedid {
 	float:left;
-	margin-right: .25em;
+	margin-right: .5em;
+	margin-top:2px;
 }
 .tintback {
 	 background:#e6dfce;
