@@ -9,7 +9,7 @@ body {
 .frm {
 	position:relative;
 	float:right;
-	margin:8px;
+	margin:8px 8px 8px 12px;
 	width:90px;
 }
 .frm img {
