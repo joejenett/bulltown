@@ -8,6 +8,10 @@ category:
 permalink: /please-pardon-our-dust/
 slug: please-pardon-our-dust
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116247882150846082
 ---
 <p>
 I’ve been working hard lately to improve how the links section loads. As you may know, I use javascript to disable animations by default.
