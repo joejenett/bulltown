@@ -13,10 +13,10 @@ summary:
 I’ve been working hard lately to improve how the links section loads. As you may know, I use javascript to disable animations by default.
 </p>
 <p>
-As the button walls grow (roughly 1,500 links and counting), the script takes a while to do its thing but there are a few tricks I’ve learned to speed it up a bit. While I’m working on it, there are some rough spots. Please bear with me.
+As the button walls grow (approx. 1,550 links and counting), the script takes a while to do its thing but there are a few tricks I’ve learned to speed it up. While I’m working on it, there’s a few rough spots, so please bear with me.
 </p>
 <p>
-Though it’s taking some time, I got this!
+Though it’s taking time, I got this!
 </p>
 
 
