@@ -14,6 +14,8 @@ comments:
   id: 116247882150846082
 ---
 <p>
+Update 03/19/26, 6:27 AM: Better now. 😎
+</p><p>
 I’ve been working hard lately to improve how the links section loads. As you may know, I use javascript to disable animations by default.
 </p>
 <p>
