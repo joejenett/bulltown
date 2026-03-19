@@ -97,7 +97,7 @@ layout: default
 						<h2 class="post-title p-name namewrap">{{ post.title | escape }}</h2>
 						{%- endif -%}
 						{%- if site.show_excerpts -%}
-						<div class="ewrap">{{ post.excerpt }}</div>
+						<div>{{ post.excerpt }}</div>
 						{%- endif -%}
 						<div class="metawrap">
 							<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
