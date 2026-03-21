@@ -1,6 +1,6 @@
 let bwfix = setTimeout(() => {
     location.reload();
-}, 4000);
+}, 2000);
 
 // Cancel the timeout
 clearTimeout(bwfix);
