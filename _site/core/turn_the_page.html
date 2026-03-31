@@ -1,0 +1,136 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <title></title>
+
+<style type="text/css">
+<!--
+BODY {
+font: arial;
+}
+TD {
+font: arial;
+}
+A:LINK {
+font: 9pt arial,helvetica;
+text-decoration: none;
+font-weight: bold;
+}
+A:VISITED {
+font: 9pt arial,helvetica;
+text-decoration: none;
+font-weight: bold;
+}
+A:HOVER {
+font: 9pt arial,helvetica;
+text-decoration: underline;
+font-weight: bold;
+}
+.hiding {
+visibility: hidden;
+position: absolute;
+}
+.showing {
+visibility: visible;
+position: absolute;
+}
+-->
+</style>
+
+<script language="javascript">
+<!--//
+var agt=navigator.userAgent.toLowerCase();
+
+var is_major = parseInt(navigator.appVersion);
+var is_minor = parseFloat(navigator.appVersion);
+
+var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
+
+var is_nav5up = (is_nav && (is_major >= 5));
+
+
+function setIdProperty( object, property, value )
+{
+        var styleObject = document.getElementById( object );
+        if (styleObject != null)
+        {
+            styleObject = styleObject.style;
+            styleObject[ property ] = value;
+        }
+}
+
+
+function hide(object) {
+if (is_nav5up) {
+setIdProperty( object, "visibility", "hidden" );
+} else if (document.layers && document.layers[object] != null) {
+document.layers[object].visibility = 'hidden';
+}
+else if (document.all) {
+document.all[object].style.visibility = 'hidden';
+}
+}
+
+
+function show(object) {
+if (is_nav5up) {
+setIdProperty( object, "visibility", "visible" );
+} else if (document.layers && document.layers[object] != null) {
+document.layers[object].visibility = 'visible';
+}
+else if (document.all) {
+document.all[object].style.visibility = 'visible';
+}
+}
+
+setTimeout("hide('opener');show('two')",8000);
+setTimeout("hide('two');show('three')",12000);
+setTimeout("hide('three');show('four')",16000);
+setTimeout("goBurst()",20000);
+
+function goBurst() {
+location.href="/words/";
+}
+//-->
+</script>
+</head>
+<body text="#000000" BGCOLOR="#9999cc" bgcolor="#ffffff" link="#000033" vlink="#000033" alink="#990066">
+
+<div id="opener" style="position:absolute;visibility:visible;left:100;top:100;font:12pt arial;text-align:left;">
+oven died
+<p>
+amazon laid off 1,300 people
+<p>
+now we gotta live with standards
+<p>
+ginkco did herself in
+<p>
+my stocks are worthless now
+<p>
+i have a headache
+</div>
+
+<div id="two" style="position:absolute;visibility:hidden;font:24pt arial;left:100;top:100;text-align:left;">
+turn the page
+</div>
+
+<div id="three" style="position:absolute;visibility:hidden;font:26pt arial;left:100;top:200;text-align:left;">
+survive
+<p>
+thrive
+<p>
+we're still alive
+</div>
+
+<div id="four" style="position:absolute;visibility:hidden;font:28pt arial;left:50;top:150;text-align:left;">
+let your creative spirit prevail
+</div>
+
+
+</body>
+</html>
+
+
