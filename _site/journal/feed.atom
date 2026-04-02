@@ -3,13 +3,25 @@
   <title type="text" xml:lang="en">bulltown.2022</title>
   <link type="application/atom+xml" href="https://bulltown.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.joejenett.com/" rel="alternate"/>
-  <updated>2026-04-01T17:55:37-04:00</updated>
+  <updated>2026-04-02T09:28:07-04:00</updated>
   <id>https://bulltown.jenett.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2024 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title></title>
+    <link href="https://bulltown.jenett.org//040226/"/>
+    <updated>2026-04-02T09:24:21-04:00</updated>
+    <id>https://bulltown.jenett.org/040226/</id>
+    <content type="html">&lt;h2&gt;rights&lt;/h2&gt;
+&lt;p&gt;&lt;a title=&quot;new in b22 img.select&quot; href=&quot;/img.select/&quot;&gt;&lt;img class=&quot;mt-6&quot; src=&quot;/images.select/0_0_a_a_a_rights.jpg&quot; alt=&quot;rights&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title></title>
@@ -41,29 +53,6 @@ As the button walls grow (approx. 1,550 links and counting), the script takes a 
 Though it’s taking time, I got this!
 &lt;/p&gt;
 
-&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>bulltown updates 02-25-26</title>
-    <link href="https://bulltown.jenett.org//bulltown-updates-02-25-26/"/>
-    <updated>2026-02-25T11:36:56-05:00</updated>
-    <id>https://bulltown.jenett.org/bulltown-updates-02-25-26/</id>
-    <content type="html">&lt;div class=&quot;frm&quot;&gt;
-	&lt;a href=&quot;https://bulltown.joejenett.com/&quot;&gt;&lt;img src=&quot;/images/b22button.png&quot; width=&quot;88&quot; alt=&quot;bulltown.2022&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;https://jenett.nekoweb.org/&quot;&gt;&lt;img src=&quot;/images/jjbutt.png&quot; width=&quot;88&quot; alt=&quot;jenett.neko&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;https://bulltown.neocities.org/&quot;&gt;&lt;img src=&quot;/images/b-n-button.png&quot; width=&quot;88&quot; alt=&quot;bulltown.neo&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;
-	Earlier this month, I created yet another &lt;a href=&quot;https://iwebthings.joejenett.com/&quot;&gt;&lt;em&gt;webthing&lt;/em&gt;&lt;/a&gt;. Those who know me know I’m a bit crazy like that. All I’ll say ’bout it is each of my sites represents a little piece of my personality. I kinda live on the web and each site is kinda like a vacation home... ;)
-&lt;/p&gt;
-&lt;p&gt;
-	Please allow me to introduce to you &lt;a href=&quot;https://jenett.nekoweb.org/&quot;&gt;jenett.neko&lt;/a&gt;, the newest member of what I think of as &lt;em&gt;the bulltown family&lt;/em&gt;. 
-&lt;/p&gt;
-&lt;p&gt;
-	It’s fun building new things. You’re sure to notice a similarity in style - it’s purely intentional. Yeah baby!
-&lt;/p&gt;
 &lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
