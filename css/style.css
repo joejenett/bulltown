@@ -205,7 +205,7 @@ article.comment img, .comment_avatar {
 }
 #reloaderwrap {
 	position:fixed;
-	left: 48px;
+	left: 12px;
 	top:600px;
 }
 #formwrap {
