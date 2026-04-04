@@ -1811,13 +1811,12 @@
 </datalist>	
 		<button id="locator" onclick='javascript:showbutt()'> LOCATE </button>
 	</div>
-
-	<div id="locatetopperwrap">
-		<button id="locatetopper" onclick='javascript:document.getElementById("bswrap").scrollIntoView();'> &#8593; </button>
-	</div>
 	
+	<div id="locatetopperwrap">
+		<a id="locatetopper" href="" onclick='javascript:document.getElementById("bswrap").scrollIntoView();'><img src="/images/up.png" alt="search for a button" title="click to search" width="20" height="20"></a>
+	</div>
 	<div id="reloaderwrap">
-		<a id="reloader" href="#top" onclick='javascript:location.reload();'><img src="/images/reload.png" alt="reload page" title="click to reload page" width="20" height="20"></a>
+		<a id="reloader" href="" onclick='javascript:location.reload();'><img src="/images/reload.png" alt="reload page" title="click to reload page" width="20" height="20"></a>
 	</div>
 
 	<div id="buttons">
@@ -1827,7 +1826,7 @@
 			GIF animation is OFF by default, except on hover<br><strong>or while page is loading</strong>.
 		</p>
 		<p class="nineem">
-			(please <a href="javascript:location.reload();">reload</a> if needed)
+			(please <a href="#top" onclick='javascript:location.reload();'>reload</a> if needed)
 
 		</p>
 	</div>

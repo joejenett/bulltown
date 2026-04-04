@@ -176,7 +176,7 @@ article.comment img, .comment_avatar {
 	margin:12px 0 24px 0;
 	font-size:.9rem;
 }
-#button-search, #locator, #locatetopper {
+#button-search, #locator {
 	background:#fff;
 	border:1px solid #440303;
 }
@@ -190,23 +190,29 @@ article.comment img, .comment_avatar {
 	text-align:center;
 	position:relative;
 	top:-24px;
+	border:none;
+	martgin:0;
 }
 #locatetopperwrap {
 	position:fixed;
 	right: 12px;
 	top:600px;
+	border:none;
+	padding:0;
 }
 #reloader {
 	text-align:center;
 	position:relative;
 	top:-24px;
 	border:none;
-	padding:0;
+	margin:0;
 }
 #reloaderwrap {
 	position:fixed;
 	left: 12px;
 	top:600px;
+	border:none;
+	padding:0;
 }
 #formwrap {
 	text-align:center;
@@ -1025,7 +1031,7 @@ a {
 a:hover {
 	background-color:#ffe5de;
 }
-#reloaderwrap a:hover {
+#reloaderwrap a:hover, #locatetopperwrap a:hover {
 	background-color:black;
 }
 div#layerNeko0 a:hover {
@@ -1144,10 +1150,6 @@ div#reasons img {
 	p.hideit, div.hideit {
 		display:none;
 	}
-	#locatetopperwrap {
-		right: 24px;
-		top:800px;
-	}
 }
 @media only screen and (max-width:679px) {
 	#colorclub {
@@ -1166,12 +1168,7 @@ div#reasons img {
 }
 	#others-pots, #mypot {
 		padding-left:120px;
-	}
-	#locatetopperwrap {
-		right: 10px;
-		top:830px;
-	}
-	
+	}	
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
@@ -1188,10 +1185,6 @@ div#reasons img {
 	}
 	#others-pots, #mypot {
 		padding-left:80px;
-	}
-	#locatetopperwrap {
-		right: 12px;
-		top:700px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1339,10 +1332,6 @@ div#reasons img {
 	#colorclub {
 		padding:26px 30px 38px 38px;
 	}
-	#locatetopperwrap {
-		right: 10px;
-		top:810px;
-	}
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
@@ -1370,10 +1359,6 @@ div#reasons img {
 	}
 	#page {
 		overflow:hidden scroll;
-	}
-	#locatetopperwrap {
-		right: 10px;
-		top:810px;
 	}
 }
 
@@ -1412,9 +1397,5 @@ div#reasons img {
 	}
 	#colorclub {
 		padding:26px 16px 38px 20px;
-	}
-	#locatetopperwrap {
-		right: 12px;
-		top:810px;
 	}
 }
