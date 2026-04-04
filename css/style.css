@@ -189,11 +189,23 @@ article.comment img, .comment_avatar {
 #locatetopper {
 	text-align:center;
 	position:relative;
-	top:-24px
+	top:-24px;
 }
 #locatetopperwrap {
 	position:fixed;
 	right: 48px;
+	top:600px;
+}
+#reloader {
+	text-align:center;
+	position:relative;
+	top:-24px;
+	border:none;
+	padding:0;
+}
+#reloaderwrap {
+	position:fixed;
+	left: 48px;
 	top:600px;
 }
 #formwrap {
@@ -1012,6 +1024,9 @@ a {
 }
 a:hover {
 	background-color:#ffe5de;
+}
+#reloaderwrap a:hover {
+	background-color:black;
 }
 div#layerNeko0 a:hover {
 	background-color:transparent;
