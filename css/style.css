@@ -193,7 +193,7 @@ article.comment img, .comment_avatar {
 }
 #locatetopperwrap {
 	position:fixed;
-	right: 48px;
+	right: 12px;
 	top:600px;
 }
 #reloader {
