@@ -96,7 +96,7 @@ layout: default
 if (sessionStorage.getItem('firstLoad') === null) {
   // If not loaded before, set the flag and refresh the page
   sessionStorage.setItem('firstLoad', 'loaded');
-  location.reload(true); // Pass true to force a reload from the server
+  location.reload(); // Pass true to force a reload from the server
 }
 
 // Rest of your JavaScript code goes here
