@@ -56,10 +56,6 @@ layout: default
 		<p class="offby">
 			GIF animation is OFF by default, except on hover<br><strong>or while page is loading</strong>.
 		</p>
-		<p class="nineem">
-			(<a href="#top" onclick='javascript:location.reload();'>refresh</a>)
-
-		</p>
 	</div>
 	<div id="load-note">
 		Buttons &amp; script may take a few moments to load.
@@ -92,14 +88,10 @@ layout: default
 {%- include footer.html -%}
 
 <script>
-// Check if the page has been loaded before
 if (sessionStorage.getItem('firstLoad') === null) {
-  // If not loaded before, set the flag and refresh the page
   sessionStorage.setItem('firstLoad', 'loaded');
   location.reload(); // Pass true to force a reload from the server
 }
-
-// Rest of your JavaScript code goes here
 </script>
 
 <script>
