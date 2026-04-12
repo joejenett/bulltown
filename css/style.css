@@ -5,7 +5,7 @@ body {
 	font-size: 16px;
 	overflow:hidden;
 	background:url('/images/leather2.png');
-	background-color: #0f0604;
+	background-color: #1f1917;
 	color:#300202;
 }
 .frm {
@@ -1147,7 +1147,7 @@ div#reasons img {
 	#buttonwall {
 		padding:40px 58px;
 	}
-	p.hideit, div.hideit {
+	p.hideit, div.hideit, #reloaderwrap, #locatetopperwrap, #bswrap, #locatetext {
 		display:none;
 	}
 }
