@@ -85,11 +85,14 @@ layout: default
 {%- include footer.html -%}
 
 <script>
-if (sessionStorage.getItem('firstLoad') === null) {
-  sessionStorage.setItem('firstLoad', 'loaded');
-  location.reload(); // Pass true to force a reload from the server
-}
+	if (window.innerWidth > 768) {
+		if (sessionStorage.getItem('firstLoad') === null) {
+			sessionStorage.setItem('firstLoad', 'loaded');
+			location.reload(); // Pass true to force a reload from the server
+		}
+	}
 </script>
+
 
 <script>
 	function showbutt() {
