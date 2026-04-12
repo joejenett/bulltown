@@ -195,7 +195,7 @@ article.comment img, .comment_avatar {
 }
 #locatetopperwrap {
 	position:fixed;
-	right: 12px;
+	right: 160px;
 	top:600px;
 	border:none;
 	padding:0;
@@ -209,7 +209,7 @@ article.comment img, .comment_avatar {
 }
 #reloaderwrap {
 	position:fixed;
-	left: 12px;
+	left: 160px;
 	top:600px;
 	border:none;
 	padding:0;
