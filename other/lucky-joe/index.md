@@ -15,4 +15,5 @@ layout: page
 	<span class="freezeframe"><img SRC="/core/0410991.gif" height="60" width="60"></span><span class="freezeframe"><img SRC="/core/0410993.gif" height="60" width="60"></span><span class="freezeframe"><img SRC="/core/0410992.gif" height="60" width="60"></span>
 
 	</div>
-</div>
+	<script src="/js/freezeframe.min.js"></script>
+	</div>

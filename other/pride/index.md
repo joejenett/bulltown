@@ -54,4 +54,5 @@ img {
 			</div>
 		</div>
 	</div>
+	<script src="/js/freezeframe.min.js"></script>
 </div>
