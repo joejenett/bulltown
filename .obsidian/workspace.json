@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1ca1ada1325af74",
+  "active": "9159d634ce14fe1d",
   "lastOpenFiles": [
     "_layouts/post-anim.html.sb-a3b3576c-n9okkR",
     "_layouts/post-reactions-anim.html.sb-a3b3576c-1PNHmg",
