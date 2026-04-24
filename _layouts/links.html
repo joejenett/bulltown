@@ -86,10 +86,14 @@ layout: default
 
 <script src="/js/freezeframe.min.js"></script>
 <script>
+	function doIt(){
+		location.reload(); // Pass true to force a reload from the server
+	}
+	
 	if (window.innerWidth > 768) {
 		if (sessionStorage.getItem('firstLoad') === null) {
-			sessionStorage.setItem('firstLoad', 'loaded');
-			location.reload(); // Pass true to force a reload from the server
+			sessionStorage.setItem('firstLoad', 'loaded');			
+			setTimeout(doIt, 500)
 		}
 	}
 </script>
