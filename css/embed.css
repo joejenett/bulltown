@@ -48,6 +48,8 @@ h2 {
 }
  a:hover {
 	background:#ffe5de;
+	text-decoration:underline;
+	text-decoration-thickness:0.15em;
 }
 blockquote {
 	font-style:italic;
