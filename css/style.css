@@ -1014,6 +1014,8 @@ h1 {
 }
 #menu a:hover {
 	background:#ffe5de;
+	text-decoration:underline;
+	text-decoration-thickness:0.15em;
 }
 div#menu ul {
 	list-style:none;
@@ -1032,7 +1034,9 @@ a {
 	color:#386f7f;
 }
 a:hover {
-	background-color:#ffe5de;
+	background:#ffe5de;
+	text-decoration:underline;
+	text-decoration-thickness:0.15em;
 }
 #reloaderwrap a:hover, #locatetopperwrap a:hover {
 	background-color:black;
