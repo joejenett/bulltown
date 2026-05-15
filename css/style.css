@@ -8,6 +8,15 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+.linemarker {
+	position:relative;
+	float:left;clear:both;
+	text-indent:-84px;
+	top:9px;
+	font-size:.7em;
+	font-weight:600;
+	color:gray;
+}
 .frm {
 	position:relative;
 	float:right;
