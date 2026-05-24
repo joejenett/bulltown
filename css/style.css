@@ -598,6 +598,15 @@ article.comment img, .comment_avatar {
 	padding-bottom:9px;
 	text-align:center;
 }
+.iwt-u {
+	position:relative;
+	float:right;
+	margin:-12px 18px 0 9px;
+	padding-left:2px;
+	padding-bottom:9px;
+	text-align:center;
+	font-size:.9em;
+}
 .iwt-b {
 	width:272px;
 	margin:24px auto 30px auto;
