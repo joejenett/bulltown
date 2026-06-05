@@ -8,6 +8,12 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+div #stamps {
+	text-align:center;
+}
+div #stamps img {
+	margin:0 20px;
+}
 .linemarker {
 	position:relative;
 	float:left;clear:both;
