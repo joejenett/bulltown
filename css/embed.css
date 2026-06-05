@@ -6,6 +6,12 @@ body {
 	margin:0;
 	color:#300202;
 }
+div #stamps {
+	text-align:center;
+}
+div #stamps img {
+	margin:0 20px;
+}
 .frm {
 	position:relative;
 	float:right;
