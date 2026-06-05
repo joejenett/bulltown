@@ -8,6 +8,10 @@ category:
 permalink: /somethin’-new/
 slug: somethin’-new
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116697297866966293
 ---
 You probably already know I’m all about the links. Big button walls without links don’t quite fly with me. Nor do big stamp collections without links. Don’t get me wrong - I truly love the graphics on buttons and stamps, but it’s the linking that floats my boat. So I’m working on something new: _stamplinks_!
 
