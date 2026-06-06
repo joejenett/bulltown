@@ -17,11 +17,21 @@ body {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 58px;
+	padding:40px 74px;
 	
 }
+.columnwrap {
+	text-align:center;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(1, 1fr);gap: 8px;
+} 
+#ta2, #ta1 {
+	 width:85%;
+	 height:100px;
+}
 .stamp {
-	max-width:88px;
+	max-width:99px;
 	margin:2px;
 	float:left;
 }
@@ -270,16 +280,6 @@ article.comment img, .comment_avatar {
 	font-weight:600;
 	margin:12px 0;
 	color:#440303;
-}
-.columnwrap {
-	text-align:center;
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-template-rows: repeat(1, 1fr);gap: 8px;
-} 
-#ta2, #ta1 {
-	 width:85%;
-	 height:100px;
 }
 #buttons {
 	text-align:center;
@@ -1223,6 +1223,9 @@ div#reasons img {
 	#others-pots, #mypot {
 		padding-left:120px;
 	}	
+	#stampwall { 
+		padding:40px 52px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#buttonwall {
@@ -1239,6 +1242,9 @@ div#reasons img {
 	}
 	#others-pots, #mypot {
 		padding-left:80px;
+	}
+	#stampwall { 
+		padding:40px 72px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1353,7 +1359,18 @@ div#reasons img {
 	#human-container {
 		padding:12px;
 	}
+	#stampwall { 
+		padding:40px 0;
+	}
+	.stamp {
+		max-width:88px;
+	}
+	.div1 img, .div2 img, .div3 img {
+		max-width:88px;
+		max-height:50px;
+	}
 }
+
 @media only screen and (max-width:440px) {
 	#buttonwall {
 		padding: 20px 26px 20px 46px;
@@ -1363,7 +1380,10 @@ div#reasons img {
 	}
 	#buttsep {
 	margin:0 24px 0 0;
-}
+	}
+	#stampwall { 
+		padding:40px 42px;
+	}
 }
 @media only screen and (max-width:430px) {
 	#buttonwall {
@@ -1385,6 +1405,13 @@ div#reasons img {
 	}
 	#colorclub {
 		padding:26px 30px 38px 38px;
+	}
+	#stampwall { 
+		padding:40px 33px;
+	}
+	.div1 img, .div2 img, .div3 img {
+		max-width:77px;
+		max-height:43px;
 	}
 }
 @media only screen and (max-width:414px) {
@@ -1419,7 +1446,7 @@ div#reasons img {
 @media only screen and (max-width:390px) {
 	#buttonwall {
 		margin:18px auto 72px auto;
-		padding:24px 22px;
+		padding:24px 18px;
 	}
 	#buttonwall-home {
 		padding:40px 8px 40px 28px;
@@ -1451,5 +1478,11 @@ div#reasons img {
 	}
 	#colorclub {
 		padding:26px 16px 38px 20px;
+	}
+	#stampwall { 
+		padding:40px 38px;
+	}
+	.stamp {
+		max-width:77px;
 	}
 }
