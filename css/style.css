@@ -8,6 +8,26 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+#stampwall {
+	display:flex;
+	background-color:#fdf9ec;
+	background-image:url('/images/wall.png');
+	font-size:.9em;
+	text-align: center;
+	border:1px solid #a28181;
+	border-radius:10px;
+	margin:18px auto 72px auto;
+	padding:40px 58px;
+	
+}
+.stamp {
+	max-width:88px;
+	margin:2px;
+	float:left;
+}
+.stamp a:hover img {
+	transform: scale(1.1);
+}
 div #stamps {
 	text-align:center;
 }
