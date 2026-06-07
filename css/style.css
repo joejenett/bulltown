@@ -17,7 +17,7 @@ body {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 74px;
+	padding:40px 66px;
 	
 }
 .columnwrap {
@@ -32,7 +32,8 @@ body {
 }
 .stamp {
 	max-width:99px;
-	margin:2px;
+	max-height:56px;
+	margin:4px;
 	float:left;
 }
 .stamp a:hover img {
@@ -1218,13 +1219,19 @@ div#reasons img {
 		padding:14px 30px;
 	}
 	#mutuals {
-	padding-left:3px;
-}
+		padding-left:3px;
+	}
 	#others-pots, #mypot {
 		padding-left:120px;
 	}	
 	#stampwall { 
-		padding:40px 52px;
+		padding:40px 68px;
+	}
+	.stamp {
+		width:88px;
+		height:50px;
+		padding-top:4px;
+
 	}
 }
 @media only screen and (max-width:540px) {
@@ -1244,7 +1251,7 @@ div#reasons img {
 		padding-left:80px;
 	}
 	#stampwall { 
-		padding:40px 72px;
+		padding:40px 42px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1360,10 +1367,14 @@ div#reasons img {
 		padding:12px;
 	}
 	#stampwall { 
-		padding:40px 0;
+		padding:40px 0 40px 40px;
+	}
+	.stamprow {
+		position:relative;
+		left:14px;
 	}
 	.stamp {
-		max-width:88px;
+		max-width:77px;
 	}
 	.div1 img, .div2 img, .div3 img {
 		max-width:88px;
@@ -1390,13 +1401,17 @@ div#reasons img {
 		padding: 20px 40px;
 	}
 	#buttsep {
-	margin:0 12px 0 0;
-}
+		margin:0 12px 0 0;
+	}
 	#mutuals, #followers, #also {
 		margin:0 6px 0 -6px;
 	}
 	#colorclub {
 		padding:26px 36px 38px 36px;
+	}
+	.stamprow {
+		position:relative;
+		left:10px;
 	}
 }
 @media only screen and (max-width:428px) {
@@ -1407,11 +1422,15 @@ div#reasons img {
 		padding:26px 30px 38px 38px;
 	}
 	#stampwall { 
-		padding:40px 33px;
+		padding:40px 38px;
 	}
 	.div1 img, .div2 img, .div3 img {
 		max-width:77px;
 		max-height:43px;
+	}
+	.stamprow {
+		position:relative;
+		left:12px;
 	}
 }
 @media only screen and (max-width:414px) {
@@ -1480,9 +1499,13 @@ div#reasons img {
 		padding:26px 16px 38px 20px;
 	}
 	#stampwall { 
-		padding:40px 38px;
+		padding:40px 32px;
 	}
 	.stamp {
 		max-width:77px;
+	}
+	.stamprow {
+		position:relative;
+		left:2px;
 	}
 }
