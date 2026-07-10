@@ -100,6 +100,14 @@ layout: default
 					{%- endfor -%}
 				</div>
 			</div>
+			<div id="bswrap" class="center pt-18">	
+				<label for="button-search" class="pointnineem">desktop only: locate a button by its identifier...</label><br><small>(locates first instance of if more than one on page)</small><br>
+				<input onchange='javascript:showbutt()' id="button-search" list="sitelist" name="site" placeholder="type a few characters">
+				<datalist id="sitelist">
+					{%- include datalist.html -%}
+				</datalist>	
+				<button id="locator" onclick='javascript:showbutt()'> LOCATE </button>
+			</div>
 			
 			<div id="buttons">
 				<button id="play-gif"><img alt="play animations" src="/images/playg.png" width="65" height="17"></button>
@@ -271,3 +279,12 @@ SimpleJekyllSearch({
 <script src="/js/freezeframe.min.js"></script>
 <script src="/js/simple-rss.js"></script>
 
+<script>
+	function showbutt() {
+		var site = document.getElementById("button-search").value;
+		document.getElementById(site).scrollIntoView();
+	}
+	function toTop() {
+		document.getElementById("top").scrollIntoView();
+	}
+</script>	

@@ -226,9 +226,16 @@ article.comment img, .comment_avatar {
 	background:#fff;
 	border:1px solid #440303;
 }
+#button-search {
+	margin-top:10px;
+}
 #locator {
+	height:19px;
+	position:relative;
+	top:-1px;
 	font-size:.6em;
 }
+
 .mw100 {
 	max-width:100%;
 }
