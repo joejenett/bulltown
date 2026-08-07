@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 09-16-24
 date: 2024-09-16 11:34:39 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-09-16-24/
 slug: bulltown-updates-09-16-24
 summary: an s*load of fun

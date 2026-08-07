@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: claiming a second pantson color
 date: 2024-09-09 20:23:25 -0400
 author: joe jenett
-category: 
+category:
 permalink: /claiming-a-second-pantson-color/
 slug: claiming-a-second-pantson-color
 summary: Yay!

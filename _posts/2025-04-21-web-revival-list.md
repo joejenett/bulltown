@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: web revival list
 date: 2025-04-21T15:02:45 -0400
 author: joe jenett
-category: 
+category:
 permalink: /web-revival-list/
 slug: web-revival-list
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114377787247124454
+  id: 114377787247124450
 ---
 <ul>
 <li><a title="by Melon @Melon's Thoughts" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">Intro to the Web Revival #1: What is the Web Revival?</a> &rarr;<br><a title="by Melon @Melon's Thoughts" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-2-learn-about-websites">Intro to the Web Revival #2: Learn about Websites!</a> &rarr;<br><a title="by Melon @Melon's Thoughts" href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-3-make-a-website">Intro to the Web Revival #3: Make a Website!</a></li>

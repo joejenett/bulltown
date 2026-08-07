@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 04-13-25
 date: 2025-04-13 14:09:29 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-04-13-25/
 slug: bulltown-updates-04-13-25
 summary: this ain’t bull

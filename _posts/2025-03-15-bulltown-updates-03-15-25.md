@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 03-15-25
 date: 2025-03-15 09:22:57 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-03-15-25/
 slug: bulltown-updates-03-15-25
 summary: notes from the loose nut behind the wheel 😎

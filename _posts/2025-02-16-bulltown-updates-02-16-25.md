@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 02-16-25
 date: 2025-02-16 10:06:24 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-02-16-25/
 slug: bulltown-updates-02-16-25
 summary: growing...

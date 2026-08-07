@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: post-reactions-c
 title: just say no
 date: 2024-11-22 11:22:31 -0400
 author: joe jenett
-category: 
+category:
 permalink: /just-say-no/
 slug: just-say-no
-summary: 
+summary:
 comments: false
-excerpt: 
+excerpt:
 ---
 
 <p style="padding-top:.7em;">

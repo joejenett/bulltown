@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post-reactions-c
 title: claiming my first pantson color
 date: 2024-09-08 17:24:23 -0400
 author: joe jenett
-category: 
+category:
 permalink: /claiming-my-first-pantson-color/
 slug: claiming-my-first-pantson-color
-summary: 
+summary:
 comments: false
 ---
 ... it’s called *DA BLUES*

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 10-04-24
 date: 2024-10-04 11:45:34 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-10-04-24/
 slug: bulltown-updates-10-04-24
-summary: 
+summary:
 comments: false
 ---
 I’m glad to say I finished planned improvements and other changes to both <span style="color:#440303;font-weight:600;">bulltown<span style="color:#8b9675;">.2022</span></span> and <span style="color:#440303;font-weight:600;">bulltown<span style="color:#8b9675;">.neo</span></span> (for now anyway). 

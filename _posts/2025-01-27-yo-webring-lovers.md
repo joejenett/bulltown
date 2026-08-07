@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: yo webring lovers...
 date: 2025-01-27 14:46:01 -0400
 author: joe jenett
-category: 
+category:
 permalink: /yo-webring-lovers/
 slug: yo-webring-lovers
 summary: just launched

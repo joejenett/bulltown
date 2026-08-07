@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 11-28-24
 date: 2024-11-28 07:43:39 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-11-28-24/
 slug: bulltown-updates-11-28-24
 summary: site news

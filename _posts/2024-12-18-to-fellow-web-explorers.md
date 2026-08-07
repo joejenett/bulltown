@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "to fellow web explorers:"
 date: 2024-12-18 18:54:10 -0400
 author: joe jenett
-category: 
+category:
 permalink: /to-fellow-web-explorers/
 slug: to-fellow-web-explorers
 summary: just a thought (or 2)
