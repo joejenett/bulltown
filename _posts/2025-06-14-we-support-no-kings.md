@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-reactions-c
 title: We support No Kings
 date: 2025-06-14T14:47:10 -0400
 author: joe jenett
-category: 
+category:
 permalink: /we-support-no-kings/
 slug: we-support-no-kings
 summary:

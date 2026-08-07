@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 02-25-26
 date: 2026-02-25T12:36:56 -0400
 author: joe jenett

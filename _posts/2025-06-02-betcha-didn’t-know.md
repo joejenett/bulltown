@@ -1,12 +1,12 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: betcha didn’t know...
 date: 2025-06-02T13:43:40 -0400
 author: joe jenett
-category: 
+category:
 permalink: /betcha-didn’t-know/
 slug: betcha-didn’t-know
-summary: 
+summary:
 comments:
   host: toot.community
   username: jenett

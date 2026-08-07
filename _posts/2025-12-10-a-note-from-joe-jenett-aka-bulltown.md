@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a note from joe jenett a.k.a. bulltown
 date: 2025-12-10T06:33:55 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115695247369056589
+  id: 115695247369056590
 ---
 <p>
 In a recent blog post at bulltown.neo, I linked to a <em>page.i.like</em> on a site which, unknown to me at the time, also contained other content with rather toxic opinions aimed at the trans community.

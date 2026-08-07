@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: yo, I’m just the old button wall guy!
 date: 2025-07-31T16:12:37 -0400
 author: joe jenett
-category: 
+category:
 permalink: /the-old-button-wall-guy/
 slug: the-old-button-wall-guy
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114949934343776583
+  id: 114949934343776580
 ---
 <p>
 Remember that old adage, ”When life gives you lemons...?” Well, consider this post an attempt to make a little lemonade.

@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: the old becoming the new
 date: 2025-05-10T08:24:58 -0400
 author: joe jenett
-category: 
+category:
 permalink: /the-old-becoming-the-new/
 slug: the-old-becoming-the-new
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114483573471557958
+  id: 114483573471557950
 ---
 Ever since a certain orange character came down the fancy escalator to announce his intentions, I’ve consumed a fair amount of information daily by listening to news in the background. I need to know what’s up after all. 
 

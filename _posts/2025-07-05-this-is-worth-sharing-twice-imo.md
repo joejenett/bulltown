@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: this is worth sharing twice, imo
 date: 2025-07-05T16:26:46 -0400
 author: joe jenett
-category: 
+category:
 permalink: /this-is-worth-sharing-twice-imo/
 slug: this-is-worth-sharing-twice-imo
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114802682080136712
+  id: 114802682080136700
 ---
 <p>
 I linked to this free online book last year over at the hub and someone mentioning it again this morning on my Mastodon timeline prompted me to share it here as well:

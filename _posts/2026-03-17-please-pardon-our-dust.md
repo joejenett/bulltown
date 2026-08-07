@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: please pardon our dust!
 date: 2026-03-17T22:05:35 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116247882150846082
+  id: 116247882150846080
 ---
 <p>
 Update 03/19/26, 6:27 AM: Better now. 😎

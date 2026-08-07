@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: somethin’ new
 date: 2026-06-05T06:48:52 -0400
 author: joe jenett

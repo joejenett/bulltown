@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown linking policy
 date: 2025-05-14T09:12:51 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-linking-policy/
 slug: bulltown-linking-policy
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114506518265149323
+  id: 114506518265149330
 ---
 <p>
 <small>(Clarified August 6, 2025)</small>

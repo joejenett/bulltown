@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 10-13-25
 date: 2025-10-13T11:15:30 -0400
 author: joe jenett
@@ -10,7 +10,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115367689608534785
+  id: 115367689608534780
 ---
 <p>
 The big button walls on the links pages of 𝗯𝟮𝟮 and 𝗯.𝗻𝗲𝗼 are growing like crazy - there’s now over 1,200 linked buttons - yay!

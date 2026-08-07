@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bulltown updates 06-16-25
 date: 2025-06-16T10:10:30 -0400
 author: joe jenett
-category: 
+category:
 permalink: /bulltown-updates-06-16-25/
 slug: bulltown-updates-06-16-25
-summary: 
+summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114693806938970626
+  id: 114693806938970620
 ---
 <p>
 Update 06/17/25: With fingers crossed, I’m pleased to announce that the button wall on the <em>links</em> page is now searchable - yay!
