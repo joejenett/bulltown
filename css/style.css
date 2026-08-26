@@ -8,6 +8,36 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+.clear {
+	clear:both;
+}
+.pstampwall {
+	display:flex;
+	background-color:#fdf9ec;
+	text-align: center;
+	padding:0 0 0 165px;	
+}
+.pbuttonwall {
+	display:flex;
+	background-color:#fdf9ec;
+	text-align: center;
+	padding:0 0 0 158px;	
+}
+.pstamp {
+	width:99px;
+	height:56px;
+	margin:4px;
+	float:left;	
+}
+.pbutton {
+	width:88px;
+	height:31px;
+	margin:10px;
+	float:left;
+}
+.pstamp a:hover img, .pbutton a:hover img {
+	transform: scale(1.1);
+}
 #stampwall {
 	display:flex;
 	background-color:#fdf9ec;
@@ -18,7 +48,6 @@ body {
 	border-radius:10px;
 	margin:18px auto 72px auto;
 	padding:40px 66px;
-	
 }
 .columnwrap {
 	text-align:center;
@@ -1238,7 +1267,12 @@ div#reasons img {
 		width:88px;
 		height:50px;
 		padding-top:4px;
-
+	}
+	.pstampwall {
+		padding:0 0 0 95px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 88px;	
 	}
 }
 @media only screen and (max-width:540px) {
@@ -1259,6 +1293,12 @@ div#reasons img {
 	}
 	#stampwall { 
 		padding:40px 42px;
+	}
+	.pstampwall {
+		padding:0 0 0 65px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 58px;	
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1387,6 +1427,12 @@ div#reasons img {
 		max-width:88px;
 		max-height:50px;
 	}
+	.pstampwall {
+		padding:0 0 0 20px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 14px;	
+	}
 }
 
 @media only screen and (max-width:440px) {
@@ -1419,6 +1465,9 @@ div#reasons img {
 	.stamprow {
 		position:relative;
 		left:10px;
+	}
+	.pbuttonwall {
+		padding:0 0 0 12px;	
 	}
 }
 @media only screen and (max-width:428px) {
@@ -1467,6 +1516,12 @@ div#reasons img {
 	#page {
 		overflow:hidden scroll;
 	}
+	.pstampwall {
+		padding:0 0 0 10px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 2px;	
+	}
 }
 
 @media only screen and (max-width:390px) {
@@ -1491,14 +1546,6 @@ div#reasons img {
 		margin:0;
 		padding-right:12px;
 	}
-/*	.link-bhead {
-		margin-left:24px;
-		padding-right:36px;
-	}
-	.link-thanks {
-		margin:0;
-		padding-right:22px;
-	}*/
 	.gallery img, .image img {
 		max-width: 100px;
 	}
@@ -1515,4 +1562,12 @@ div#reasons img {
 		position:relative;
 		left:2px;
 	}
+	.pstampwall {
+		padding:0;
+		margin-left:-6px;	
+	}
+	.pbuttonwall {
+		padding:0;
+		margin-left:-14px;	
+	}	
 }

@@ -1,0 +1,46 @@
+---
+layout: post-reactions-c
+title: bulltown updates 08-26-26
+date: 2026-08-26T06:51:35 -400
+author: joe jenett
+category:
+  - 
+permalink: /somethin’-new/
+slug: somethin’-new
+summary:
+---
+<p>
+	I’m hoping you’ve noticed a great improvement in how the big buttonwall loads on the links page. The key is the page reloads a few seconds after it’s fully loaded... but only one time per session. Using session storage prevents the page reloading on its own again during your visit and all data is cleared when you close the window or tab or quit your browser. 
+</p>
+<p>
+	I’m pleased to report we’re just a few links away from a total of 2000 links on the big wall. 
+</p>
+<p>
+	If you wanna link to bulltown, I love ya! Here’s some buttons and stamps you can use:
+</p>
+<div class="pbuttonwall">
+	<div class="pbutton">
+		<a href="https://bulltown.joejenett.com/"><img src="/images/b22button.png" width="99" alt="" title=""></a>
+	</div>
+	<div class="pbutton"><a title="can be used for linking to either bulltown site" href="/"><img title="can be used for linking to either bulltown site" src="/images/newbullbutt.png" width="99" alt=""></a>
+	</div>
+	<div class="pbutton"><a href="https://bulltown.neocities.org/"><img src="/images/b-n-button.png" width="99" alt="" title=""></a>
+	</div>
+</div>
+<div class="pstampwall">
+	<div class="pstamp">
+		<a href="https://bulltown.joejenett.com/"><img src="/stamps/b22stamp.png" width="99" alt="" title=""></a>
+	</div>
+	<div class="pstamp"><a title="can be used for linking to either bulltown site" href="/"><img title="can be used for linking to either bulltown site" src="/stamps/bstamp.png" width="99" alt=""></a>
+	</div>
+	<div class="pstamp"><a href="https://bulltown.neocities.org/"><img src="/stamps/bneostamp.png" width="99" alt="" title=""></a>
+	</div>
+</div>
+<div class="clear">
+	Thanks for visiting, <br>
+	<em>joe jenett</em>
+</div>
+
+
+
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>

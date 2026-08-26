@@ -6,6 +6,36 @@ body {
 	margin:0;
 	color:#300202;
 }
+.clear {
+	clear:both;
+}
+.pstampwall {
+	display:flex;
+	background-color:#fdf9ec;
+	text-align: center;
+	padding:0 0 0 165px;	
+}
+.pbuttonwall {
+	display:flex;
+	background-color:#fdf9ec;
+	text-align: center;
+	padding:0 0 0 158px;	
+}
+.pstamp {
+	width:99px;
+	height:56px;
+	margin:4px;
+	float:left;	
+}
+.pbutton {
+	width:88px;
+	height:31px;
+	margin:10px;
+	float:left;
+}
+.pstamp a:hover img, .pbutton a:hover img {
+	transform: scale(1.1);
+}
 div #stamps {
 	text-align:center;
 }
@@ -89,7 +119,6 @@ blockquote {
 	padding-bottom:6px;
 	margin-right:12px;
 	border-bottom: 1px solid #d7c2c1;
-
 }
 .newsmetawrap {
 	margin-top:1rem;
@@ -101,4 +130,51 @@ blockquote {
 }
 .ewrap {
 	margin-top:12px;
+}	
+@media only screen and (max-width:600px) {
+	.pstampwall {
+		padding:0 0 0 95px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 88px;	
+	}
+}
+@media only screen and (max-width:540px) {
+	.pstampwall {
+		padding:0 0 0 65px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 58px;	
+	}
+}
+@media only screen and (max-width:479px) {
+	.pstampwall {
+		padding:0 0 0 20px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 14px;	
+	}
+}
+@media only screen and (max-width:430px) {
+	.pbuttonwall {
+		padding:0 0 0 12px;	
+	}
+}
+@media only screen and (max-width:414px) {
+	.pstampwall {
+		padding:0 0 0 10px;	
+	}
+	.pbuttonwall {
+		padding:0 0 0 2px;	
+	}
+}
+@media only screen and (max-width:390px) {
+	.pstampwall {
+		padding:0;
+		margin-left:-6px;	
+	}
+	.pbuttonwall {
+		padding:0;
+		margin-left:-14px;	
+	}	
 }
