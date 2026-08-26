@@ -1,12 +1,12 @@
 ---
-layout: post-reactions-c
+layout: post-reactions
 title: bulltown updates 08-26-26
 date: 2026-08-26T06:51:35 -400
 author: joe jenett
 category:
   - 
-permalink: /somethin’-new/
-slug: somethin’-new
+permalink: /bulltown-updates-08-26-26/
+slug: bulltown-updates-08-26-26
 summary:
 ---
 <p>
