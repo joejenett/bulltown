@@ -21,7 +21,7 @@ body {
 	display:flex;
 	background-color:#fdf9ec;
 	text-align: center;
-	padding:0 0 0 158px;	
+	padding:0 0 0 165px;	
 }
 .pstamp {
 	width:99px;
@@ -1270,7 +1270,7 @@ div#reasons img {
 		padding:0 0 0 95px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 88px;	
+		padding:0 0 0 95px;	
 	}
 }
 @media only screen and (max-width:540px) {
@@ -1296,7 +1296,7 @@ div#reasons img {
 		padding:0 0 0 65px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 58px;	
+		padding:0 0 0 65px;	
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1429,7 +1429,7 @@ div#reasons img {
 		padding:0 0 0 20px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 14px;	
+		padding:0 0 0 20px;	
 	}
 }
 
@@ -1465,7 +1465,7 @@ div#reasons img {
 		left:10px;
 	}
 	.pbuttonwall {
-		padding:0 0 0 12px;	
+		padding:0 0 0 18px;	
 	}
 }
 @media only screen and (max-width:428px) {
@@ -1518,7 +1518,7 @@ div#reasons img {
 		padding:0 0 0 10px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 2px;	
+		padding:0 0 0 10px;	
 	}
 }
 
@@ -1566,6 +1566,6 @@ div#reasons img {
 	}
 	.pbuttonwall {
 		padding:0;
-		margin-left:-14px;	
+		margin-left:-8px;	
 	}	
 }
