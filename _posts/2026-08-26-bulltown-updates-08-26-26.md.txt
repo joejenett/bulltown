@@ -20,11 +20,11 @@ summary:
 </p>
 <div class="pbuttonwall">
 	<div class="pbutton">
-		<a href="https://bulltown.joejenett.com/"><img src="/images/b22button.png" width="99" alt="" title=""></a>
+		<a href="https://bulltown.joejenett.com/"><img src="/images/b22button.png" width="88" alt="" title=""></a>
 	</div>
-	<div class="pbutton"><a title="can be used for linking to either bulltown site" href="/"><img title="can be used for linking to either bulltown site" src="/images/newbullbutt.png" width="99" alt=""></a>
+	<div class="pbutton"><a title="can be used for linking to either bulltown site" href="/"><img title="can be used for linking to either bulltown site" src="/images/newbullbutt.png" width="88" alt=""></a>
 	</div>
-	<div class="pbutton"><a href="https://bulltown.neocities.org/"><img src="/images/b-n-button.png" width="99" alt="" title=""></a>
+	<div class="pbutton"><a href="https://bulltown.neocities.org/"><img src="/images/b-n-button.png" width="88" alt="" title=""></a>
 	</div>
 </div>
 <div class="pstampwall">
