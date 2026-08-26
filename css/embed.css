@@ -19,7 +19,7 @@ body {
 	display:flex;
 	background-color:#fdf9ec;
 	text-align: center;
-	padding:0 0 0 158px;	
+	padding:0 0 0 165px;	
 }
 .pstamp {
 	width:99px;
@@ -141,40 +141,38 @@ blockquote {
 }
 @media only screen and (max-width:540px) {
 	.pstampwall {
-		padding:0 0 0 65px;	
+		padding:0 0 0 90px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 65px;	
+		padding:0 0 0 90px;	
 	}
 }
 @media only screen and (max-width:479px) {
 	.pstampwall {
-		padding:0 0 0 20px;	
+		padding:0 0 0 60px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 20px;	
+		padding:0 0 0 60px;	
 	}
 }
 @media only screen and (max-width:430px) {
 	.pbuttonwall {
-		padding:0 0 0 18px;	
+		padding:0 0 0 60px;	
 	}
 }
 @media only screen and (max-width:414px) {
 	.pstampwall {
-		padding:0 0 0 10px;	
+		padding:0 0 0 40px;	
 	}
 	.pbuttonwall {
-		padding:0 0 0 10px;	
+		padding:0 0 0 40px;	
 	}
 }
 @media only screen and (max-width:390px) {
 	.pstampwall {
-		padding:0;
-		margin-left:-6px;	
+		padding:0 0 0 20px;	
 	}
 	.pbuttonwall {
-		padding:0;
-		margin-left:-8px;	
+		padding:0 0 0 20px;	
 	}	
 }
