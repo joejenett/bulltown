@@ -61,7 +61,7 @@ iframe {
 <iframe src="https://lockheartlove.neocities.org/webgarden" height="250px" width="250px" scrolling="no" frameborder="0" style="border:3px solid #804ebd;"></iframe>
 <iframe src="https://diygarden.nekoweb.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #f95eb5;"></iframe>
 <iframe title="dxcccii" src="https://dxcccii.neocities.org/mywebgarden" height="250" width="250" scrolling="no" style="border:3px solid purple;"></iframe>
-<iframe title="doqmeat" src="https://doqmeat.com/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #cff07f;"></iframe>
+<iframe title="bechnokid" src="https://bechnokid.com/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #e9a5ba;"></iframe>
 <iframe title="qrunchysnaq" src="https://qrunchysnaq.neocities.org/webgarden" height="250px" width="250px" scrolling="no" loading="lazy" style="border:3px solid #fff9e6;"></iframe>
 <iframe title="neonaut" src="https://neonaut.neocities.org/webgarden.html" height="250px" width="250px" scrolling="no" loading="lazy"></iframe>
 <iframe title="shroom" src="https://shroom.ink/webgarden.html" height="250" width="250" scrolling="no" frameborder="0" style="border:3px solid #004754;"></iframe>
