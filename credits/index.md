@@ -32,6 +32,7 @@ ul, ul li {
 		<li><a href="https://commons.wikimedia.org/wiki/File:Bull_Standing_in_Water,_from_Different_Animals_MET_DP828086.jpg">Wikimedia Commons</a>: Source of the bull on the sidebar of <em>bulltown</em>’s homepages.</li>
 		<li><a href="https://jekyllcodex.org/">Jekyll Codex</a> and <a href="https://images.weserv.nl/">wsrv.nl</a>: Instrumental in <em>bulltown.2022</em>’s img.select section.</li>
 		<li><a href="https://github.com/ctrl-freaks/freezeframe.js/">freezeframe.js</a>: To give site users control over animations!</li>
+		<li><a href="https://bechnokid.com/">Bechno Kid's Hideout</a>: A previous tutorial found there was quite helpful in implementation of freezeframe.js.</li>
 		<li><a href="https://github.com/giuseppeg/screensaver">Screensaver.js</a>: Behind one of my favorite site features.</li>
 		<li><a href="https://github.com/55sketch/simple-rss">Simple RSS Embed Plugin</a>: “A simple JS plugin for adding an RSS feed to your page.”</li>
 		<li><a href="https://stackoverflow.com/questions">Stack Overflow</a> and <a href="https://www.w3schools.com/">W3Schools (ads, commercial)</a>: When I need quick answers!</li>
