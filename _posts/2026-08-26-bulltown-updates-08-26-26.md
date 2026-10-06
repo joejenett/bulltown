@@ -9,14 +9,14 @@ permalink: /bulltown-updates-08-26-26/
 slug: bulltown-updates-08-26-26
 summary:
 ---
-<p>
+<p style="line-height:1.1em;">
 	I’m hoping you’ve noticed a great improvement in how the big buttonwall loads on the links page. The key is the page reloads a few seconds after it’s fully loaded... but only one time per session. Using session storage prevents the page reloading on its own again during your visit and all data is cleared when you close the window or tab or quit your browser. 
 </p>
-<p>
+<p style="line-height:1.1em;">
 	I’m pleased to report we’re just a few links away from a total of 2000 links on the big wall. 
 </p>
-<p>
-	If you wanna link to bulltown, I love ya! Here’s some buttons and stamps you can use:
+<p style="line-height:1.1em;">
+	If you wanna link to bulltown, I love ya! Here’s some buttons and stamps (no hotlinking please):
 </p>
 <div class="pbuttonwall">
 	<div class="pbutton">
