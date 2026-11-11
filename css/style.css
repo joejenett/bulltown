@@ -95,6 +95,7 @@ div #stamps img {
 #recently {
 	margin:12px 0 24px 0;
 	padding:2px;
+	clear:left;
 }
 .rhead {
 	float:left;
@@ -523,6 +524,9 @@ article.comment img, .comment_avatar {
 }
 .mt-minus6 {
 	margin-top:-6px;
+}
+.pb-24 {
+	padding-bottom:24px;
 }
 .mb-48 {
 	margin-bottom:48px;
