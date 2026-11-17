@@ -70,7 +70,6 @@ iframe {
 <iframe title="linwood" src="https://linwood.neocities.org/webgarden.html" height="250" width="250" scrolling="no" style="border:3px solid #ee9de9;"></iframe>
 <iframe title="keysklubhouse" src="https://keysklubhouse.neocities.org/webgarden.html" width="250" height="250" scrolling="no" style="border:3px solid orange;"></iframe>
 <iframe title="delovely" src="https://delovely.neocities.org/webgarden" height="250" width="250" scrolling="no" style="border:3px solid #ddd;"></iframe>
-<iframe title="maya.land" src="https://maya.land/webgarden.html" scrolling="no" loading="lazy" target="_blank" height="250" width="250" style="border:3px solid purple"></iframe>
 <iframe title="lu.tiny-universes.net" src="https://lu.tiny-universes.net/webgarden/webgarden.html" scrolling="no" height="250" width="250" style="border:3px solid purple"></iframe>
 <iframe title="re-nata" src="https://re-nata.neocities.org/webgarden" scrolling="no" height="250" width="250" style="border:3px solid black"></iframe>
 <iframe title="artwork" src="https://artwork.neocities.org/webgarden.html" scrolling="no" height="250" width="250" style="border:3px dotted pink;border-radius:15px;"></iframe>
