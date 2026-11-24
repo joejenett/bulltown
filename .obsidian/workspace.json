@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-08-010823.md",
+                "file": "_posts/2022-07-21-072122.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-01-08-010823"
+              "title": "2022-07-21-072122"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "?image=",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c28fc97bdb0f6743",
+  "active": "9159d634ce14fe1d",
   "lastOpenFiles": [
+    "_posts/2023-01-08-010823.md",
     "_posts/2024-02-01-020124.md",
     "_posts/2022-09-24-092422.md",
     "_posts/2022-07-21-072122.md",
@@ -210,7 +210,6 @@
     "_posts/2022-11-03-110322.md",
     "_posts/2022-11-19-111922.md",
     "_posts/2022-12-03-120322.md",
-    "_posts/2023-01-08-010823.md",
     "_layouts/post-reactions-anim-c.html",
     "css/embed.css.sb-ab2ec5f5-HPLZyy",
     "_posts/2026-04-24-042426.md.sb-a3b3576c-v7OHnL",
